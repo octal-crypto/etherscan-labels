@@ -61,11 +61,11 @@
     "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321": {
       "Token Name": "VitaDAO Token (VITA)"
     },
-    "0x3593d125a4f7849a1b059e64f4517a86dd60c95d": {
-      "Token Name": "MANTRA DAO (OM)"
-    },
     "0x993864e43caa7f7f12953ad6feb1d1ca635b875f": {
       "Token Name": "Singularity Dao (SDAO)"
+    },
+    "0x3593d125a4f7849a1b059e64f4517a86dd60c95d": {
+      "Token Name": "MANTRA DAO (OM)"
     },
     "0xbc4171f45ef0ef66e76f979df021a34b46dcc81d": {
       "Token Name": "Dorayaki (DORA)"
@@ -130,9 +130,6 @@
     "0x7b39917f9562c8bc83c7a6c2950ff571375d505d": {
       "Token Name": "LeagueDAO Governance Token (LEAG)"
     },
-    "0x667088b212ce3d06a1b553a7221E1fD19000d9aF": {
-      "Token Name": "WINGS (WINGS)"
-    },
     "0xe516d78d784c77d479977be58905b3f2b1111126": {
       "Token Name": "BitSpawn Token (SPWN)"
     },
@@ -148,341 +145,74 @@
     "0xe0955f26515d22e347b17669993fcefcc73c3a0a": {
       "Token Name": "Stacker Ventures Token (STACK)"
     },
-    "0xb4dffa52fee44bd493f12d85829d775ec8017691": {
-      "Token Name": "Congruent DAO Token (Gaas)"
-    },
-    "0xbdbf245c690d54b67c6e610a28486a2c6de08be6": {
-      "Token Name": "Sunder Goverance Token (Sunder)"
-    },
-    "0xA2C3A0DC05Bfa9BC957732590143252d45DF30e2": {
-      "Token Name": "Gate (GATE)"
-    },
-    "0x59d1e836f7b7210a978b25a855085cc46fd090b5": {
-      "Token Name": "AssangeDAO (JUSTICE)"
-    },
-    "0xd7756be9aedc211a9d5677d7d67295e6d7dd86c7": {
-      "Token Name": "ZENTEREST Injective Protocol (zenINJ)"
-    },
-    "0x38c4102D11893351cED7eF187fCF43D33eb1aBE6": {
-      "Token Name": "SHRIMP.FINANCE (SHRIMP)"
-    },
-    "0xb9440022a095343b440d590fcd2d7a3794bd76c8": {
-      "Token Name": "Saturn DAO Token (SATURN)"
-    },
-    "0xF344B01DA08b142D2466dae9e47E333f22e64588": {
-      "Token Name": "FemboyDAO (FEM)"
-    },
-    "0x2ecc48ba346a73d7d55aa5a46b5e314d9daa6161": {
-      "Token Name": "SafeSwap (SSGT)"
-    },
-    "0x9bde098be22658d057c3f1f185e3fd4653e2fbd1": {
-      "Token Name": "KP2R.Network (KP2R)"
-    },
-    "0xf2051511B9b121394FA75B8F7d4E7424337af687": {
-      "Token Name": "DAOhaus Token (HAUS)"
-    },
-    "0x8Ffb89D50eB0b9788f40123Cb3B8b8a84Edb4202": {
-      "Token Name": "LAO (LAO)"
-    },
-    "0xc6287874391410c77e3fd73748c735f9381b8859": {
-      "Token Name": "brotDAO (BROT)"
-    },
-    "0x3304671424a7E9A90d7E978228d3e02Bb0Bb156F": {
-      "Token Name": "Event Horizon (EVH)"
-    },
-    "0x0ebd5ec91680d3b0cedbb1d5bb61851154d3edb6": {
-      "Token Name": "Token of Power (TOP)"
-    },
-    "0xa0A72FE83c891A59C6db18AC0b9A3555b82dA9DF": {
-      "Token Name": "Multiple compatibility (TIFS)"
-    },
-    "0x0c9b3ab1bd0cf0745625381f5c3aa1cd9bbc7abb": {
-      "Token Name": "EXENO COIN (EXN)"
-    },
-    "0x86e5775f5c46304939c40959812bc220dd1c0333": {
-      "Token Name": "Wrapped Aryacoin (AYA)"
-    },
-    "0x97a9bac06f90940bce9caec2b880ff17707519e4": {
-      "Token Name": "Minato (MNTO)"
-    },
-    "0x71eeba415a523f5c952cc2f06361d5443545ad28": {
-      "Token Name": "XDAO (XDAO)"
-    },
-    "0x72bc9d71dd9ad563f52270c6ce5fb30f617c7a1d": {
-      "Token Name": "Criptoken DAO (CRIP)"
-    },
-    "0x7283fe6ae81f39d07850b78f282037b65448a2bc": {
-      "Token Name": "ZENTEREST OMG Network (zenOMG)"
-    },
-    "0xcd453276f4db9c38855056a036C4A99A8cac7b8d": {
-      "Token Name": "Yakuza DAO (YKZ)"
-    },
-    "0xFA57F00D948bb6a28072f5416fCbF7836C3d62dD": {
-      "Token Name": "friesDAO (FRIES)"
-    },
-    "0x4e38d89362f7e5db0096ce44ebd021c3962aa9a0": {
-      "Token Name": "Ubiquity (UBQ)"
-    },
-    "0x1f51a7ecb726a6592454c577c096c98cff3fe910": {
-      "Token Name": "Coffee Shop DAO (COF)"
-    },
-    "0x63125c0d5Cd9071de9A1ac84c400982f41C697AE": {
-      "Token Name": "LexDAO (LEX)"
-    },
-    "0x8a6d4c8735371ebaf8874fbd518b56edd66024eb": {
-      "Token Name": "BLOCKS (BLOCKS)"
-    },
-    "0x1Fd19DBDC459422d88Cf83CcBE9d8142bD8b7A53": {
-      "Token Name": "THEORY (THRY)"
+    "0x667088b212ce3d06a1b553a7221E1fD19000d9aF": {
+      "Token Name": "WINGS (WINGS)"
     },
     "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521": {
       "Token Name": "DXdao (DXD)"
     },
-    "0x4fadc7a98f2dc96510e42dd1a74141eeae0c1543": {
-      "Token Name": "Wrapped AR (WAR)"
-    },
-    "0x3d46454212c61ecb7b31248047fa033120b88668": {
-      "Token Name": "The Movement (MVT)"
-    },
-    "0xeCA76835d848c45C9d05D262eEEee3851BCE44B3": {
-      "Token Name": "NextDAO Friends (NextDAO Friends)"
-    },
-    "0x32779a598c7820ad5f13031c0d91e66dceda31bd": {
-      "Token Name": "Ydentity Reputation (YDR)"
-    },
-    "0x2e1311220248c0e9dca0bc080521f0ba8bfc12ff": {
-      "Token Name": "SAFU Community Token (SAFU CT)"
-    },
-    "0x3e828ac5c480069d4765654fb4b8733b910b13b2": {
-      "Token Name": "Colony Network Token (CLNY)"
-    },
-    "0x33a9f9bace23cfb8dad597a564d055ad415648ff": {
-      "Token Name": "ZENTEREST 0x (zenZRX)"
-    },
-    "0x1d0198829cba768e4ef2f762cd82842bba3e3458": {
-      "Token Name": "Diamonds Are Forever (Wormhole) (DAF)"
-    },
-    "0xCA1308E38340C69E848061aA2C3880daeB958187": {
-      "Token Name": "Hackerlabs DAO (HLD)"
-    },
-    "0xeaad65885fea47a3b1258935f4ce83aab06fdd3a": {
-      "Token Name": "Da-Fi Token (Da-Fi)"
-    },
-    "0xe6136f2e90eeea7280ae5a0a8e6f48fb222af945": {
-      "Token Name": "Vote-escrowed DOUGH (veDOUGH) (veDOUGH)"
-    },
-    "0x690aa2591e57180cba5a6123e9d462907a5e1c95": {
-      "Token Name": "WePiggy LRC (pLRC)"
-    },
-    "0xA2fe5E51729BE71261BcF42854012827BC44c044": {
-      "Token Name": "Burn (BURN)"
-    },
-    "0xd379700999f4805ce80aa32db46a94df64561108": {
-      "Token Name": "Dextrust (DETS)"
-    },
-    "0xc1d9b5a0776d7c8b98b8a838e5a0dd1bc5fdd53c": {
-      "Token Name": "GridZone.io (ZONE)"
-    },
-    "0xee5f837f799f2e1e5b31e3bb941bff301100a8bd": {
-      "Token Name": "HZGB Memetons Series I (HZGB)"
-    },
-    "0xcda9d1d7e4fa00d55eb326f38c6079ed7a4ec2c8": {
-      "Token Name": "Sheeple Token (SHPL)"
-    },
-    "0x90ea640fd96b10d79b95166ea9d4b5fb2fb4f4be": {
-      "Token Name": "ZENTEREST The Graph Token (zenGRT)"
-    },
-    "0x8792005de5d05bad050c68d64e526ce2062dfefd": {
-      "Token Name": "coinbird (BIRD)"
-    },
-    "0xadf86e75d8f0f57e0288d0970e7407eaa49b3cab": {
-      "Token Name": "Apollo Inu (APOLLO)"
-    },
-    "0xbb9bc244d798123fde783fcc1c72d3bb8c189413": {
-      "Token Name": "TheDAO (TheDAO)"
-    },
-    "0xb44a59d72cb84a2f29cd1836734208e1860798fd": {
-      "Token Name": "The Culture DAO (CULTUR)"
-    },
-    "0x2c31b10ca416b82cec4c5e93c615ca851213d48d": {
-      "Token Name": "Force DAO (FORCE)"
-    },
-    "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A": {
-      "Token Name": "DefiDollar DAO (DFD)"
-    },
-    "0xe585e1878856868d9657aab815a8b8ba6a7a960d": {
-      "Token Name": "GolduckDAO (GOLDUCK)"
-    },
-    "0x1e3974b1562c84c7de5462f1fc2dd2616b80a076": {
-      "Token Name": "massDAO Governance Token (mDAO)"
-    },
-    "0x3cbb7f5d7499af626026e96a2f05df806f2200dc": {
-      "Token Name": "PandaDAO (PANDA)"
-    },
-    "0x223f6fc2696beeb0d096a72b8db674e6bd520398": {
-      "Token Name": "ZENTEREST Rari Governance Token (zenRGT)"
-    },
-    "0xc8754e609cb35c1d04d50734761bec38b7da9278": {
-      "Token Name": "RChainDao (RDAO)"
-    },
-    "0x07af91e4bb31aff887bb4ba9778e2b5388595969": {
-      "Token Name": "FIRE Governance Token (FIRE)"
-    },
-    "0xddac9c604ba6bc4acec0fbb485b83f390ecf2f31": {
-      "Token Name": "CyOp | Protocol (CyOp)"
-    },
-    "0xaac62c7816bd274dd1587540bdb5bef84e096152": {
-      "Token Name": "umiDAO (UMI)"
-    },
     "0x07d22cd5d483b1242518d5cd26b21b552f0cfcdb": {
       "Token Name": "ZENTEREST DVG Token (zenDVG)"
-    },
-    "0xd432e8611377e307d3e5710132515be1e6aa6156": {
-      "Token Name": "FaceDao Token (FACE)"
-    },
-    "0x49a39e062aaf28950f9d0d5fd423dfb3175c0bb1": {
-      "Token Name": "ZENTEREST Alpha Finance (zenALPHA)"
-    },
-    "0x82de3959c09f665a82c794fafc1eb34cfcb555ee": {
-      "Token Name": "WePiggy YFII (pYFII)"
-    },
-    "0xF9E149A2935BD69e80B50018134132794F8B43a2": {
-      "Token Name": "Aardbanq DAO (ABQ)"
-    },
-    "0x26c5331a8AAEDe3d3Af276fD61329163a55ECbCa": {
-      "Token Name": "ABYSS (ABY*)"
-    },
-    "0x881ba05de1e78f549cc63a8f6cabb1d4ad32250d": {
-      "Token Name": "00 Token (00)"
-    },
-    "0x2e922f84EC5BB9CedfBb1A99543b143AA43D94b6": {
-      "Token Name": "ThreeOh DAO (3OH)"
-    },
-    "0x9C5673002d854de18e9F6Feb7f9825F88c5bf1E4": {
-      "Token Name": "Terraform DAO (TERRAFORM)"
-    },
-    "0xaab14c2115aad338cedb93e423834897651a3ee2": {
-      "Token Name": "ZENTEREST Labs Group (zenLABS)"
-    },
-    "0x6e191881f8284eceec26118bcf02f9e4b829dede": {
-      "Token Name": "Cosmic Assembly (COSMIC)"
-    },
-    "0x639ae8f3eed18690bf451229d14953a5a5627b72": {
-      "Token Name": "Nimbus Governance Token (GNBU)"
-    },
-    "0x8e84ee8b28ddbe2b1d5e204e674460835d298815": {
-      "Token Name": "Contribute DAO (TDAO)"
-    },
-    "0x284b19a5fa65f706422c0c86566e407b0e70e537": {
-      "Token Name": "BitAstir Token (BITA)"
-    },
-    "0x8fc1A87af3aD30a90cAa197B6c7aDb80d9F2aC44": {
-      "Token Name": "UNITY (Unity)"
-    },
-    "0xa3c5409a987c9325d8598b4731bf513a41c2287d": {
-      "Token Name": "ZENTEREST Maker (zenMKR)"
-    },
-    "0x4C61d50e80E168Da836D19bac1FbF3a2A783AaBD": {
-      "Token Name": "MAJR ID (MAJR-ID)"
-    },
-    "0x98585dfc8d9e7d48f0b1ae47ce33332cf4237d96": {
-      "Token Name": "New Order (NEWO)"
-    },
-    "0x8fb35c58e48660a29c80452d3c7bf98fe81de921": {
-      "Token Name": "ZENTEREST UTRUST (zenUTK)"
-    },
-    "0x71fbC1d795FcfBcA43A3ebF6de0101952f31a410": {
-      "Token Name": "revelation.finance (ADAO)"
-    },
-    "0x34f797e7190c131cf630524655a618b5bd8738e7": {
-      "Token Name": "BaconDAO (BACON)"
-    },
-    "0x82413f75f0da101e0fe7f6ff6cba3461f7e04f29": {
-      "Token Name": "WePiggy Uniswap (pUNI)"
-    },
-    "0x5845cd0205b5d43af695412a79cf7c1aeddb060f": {
-      "Token Name": "ShardingDAO (SHD)"
-    },
-    "0x1a04051d59c356c0d2e3fff9ca93055544c5dc40": {
-      "Token Name": "BaoyueVase (BaoyueVase)"
-    },
-    "0x4bfce5a1acc3b847afa9579ba91da33b08e66fb7": {
-      "Token Name": "JPEG (JPEG)"
-    },
-    "0x3fab0bbaa03bceaf7c49e2b12877db0142be65fc": {
-      "Token Name": "Castello Coin (CAST)"
-    },
-    "0x8b3b9a86d72a68c95a43030710b6abe6a0e413e6": {
-      "Token Name": "Galt (GALT)"
     },
     "0x25942b9496282ce18c3b8d8c722ccf8e5112b252": {
       "Token Name": "ZENTEREST Enjin Coin (zenENJ)"
     },
-    "0x3b77152d38ec169d6e08b8b850ff9b479f9d4576": {
-      "Token Name": "Plaid DAO Token (PLD)"
+    "0x444d6088b0f625f8c20192623b3c43001135e0fa": {
+      "Token Name": "Crown Capital (CROWN)"
     },
-    "0x14cfc7aeaa468e8c789785c39e0b753915aeb426": {
-      "Token Name": "FrogDAO Dime ($FDD)"
+    "0x49a39e062aaf28950f9d0d5fd423dfb3175c0bb1": {
+      "Token Name": "ZENTEREST Alpha Finance (zenALPHA)"
     },
-    "0xdbb2f12cb89af05516768c2c69a771d92a25d17c": {
-      "Token Name": "Beast DAO (BEAST)"
+    "0x8792005de5d05bad050c68d64e526ce2062dfefd": {
+      "Token Name": "coinbird (BIRD)"
     },
-    "0xf1dc500fde233a4055e25e5bbf516372bc4f6871": {
-      "Token Name": "Saddle DAO (SDL)"
+    "0x34f797e7190c131cf630524655a618b5bd8738e7": {
+      "Token Name": "BaconDAO (BACON)"
     },
-    "0x586aa273f262909eef8fa02d90ab65f5015e0516": {
-      "Token Name": "Fixed Income Asset Token (FIAT)"
+    "0x1a04051d59c356c0d2e3fff9ca93055544c5dc40": {
+      "Token Name": "BaoyueVase (BaoyueVase)"
     },
-    "0xc6bf2a2a43ca360bb0ec6770f57f77cdde64bb3f": {
-      "Token Name": "UnityDAO (UTY)"
+    "0xdac657ffd44a3b9d8aba8749830bf14beb66ff2d": {
+      "Token Name": "humanDAO (HDAO)"
     },
     "0x6B5735cbdD0dA81d18B5c2b3ACaF8F27dcad9EdB": {
       "Token Name": "Wrapped sGaas (wsGaas)"
     },
-    "0x618679df9efcd19694bb1daa8d00718eacfa2883": {
-      "Token Name": "XYZ Governance Token (XYZ)"
+    "0x3cbb7f5d7499af626026e96a2f05df806f2200dc": {
+      "Token Name": "PandaDAO (PANDA)"
     },
-    "0xf9aea09993e1a43b5f7dcdbd67cda89690a51491": {
-      "Token Name": "ZENTEREST KeeperDAO (zenROOK)"
+    "0x8e84ee8b28ddbe2b1d5e204e674460835d298815": {
+      "Token Name": "Contribute DAO (TDAO)"
     },
-    "0x4185cf99745b2a20727b37ee798193dd4a56cdfa": {
-      "Token Name": "DEUS Synthetic Coinbase IOU (wCOINBASE-IOU)"
-    },
-    "0x16f78145ad0b9af58747e9a97ebd99175378bd3d": {
-      "Token Name": "GroupDAO (GDO)"
-    },
-    "0x6542c8f90915a57314f4167b81851a3cd731c6e2": {
-      "Token Name": "Anarchist Development DAO (ADD)"
-    },
-    "0x1c7e83f8c581a967940dbfa7984744646ae46b29": {
-      "Token Name": "random (RND)"
-    },
-    "0xd477D210473E9F9De9e9E92D2F712Cd86d10cC2d": {
-      "Token Name": "World Family Coin (WFC)"
-    },
-    "0x2dd28391d7552363eed30eb172116cf3e13eca23": {
-      "Token Name": "ZENTEREST PAID Network (zenPAID)"
-    },
-    "0xbb70adbe39408cb1e5258702ea8ada7c81165b73": {
-      "Token Name": "AnteDAO (ANTE)"
+    "0x3b77152d38ec169d6e08b8b850ff9b479f9d4576": {
+      "Token Name": "Plaid DAO Token (PLD)"
     },
     "0xa42be035918a91406ad0d756e96af0dd442e12df": {
       "Token Name": "Digital Monetary Fund (DMF)"
     },
-    "0x0000a1c00009a619684135b824ba02f7fbf3a572": {
-      "Token Name": "Alchemy (ALCH)"
+    "0x26c5331a8AAEDe3d3Af276fD61329163a55ECbCa": {
+      "Token Name": "ABYSS (ABY*)"
     },
-    "0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70": {
-      "Token Name": "FreelaToken (FREL)"
+    "0xd379700999f4805ce80aa32db46a94df64561108": {
+      "Token Name": "Dextrust (DETS)"
     },
-    "0x6F3009663470475F0749A6b76195375f95495fcB": {
-      "Token Name": "HatchDAO (HATCH)"
+    "0xa3c5409a987c9325d8598b4731bf513a41c2287d": {
+      "Token Name": "ZENTEREST Maker (zenMKR)"
+    },
+    "0x2dd28391d7552363eed30eb172116cf3e13eca23": {
+      "Token Name": "ZENTEREST PAID Network (zenPAID)"
+    },
+    "0x86e5775f5c46304939c40959812bc220dd1c0333": {
+      "Token Name": "Wrapped Aryacoin (AYA)"
+    },
+    "0x8fb35c58e48660a29c80452d3c7bf98fe81de921": {
+      "Token Name": "ZENTEREST UTRUST (zenUTK)"
     },
     "0x1f19f83fc9a25f3c861260143e36c17706257986": {
       "Token Name": "DAO Invest (VEST)"
     },
-    "0x14fD3063dfd3cE0A2C4C5eE43aB49988A989202C": {
-      "Token Name": "3 Comma Club (THREE)"
+    "0x383518188c0c6d7730d91b2c03a03c837814a899": {
+      "Token Name": "OHM V1 (OHM)"
     },
     "0x788B6D2B37Aa51D916F2837Ae25b05f0e61339d1": {
       "Token Name": "Metavault DAO (MVD)"
@@ -490,50 +220,320 @@
     "0x0aa9d1c726acbfa1ef8683a6b105ef46c5889a7c": {
       "Token Name": "Staked Gaas (sGaas)"
     },
-    "0x1a6921F7B92113c79306f1A9E148D83445ac42BC": {
-      "Token Name": "MoonRock (ROCK)"
+    "0x9C5673002d854de18e9F6Feb7f9825F88c5bf1E4": {
+      "Token Name": "Terraform DAO (TERRAFORM)"
     },
-    "0x4A6E0C442394154e00C55Ee985a9e9593dB3Fa64": {
-      "Token Name": "GorillaSquad (GSQUAD)"
+    "0xdbb2f12cb89af05516768c2c69a771d92a25d17c": {
+      "Token Name": "Beast DAO (BEAST)"
     },
-    "0x4a5b823592c2a1e95502c0b55afba2397e71799d": {
-      "Token Name": "ZENTEREST Badger DAO (zenBADGER)"
-    },
-    "0x11F4C6B3E8F50c50935c7889EDc56C96F41B5399": {
-      "Token Name": "Synthetic YBDAO (YBREE)"
-    },
-    "0x444d6088b0f625f8c20192623b3c43001135e0fa": {
-      "Token Name": "Crown Capital (CROWN)"
-    },
-    "0xaeB813653bb20d5Fa4798dc4fc63Af9cad4f3f67": {
-      "Token Name": "The Commission (CMSN)"
-    },
-    "0x6a4e7daf7e1244944bda17390b1ec5f44c9df671": {
-      "Token Name": "ZENTEREST Kylin Network (zenKYL)"
-    },
-    "0x5cb3ce6d081fb00d5f6677d196f2d70010ea3f4a": {
-      "Token Name": "Busy (BUSY)"
+    "0xbb70adbe39408cb1e5258702ea8ada7c81165b73": {
+      "Token Name": "AnteDAO (ANTE)"
     },
     "0xce3f6f6672616c39d8b6858f8dac9902eca42c84": {
       "Token Name": "DAO1 (DAO1)"
     },
-    "0x54559ad7ec464af2fc360b9405412ec8bb0f48ed": {
-      "Token Name": "DaDa (DADA)"
+    "0x4A6E0C442394154e00C55Ee985a9e9593dB3Fa64": {
+      "Token Name": "GorillaSquad (GSQUAD)"
     },
-    "0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b": {
-      "Token Name": "Maximus (MAXI)"
+    "0x8fc1A87af3aD30a90cAa197B6c7aDb80d9F2aC44": {
+      "Token Name": "UNITY (Unity)"
+    },
+    "0x639ae8f3eed18690bf451229d14953a5a5627b72": {
+      "Token Name": "Nimbus Governance Token (GNBU)"
+    },
+    "0x618679df9efcd19694bb1daa8d00718eacfa2883": {
+      "Token Name": "XYZ Governance Token (XYZ)"
+    },
+    "0x6a4e7daf7e1244944bda17390b1ec5f44c9df671": {
+      "Token Name": "ZENTEREST Kylin Network (zenKYL)"
+    },
+    "0x71fbC1d795FcfBcA43A3ebF6de0101952f31a410": {
+      "Token Name": "revelation.finance (ADAO)"
+    },
+    "0xbb9bc244d798123fde783fcc1c72d3bb8c189413": {
+      "Token Name": "TheDAO (TheDAO)"
+    },
+    "0x82de3959c09f665a82c794fafc1eb34cfcb555ee": {
+      "Token Name": "WePiggy YFII (pYFII)"
+    },
+    "0xf9aea09993e1a43b5f7dcdbd67cda89690a51491": {
+      "Token Name": "ZENTEREST KeeperDAO (zenROOK)"
+    },
+    "0x4C61d50e80E168Da836D19bac1FbF3a2A783AaBD": {
+      "Token Name": "MAJR ID (MAJR-ID)"
     },
     "0xef86384cf696929c3227428f539e740ee12fcdc7": {
       "Token Name": "WePiggy xLON (pxLON)"
     },
-    "0x383518188c0c6d7730d91b2c03a03c837814a899": {
-      "Token Name": "OHM V1 (OHM)"
+    "0x0ebd5ec91680d3b0cedbb1d5bb61851154d3edb6": {
+      "Token Name": "Token of Power (TOP)"
     },
     "0x2E17E403B7CE8d9Ee7180866bc64836692559566": {
       "Token Name": "Governance Metavault (gMVD)"
     },
-    "0xdac657ffd44a3b9d8aba8749830bf14beb66ff2d": {
-      "Token Name": "humanDAO (HDAO)"
+    "0x32779a598c7820ad5f13031c0d91e66dceda31bd": {
+      "Token Name": "Ydentity Reputation (YDR)"
+    },
+    "0xb4dffa52fee44bd493f12d85829d775ec8017691": {
+      "Token Name": "Congruent DAO Token (Gaas)"
+    },
+    "0x3fab0bbaa03bceaf7c49e2b12877db0142be65fc": {
+      "Token Name": "Castello Coin (CAST)"
+    },
+    "0x2ecc48ba346a73d7d55aa5a46b5e314d9daa6161": {
+      "Token Name": "SafeSwap (SSGT)"
+    },
+    "0x8a6d4c8735371ebaf8874fbd518b56edd66024eb": {
+      "Token Name": "BLOCKS (BLOCKS)"
+    },
+    "0x59d1e836f7b7210a978b25a855085cc46fd090b5": {
+      "Token Name": "AssangeDAO (JUSTICE)"
+    },
+    "0x586aa273f262909eef8fa02d90ab65f5015e0516": {
+      "Token Name": "Fixed Income Asset Token (FIAT)"
+    },
+    "0x14fD3063dfd3cE0A2C4C5eE43aB49988A989202C": {
+      "Token Name": "3 Comma Club (THREE)"
+    },
+    "0x14cfc7aeaa468e8c789785c39e0b753915aeb426": {
+      "Token Name": "FrogDAO Dime ($FDD)"
+    },
+    "0x4185cf99745b2a20727b37ee798193dd4a56cdfa": {
+      "Token Name": "DEUS Synthetic Coinbase IOU (wCOINBASE-IOU)"
+    },
+    "0x82413f75f0da101e0fe7f6ff6cba3461f7e04f29": {
+      "Token Name": "WePiggy Uniswap (pUNI)"
+    },
+    "0x4a5b823592c2a1e95502c0b55afba2397e71799d": {
+      "Token Name": "ZENTEREST Badger DAO (zenBADGER)"
+    },
+    "0xc6287874391410c77e3fd73748c735f9381b8859": {
+      "Token Name": "brotDAO (BROT)"
+    },
+    "0xcda9d1d7e4fa00d55eb326f38c6079ed7a4ec2c8": {
+      "Token Name": "Sheeple Token (SHPL)"
+    },
+    "0x1c7e83f8c581a967940dbfa7984744646ae46b29": {
+      "Token Name": "random (RND)"
+    },
+    "0x54559ad7ec464af2fc360b9405412ec8bb0f48ed": {
+      "Token Name": "DaDa (DADA)"
+    },
+    "0xF344B01DA08b142D2466dae9e47E333f22e64588": {
+      "Token Name": "FemboyDAO (FEM)"
+    },
+    "0x1f51a7ecb726a6592454c577c096c98cff3fe910": {
+      "Token Name": "Coffee Shop DAO (COF)"
+    },
+    "0x72bc9d71dd9ad563f52270c6ce5fb30f617c7a1d": {
+      "Token Name": "Criptoken DAO (CRIP)"
+    },
+    "0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70": {
+      "Token Name": "FreelaToken (FREL)"
+    },
+    "0x3d46454212c61ecb7b31248047fa033120b88668": {
+      "Token Name": "The Movement (MVT)"
+    },
+    "0x0c9b3ab1bd0cf0745625381f5c3aa1cd9bbc7abb": {
+      "Token Name": "EXENO COIN (EXN)"
+    },
+    "0xbdbf245c690d54b67c6e610a28486a2c6de08be6": {
+      "Token Name": "Sunder Goverance Token (Sunder)"
+    },
+    "0x11F4C6B3E8F50c50935c7889EDc56C96F41B5399": {
+      "Token Name": "Synthetic YBDAO (YBREE)"
+    },
+    "0x4e38d89362f7e5db0096ce44ebd021c3962aa9a0": {
+      "Token Name": "Ubiquity (UBQ)"
+    },
+    "0xc6bf2a2a43ca360bb0ec6770f57f77cdde64bb3f": {
+      "Token Name": "UnityDAO (UTY)"
+    },
+    "0xd7756be9aedc211a9d5677d7d67295e6d7dd86c7": {
+      "Token Name": "ZENTEREST Injective Protocol (zenINJ)"
+    },
+    "0x1a6921F7B92113c79306f1A9E148D83445ac42BC": {
+      "Token Name": "MoonRock (ROCK)"
+    },
+    "0x4fadc7a98f2dc96510e42dd1a74141eeae0c1543": {
+      "Token Name": "Wrapped AR (WAR)"
+    },
+    "0x8b3b9a86d72a68c95a43030710b6abe6a0e413e6": {
+      "Token Name": "Galt (GALT)"
+    },
+    "0xCA1308E38340C69E848061aA2C3880daeB958187": {
+      "Token Name": "Hackerlabs DAO (HLD)"
+    },
+    "0xaeB813653bb20d5Fa4798dc4fc63Af9cad4f3f67": {
+      "Token Name": "The Commission (CMSN)"
+    },
+    "0x9bde098be22658d057c3f1f185e3fd4653e2fbd1": {
+      "Token Name": "KP2R.Network (KP2R)"
+    },
+    "0xFA57F00D948bb6a28072f5416fCbF7836C3d62dD": {
+      "Token Name": "friesDAO (FRIES)"
+    },
+    "0x690aa2591e57180cba5a6123e9d462907a5e1c95": {
+      "Token Name": "WePiggy LRC (pLRC)"
+    },
+    "0x1e3974b1562c84c7de5462f1fc2dd2616b80a076": {
+      "Token Name": "massDAO Governance Token (mDAO)"
+    },
+    "0x3e828ac5c480069d4765654fb4b8733b910b13b2": {
+      "Token Name": "Colony Network Token (CLNY)"
+    },
+    "0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b": {
+      "Token Name": "Maximus (MAXI)"
+    },
+    "0xa0A72FE83c891A59C6db18AC0b9A3555b82dA9DF": {
+      "Token Name": "Multiple compatibility (TIFS)"
+    },
+    "0xeCA76835d848c45C9d05D262eEEee3851BCE44B3": {
+      "Token Name": "NextDAO Friends (NextDAO Friends)"
+    },
+    "0xddac9c604ba6bc4acec0fbb485b83f390ecf2f31": {
+      "Token Name": "CyOp | Protocol (CyOp)"
+    },
+    "0x5cb3ce6d081fb00d5f6677d196f2d70010ea3f4a": {
+      "Token Name": "Busy (BUSY)"
+    },
+    "0x38c4102D11893351cED7eF187fCF43D33eb1aBE6": {
+      "Token Name": "SHRIMP.FINANCE (SHRIMP)"
+    },
+    "0xe6136f2e90eeea7280ae5a0a8e6f48fb222af945": {
+      "Token Name": "Vote-escrowed DOUGH (veDOUGH) (veDOUGH)"
+    },
+    "0x6F3009663470475F0749A6b76195375f95495fcB": {
+      "Token Name": "HatchDAO (HATCH)"
+    },
+    "0x7283fe6ae81f39d07850b78f282037b65448a2bc": {
+      "Token Name": "ZENTEREST OMG Network (zenOMG)"
+    },
+    "0xA2C3A0DC05Bfa9BC957732590143252d45DF30e2": {
+      "Token Name": "Gate (GATE)"
+    },
+    "0xc1d9b5a0776d7c8b98b8a838e5a0dd1bc5fdd53c": {
+      "Token Name": "GridZone.io (ZONE)"
+    },
+    "0xd477D210473E9F9De9e9E92D2F712Cd86d10cC2d": {
+      "Token Name": "World Family Coin (WFC)"
+    },
+    "0x63125c0d5Cd9071de9A1ac84c400982f41C697AE": {
+      "Token Name": "LexDAO (LEX)"
+    },
+    "0x2c31b10ca416b82cec4c5e93c615ca851213d48d": {
+      "Token Name": "Force DAO (FORCE)"
+    },
+    "0x2e922f84EC5BB9CedfBb1A99543b143AA43D94b6": {
+      "Token Name": "ThreeOh DAO (3OH)"
+    },
+    "0xf2051511B9b121394FA75B8F7d4E7424337af687": {
+      "Token Name": "DAOhaus Token (HAUS)"
+    },
+    "0xee5f837f799f2e1e5b31e3bb941bff301100a8bd": {
+      "Token Name": "HZGB Memetons Series I (HZGB)"
+    },
+    "0x284b19a5fa65f706422c0c86566e407b0e70e537": {
+      "Token Name": "BitAstir Token (BITA)"
+    },
+    "0xadf86e75d8f0f57e0288d0970e7407eaa49b3cab": {
+      "Token Name": "Apollo Inu (APOLLO)"
+    },
+    "0x97a9bac06f90940bce9caec2b880ff17707519e4": {
+      "Token Name": "Minato (MNTO)"
+    },
+    "0xeaad65885fea47a3b1258935f4ce83aab06fdd3a": {
+      "Token Name": "Da-Fi Token (Da-Fi)"
+    },
+    "0xcd453276f4db9c38855056a036C4A99A8cac7b8d": {
+      "Token Name": "Yakuza DAO (YKZ)"
+    },
+    "0xb44a59d72cb84a2f29cd1836734208e1860798fd": {
+      "Token Name": "The Culture DAO (CULTUR)"
+    },
+    "0x3304671424a7E9A90d7E978228d3e02Bb0Bb156F": {
+      "Token Name": "Event Horizon (EVH)"
+    },
+    "0x33a9f9bace23cfb8dad597a564d055ad415648ff": {
+      "Token Name": "ZENTEREST 0x (zenZRX)"
+    },
+    "0x71eeba415a523f5c952cc2f06361d5443545ad28": {
+      "Token Name": "XDAO (XDAO)"
+    },
+    "0x223f6fc2696beeb0d096a72b8db674e6bd520398": {
+      "Token Name": "ZENTEREST Rari Governance Token (zenRGT)"
+    },
+    "0xF9E149A2935BD69e80B50018134132794F8B43a2": {
+      "Token Name": "Aardbanq DAO (ABQ)"
+    },
+    "0xe585e1878856868d9657aab815a8b8ba6a7a960d": {
+      "Token Name": "GolduckDAO (GOLDUCK)"
+    },
+    "0x4bfce5a1acc3b847afa9579ba91da33b08e66fb7": {
+      "Token Name": "JPEG (JPEG)"
+    },
+    "0xaac62c7816bd274dd1587540bdb5bef84e096152": {
+      "Token Name": "umiDAO (UMI)"
+    },
+    "0x1Fd19DBDC459422d88Cf83CcBE9d8142bD8b7A53": {
+      "Token Name": "THEORY (THRY)"
+    },
+    "0xc8754e609cb35c1d04d50734761bec38b7da9278": {
+      "Token Name": "RChainDao (RDAO)"
+    },
+    "0xf1dc500fde233a4055e25e5bbf516372bc4f6871": {
+      "Token Name": "Saddle DAO (SDL)"
+    },
+    "0xd432e8611377e307d3e5710132515be1e6aa6156": {
+      "Token Name": "FaceDao Token (FACE)"
+    },
+    "0x2e1311220248c0e9dca0bc080521f0ba8bfc12ff": {
+      "Token Name": "SAFU Community Token (SAFU CT)"
+    },
+    "0x1d0198829cba768e4ef2f762cd82842bba3e3458": {
+      "Token Name": "Diamonds Are Forever (Wormhole) (DAF)"
+    },
+    "0x8Ffb89D50eB0b9788f40123Cb3B8b8a84Edb4202": {
+      "Token Name": "LAO (LAO)"
+    },
+    "0x90ea640fd96b10d79b95166ea9d4b5fb2fb4f4be": {
+      "Token Name": "ZENTEREST The Graph Token (zenGRT)"
+    },
+    "0xaab14c2115aad338cedb93e423834897651a3ee2": {
+      "Token Name": "ZENTEREST Labs Group (zenLABS)"
+    },
+    "0xb9440022a095343b440d590fcd2d7a3794bd76c8": {
+      "Token Name": "Saturn DAO Token (SATURN)"
+    },
+    "0x6542c8f90915a57314f4167b81851a3cd731c6e2": {
+      "Token Name": "Anarchist Development DAO (ADD)"
+    },
+    "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A": {
+      "Token Name": "DefiDollar DAO (DFD)"
+    },
+    "0x5845cd0205b5d43af695412a79cf7c1aeddb060f": {
+      "Token Name": "ShardingDAO (SHD)"
+    },
+    "0x881ba05de1e78f549cc63a8f6cabb1d4ad32250d": {
+      "Token Name": "00 Token (00)"
+    },
+    "0x16f78145ad0b9af58747e9a97ebd99175378bd3d": {
+      "Token Name": "GroupDAO (GDO)"
+    },
+    "0xA2fe5E51729BE71261BcF42854012827BC44c044": {
+      "Token Name": "Burn (BURN)"
+    },
+    "0x07af91e4bb31aff887bb4ba9778e2b5388595969": {
+      "Token Name": "FIRE Governance Token (FIRE)"
+    },
+    "0x6e191881f8284eceec26118bcf02f9e4b829dede": {
+      "Token Name": "Cosmic Assembly (COSMIC)"
+    },
+    "0x0000a1c00009a619684135b824ba02f7fbf3a572": {
+      "Token Name": "Alchemy (ALCH)"
+    },
+    "0x98585dfc8d9e7d48f0b1ae47ce33332cf4237d96": {
+      "Token Name": "New Order (NEWO)"
     }
   }
 }

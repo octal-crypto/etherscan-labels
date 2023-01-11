@@ -2,9 +2,6 @@
   "Label": "st-20",
   "Description": "Polymath's security token standard for tokens launched using their protocol.",
   "Addresses": {
-    "0xed9dec5497fa2feb653acd4a3862740ae705c382": {
-      "Token Name": "Canamex Silver (CXSLV)"
-    },
     "0xe156bac00c399296b5eb2f52fe439227e24cbfce": {
       "Token Name": "RobotInfra (ROBOT)"
     },
@@ -19,6 +16,9 @@
     },
     "0xf1dd65acebf57d31eabc61ec9f2d2829e7d986d0": {
       "Token Name": "Canamex Gold (CXGLD)"
+    },
+    "0xed9dec5497fa2feb653acd4a3862740ae705c382": {
+      "Token Name": "Canamex Silver (CXSLV)"
     }
   }
 }

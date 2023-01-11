@@ -2,13 +2,13 @@
   "Label": "deprecated",
   "Description": "A list of tokens, contracts or addresses which have been deprecated by their projects.",
   "Addresses": {
-    "0x6a29cfd8a5f666a7d69da9437cd4c46616326815": {},
-    "0xceecea8035e81c1148210db3b2f870f470cc81bf": {},
     "0x623b83755a39b12161a63748f3f595a530917ab2": {},
     "0x9013498ba5b04dc4d888955784eb06c539eb463f": {
       "Token Name": "Chainlife (CHNLF)"
     },
     "0x00a31b98c325a8dcb8d1dd41d65156a5c898f38c": {},
+    "0x6a29cfd8a5f666a7d69da9437cd4c46616326815": {},
+    "0xceecea8035e81c1148210db3b2f870f470cc81bf": {},
     "0x5e5ea2048475854a5702f5b8468a51ba1296efcc": {
       "Name Tag": "Aura: Old auraBAL Rewards"
     },
@@ -257,17 +257,17 @@
     "0x74C80bB51Da1EAc2d40074c647CbD0ab6920063f": {
       "Token Name": "Synth sINR (sINR)"
     },
-    "0x0Bc209fB72390AF12bD6Fd775355ea0856864B31": {
-      "Token Name": "Synth sCAD (sCAD)"
-    },
     "0x84965DCa28c4Eb9dE61d80f80e811eA12BE1c819": {
       "Token Name": "Synth sMKR (sMKR)"
     },
-    "0x5D609C25adAafd856021F92296C66dB602A0fcE8": {
-      "Token Name": "Synth sBRL (sBRL)"
-    },
     "0x123151402076fc819B7564510989e475c9cD93CA": {
       "Token Name": "wrapped-DGLD (wDGLD)"
+    },
+    "0x0Bc209fB72390AF12bD6Fd775355ea0856864B31": {
+      "Token Name": "Synth sCAD (sCAD)"
+    },
+    "0x5D609C25adAafd856021F92296C66dB602A0fcE8": {
+      "Token Name": "Synth sBRL (sBRL)"
     }
   }
 }

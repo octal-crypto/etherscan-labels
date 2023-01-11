@@ -684,20 +684,20 @@
       "Token Name": "Cream Binance USD (crBUSD)",
       "Subcategory": "Main"
     },
-    "0xCA55F9C4E77f7B8524178583b0f7c798De17fD54": {
-      "Token Name": "Yearn Synth sEUR (cySEUR)",
-      "Subcategory": "Others"
-    },
     "0xF047d4bE569FB770dB143A6A90Ef203FC1295922": {
       "Token Name": "Cream tBTC (crTBTC)",
+      "Subcategory": "Others"
+    },
+    "0xBE86e8918DFc7d3Cb10d295fc220F941A1470C5c": {
+      "Token Name": "Yearn mStable USD (cyMUSD)",
       "Subcategory": "Others"
     },
     "0x49d72e3973900a195a155a46441f0c08179fdb64": {
       "Token Name": "Cream ETH Token (CRETH2)",
       "Subcategory": "Others"
     },
-    "0xBE86e8918DFc7d3Cb10d295fc220F941A1470C5c": {
-      "Token Name": "Yearn mStable USD (cyMUSD)",
+    "0xCA55F9C4E77f7B8524178583b0f7c798De17fD54": {
+      "Token Name": "Yearn Synth sEUR (cySEUR)",
       "Subcategory": "Others"
     }
   }

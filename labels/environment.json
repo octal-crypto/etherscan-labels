@@ -2,17 +2,23 @@
   "Label": "environment",
   "Description": "Projects that aim to help the environment.",
   "Addresses": {
-    "0xa64efd5fe826f62e310a951332b519e1e3871489": {
-      "Token Name": "BetaCarbon (BCAU)"
+    "0x3d90feec1ec985a9f09d2269af0f77195e542297": {
+      "Token Name": "CO2B (CO2B)"
+    },
+    "0xB4742e2013f96850a5CeF850A3bB74cF63B9a5D5": {
+      "Token Name": "EANTO Token (EAN)"
     },
     "0x37d299ef5548bf19503cb72c085799e331f9097d": {
       "Token Name": "GreenCoin (GRNC)"
     },
-    "0xa287fd349d80dfd2a8aee1c0d90f17281f24c061": {
-      "Token Name": "REUCOIN (REU)"
+    "0xa64efd5fe826f62e310a951332b519e1e3871489": {
+      "Token Name": "BetaCarbon (BCAU)"
     },
     "0x280DaB979DD46D530c14AA4c87D089153dc50052": {
       "Token Name": "DOLR (DOLR)"
+    },
+    "0xa287fd349d80dfd2a8aee1c0d90f17281f24c061": {
+      "Token Name": "REUCOIN (REU)"
     },
     "0x230f2fec996085459d151bd5065a56b79e1ae1c1": {
       "Token Name": "Medican (MCAN)"
@@ -26,23 +32,17 @@
     "0x674c964ac0e89d847d6b0abd144b797bf78ba56b": {
       "Token Name": "GreenWorld (GWD)"
     },
-    "0xd12E7B0D28FFE52E19F11297B92bacCD4f90b3DB": {
-      "Token Name": "Aquaris (AQS)"
-    },
     "0x64237094a0d6c10c816ccfe6c55e6b391ca85693": {
       "Token Name": "FreshAirCoin (FAC)"
     },
-    "0xbb3c2a170fbb8988cdb41c04344f9863b0f71c20": {
-      "Token Name": "CarbonEco (c0)"
+    "0xd12E7B0D28FFE52E19F11297B92bacCD4f90b3DB": {
+      "Token Name": "Aquaris (AQS)"
     },
     "0x4481379302c6caf967c024474ac500ea54df39d2": {
       "Token Name": "CarbonZero (CERO)"
     },
-    "0xB4742e2013f96850a5CeF850A3bB74cF63B9a5D5": {
-      "Token Name": "EANTO Token (EAN)"
-    },
-    "0x3d90feec1ec985a9f09d2269af0f77195e542297": {
-      "Token Name": "CO2B (CO2B)"
+    "0xbb3c2a170fbb8988cdb41c04344f9863b0f71c20": {
+      "Token Name": "CarbonEco (c0)"
     }
   }
 }

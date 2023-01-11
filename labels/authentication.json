@@ -2,9 +2,6 @@
   "Label": "authentication",
   "Description": "The process of determining whether someone or something is, in fact genuine.",
   "Addresses": {
-    "0xd7b3669c7d3e38ab5a441383d41f25e003e02148": {
-      "Token Name": "SealToken (SEAL)"
-    },
     "0xa7b4a94254e59ea96c127d15062847e91173b71c": {
       "Token Name": "Tedesis (TDI)"
     },
@@ -16,6 +13,9 @@
     },
     "0xf18432ef894ef4b2a5726f933718f5a8cf9ff831": {
       "Token Name": "BioCrypt (BIO)"
+    },
+    "0xd7b3669c7d3e38ab5a441383d41f25e003e02148": {
+      "Token Name": "SealToken (SEAL)"
     }
   }
 }

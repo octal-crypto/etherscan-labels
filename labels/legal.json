@@ -2,6 +2,9 @@
   "Label": "legal",
   "Description": "Projects relating to the law.",
   "Addresses": {
+    "0xcD62b1C403fa761BAadFC74C525ce2B51780b184": {
+      "Token Name": "Aragon Network Juror (ANJ)"
+    },
     "0xbe331720dd50aadfdec49379c00e26b6e5625fd1": {
       "Token Name": "IPNews Coin (IPN)"
     },
@@ -13,9 +16,6 @@
     },
     "0xdfddf7a69716124bc346ba556d4b9f9e74c4a8bc": {
       "Token Name": "SUCCESSION (SCCN)"
-    },
-    "0xcD62b1C403fa761BAadFC74C525ce2B51780b184": {
-      "Token Name": "Aragon Network Juror (ANJ)"
     }
   }
 }

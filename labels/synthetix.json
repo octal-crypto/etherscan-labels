@@ -881,13 +881,13 @@
       "Name Tag": "Synthetix: Underlying SNX Token",
       "Subcategory": "Main"
     },
+    "0x696c905f8f8c006ca46e9808fe7e00049507798f": {
+      "Subcategory": "Others"
+    },
     "0x80d65bb7b9436a86c1928f93d6e7cc186987ac54": {
       "Subcategory": "Others"
     },
     "0x8d203c458d536fe0f97e9f741bc231eac8cd91cf": {
-      "Subcategory": "Others"
-    },
-    "0x696c905f8f8c006ca46e9808fe7e00049507798f": {
       "Subcategory": "Others"
     },
     "0x7af65f1740c0eb816a27fd808eaf6ab09f6fa646": {
@@ -2146,42 +2146,6 @@
     "0xa2B0fDe6D710e201d0d608e924A484d1A5fEd57c": {
       "Token Name": "Synth sXRP (sXRP)"
     },
-    "0xD31533E8d0f3DF62060e94B3F1318137bB6E3525": {
-      "Token Name": "Synth sREN (sREN)"
-    },
-    "0x5A7E3c07604EB515C16b36cd51906a65f021F609": {
-      "Token Name": "Synth sNFLX (sNFLX)"
-    },
-    "0x46a97629C9C1F58De6EC18C7F536e7E6d6A6ecDe": {
-      "Token Name": "Synth iDOT (iDOT)"
-    },
-    "0x9CF7E61853ea30A41b02169391b393B901eac457": {
-      "Token Name": "Synth sAMZN (sAMZN)"
-    },
-    "0x1715AC0743102BF5Cd58EfBB6Cf2dC2685d967b6": {
-      "Token Name": "Synth sDOT (sDOT)"
-    },
-    "0x592244301CeA952d6daB2fdC1fE6bd9E53917306": {
-      "Token Name": "Synth iYFI (iYFI)"
-    },
-    "0xf50B5e535F62a56A9BD2d8e2434204E726c027Fa": {
-      "Token Name": "Synth sFB (sFB)"
-    },
-    "0x992058B7DB08F9734d84485bfbC243C4ee6954A7": {
-      "Token Name": "Synth sYFI (sYFI)"
-    },
-    "0x918dA91Ccbc32B7a6A0cc4eCd5987bbab6E31e6D": {
-      "Token Name": "Synth sTSLA (sTSLA)"
-    },
-    "0x6345728B1ccE16E6f8C509950b5c84FFF88530d9": {
-      "Token Name": "Synth iCOMP (iCOMP)"
-    },
-    "0x89FCb32F29e509cc42d0C8b6f058C993013A843F": {
-      "Token Name": "Synthetix Debt Shares (SDS)"
-    },
-    "0x36A00FF9072570eF4B9292117850B8FE08d96cce": {
-      "Token Name": "Synth iUNI (iUNI)"
-    },
     "0xEb029507d3e043DD6C87F2917C4E82B902c35618": {
       "Token Name": "Synth sCOMP (sCOMP)"
     },
@@ -2193,6 +2157,42 @@
     },
     "0x176C674Ee533C6139B0dc8b458D72A93dCB3e705": {
       "Token Name": "Synth iAAVE (iAAVE)"
+    },
+    "0x89FCb32F29e509cc42d0C8b6f058C993013A843F": {
+      "Token Name": "Synthetix Debt Shares (SDS)"
+    },
+    "0xD31533E8d0f3DF62060e94B3F1318137bB6E3525": {
+      "Token Name": "Synth sREN (sREN)"
+    },
+    "0x46a97629C9C1F58De6EC18C7F536e7E6d6A6ecDe": {
+      "Token Name": "Synth iDOT (iDOT)"
+    },
+    "0x5A7E3c07604EB515C16b36cd51906a65f021F609": {
+      "Token Name": "Synth sNFLX (sNFLX)"
+    },
+    "0x1715AC0743102BF5Cd58EfBB6Cf2dC2685d967b6": {
+      "Token Name": "Synth sDOT (sDOT)"
+    },
+    "0x9CF7E61853ea30A41b02169391b393B901eac457": {
+      "Token Name": "Synth sAMZN (sAMZN)"
+    },
+    "0x918dA91Ccbc32B7a6A0cc4eCd5987bbab6E31e6D": {
+      "Token Name": "Synth sTSLA (sTSLA)"
+    },
+    "0x592244301CeA952d6daB2fdC1fE6bd9E53917306": {
+      "Token Name": "Synth iYFI (iYFI)"
+    },
+    "0x992058B7DB08F9734d84485bfbC243C4ee6954A7": {
+      "Token Name": "Synth sYFI (sYFI)"
+    },
+    "0xf50B5e535F62a56A9BD2d8e2434204E726c027Fa": {
+      "Token Name": "Synth sFB (sFB)"
+    },
+    "0x36A00FF9072570eF4B9292117850B8FE08d96cce": {
+      "Token Name": "Synth iUNI (iUNI)"
+    },
+    "0x6345728B1ccE16E6f8C509950b5c84FFF88530d9": {
+      "Token Name": "Synth iCOMP (iCOMP)"
     }
   }
 }

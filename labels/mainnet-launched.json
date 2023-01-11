@@ -32,14 +32,23 @@
     "0x2008e3057bd734e10ad13c9eae45ff132abc1722": {
       "Token Name": "Zebi Coin (ZCO)"
     },
-    "0xf230b790e05390fc8295f4d3f60332c93bed42e2": {
-      "Token Name": "Tronix (TRX)"
+    "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d": {
+      "Token Name": "Aeternity (AE)"
     },
     "0xb5a5f22694352c15b00323844ad545abb2b11028": {
       "Token Name": "ICON (ICX)"
     },
+    "0xf230b790e05390fc8295f4d3f60332c93bed42e2": {
+      "Token Name": "Tronix (TRX)"
+    },
+    "0xfF48643575fc19Cf51FE247c0b2A7DDF0Fd7181a": {
+      "Token Name": "Swingby Token (ERC20) (SBY)"
+    },
     "0xde2f7766c8bf14ca67193128535e5c7454f8387c": {
       "Token Name": "Metadium (META)"
+    },
+    "0x00c4b398500645eb5da00a1a379a88b11683ba01": {
+      "Token Name": "Eximchain Token (EXC)"
     },
     "0xdb8646f5b487b5dd979fac618350e85018f557d4": {
       "Token Name": "BitcoinToken (BTK)"
@@ -50,20 +59,11 @@
     "0xf44745fbd41f6a1ba151df190db0564c5fcc4410": {
       "Token Name": "COPYTRACK (CPY)"
     },
-    "0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa": {
-      "Token Name": "ThoreCoin (THR)"
-    },
     "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466": {
       "Token Name": "AION (AION)"
     },
-    "0xfF48643575fc19Cf51FE247c0b2A7DDF0Fd7181a": {
-      "Token Name": "Swingby Token (ERC20) (SBY)"
-    },
-    "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d": {
-      "Token Name": "Aeternity (AE)"
-    },
-    "0x00c4b398500645eb5da00a1a379a88b11683ba01": {
-      "Token Name": "Eximchain Token (EXC)"
+    "0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa": {
+      "Token Name": "ThoreCoin (THR)"
     }
   }
 }

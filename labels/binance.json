@@ -231,9 +231,6 @@
     "0xB8c77482e45F1F44dE1745F52C74426C631bDD52": {
       "Token Name": "BNB (BNB)"
     },
-    "0x9be89d2a4cd102d8fecc6bf9da793be995c22541": {
-      "Token Name": "Binance Wrapped BTC (BBTC)"
-    },
     "0xc3501eaaf5e29aa0529342f409443120fd545ea7": {
       "Token Name": "Binance Beacon ETH (BETH)"
     },
@@ -248,6 +245,9 @@
     },
     "0x7884f51dc1410387371ce61747cb6264e1daee0b": {
       "Token Name": "Binance Wrapped DOT (BDOT)"
+    },
+    "0x9be89d2a4cd102d8fecc6bf9da793be995c22541": {
+      "Token Name": "Binance Wrapped BTC (BBTC)"
     }
   }
 }

@@ -58,16 +58,20 @@
       "Name Tag": "FTX: Deposit",
       "Subcategory": "Others"
     },
+    "0x81824663353A9d29b01B2DE9dd9a2Bb271d298cD": {
+      "Token Name": "Bitcoin Volatility Token (BVOL)",
+      "Subcategory": "Others"
+    },
     "0x974c98Bc2e82FA18de92B7e697A1D9BD25682e80": {
       "Token Name": "3X Long Ethereum Classic Token (ETCBULL)",
       "Subcategory": "Others"
     },
-    "0x3d3dd61b0f9a558759a21da42166042b114e12d5": {
-      "Token Name": "3X Short EOS Token (EOSBEAR)",
-      "Subcategory": "Others"
-    },
     "0xa38920C00D1a5303dB538A3Ea08da7a779e1F751": {
       "Token Name": "3X Long TomoChain Token (TOMOBULL)",
+      "Subcategory": "Others"
+    },
+    "0x3d3dd61b0f9a558759a21da42166042b114e12d5": {
+      "Token Name": "3X Short EOS Token (EOSBEAR)",
       "Subcategory": "Others"
     },
     "0x1fa3bc860bf823d792f04f662f3aa3a500a68814": {
@@ -92,10 +96,6 @@
     },
     "0x8aF785687ee8D75114B028997c9ca36b5CC67Bc4": {
       "Token Name": "3X Long OKB Token (OKBBULL)",
-      "Subcategory": "Others"
-    },
-    "0x81824663353A9d29b01B2DE9dd9a2Bb271d298cD": {
-      "Token Name": "Bitcoin Volatility Token (BVOL)",
       "Subcategory": "Others"
     }
   }

@@ -190,11 +190,11 @@
     "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2": {
       "Token Name": "Rocket Vault (RVF)"
     },
-    "0x07FB4756f67bD46B748b16119E802F1f880fb2CC": {
-      "Token Name": "yearn Curve.fi tBTC/sbtcCrv (yvtbtc/sbtcCrv)"
-    },
     "0x5334e150B938dd2b6bd040D9c4a03Cff0cED3765": {
       "Token Name": "yearn Curve.fi renBTC/wBTC (yvcrvRenWBTC)"
+    },
+    "0x07FB4756f67bD46B748b16119E802F1f880fb2CC": {
+      "Token Name": "yearn Curve.fi tBTC/sbtcCrv (yvtbtc/sbtcCrv)"
     }
   }
 }

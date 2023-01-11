@@ -36,6 +36,9 @@
     "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA": {
       "Token Name": "Gala (GALA)"
     },
+    "0x430EF9263E76DAE63c84292C3409D61c598E9682": {
+      "Token Name": "PYR Token (PYR)"
+    },
     "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25": {
       "Token Name": "Smooth Love Potion (SLP)"
     },
@@ -47,9 +50,6 @@
     },
     "0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430": {
       "Token Name": "PlayDapp Token (PLA)"
-    },
-    "0x430EF9263E76DAE63c84292C3409D61c598E9682": {
-      "Token Name": "PYR Token (PYR)"
     },
     "0xac51066d7bec65dc4589368da368b212745d63e8": {
       "Token Name": "ALICE (ALICE)"
@@ -66,14 +66,14 @@
     "0x081131434f93063751813c619ecca9c4dc7862a3": {
       "Token Name": "Dalarnia (DAR)"
     },
-    "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3": {
-      "Token Name": "Hxro (HXRO)"
-    },
     "0x25f8087ead173b73d6e8b84329989a8eea16cf73": {
       "Token Name": "Yield Guild Games Token (YGG)"
     },
     "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b": {
       "Token Name": "THE TRUTH (UFO)"
+    },
+    "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3": {
+      "Token Name": "Hxro (HXRO)"
     },
     "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97": {
       "Token Name": "Gods Unchained (GODS)"
@@ -93,11 +93,11 @@
     "0x4b520c812e8430659fc9f12f6d0c39026c83588d": {
       "Token Name": "Decentral Games (DG)"
     },
-    "0x9fa69536d1cda4a04cfb50688294de75b505a9ae": {
-      "Token Name": "DeRace Token (DERC)"
-    },
     "0x1e0b2992079b620aa13a7c2e7c88d2e1e18e46e9": {
       "Token Name": "KOMPETE Token (KOMPETE)"
+    },
+    "0x9fa69536d1cda4a04cfb50688294de75b505a9ae": {
+      "Token Name": "DeRace Token (DERC)"
     },
     "0xe0c05ec44775e4ad62cdc2eecdf337aa7a143363": {
       "Token Name": "Mancium (MANC)"
@@ -111,14 +111,14 @@
     "0xf6e06b54855eff198a2d9a8686113665499a6134": {
       "Token Name": "Celestial (Celt)"
     },
+    "0x0c572544a4ee47904d54aaa6a970af96b6f00e1b": {
+      "Token Name": "Wasder Token (WAS)"
+    },
     "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a": {
       "Token Name": "BetProtocolToken (BEPRO)"
     },
     "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4": {
       "Token Name": "Chain Games (CHAIN)"
-    },
-    "0x0c572544a4ee47904d54aaa6a970af96b6f00e1b": {
-      "Token Name": "Wasder Token (WAS)"
     },
     "0x3Dd98C8A089dBCFF7e8FC8d4f532BD493501Ab7F": {
       "Token Name": "TownCoin (TOWN)"
@@ -132,20 +132,20 @@
     "0x1e2f15302b90edde696593607b6bd444b64e8f02": {
       "Token Name": "Shiryo-Inu (Shiryo-Inu)"
     },
-    "0x4da0c48376c277cdbd7fc6fdc6936dee3e4adf75": {
-      "Token Name": "Epik Prime (EPIK)"
-    },
     "0xee573a945b01b788b9287ce062a0cfc15be9fd86": {
       "Token Name": "Exeedme (XED)"
     },
     "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373": {
       "Token Name": "GAMEE (GMEE)"
     },
-    "0x728f30fa2f100742c7949d1961804fa8e0b1387d": {
-      "Token Name": "GamerCoin (GHX)"
+    "0x4da0c48376c277cdbd7fc6fdc6936dee3e4adf75": {
+      "Token Name": "Epik Prime (EPIK)"
     },
     "0x23894DC9da6c94ECb439911cAF7d337746575A72": {
       "Token Name": "Geojam (JAM)"
+    },
+    "0x728f30fa2f100742c7949d1961804fa8e0b1387d": {
+      "Token Name": "GamerCoin (GHX)"
     },
     "0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec": {
       "Token Name": "vEmpire Gamer Token (VEMP)"
@@ -159,11 +159,11 @@
     "0x1c9922314ed1415c95b9fd453c3818fd41867d0b": {
       "Token Name": "TOWER (TOWER)"
     },
-    "0x0b8057C3Cc676C329c25C1d0Cd27776efA73762d": {
-      "Token Name": "Megaweapon ($WEAPON)"
-    },
     "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102": {
       "Token Name": "SIDUS (SIDUS)"
+    },
+    "0x0b8057C3Cc676C329c25C1d0Cd27776efA73762d": {
+      "Token Name": "Megaweapon ($WEAPON)"
     },
     "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43": {
       "Token Name": "ChainGuardians Governance Token (CGG)"
@@ -180,14 +180,14 @@
     "0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef": {
       "Token Name": "Dogs Of Elon (DOE)"
     },
-    "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71": {
-      "Token Name": "KleeKai (KLEE)"
+    "0x94E9EB8b5Ab9fd6B9ea3169D55FFAde62a01702e": {
+      "Token Name": "BreederDAO (BREED)"
     },
     "0x8bbe1a2961B41340468D0548c2cd5B7DFA9b684c": {
       "Token Name": "Handy Token (HANDY)"
     },
-    "0x94E9EB8b5Ab9fd6B9ea3169D55FFAde62a01702e": {
-      "Token Name": "BreederDAO (BREED)"
+    "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71": {
+      "Token Name": "KleeKai (KLEE)"
     },
     "0x60eb57d085c59932d5faa6c6026268a4386927d0": {
       "Token Name": "LOCGame (LOCG)"
@@ -207,23 +207,23 @@
     "0x20a8cec5fffea65be7122bcab2ffe32ed4ebf03a": {
       "Token Name": "DinoX Coin (DNXC)"
     },
-    "0x88a9a52f944315d5b4e917b9689e65445c401e83": {
-      "Token Name": "Fear NFTs (FEAR)"
-    },
     "0x34Be5b8C30eE4fDe069DC878989686aBE9884470": {
       "Token Name": "SENATE (SENATE)"
     },
+    "0x88a9a52f944315d5b4e917b9689e65445c401e83": {
+      "Token Name": "Fear NFTs (FEAR)"
+    },
     "0xa41f142b6eb2b164f8164cae0716892ce02f311f": {
       "Token Name": "Avocado DAO Token (AVG)"
-    },
-    "0xc86817249634ac209bc73fca1712bbd75e37407d": {
-      "Token Name": "1-UP (1-UP)"
     },
     "0x7ae1d57b58fa6411f32948314badd83583ee0e8c": {
       "Token Name": "Paper (PAPER)"
     },
     "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0": {
       "Token Name": "Crowns (CWS)"
+    },
+    "0xc86817249634ac209bc73fca1712bbd75e37407d": {
+      "Token Name": "1-UP (1-UP)"
     },
     "0xd567b5f02b9073ad3a982a099a23bf019ff11d1c": {
       "Token Name": "Game Coin (GAME)"
@@ -234,11 +234,11 @@
     "0xeA068Fba19CE95f12d252aD8Cb2939225C4Ea02D": {
       "Token Name": "Fief (FIEF)"
     },
-    "0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15": {
-      "Token Name": "Katana Inu (KATA)"
-    },
     "0x9b20dabcec77f6289113e61893f7beefaeb1990a": {
       "Token Name": "Fair Token (FAIR)"
+    },
+    "0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15": {
+      "Token Name": "Katana Inu (KATA)"
     },
     "0x60f5672a271c7e39e787427a18353ba59a4a3578": {
       "Token Name": "PIKA (PIKA)"
@@ -285,14 +285,14 @@
     "0x02f2d4a04e6e01ace88bd2cd632875543b2ef577": {
       "Token Name": "PKG Token (PKG)"
     },
-    "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0": {
-      "Token Name": "AnRKey X ($ANRX)"
-    },
     "0x20a68f9e34076b2dc15ce726d7eebb83b694702d": {
       "Token Name": "Defiville Island Token (ISLA)"
     },
     "0xc50ef449171a51fbeafd7c562b064b6471c36caa": {
       "Token Name": "Zombie Inu (ZINU)"
+    },
+    "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0": {
+      "Token Name": "AnRKey X ($ANRX)"
     },
     "0x198a87b3114143913d4229fb0f6d4bcb44aa8aff": {
       "Token Name": "snowball (SNBL)"
@@ -302,9 +302,6 @@
     },
     "0xa8262eb913fccea4c3f77fc95b8b4043b384cfbb": {
       "Token Name": "Krypton (KGC)"
-    },
-    "0x2bdc0d42996017fce214b21607a515da41a9e0c5": {
-      "Token Name": "SkinCoin (SKIN)"
     },
     "0x7E43581b19ab509BCF9397a2eFd1ab10233f27dE": {
       "Token Name": "BitGuild PLAT (PLAT)"
@@ -318,6 +315,9 @@
     "0x14da7b27b2e0fedefe0a664118b0c9bc68e2e9af": {
       "Token Name": "Blockchain Cuties Universe Governan... (BCUG)"
     },
+    "0x2bdc0d42996017fce214b21607a515da41a9e0c5": {
+      "Token Name": "SkinCoin (SKIN)"
+    },
     "0xdef1da03061ddd2a5ef6c59220c135dec623116d": {
       "Token Name": "Lepricon (L3P)"
     },
@@ -327,11 +327,11 @@
     "0x9b68bfae21df5a510931a262cecf63f41338f264": {
       "Token Name": "Decent.Bet (DBET)"
     },
-    "0xd26a9c3437f7d121098c8c05c7413f5cc70bb070": {
-      "Token Name": "Azuma coin (AZUM)"
-    },
     "0xd3c00772b24d997a812249ca637a921e81357701": {
       "Token Name": "WILD Token (WILD)"
+    },
+    "0xd26a9c3437f7d121098c8c05c7413f5cc70bb070": {
+      "Token Name": "Azuma coin (AZUM)"
     },
     "0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7": {
       "Token Name": "ShowHand (HAND)"
@@ -354,1346 +354,1346 @@
     "0x67a9099f0008c35c61c00042cd9fb03684451097": {
       "Token Name": "GAMESTARS TOKEN (GST)"
     },
-    "0xb55c5cac5014c662fdbf21a2c59cd45403c482fd": {
-      "Token Name": "Clovers (CLV)"
-    },
-    "0x552d72f86f04098a4eaeda6d7b665ac12f846ad2": {
-      "Token Name": "Dark Winds First Edition Cards (Rev... (DW1STR)"
-    },
-    "0x54b8e638aa2c7a6040f2820f8118237a7bfa0c0d": {
-      "Token Name": "GhostBlade Inu (GhostBlade)"
-    },
-    "0xf5774f42b28f35429aac35f8eb57541c511fdd49": {
-      "Token Name": "Arch Crypton Game (ARCG)"
-    },
-    "0xc328520a8b1cead2489d59c16b7752cb60ebb53d": {
-      "Token Name": "Neon District Game Item (NDITEM)"
-    },
-    "0xf56408077487cb879c992909c5b5c66d68c02eb4": {
-      "Token Name": "RIOT (RIOT)"
-    },
-    "0x976d071D737E90fDe3bf98C0b98362D81121F2f1": {
-      "Token Name": "HONOR (HONOR)"
-    },
-    "0xA4B37d6C9E087317bE73C39B826189a1F6F8a6D8": {
-      "Token Name": "Gridcraft Network Genesis Identitie... (GEN0IDENT)"
-    },
-    "0x02Eca910CB3A7D43eBC7e8028652ed5C6b70259B": {
-      "Token Name": "Pteria (PTERIA)"
-    },
-    "0x8937041c8c52a78c25aa54051f6a9dada23d42a2": {
-      "Token Name": "McDonaldsCoin (MCDC)"
-    },
-    "0x444d6088b0f625f8c20192623b3c43001135e0fa": {
-      "Token Name": "Crown Capital (CROWN)"
-    },
-    "0x47e67ba66b0699500f18a53f94e2b9db3d47437e": {
-      "Token Name": "PlayGame (PXG)"
-    },
-    "0x05732b6d78591e75b31022d71e55aa810498a5a4": {
-      "Token Name": "SHiBGOTCHi (SHiBGOTCHi)"
-    },
-    "0x8a832faC3370e9D63Eff426a4B7A296d00AB1836": {
-      "Token Name": "Booty (BOOTY)"
-    },
-    "0xd73d8A44fd42b1a4b3a89c8a54f2bba3867A91be": {
-      "Token Name": "Hackers (HACKERS)"
-    },
-    "0x355a824bea1adc22733978a3748271e1bbb34130": {
-      "Token Name": "NEPT (NEPT)"
-    },
-    "0x78326406102c6b8667e529f784e19b55492434ca": {
-      "Token Name": "DOG (DOG)"
-    },
-    "0x19e22a73a046f19ecb51a46ace4ca7a4bb7c20c6": {
-      "Token Name": "Evolution Land Water (HHO)"
-    },
-    "0x981dc247745800bd2ca28a4bf147f0385eaa0bc0": {
-      "Token Name": "NutsDAO (NUTS)"
-    },
-    "0xc24b2dbd1fe3efaa503947650cb4a569e79bb6bb": {
-      "Token Name": "Fish (FISH)"
-    },
-    "0xde3d505d7ca3f6184632a223f904e38978cdebe7": {
-      "Token Name": "Gravity Collision (GRAV-C)"
-    },
-    "0x425c5b7b55f9c981c71935418ed044e79d8080e2": {
-      "Token Name": "Mad Hatter Society (MADHAT)"
-    },
-    "0x660aed4Dbe105B5F981b905b15F2564eDE42cB2F": {
-      "Token Name": "Evalanche (EVA)"
-    },
-    "0xca808163a4d0c5d0960d2a604b598db70fd84b80": {
-      "Token Name": "AWARS (AWARS)"
-    },
-    "0xa299df5d0368b75ed5230363a01a81add1151483": {
-      "Token Name": "KillingChainToken (KCT)"
-    },
-    "0x921a5dce3dfed5cccfbb2e593f2978533bc66110": {
-      "Token Name": "Worldopoly (WPT)"
-    },
-    "0x98c36c0e953463bd5146c8783ce081ce1d187acf": {
-      "Token Name": "Polyient Games Unity (PGU)"
-    },
-    "0xd324ba09f83a109da048001bbfb0e84c9733150e": {
-      "Token Name": "FlyGuyz (FLYY)"
-    },
-    "0x39Ea10E507720783C27eDd5F96Bf2D6e199579B8": {
-      "Token Name": "DeltaFlare (HONR)"
-    },
-    "0x5f17452c0b9c42ea2481ac6614f7e34cf44dcfe0": {
-      "Token Name": "HarborBcg:Treasure (HBGT)"
-    },
-    "0xf55Dc9bD4B04AF73599dF11087EcFB9bE7906CB5": {
-      "Token Name": "iDosGamesToken (IGT)"
-    },
-    "0x434EA2FE3C2570f2207a69da1C788B5aC7BBf931": {
-      "Token Name": "Monkey Pox Inu (MONKEY)"
-    },
-    "0x9f4909Cc95FB870BF48C128C1Fdbb5F482797632": {
-      "Token Name": "Guzzler (GZLR)"
-    },
-    "0xffdf17652cca46eb98a214cb3e413c8661241e49": {
-      "Token Name": "CryptoBeasties Token (CRYB)"
-    },
-    "0x01485E923e51F6ABb2b48aAa310d357B429Ba263": {
-      "Token Name": "Cyborx (CYBRX)"
-    },
-    "0xa4c7963b98838e8f958cf7b87a039249044fe2db": {
-      "Token Name": "LogiTron (LTR)"
-    },
-    "0x3F382DbD960E3a9bbCeaE22651E88158d2791550": {
-      "Token Name": "Aavegotchi GHST Token (GHST)"
-    },
-    "0x5fCCE8Ab5500ed68fF5d6d75aF1071195215D97E": {
-      "Token Name": "DozerDoll (Rare Key)"
-    },
-    "0x29c56e7cb9c840d2b2371b17e28bab44ad3c3ead": {
-      "Token Name": "EsportsPro (ESPRO)"
-    },
-    "0x1451D88E3a8bBb7f2DfB575054Cf4a78DbBF79E8": {
-      "Token Name": "KeyWords (KW)"
-    },
-    "0xd5b89d470a8cec0d3d2bd2fa31fd5df33b2e3f97": {
-      "Token Name": "BitSport (BFI)"
-    },
-    "0x995a6c0944322b7285d0712824acf0cf9bf3993a": {
-      "Token Name": "First Ever NFT (FEN)"
-    },
-    "0xd6e68a5e3f7db9980ba26e0ed8d32e231f510752": {
-      "Token Name": "Brunhilda Magilda 'The Beheadress' (MAB005)"
-    },
-    "0x291de53a16b76dfe28551fd3335225f506db8b82": {
-      "Token Name": "0xGold Token (0xGOLD)"
-    },
-    "0xc5807256e2e2fe85ca94c3617c4bc5ff2bd9cfb6": {
-      "Token Name": "DragonSeriesToken (DST)"
-    },
-    "0x36919a60a2B67B6d2329863093D180d23d5A0308": {
-      "Token Name": "Kusunoki Samurai (Kusunoki)"
-    },
-    "0x422b727F3d39F655Fa71cF9510c4Ae5f7c13F5c9": {
-      "Token Name": "Hot Potato (HOTP)"
-    },
-    "0x4e650fa414f9915929bca3e82f5b831a921e76ad": {
-      "Token Name": "GamyFi (GFX)"
-    },
-    "0xd919fD88d44F6500cd33B534D27E367a950ef5A3": {
-      "Token Name": "Loot Token (LOOT)"
-    },
-    "0x0e71d89e7921a78569ecb882c044a0b21df8307d": {
-      "Token Name": "The Greedy Machines vol. 2 (BMINE)"
-    },
-    "0x8c9b261faef3b3c2e64ab5e58e04615f8c788099": {
-      "Token Name": "LucidSight-MLB-NFT (MLBCB)"
-    },
-    "0x7d92a06808b4c4833623f809218ed403e4a85fe1": {
-      "Token Name": "Universe Crystal Gene (UCG)"
-    },
-    "0xed9535442796ad645398d29472868e3ffb9c7158": {
-      "Token Name": "Inugami World (GAMI)"
-    },
-    "0x301c755ba0fca00b1923768fffb3df7f4e63af31": {
-      "Token Name": "Global Digital Content (GDC)"
-    },
-    "0x9eaa67cdabe53187fc1cb65125e24d6e45e53d12": {
-      "Token Name": "Melee Game (MELEE)"
-    },
-    "0x61e90a50137e1f645c9ef4a0d3a4f01477738406": {
-      "Token Name": "League of Kingdoms Arena (LOKA)"
-    },
-    "0xBd13e53255eF917DA7557db1B7D2d5C38a2EFe24": {
-      "Token Name": "DozerDoll (Dozer)"
-    },
-    "0xFAb5a05C933f1A2463E334E011992E897D56eF0a": {
-      "Token Name": "DeFi Of Thrones (DoTx)"
-    },
-    "0xdc32ff5aada11b5ce3caf2d00459cfda05293f96": {
-      "Token Name": "Angel Battle Token (ABT)"
-    },
-    "0xc70be5b7c19529ef642d16c10dfe91c58b5c3bf0": {
-      "Token Name": "Mythereum Card (CARD)"
-    },
-    "0x0A199B98fF450bBc883671382B21BDA3FA44b4Ae": {
-      "Token Name": "Game Ace Token Extended (GATe)"
-    },
-    "0x9b7615bBfF436AA8FD4839644720d6Ae55a8b0d0": {
-      "Token Name": "Protonaut (PRN)"
-    },
-    "0xc03844f07f86ad1d90a1c4a2a8204dcf00f3a991": {
-      "Token Name": "BFH:Sphere (BFHS)"
-    },
-    "0x8ea01766a118e9bcb6032dc9b3da66b80fe1c31c": {
-      "Token Name": "ONBUFF INNO Newton Token (NEWTON)"
-    },
-    "0xca7b3ba66556c4da2e2a9afef9c64f909a59430a": {
-      "Token Name": "WOLVERINU (WOLVERINU)"
-    },
-    "0x238f2d6787dacb6045d72b0ec6626de0ff7c3107": {
-      "Token Name": "Neon District Radiant Blade (NDRB)"
-    },
-    "0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a": {
-      "Token Name": "EthermonToken (EMON)"
-    },
-    "0xaaf9a8ecb475cf7207b7bc19b523d7fa1e99b922": {
-      "Token Name": "TuckerInu (TUCKERINU)"
-    },
-    "0xe8ae4bfd7521d26283bc14f2395675144aa65e6d": {
-      "Token Name": "Atmos - MKIV Datacard (MKIVDatacard)"
-    },
-    "0x96c520A79bf62C955Eaa044f600f67e3eCfeff52": {
-      "Token Name": "LAND Token (LAND)"
-    },
-    "0x0818000b9194ce99c3c0f12c2ec8c96077b6c72b": {
-      "Token Name": "Hodlberg (HDLBRG)"
-    },
-    "0x33e18a092a93ff21ad04746c7da12e35d34dc7c4": {
-      "Token Name": "Metaverse NFT Index (PLAY)"
-    },
-    "0x03b155af3f4459193a276395dd76e357bb472da1": {
-      "Token Name": "Swace (SWACE)"
-    },
-    "0x87be7f119ca6748b340153269736446ec225e309": {
-      "Token Name": "Crypto Slicer (CSS)"
-    },
-    "0x44cbf53666ee06327869ff06a10205f83c76ac58": {
-      "Token Name": "FantasyHeroes (HEROES)"
-    },
-    "0x85892dd8186e31f0e43a1f2c547f950c39b46703": {
-      "Token Name": "JPEG.LAND (JPEG)"
-    },
-    "0x35d112044D174Dd16Fee24d5C5CaB24F4f81cB41": {
-      "Token Name": "Wonder Game (WONDER)"
-    },
-    "0xd4b784ae5c12153d11ca55853d832d2a2d514a08": {
-      "Token Name": "Evolution Land Wood (WOOD)"
-    },
-    "0x6e975115250b05c828ecb8ededb091975fc20a5d": {
-      "Token Name": "MetaUnit (MEU)"
-    },
-    "0x50b0B64648B93790418B1d9B36b160E2F0713E0B": {
-      "Token Name": "DAR BattleVerse Pass (DBVP)"
-    },
-    "0x60CA261e14F26e8daaE8B1a7F8e783D64859126c": {
-      "Token Name": "STONK (STONK)"
-    },
-    "0x222728c202e7164dfbd127181d46409338c4328e": {
-      "Token Name": "MIND Token (MIND)"
-    },
-    "0xAE36155a55F04a696b8362777620027882B31dB5": {
-      "Token Name": "Kishimoto (KISHIMOTO)"
-    },
-    "0xd84b1488499d1c95febcda2210cb6592085a9f24": {
-      "Token Name": "HarborBcg:MarineChart (HBGM)"
-    },
-    "0x3a275655586a049fe860be867d10cdae2ffc0f33": {
-      "Token Name": "EtherFreakers (EFKR)"
-    },
-    "0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c": {
-      "Token Name": "Zum Token (ZUM)"
-    },
-    "0xf4f618eff5ef36cde2fca4fbd86554c62fb1382b": {
-      "Token Name": "Astra Guild Ventures Token (AGV)"
-    },
-    "0x87d598064c736dd0c712d329afcfaa0ccc1921a1": {
-      "Token Name": "CryptoFighters (CF)"
-    },
-    "0x80DBBdcB4280030Fb22E2a9d671A368211D49D6e": {
-      "Token Name": "Undead Blocks Weapon Loadouts (LOADOUT)"
-    },
-    "0xf26a23019b4699068bb54457f32dafcf22a9d371": {
-      "Token Name": "CryptoDerby-Horse (CDH)"
-    },
-    "0xacc5193408f99bb4a8991e0ea6adee15d7035c56": {
-      "Token Name": "Spellsword (SPELLS)"
-    },
-    "0x7031AB87DCC46818806EC07aF46fa8c2aD2A2BFC": {
-      "Token Name": "Tribute (TRBT)"
-    },
-    "0xB06Ece7B0D5399eA0C381985f69585FDC355C5E4": {
-      "Token Name": "DozerDoll (Unique Key)"
-    },
-    "0xa3d59c6d24f428dcfedc09724869e7af4d281fdd": {
-      "Token Name": "DeviantsFactions (DEV)"
-    },
-    "0xf460d98a3517b45edd8063dd3847de92a8038aa2": {
-      "Token Name": "MetaShooter (MHUNT)"
-    },
-    "0xC8cf9b8CCFb4c53C052427E98669ff28B6f7e301": {
-      "Token Name": "SUPER MARIO (MARIO)"
-    },
-    "0x37632d10812637f96405FFD78d9512791747282c": {
-      "Token Name": "BRADS (BRDS)"
-    },
-    "0x95e5c1a25732ce86c349081d8a04c15a96afe887": {
-      "Token Name": "Pixel Verse (PIXEL)"
-    },
-    "0xa97b23e944d56a5063cb018eb14ca11ff0c1c1f7": {
-      "Token Name": "'Berserk' Bern Nicklebock (MAB001)"
-    },
-    "0x143653338a0598090e3cd9944590a268524b2d4c": {
-      "Token Name": "EOT (EOT)"
-    },
-    "0xbf5496122cf1bb778e0cbe5eab936f2be5fc0940": {
-      "Token Name": "FundToken (FUNDZ)"
-    },
-    "0x821144518dfE9e7b44fCF4d0824e15e8390d4637": {
-      "Token Name": "ATIS Token (ATIS)"
-    },
-    "0x60a995cebcd44ca566ae22a9666ed28c67b598a1": {
-      "Token Name": "HARDCORE hcore.finance (HCORE)"
-    },
-    "0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17": {
-      "Token Name": "Dubbz (Dubbz)"
-    },
-    "0xbb1f24c0c1554b9990222f036b0aad6ee4caec29": {
-      "Token Name": "CryptoSoul (SOUL)"
-    },
-    "0x7Db73E3b4703F9c51650cd154669432B90EA8E38": {
-      "Token Name": "CryptoCossacks2022 (CC2022)"
-    },
-    "0xf203ca1769ca8e9e8fe1da9d147db68b6c919817": {
-      "Token Name": "Wrapped NCG (WNCG)"
-    },
-    "0x0794ce7d4459105926da230f318c1e34bc790517": {
-      "Token Name": "RankingBall Gold (RBG)"
-    },
-    "0xb7de92be975ccb27e7352a1d47512acbdb0bac32": {
-      "Token Name": "Space Mine (MINE)"
-    },
-    "0x047686fb287e7263a23873dea66b4501015a2226": {
-      "Token Name": "Cute Coin (CUTE)"
-    },
-    "0xB0BFB1E2F72511cF8b4D004852E2054d7b9a76e1": {
-      "Token Name": "Streamix (MIXS)"
-    },
-    "0x25741f5f2dbdde9cfd38f73be7052ec03b0e9d85": {
-      "Token Name": "Neon District Founder Key (NDKEY0)"
-    },
-    "0x3c5610de60b9154410332c5d4614246f9ef129f0": {
-      "Token Name": "GemeGen (GGEN)"
-    },
-    "0xdfdd3459d4f87234751696840092ee20c970fb07": {
-      "Token Name": "Myōbu (MYOBU)"
-    },
-    "0xa14c04dea16798aa8f25b1da583cd5fbbfd6579e": {
-      "Token Name": "Polychain Monsters Land Genesis Tok... (PMLG)"
-    },
-    "0xed95fb27d335033c982921ccd39bcda3f995974b": {
-      "Token Name": "Undra (UNDRA)"
-    },
-    "0x067a1eb5e383ed24b66d72aaf80d8d7db3d299a8": {
-      "Token Name": "Sandbox's ASSETs (ASSET)"
-    },
-    "0xafee04257f9ef008bc4a66e3fcf247680f3c787e": {
-      "Token Name": "BlockchainCuties (CUTIE)"
-    },
-    "0x05215596ae84f77BcceA28f4769d8ED6B2dADb6c": {
-      "Token Name": "NoriGO! (NORI)"
-    },
-    "0x2b867efD2dE4Ad2B583Ca0CB3dF9C4040Ef4D329": {
-      "Token Name": "LuckyBlock (LBlock)"
-    },
-    "0x5A786c7A80E43CA4EF36C34A2296c377b1C21D8D": {
-      "Token Name": "AWW.GAMES (AWW)"
-    },
-    "0xd4b55f3b0b03b9b84f22bac300c4ef5a537dc614": {
-      "Token Name": "Dreams Quest (DREAMS)"
-    },
-    "0xda38f3d22402d3e8b604a484c981d89190beff08": {
-      "Token Name": "Spades Coin (SPADE)"
-    },
-    "0xcec38306558a31cdbb2a9d6285947c5b44a24f3e": {
-      "Token Name": "Fantasy Sports (DFS)"
-    },
-    "0x71fc1f555a39e0b698653ab0b475488ec3c34d57": {
-      "Token Name": "Rainmaker Games (RAIN)"
-    },
-    "0x3a7011e7e2b32c2b52f7de1294ff35d6ff20310f": {
-      "Token Name": "Storyverse Plot (PLOT)"
-    },
-    "0xdceaf1652a131F32a821468Dc03A92df0edd86Ea": {
-      "Token Name": "MyCryptoHeroes:Extension (MCHE)"
-    },
-    "0xcc4ae94372da236e9b113132e0c46c68704246b9": {
-      "Token Name": "TAGBOND (TAG)"
-    },
-    "0xcca3e26be51b8905f1a01872524f17eb55bd02fb": {
-      "Token Name": "Parabolic (PARA)"
-    },
-    "0x29f0253a0ff526e88ed4376d684b077f353c2523": {
-      "Token Name": "HeroesOfCrypto Token (HERO)"
-    },
-    "0x0c4a49567cf002a99941cb19c973e794c04b8c30": {
-      "Token Name": "Big Bank Theory (BBT)"
-    },
-    "0xb019ae5c952fa5440e3778a3951cc14c3fe34a3f": {
-      "Token Name": "Battle Credits (BATL)"
-    },
-    "0x4E114d405b9Ba2F59524941733e505Ae03Fb1FB5": {
-      "Token Name": "Joystick (JOY)"
-    },
-    "0x95014fD5c9Afa80a0aE0F2F0A4f588A0E7803555": {
-      "Token Name": "OasisGame (OSG)"
-    },
-    "0x67cbbb366a51fff9ad869d027e496ba49f5f6d55": {
-      "Token Name": "CryptoSpells (CSPL)"
-    },
-    "0xcfbc9103362aec4ce3089f155c2da2eea1cb7602": {
-      "Token Name": "CryptoCrystal (CC)"
-    },
-    "0x30cF203b48edaA42c3B4918E955fED26Cd012A3F": {
-      "Token Name": "Seed (SEED)"
-    },
-    "0xf2c6024111254249571e404a88f2f4f5e577afaf": {
-      "Token Name": "2048 (TWO)"
-    },
-    "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003": {
-      "Token Name": "Mythos (MYTH)"
-    },
-    "0x592eec79662c9237814a1ca010a358f1adad1ff6": {
-      "Token Name": "Desert Token (DTT)"
-    },
-    "0x4c6443be69aac659db8874d9fa566f7ec4a85342": {
-      "Token Name": "BuilderCoin (BLDR)"
-    },
-    "0x288F9a192207bC59230204655b12CCd83cEb74Dc": {
-      "Token Name": "Unissou (YTG)"
-    },
-    "0x34e6cd323936cb643b731836a37698a7f4e36255": {
-      "Token Name": "Cypher (CYPX)"
-    },
-    "0xad5f6cdda157694439ef9f6dd409424321c74628": {
-      "Token Name": "Fewmans (FEW)"
-    },
-    "0x296233E84c1D7bfF11121BF6D60f0FFA39C3f0cf": {
-      "Token Name": "No one (NOONE)"
-    },
-    "0x3085154623f51b00dedfc6ceeb5197277a66b17b": {
-      "Token Name": "NFTY Token (NFTY)"
-    },
-    "0x273f7f8e6489682df756151f5525576e322d51a3": {
-      "Token Name": "MyCryptoHeroes:Hero (MCHH)"
-    },
-    "0x4086e77c5e993fdb90a406285d00111a974f877a": {
-      "Token Name": "Blockchain Brawlers Token (BRWL)"
-    },
-    "0x27ad8e47c48063b209fa5ca14c8c46ece49b82d2": {
-      "Token Name": "Active World Rewards Token (AWRT)"
-    },
-    "0x4A0eEdF6e95581CdA46A767E612e83731C0cD418": {
-      "Token Name": "WINSSHI (WNS)"
-    },
-    "0xba7a1265933be28ee36841f8c2170d51688b365d": {
-      "Token Name": "MCP Pack (MCPP)"
-    },
-    "0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa": {
-      "Token Name": "Mintopoly Money (MM)"
-    },
-    "0xf7f6dee46c6bdcf32c14a825f3a714262960c361": {
-      "Token Name": "EtherTulips (TULIP)"
-    },
-    "0x0e3c91ed7d966ff1f7b58ab739a55e3c4473cd27": {
-      "Token Name": "Piranhas ($PIR)"
-    },
-    "0x2223bf1d7c19ef7c06dab88938ec7b85952ccd89": {
-      "Token Name": "Kryxivia Coin (KXA)"
-    },
-    "0x9363e6eadf5e307b96f26dfd94f355b95a0e2498": {
-      "Token Name": "Vestoria (VSTR)"
-    },
-    "0x625d64c3384aa6d6841a1608ae0ce48776981d38": {
-      "Token Name": "SmartHoldem (STH)"
-    },
-    "0x6b82788c1655cf8709c1b4b0639ec2874db623e2": {
-      "Token Name": "YearnCasino (YRNC)"
-    },
-    "0xdb4d1099d53e92593430e33483db41c63525f55f": {
-      "Token Name": "Joystick Games (JOY)"
-    },
-    "0xe0c3223ae0cb8b5a47ff7f4994f5fbcde58496f8": {
-      "Token Name": "BuschCoin (BUC)"
-    },
-    "0x09f098b155d561fc9f7bccc97038b7e3d20baf74": {
-      "Token Name": "ZooDAO (ZOO)"
-    },
-    "0xeef37d7bd4ae03fd8ee1c44491987e422b53ed25": {
-      "Token Name": "KryptoPets (KPETS)"
-    },
-    "0xefbE739c5B999C5Bca13be7Bb238610a3A8Fec93": {
-      "Token Name": "HAKURYU ($RYU)"
-    },
-    "0xa58b5224e2fd94020cb2837231b2b0e4247301a6": {
-      "Token Name": "Cryptovoxel Wearables (WEAR)"
-    },
-    "0x94fDc7F01E4BCa71fA6Ad004A448C7666BA82218": {
-      "Token Name": "ChunkPassport (CHUNKPASSPORT)"
-    },
-    "0x508626d9a29D13EbA26F843A2BD7bF7b00a45be5": {
-      "Token Name": "Kale Currency (KALE)"
-    },
-    "0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD": {
-      "Token Name": "WAX Economic Token (WAXE)"
-    },
-    "0x672EF7E4Fe230B5cA1466C5fDD40588d30FdF90a": {
-      "Token Name": "Wolves Of Wall Street (WOWS)"
-    },
-    "0xecb0598b8081fbecd6ee101a299a898ff3f34faa": {
-      "Token Name": "DopeWarz (DWZ)"
-    },
-    "0xbbcb004A6B8C8e2dDfd989d571EFa224a1eca3Fc": {
-      "Token Name": "Gamearound Genesis Guild (GEN)"
-    },
-    "0xd6076efe1e577deec21afab6ed383b47e9d8dec6": {
-      "Token Name": "ExperimentalNFT (e11nft)"
-    },
-    "0x65b7ccb6d45fe35325c1dfe6dc1a1bcf6c3a5926": {
-      "Token Name": "Get Luck Coin (GLC)"
-    },
-    "0x1d036Bbb3535a112186103a51A93B452307Ebd30": {
-      "Token Name": "obscurityDAO (OBSC)"
-    },
-    "0xa59e341e8047498700eD244814b01b34547fb21B": {
-      "Token Name": "Medal of Honour (MOH)"
-    },
-    "0xf9027c902095e5f5c038c256579ca433c4dbdc96": {
-      "Token Name": "Pika Finance (PIKA)"
-    },
-    "0x32176455bea5fd4fd305efbd55a45bf2f8e92380": {
-      "Token Name": "The MERGE (MERGE)"
-    },
-    "0x4f3303332750c82415ddf88796DDA8526390eDE5": {
-      "Token Name": "General Virtual Token (GVT)"
-    },
-    "0x992bce7898c806403e26aa02a5add90882d482cb": {
-      "Token Name": "DMarket NFT Swap (DM NFT)"
-    },
-    "0x79ebbf7dd79683b0583fac96b5b6e77e2d08b631": {
-      "Token Name": "WWIN (WWIN)"
-    },
-    "0xeb2ed9a5c7a8491b4faf987196baa50ee0855241": {
-      "Token Name": "Invictus (INV)"
-    },
-    "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437": {
-      "Token Name": "GAME Credits (GAME)"
-    },
-    "0x45e42D659D9f9466cD5DF622506033145a9b89Bc": {
-      "Token Name": "Nexium (NxC)"
-    },
-    "0xb045f7f363fe4949954811b113bd56d208c67b23": {
-      "Token Name": "Silk (SILK)"
-    },
-    "0xf7aa404bae09ad87660f84487526b5ae6961841b": {
-      "Token Name": "Coins & Steel Exclusive Item Skin (C&SSkin)"
-    },
-    "0xdfd8d604951ebf1b2297285f1b68de140c43992b": {
-      "Token Name": "Metasens Universal Unit (MSU)"
-    },
-    "0xb29663Aa4E2e81e425294193616c1B102B70a158": {
-      "Token Name": "Ludena Protocol (LDN)"
-    },
-    "0x6ac665c0de9a6ca72b85757b141aa9c428828aca": {
-      "Token Name": "ROGUE (ROGUE)"
-    },
-    "0x3B604747ad1720C01ded0455728b62c0d2F100F0": {
-      "Token Name": "WAGMI GAMES (WAGMIGAMES)"
-    },
-    "0x2653891204f463fb2a2f4f412564b19e955166ae": {
-      "Token Name": "Gold Fever Native Gold (NGL)"
-    },
-    "0xa98ad92a642570b83b369c4eb70efefe638bc895": {
-      "Token Name": "Fishbank (FISH)"
-    },
     "0x0c4ba8e27e337c5e8eac912d836aa8ed09e80e78": {
       "Token Name": "HeroInfinity Token (HRI)"
-    },
-    "0x6fa769eed284a94a73c15299e1d3719b29ae2f52": {
-      "Token Name": "BFH:Unit (BFHU)"
-    },
-    "0x1276dce965ada590e42d62b3953ddc1ddceb0392": {
-      "Token Name": "Neon District In-Game Item (NDIGI)"
-    },
-    "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca": {
-      "Token Name": "REVV (REVV)"
-    },
-    "0x98ff4553a3dcbf5e4ff8b5d4cc6fb763b6f20174": {
-      "Token Name": "MCP Resource (MCPR)"
-    },
-    "0x05030203674173fa6df6f9f7e34d6e70e9a761d7": {
-      "Token Name": "Muverse Token (MU)"
-    },
-    "0x837704ec8dfec198789baf061d6e93b0e1555da6": {
-      "Token Name": "Evaverse (EVA)"
-    },
-    "0x1ae15c5c21fe5aa1cc24b1c5cdaff07736cb9c3f": {
-      "Token Name": "Afflarium (AFF)"
-    },
-    "0x134a99F72ef7CC733dE8c5d5fB464f5e24a699a7": {
-      "Token Name": "Gempire.io (GEMS)"
-    },
-    "0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970": {
-      "Token Name": "NEVERDIE (NDC)"
-    },
-    "0x1c4b7d0e1885bd7667af3378e0c538f74e712006": {
-      "Token Name": "IOGToken (IOG)"
-    },
-    "0x07221DE6714a6599Bc43331972390781D39C1063": {
-      "Token Name": "DigiBitties 1337 Collection (DB1)"
-    },
-    "0x69fe11b042789bc6e2fdaad064afd32bb298ae05": {
-      "Token Name": "TheRedOrder (ORDR)"
-    },
-    "0x3392d8a60b77f8d3eaa4fb58f09d835bd31add29": {
-      "Token Name": "IndiGG (INDI)"
-    },
-    "0x358dba28848cca268ba8a76b65e5b3ef9ef92238": {
-      "Token Name": "Evolution Land Gold (GOLD)"
-    },
-    "0xaad05381e621226e2951b3256d7aca6912cbda6a": {
-      "Token Name": "COINDOGS (DOG)"
-    },
-    "0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef": {
-      "Token Name": "PlayFuel (PLF)"
-    },
-    "0x56214525566c9f8dcbbd17a108690162476426fa": {
-      "Token Name": "Mintopoly Cards (MC)"
-    },
-    "0xf7a6e15dfd5cdd9ef12711bd757a9b6021abf643": {
-      "Token Name": "CryptoBots (CBT)"
-    },
-    "0x1e498ebc4c2f9c97909eab69d761c3aed22c629a": {
-      "Token Name": "Inu Game Platform (IGP)"
-    },
-    "0x5330A5805b9Db68EbCF5247BbC9097163c1c2442": {
-      "Token Name": "Exchage Payment Coin (EXP)"
-    },
-    "0x14c4293d7e7325cec8c52cea3df37d91aa9cc7b6": {
-      "Token Name": "CryptoServalGame (CSG)"
-    },
-    "0x21a2755513e4dfd4e72ad46a3e699e5f08f4710f": {
-      "Token Name": "Smile Coin (SMILE)"
-    },
-    "0xf991405e647ec2ad874e6fdf645ddfa8ad9ad227": {
-      "Token Name": "War Riders Garage Property Title (NFTPT)"
-    },
-    "0x8b0b0e6bc81bc0595fd59c014a1c5a5d6e70d730": {
-      "Token Name": "Edelweiss (EDEL)"
-    },
-    "0xd8c1232fcd219286e341271385bd70601503b3d7": {
-      "Token Name": "Dogira (DOGIRA)"
-    },
-    "0x8C0b5D2b6F128944695C03a53ED899e6035F6d75": {
-      "Token Name": "Dragon Master Token (DMT)"
-    },
-    "0x0f3b491841680eb40bd2be42bce7104f2511dbd9": {
-      "Token Name": "Battle Racers Part (BRPART)"
-    },
-    "0x49EE64Bc2b365E1e1Aad0e4f31Bd46B3806ab325": {
-      "Token Name": "Kaiju Legends (KAIJU)"
-    },
-    "0x62d3c05b9c3d916fbc111819bbd3cee52906c1ae": {
-      "Token Name": "EVERY GAME (EGAME)"
-    },
-    "0x48cf0E2eCA22EAe0AD33feE16A5CB6E62207A8Ab": {
-      "Token Name": "YTHO (YTHO)"
-    },
-    "0xc7d8d51367582900aca9b555b32571a72ebf3c6d": {
-      "Token Name": "MZW collectible (MZW)"
-    },
-    "0x8399A671f4e629d44cFf8dd1E676501a8B507F0F": {
-      "Token Name": "CryptoGamesToken (CGT)"
-    },
-    "0x997080b8ee7d75fba23f3ec794df99da646c87ec": {
-      "Token Name": "ESTONN (ESTN)"
-    },
-    "0x1b5242794288b45831ce069c9934a29b89af0197": {
-      "Token Name": "CryptoSaga Card (CARD)"
-    },
-    "0x7aF89c8A06719271A96e62E290Ea9Ed192E73FC1": {
-      "Token Name": "Gold mining Members (GMM)"
-    },
-    "0xB1A30851E3f7d841b231B086479608e17198363A": {
-      "Token Name": "HOMEROS (HMR)"
-    },
-    "0x113981fc4770e7042c8899785C236DE2AD12fAea": {
-      "Token Name": "Minato (Minato)"
-    },
-    "0x71AD3c0D535bbc60f699CC320e2F5CdE315A9781": {
-      "Token Name": "Prey (PREY)"
-    },
-    "0x205ed31c867bf715e4182137af95afe9177cd8e7": {
-      "Token Name": "DEFY (DEFY)"
-    },
-    "0x2c33f2501f83dbf43c9ef6378a5c902e724a4a6a": {
-      "Token Name": "Chow Chow (CHOW)"
-    },
-    "0x2c88aa0956bc9813505d73575f653f69ada60923": {
-      "Token Name": "Land (LAND)"
-    },
-    "0xBEDE1F59Fa4412556fEF69f1B9969F2003E3f8c1": {
-      "Token Name": "Meta MVRS (MVRS)"
-    },
-    "0x10a7ecf97c46e3229fe1b801a5943153762e0cf0": {
-      "Token Name": "NFTegg Series #1 (NFTeGG)"
-    },
-    "0x3930e4ddb4d24ef2f4cb54c1f009a3694b708428": {
-      "Token Name": "GameFanz (GFN)"
-    },
-    "0x48fbff00e8ebc90c118b44b3d96b915e48656a73": {
-      "Token Name": "Nirvana Meta coin (MNU)"
-    },
-    "0x009D0eF900757D6894682491d9918B15b23aA2ec": {
-      "Token Name": "Metahermia Token (HERMIA)"
-    },
-    "0x72DC3D52b7EF107a7CFFb6953eaa8A2aD6a204Cd": {
-      "Token Name": "SOUL (SOUL)"
-    },
-    "0x823556202e86763853b40e9cde725f412e294689": {
-      "Token Name": "Altered State Machine Utility Token (ASTO)"
-    },
-    "0x9680223f7069203e361f55fefc89b7c1a952cdcc": {
-      "Token Name": "Inventory (ITEM)"
-    },
-    "0x9F7c7EDCE870bBFbff46466E9979F8c6D73474ba": {
-      "Token Name": "Wild Wars Game (WILDWARS)"
-    },
-    "0x0111ac7e9425c891f935c4ce54cf16db7c14b7db": {
-      "Token Name": "Chainbreakers Items (CBI)"
-    },
-    "0x4cc46a45b49a5073a6c1e0636cbad48efa35cdd3": {
-      "Token Name": "24K GAMES (24K)"
-    },
-    "0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217": {
-      "Token Name": "PYRO Network (PYRO)"
-    },
-    "0xa5522d6137ece774e8084bbf9c34398192ccdca5": {
-      "Token Name": "CYN-COIN (CYNC)"
-    },
-    "0x4889F721f80C5E9fadE6Ea9B85835D405D79a4f4": {
-      "Token Name": "Mafia.Network (MAFI)"
-    },
-    "0x2594d80da5f2e4f742d1e479eb9408aad132d0bd": {
-      "Token Name": "MCP Appliance (MCPA)"
-    },
-    "0x2a6d6a082c410a195157ec4caf67cb9fd718f087": {
-      "Token Name": "Spider Tanks (-)"
-    },
-    "0x06b1b815138ff3188ec38a26a13676d5a1069952": {
-      "Token Name": "Eva Turtle (TRTL)"
-    },
-    "0x382f0160c24f5c515a19f155bac14d479433a407": {
-      "Token Name": "Klee Kai (KLEE)"
-    },
-    "0x52D1D1c87eB75a5D695bFfA343CaC71222cD518E": {
-      "Token Name": "ASLTToken (ASLT)"
-    },
-    "0x089a6d83282fb8988a656189f1e7a73fa6c1cac2": {
-      "Token Name": "Prospectors Gold (PGL)"
-    },
-    "0xe8a1df958be379045e2b46a31a98b93a2ecdfded": {
-      "Token Name": "ESZCoin (ESZ)"
-    },
-    "0x9332dfc361763d58565139da819c86e773e17249": {
-      "Token Name": "Uniplay (UNP)"
-    },
-    "0xA5f1460CB7A55e537006FB90234ea45Ae35eA752": {
-      "Token Name": "IN GAME CREDIT (INGAME)"
-    },
-    "0xc36cf0cfcb5d905b8b513860db0cfe63f6cf9f5c": {
-      "Token Name": "Town Star (-)"
-    },
-    "0xb6fc94476f0a7e5a1a623bb8514e2cffca7c51f7": {
-      "Token Name": "GAME GOLD (GGOLD)"
-    },
-    "0x66f73d0fd4161cfad4302dc145ff994375c13475": {
-      "Token Name": "DEXGame (DXGM)"
-    },
-    "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d": {
-      "Token Name": "Axie (AXIE)"
-    },
-    "0x96062f59c0afcdc4467a7b63cf68dd6ac28fcfc8": {
-      "Token Name": "SHIBAYC (SBAYC)"
-    },
-    "0x8bc67d00253fd60b1afcce88b78820413139f4c6": {
-      "Token Name": "CryptoFlowers (CF)"
-    },
-    "0xaE727b5242B662bC0B9e71B2E24546B21E931251": {
-      "Token Name": "CacaDragon (CDR)"
-    },
-    "0x9d3e0892D11f19f5181d4a4C5d04187a9e0d7032": {
-      "Token Name": "Dragonbit (DRGB)"
-    },
-    "0x3a1957a0b9755d78c77e301410b254b6147a400c": {
-      "Token Name": "CryptoServal (CS)"
-    },
-    "0xf841d292c1141cbf1460a1e2010916565a010cc8": {
-      "Token Name": "Amongus.finance (AMONG)"
-    },
-    "0x8dc89f4716e027394bba225b82328c1ea2ea58bf": {
-      "Token Name": "Galaxy Villains (GVC)"
-    },
-    "0xa4cdb589ae568df05130f5edd8d3b01b83bfd319": {
-      "Token Name": "Utopeon (UTCR)"
-    },
-    "0xA16AB7dC3C7dc55aA0a59726144dcc4Bc30822c7": {
-      "Token Name": "Chic-A-Dee EGGS (EGGS)"
-    },
-    "0x9eFdFC77017cB9b878300eCdcA21fAB0529a22A0": {
-      "Token Name": "AKITSUKI (AKI)"
-    },
-    "0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc": {
-      "Token Name": "ZED RUN (ZED)"
-    },
-    "0x00b8a4698970ad1d724360804E2864785A4BB1A5": {
-      "Token Name": "VegasONE (VOC)"
-    },
-    "0x06904a21f2db805487fcbdc3b3fe9607daaa5d54": {
-      "Token Name": "Moonray (MNRY)"
-    },
-    "0xb140A429c342083E97Daf42d5D82634bd7Ade7d4": {
-      "Token Name": "WAX Governance Token (WAXG)"
-    },
-    "0x38118BDB3B480F570837A4c2e88faC6E83BE6689": {
-      "Token Name": "Werewolf Coin (WWC)"
-    },
-    "0xe7f7526c4818b272f91f22f8b46af5b425b13b7f": {
-      "Token Name": "Dirty Dollarz (DDZ)"
-    },
-    "0xf1ac7a375429719de0dde33528e2639b9a206eba": {
-      "Token Name": "AMGO - Arena Match Gold (AMGO)"
-    },
-    "0x86e4dc25259ee2191cd8ae40e1865b9f0319646c": {
-      "Token Name": "CryptoRome-Land-NFT (CRLAND)"
-    },
-    "0xC5bcc8BA3F33Ab0d64f3473e861BDC0685b19Ef5": {
-      "Token Name": "Mechanium ($MECHA)"
-    },
-    "0xC7F2723B64d88f4D14f0bEb2e9Ffce78795bbCc6": {
-      "Token Name": "Doshi (DOSHI)"
-    },
-    "0x44d2d740a5e346a66dd7c7e6919814a44441a64c": {
-      "Token Name": "MetaKitties (MetKit)"
-    },
-    "0xF76f2D211568f0d5755a4F1c8758FAcA32969c37": {
-      "Token Name": "Project Feenix (Feenix)"
-    },
-    "0xff5C69e8edc6446a1898698adCf9B1149d5E0306": {
-      "Token Name": "Kishimoto redux (KISHIBURNO)"
-    },
-    "0x012b0ce33060c496d4c3cebccb77cee6ef19d4f2": {
-      "Token Name": "Yandex (Yandex)"
-    },
-    "0xbda2481db91fc0f942ed3f53de378ba45ba9d17e": {
-      "Token Name": "Farmer (FARMER)"
-    },
-    "0xb21508cc2d034f62ded2e9f68121e736f2ac86b3": {
-      "Token Name": "Yummy Animal Cookies (YAC)"
-    },
-    "0x2369686fC9FB6E1fDc46541891568c2f341906eF": {
-      "Token Name": "Drakoin (DRK)"
-    },
-    "0x675ce995953136814cb05aaaa5d02327e7dc8c93": {
-      "Token Name": "BLUEBAIKAL (BBC)"
-    },
-    "0x6e4c6d9b0930073e958abd2aba516b885260b8ff": {
-      "Token Name": "Influence Asteroids (INFA)"
-    },
-    "0x49ceb57714000f18f3749cf2d130e135f9c473a4": {
-      "Token Name": "ASOBI COIN (ABX)"
-    },
-    "0x2c0da41c89adb5a1d4430e5761b9b400911426b0": {
-      "Token Name": "DAMA Token (DAMA)"
-    },
-    "0x2c9c19ce3b15ae77c6d80aec3c1194cfd6f7f3fa": {
-      "Token Name": "2CrazyToken (2CRZ)"
-    },
-    "0x14a4123da9ad21b2215dc0ab6984ec1e89842c6d": {
-      "Token Name": "Evolution Land Objects (EVO)"
-    },
-    "0x73da6c5f616eb9d8a3b3a4bb920365edef8af4e4": {
-      "Token Name": "IMMOPET TOKEN (IMPT)"
-    },
-    "0xb30f5d11b94efbbfdeaa4de38edffceec0be6513": {
-      "Token Name": "Play It Forward DAO (PIF)"
-    },
-    "0x7c99dedb1dd8b9c9b12a8043c569988c3f881550": {
-      "Token Name": "Vegas City Land Lease (VCLL)"
-    },
-    "0xf766b3e7073f5a6483e27de20ea6f59b30b28f87": {
-      "Token Name": "Ether Kingdoms Items (IMPi)"
-    },
-    "0x49cfeba167474e6b151a20f80f9906454574ce78": {
-      "Token Name": "O-Bot Game (OBGame)"
-    },
-    "0xa8abf045fe1a9ef0583e436393a6e4e0b483f717": {
-      "Token Name": "CryptoSpells:Guild (CSPL)"
-    },
-    "0xfb6ca216c08178f218c0b3983f81e066cb946199": {
-      "Token Name": "fantaCoin (FTC)"
-    },
-    "0x535bfc6883442f2ebe26171c2716cb25b623792c": {
-      "Token Name": "Dissolution (DIS)"
-    },
-    "0xF2BA4AFcBE22F0e626d67D8f31E96428706282e9": {
-      "Token Name": "Golder Coin (GLDR)"
-    },
-    "0xf06059f01f6f08a603c939359a0a1186f7687685": {
-      "Token Name": "MCP Citizen (MCPC)"
-    },
-    "0x631473485618e7fa0d777df30a41cff63f807d7d": {
-      "Token Name": "Joy City (NJOY)"
-    },
-    "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569": {
-      "Token Name": "Kapital DAO Token (KAP)"
-    },
-    "0x75ABDbc10eEEe99CF708D3273e34de3c161428E4": {
-      "Token Name": "CryptoWars Token (CWT)"
-    },
-    "0x5dbe296f97b23c4a6aa6183d73e574d02ba5c719": {
-      "Token Name": "Level-Up Coin (LUC)"
-    },
-    "0x9f599410d207f3d2828a8712e5e543ac2e040382": {
-      "Token Name": "Tapcoin (TTT)"
-    },
-    "0x01b6d39746cce500b70cfb242dcc5f7596b11e41": {
-      "Token Name": "SHIBAFRIEND NFT (SFT)"
-    },
-    "0x299698B4B44BD6d023981A7317798dEe12860834": {
-      "Token Name": "New Frontier Presents (NFP)"
-    },
-    "0xB7BC7B0A32455F7e7A924f832ca4F0a0ac3b6B88": {
-      "Token Name": "WarLordToken (WLT)"
-    },
-    "0x696130b71078f832db460b09d0470ae759160c75": {
-      "Token Name": "Polyn Token (POLYN)"
-    },
-    "0x7fdcd2a1e52f10c28cb7732f46393e297ecadda1": {
-      "Token Name": "HyperDragons (HD)"
-    },
-    "0x5c2fCe5a43A56FC158a5a86CAc4FCC4fBDc577F4": {
-      "Token Name": "MemeForce ($MF)"
-    },
-    "0x7ca121b093e2fbd4bb9a894bd5ff487d16f1f83b": {
-      "Token Name": "LORDLESS TOKEN (LESS)"
-    },
-    "0x33be7644c0e489b3a0c639d103392d4f3e338158": {
-      "Token Name": "MarvelousNFT (MNFT)"
-    },
-    "0x056354F3Ff20743aa4c0DA365603871c7000b081": {
-      "Token Name": "TriumphX (TRIX)"
-    },
-    "0xc617d51e3a1f621da8ae67b2f652d6ac02eb8d95": {
-      "Token Name": "Hoard Token (HRD)"
-    },
-    "0xa0343ed4f61e131d8b9738d810f0aaafa346d305": {
-      "Token Name": "Gold of Skulls (GSK)"
-    },
-    "0x3a4cab3dcfab144fe7eb2b5a3e288cc03dc07659": {
-      "Token Name": "fantomGO (FTG)"
-    },
-    "0x5a8Bf274976345b79eedb5D8C31FA8687cc60a21": {
-      "Token Name": "SPACELON (SPACELON)"
-    },
-    "0x0cca2f5561bb0fca88e5b9b48b7fbf000349c357": {
-      "Token Name": "Zodium (ZODI)"
-    },
-    "0x6Fa0952355607dFB2d399138B7fE10EB90F245e4": {
-      "Token Name": "Clash Token (SCT)"
-    },
-    "0x77609d4F3ae31382389374101Aca6108D95b093A": {
-      "Token Name": "BetSwirl Token (BETS)"
-    },
-    "0xf6b6aa0ef0f5edc2c1c5d925477f97eaf66303e7": {
-      "Token Name": "Going Gems (XGG)"
-    },
-    "0x8bcb64bfda77905398b67af0af084c744e777a20": {
-      "Token Name": "GameCell (GCC)"
-    },
-    "0xb622400807765e73107B7196F444866D7EdF6f62": {
-      "Token Name": "Heros Token (HEROS)"
-    },
-    "0x1Cf974dc858f3ED0b713C6E22E761C93264F7d49": {
-      "Token Name": "Fragmented Soul Founders (FSF)"
-    },
-    "0x2186ecb39f1b765ba7d78f1c43c2e9d7fc0c1eca": {
-      "Token Name": "MyCryptoPlay (MCP)"
-    },
-    "0xcbfd3340a21694ecd3812ff6affc4dec9dc2c6dc": {
-      "Token Name": "Dunes (Dunes)"
-    },
-    "0x9df4ac60379c6dc2b295ea04cf80dd60dca99944": {
-      "Token Name": "Mythic Finance (MYTHIC)"
-    },
-    "0xe4eb6085899a836abd083fad566ac74f05974947": {
-      "Token Name": "Vreo Token (VREO)"
-    },
-    "0x71c118b00759b0851785642541ceb0f4ceea0bd5": {
-      "Token Name": "Chibi Fighters (CBF)"
-    },
-    "0xbb2dba1176d9f49d7bfdd4400c5e44427610f91f": {
-      "Token Name": "DCITY World (DCITY)"
-    },
-    "0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43": {
-      "Token Name": "Elementeum (ELET)"
-    },
-    "0xb5be7557fe8f69a2B5707D25fA0aeE80DfDA512E": {
-      "Token Name": "PolysportsToken (PS1)"
-    },
-    "0x7237c0b30b1355f1b76355582f182f6f04b08740": {
-      "Token Name": "MetaGaming Guild (MGG)"
-    },
-    "0x992D339532A9C42F1b0E59A57e95F38da38c66F6": {
-      "Token Name": "SOUL TOKEN (SOUL)"
-    },
-    "0xcecc56c442790e3c43eb33a3265eb3f7ffac1c39": {
-      "Token Name": "Skyfin (SKYF)"
-    },
-    "0xd832d3b46e70c7b8b9de15715c9c119b0fa99280": {
-      "Token Name": "Nannda Token (NDT)"
-    },
-    "0x6F66f3012E0210baBD2384e31863C30f70356237": {
-      "Token Name": "LasMeta (LASM)"
-    },
-    "0x3218A02F8F8B5c3894ce30EB255F10Bcba13E654": {
-      "Token Name": "MegaCryptoPolis $MEGA Token (MEGA) (MEGA)"
-    },
-    "0xacf8d5e515ed005655dfefa09c22673a37a7cdee": {
-      "Token Name": "FunFi (FNF)"
-    },
-    "0x62450755160E9347DcF947da31AcC841E9668443": {
-      "Token Name": "Iscariot (BLZ)"
-    },
-    "0x0e2d93f7d50844a5203eb3dc9c5860f970ba5664": {
-      "Token Name": "eByte Token (EBYTE)"
-    },
-    "0xf1acfb5d95bc090bc55d8ae58a8df4081d73e009": {
-      "Token Name": "Codyfight Token (CTOK)"
-    },
-    "0x497a9a79e82e6fc0ff10a16f6f75e6fcd5ae65a8": {
-      "Token Name": "Ragnarok (RONIN)"
-    },
-    "0x2e7570255ac8c449217fb15405fac01f5408d114": {
-      "Token Name": "CryptoRomeCenturion (CROMEC)"
-    },
-    "0x464fdb8affc9bac185a7393fd4298137866dcfb8": {
-      "Token Name": "REALM (REALM)"
-    },
-    "0x51bc0deaf7bbe82bc9006b0c3531668a4206d27f": {
-      "Token Name": "RAKUN (RAKU)"
-    },
-    "0x42900c80b2dd3e7eacd493dd5c117fc26108c009": {
-      "Token Name": "Ether Legends (ELET)"
-    },
-    "0xCE242415649c20729403b5B8ce2639660976b40e": {
-      "Token Name": "Oolong token (OLT)"
-    },
-    "0x2dcd837f43f44a9d42e44055fd04ba96887d6464": {
-      "Token Name": "Space Crowns (SMC)"
-    },
-    "0x1320994fa466e19f17b143995999c7275eae50e1": {
-      "Token Name": "Evolution Land Silicon (SIOO)"
-    },
-    "0xd8d178802785f5e84e5d7d5e1a9636305559d7cd": {
-      "Token Name": "HIGHMONKEY (HMOK)"
-    },
-    "0xDb240eb055AdC53389ceA9345a32e27dFA243ed0": {
-      "Token Name": "MZWars (MZW)"
-    },
-    "0x56f123785b54978c6c0b117f15d3ee69eb9bf6c8": {
-      "Token Name": "MCP Pet (MCPP)"
-    },
-    "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7": {
-      "Token Name": "reflect.finance (RFI)"
-    },
-    "0x6aedbf8dff31437220df351950ba2a3362168d1b": {
-      "Token Name": "Dragonglass (DGS)"
-    },
-    "0xe638dc39b6adbee8526b5c22380b4b45daf46d8e": {
-      "Token Name": "Gizer Gaming Token (GZR)"
-    },
-    "0xd2727e4259BBa31955FD582986334AEA4fBA8C52": {
-      "Token Name": "BLOOD (BLOOD)"
-    },
-    "0x9690b63Eb85467BE5267A3603f770589Ab12Dc95": {
-      "Token Name": "ForgottenRunesWarriorsGuild (WARRIORS)"
-    },
-    "0x5548498f6ae923f590cd1a1cec8d39e1f9363104": {
-      "Token Name": "Engos (ENGOS)"
-    },
-    "0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf": {
-      "Token Name": "Wrapped Origin Axie (WOA)"
-    },
-    "0xaa665fc881a87b7b194e7422b22e8e6867dd77d7": {
-      "Token Name": "iFARM MANOR (IFARM)"
-    },
-    "0xaC0968a3E2020aC8ca83e60CcF69081EBc6d3bC3": {
-      "Token Name": "CINDRUM (CIND)"
-    },
-    "0x181d4d65045d371cd84af8c2bbf3affd8da56477": {
-      "Token Name": "DAGEN lifeDAO (DAGEN)"
-    },
-    "0xb8d1098d65e60881ef540402e59f352a177b8ce4": {
-      "Token Name": "HYPE (HYPENFT)"
-    },
-    "0x4fece400c0d3db0937162ab44bab34445626ecfe": {
-      "Token Name": "ETH.TOWN Hero (HERO)"
-    },
-    "0xcd17fa52528f37facb3028688e62ec82d9417581": {
-      "Token Name": "Materium (MTRM)"
-    },
-    "0x617913dd43dbdf4236b85ec7bdf9adfd7e35b340": {
-      "Token Name": "MyCryptoHeroes:Land (MCHL)"
-    },
-    "0xB6203D403D02198835406f76A7C9624F267Cb71A": {
-      "Token Name": "METAHERMIA (HERMIA)"
-    },
-    "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30": {
-      "Token Name": "Vidya (VIDYA)"
-    },
-    "0xbc5370374fe08d699cf7fcd2e625a93bf393ccc4": {
-      "Token Name": "Nifty Football Trading Card (NFTFC)"
-    },
-    "0xb628Bc994e39CE264ECa6f6EE1620909816A9F12": {
-      "Token Name": "Purpose (PRPS)"
-    },
-    "0xB4feDc003053C22ac8b808Bb424f3e1787f30cF2": {
-      "Token Name": "NRJJungleVIBES (NRJJV)"
-    },
-    "0x60177e2985b04911dffe1387265ec33a0c11895f": {
-      "Token Name": "DragonSB (SB)"
-    },
-    "0x986aea67c7d6a15036e18678065eb663fc5be883": {
-      "Token Name": "NiftyDegen (DEGEN)"
-    },
-    "0x7d5121505149065b562c789a0145ed750e6e8cdd": {
-      "Token Name": "Victoria VR (VR)"
-    },
-    "0x5a14fe6923e767A8238f29d3E1FB1a913975F0d7": {
-      "Token Name": "PWAY (PWAY)"
-    },
-    "0x456125cd98107ae0480ba566f1b716d48ba31453": {
-      "Token Name": "Ultimate Champions Token (CHAMP)"
-    },
-    "0xaC0741127CAC11E4455C7943b654bcCeD7FDD5A4": {
-      "Token Name": "Ejoy Coin (EJOY)"
-    },
-    "0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab": {
-      "Token Name": "Gods Unchained (GODS)"
-    },
-    "0x1fB1bee30809D9aA447A1d96aD7D6BBAEf9eBcDf": {
-      "Token Name": "Kylithius (KTS)"
-    },
-    "0x26205D189Cbf0b4d0e1d4eCce3307aBc75B49196": {
-      "Token Name": "YF Dice (YFD)"
-    },
-    "0xf66ad2b8d4e143e30d12b8738b86bf9da201d45f": {
-      "Token Name": "LamboToken (LAMBO)"
-    },
-    "0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7": {
-      "Token Name": "Loot (LOOT)"
-    },
-    "0x71dc40668682a124231301414167e4cf7f55383c": {
-      "Token Name": "Mimir Token (MIMIR)"
-    },
-    "0x8c55b18e6bb7083b29102e57c34d0c3124c0a952": {
-      "Token Name": "PlanetCrypto (PTC)"
-    },
-    "0x586dae24dd99ac8a240cc475b052a9f737808073": {
-      "Token Name": "GoE.GG/Genesis (GoE.Genesis)"
-    },
-    "0x5cc5b05a8a13e3fbdb0bb9fccd98d38e50f90c38": {
-      "Token Name": "Sandbox's LANDs (LAND)"
-    },
-    "0x790bfacae71576107c068f494c8a6302aea640cb": {
-      "Token Name": "Crypto Boss Coin (CBC)"
-    },
-    "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": {
-      "Token Name": "Axie Infinity Shard (AXS)"
-    },
-    "0x6b7734c5ecc51116b806e2ea6decbb3b97f4f92e": {
-      "Token Name": "CRUISEBIT ERC223 (CRBT)"
-    },
-    "0xabc7e6c01237e8eef355bba2bf925a730b714d5f": {
-      "Token Name": "CryptoSaga Hero (HERO)"
-    },
-    "0x5d8038644608d1f849ed2c6863a2ea667e53371a": {
-      "Token Name": "INUGAMI (INUGAMI)"
-    },
-    "0x886f3689f1fa1d483b83fa5cf96f30fa6c73a0e8": {
-      "Token Name": "ORE Forge (OREF)"
-    },
-    "0x0e3a2a1f2146d86a604adc220b4967a898d7fe07": {
-      "Token Name": "Gods Unchained Cards (CARD)"
-    },
-    "0x0AAbCC65Ef352AD84b1326dF188c95b6Ab856c1C": {
-      "Token Name": "Scorefam (SFT)"
-    },
-    "0x53821B9EF069CB6eb360B09480953bF737e2e013": {
-      "Token Name": "MultiPlanetary Inus (INUS)"
-    },
-    "0x438295B5082Dc6a0cc50960E3513D5D7F23405C4": {
-      "Token Name": "Dr.Ji (Dr.Ji)"
-    },
-    "0x46a0A4840B496C8E8fd034c99840F578FD842341": {
-      "Token Name": "TRVBPToken (TRVBP)"
-    },
-    "0xB825a0CB3b663E4e483a46352AE3B7e98268cEB6": {
-      "Token Name": "Hero (HERO)"
-    },
-    "0x16b9805a107d0c2803d1f995f68379b975a970d2": {
-      "Token Name": "TKFR (TKFR)"
-    },
-    "0x7c5ff719a6c76fe643e9ecd0f11f146a2de05f14": {
-      "Token Name": "GaneshaToken (GNSH)"
-    },
-    "0xc1ADf61b3A61a2a09fb763ce81f105D60EE6EcEf": {
-      "Token Name": "WlunaRichGang (WRG)"
-    },
-    "0x27460aac4b005de72e2326bd8391c27fb41780f8": {
-      "Token Name": "JustBet (WINR)"
-    },
-    "0x27c743954bce1bfaef8bcbd685527531001d88d7": {
-      "Token Name": "Blockium Token (BOK)"
-    },
-    "0xF6269e2e0C271fb6AF35E7f8a539EbC7155E33bb": {
-      "Token Name": "HAYFEVER (HAY)"
-    },
-    "0x2F6Ad7743924B1901a0771746152dde44C5F11DE": {
-      "Token Name": "SCARDust (SCARD)"
-    },
-    "0xe60d2325f996e197eedded8964227a0c6ca82d0f": {
-      "Token Name": "CryptoRome-Land-NFT (CRLAND)"
-    },
-    "0xcaf187eb618d2335b4130d784a697be96f4b07b9": {
-      "Token Name": "Terra (TVA)"
-    },
-    "0x0c5dee00b946a477ebcf24c6a94a634eb1d2808b": {
-      "Token Name": "CryptoGamers Member (CGM)"
-    },
-    "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c": {
-      "Token Name": "ISKRA TOKEN (ISK)"
-    },
-    "0x8469a695d70033ecd170c82be1253842162aa77e": {
-      "Token Name": "Evolution Land Fire (FIRE)"
-    },
-    "0x3b525ecde940e0e8687C91Ddd861e3c6bae40131": {
-      "Token Name": "Elob Munk (ELOB)"
-    },
-    "0xfdd4E938Bb067280a52AC4e02AaF1502Cc882bA6": {
-      "Token Name": "EarnBet Token (BET)"
-    },
-    "0x4b94c8567763654101f690cf4d54957206383b75": {
-      "Token Name": "NEOWORLD CASH (NASH)"
-    },
-    "0x80a84a3508aa58521344311c428d88e6d0baabef": {
-      "Token Name": "ULAND HEROES DAPP (UHD)"
-    },
-    "0x1a403e1c96792dfedb8232cf56400eb72ab95acb": {
-      "Token Name": "Saltmarble (SML)"
-    },
-    "0x625A748b2f2D1E8A325Fd6Fb71d3989f5C8724ff": {
-      "Token Name": "CLASH (CLASH)"
-    },
-    "0x71ab77b7dbb4fa7e017bc15090b2163221420282": {
-      "Token Name": "Highstreet token (HIGH)"
-    },
-    "0xd51e852630debc24e9e1041a03d80a0107f8ef0c": {
-      "Token Name": "ORIUM (ORM)"
-    },
-    "0xA8155cf81AdAa78f9ceC69d698Be1859D4F3BF3B": {
-      "Token Name": "HEL Games (Hel)"
-    },
-    "0x790540ff6117205ac6ef132a5782ba4f4a611355": {
-      "Token Name": "Dogioh Token (Dogioh)"
-    },
-    "0xED7Fa212E100DFb3b13B834233E4B680332a3420": {
-      "Token Name": "Street Cred (CRED)"
-    },
-    "0xca1024b60b00bbd8b5c278f3bbd65b40aab4e837": {
-      "Token Name": "TotalKnockOut (TKO)"
-    },
-    "0x2cc768c4bd51641c545c5463617d36ea0aaf6053": {
-      "Token Name": "Epher (EPH)"
-    },
-    "0x3e5a19c91266ad8ce2477b91585d1856b84062df": {
-      "Token Name": "Ancient8 (A8)"
-    },
-    "0x2d6e10561b320c4f31a903bf0fa92a1ed58637c0": {
-      "Token Name": "War Riders Gun (WRG)"
-    },
-    "0xfcad2859f3e602d4cfb9aca35465a618f9009f7b": {
-      "Token Name": "Dragonereum Egg (EGG)"
-    },
-    "0x4b20d07da954ba6735a57b253e0653b1b0e89cc5": {
-      "Token Name": "NVA (NVA)"
-    },
-    "0x960f401aed58668ef476ef02b2a2d43b83c261d8": {
-      "Token Name": "Dragonereum Dragon (DRAGON)"
     },
     "0xa0ccb6BEb58C9ac68Ba2f24F4CE340992e828b29": {
       "Token Name": "Chiaotzu Inu (CHIAO)"
     },
-    "0xB447030C916bA07a5a4AA50a379259E387c48182": {
-      "Token Name": "DozerDoll (Magic Key)"
+    "0x7237c0b30b1355f1b76355582f182f6f04b08740": {
+      "Token Name": "MetaGaming Guild (MGG)"
     },
-    "0xc21dCcA393Fe26D585db6598533b655816A87543": {
-      "Token Name": "RPG 404 (RPG404)"
+    "0x986aea67c7d6a15036e18678065eb663fc5be883": {
+      "Token Name": "NiftyDegen (DEGEN)"
     },
-    "0x12d46d45a7762df53e8c92e43b48ae40e1541f68": {
-      "Token Name": "Coins & Steel Founder Aura (C&SAura)"
+    "0x62d3c05b9c3d916fbc111819bbd3cee52906c1ae": {
+      "Token Name": "EVERY GAME (EGAME)"
     },
-    "0xbfde6246df72d3ca86419628cac46a9d2b60393c": {
-      "Token Name": "EtheremonAdventure (EMOND)"
+    "0xF2BA4AFcBE22F0e626d67D8f31E96428706282e9": {
+      "Token Name": "Golder Coin (GLDR)"
     },
-    "0x06a6a7af298129e3a2ab396c9c06f91d3c54aba8": {
-      "Token Name": "0xUniverse (PLANET)"
+    "0x497a9a79e82e6fc0ff10a16f6f75e6fcd5ae65a8": {
+      "Token Name": "Ragnarok (RONIN)"
     },
-    "0xbdb5e34b656535cc4d459cd2b0fc74a821d4723b": {
-      "Token Name": "WonderGame Metaverse (WGM)"
+    "0xb5be7557fe8f69a2B5707D25fA0aeE80DfDA512E": {
+      "Token Name": "PolysportsToken (PS1)"
     },
-    "0x438691e8d9098dCe98286cbc1c307e660cf0BBD8": {
-      "Token Name": "Be.fan (BFAN)"
+    "0x552d72f86f04098a4eaeda6d7b665ac12f846ad2": {
+      "Token Name": "Dark Winds First Edition Cards (Rev... (DW1STR)"
     },
-    "0xb12F78434AE7D12Ae548c51A5cb734Ecc4536594": {
-      "Token Name": "sLoot (SLOOT)"
+    "0x32176455bea5fd4fd305efbd55a45bf2f8e92380": {
+      "Token Name": "The MERGE (MERGE)"
     },
-    "0x5caebd3b32e210e85ce3e9d51638b9c445481567": {
-      "Token Name": "WarRiders (WR)"
+    "0xfcad2859f3e602d4cfb9aca35465a618f9009f7b": {
+      "Token Name": "Dragonereum Egg (EGG)"
     },
-    "0x97308e05adaf022a33fa6f6f2ce2ec20872d8f69": {
-      "Token Name": "Gramps (GRAMPS)"
+    "0x0e3a2a1f2146d86a604adc220b4967a898d7fe07": {
+      "Token Name": "Gods Unchained Cards (CARD)"
     },
-    "0xf8e34fecd37f261ed8de048c1e62ea058c055cf7": {
-      "Token Name": "Elons Games (E)"
+    "0x2dcd837f43f44a9d42e44055fd04ba96887d6464": {
+      "Token Name": "Space Crowns (SMC)"
     },
-    "0x843131b15f2ec5bea850ac5164d2e4a3749ad87f": {
-      "Token Name": "WOWcoin (WOW)"
+    "0x1e498ebc4c2f9c97909eab69d761c3aed22c629a": {
+      "Token Name": "Inu Game Platform (IGP)"
+    },
+    "0xb628Bc994e39CE264ECa6f6EE1620909816A9F12": {
+      "Token Name": "Purpose (PRPS)"
     },
     "0xb4f74994fcbd60e1bc3603b9a33069ea1b32d4a4": {
       "Token Name": "Only Graded Coin (OGUC)"
     },
+    "0x464fdb8affc9bac185a7393fd4298137866dcfb8": {
+      "Token Name": "REALM (REALM)"
+    },
+    "0xBEDE1F59Fa4412556fEF69f1B9969F2003E3f8c1": {
+      "Token Name": "Meta MVRS (MVRS)"
+    },
+    "0x056354F3Ff20743aa4c0DA365603871c7000b081": {
+      "Token Name": "TriumphX (TRIX)"
+    },
+    "0xbb2dba1176d9f49d7bfdd4400c5e44427610f91f": {
+      "Token Name": "DCITY World (DCITY)"
+    },
+    "0x94fDc7F01E4BCa71fA6Ad004A448C7666BA82218": {
+      "Token Name": "ChunkPassport (CHUNKPASSPORT)"
+    },
+    "0x5caebd3b32e210e85ce3e9d51638b9c445481567": {
+      "Token Name": "WarRiders (WR)"
+    },
+    "0x47e67ba66b0699500f18a53f94e2b9db3d47437e": {
+      "Token Name": "PlayGame (PXG)"
+    },
+    "0x997080b8ee7d75fba23f3ec794df99da646c87ec": {
+      "Token Name": "ESTONN (ESTN)"
+    },
+    "0xcecc56c442790e3c43eb33a3265eb3f7ffac1c39": {
+      "Token Name": "Skyfin (SKYF)"
+    },
+    "0x96c520A79bf62C955Eaa044f600f67e3eCfeff52": {
+      "Token Name": "LAND Token (LAND)"
+    },
+    "0x1451D88E3a8bBb7f2DfB575054Cf4a78DbBF79E8": {
+      "Token Name": "KeyWords (KW)"
+    },
+    "0x95e5c1a25732ce86c349081d8a04c15a96afe887": {
+      "Token Name": "Pixel Verse (PIXEL)"
+    },
+    "0x7c99dedb1dd8b9c9b12a8043c569988c3f881550": {
+      "Token Name": "Vegas City Land Lease (VCLL)"
+    },
+    "0x60CA261e14F26e8daaE8B1a7F8e783D64859126c": {
+      "Token Name": "STONK (STONK)"
+    },
+    "0x617913dd43dbdf4236b85ec7bdf9adfd7e35b340": {
+      "Token Name": "MyCryptoHeroes:Land (MCHL)"
+    },
+    "0xa299df5d0368b75ed5230363a01a81add1151483": {
+      "Token Name": "KillingChainToken (KCT)"
+    },
+    "0x296233E84c1D7bfF11121BF6D60f0FFA39C3f0cf": {
+      "Token Name": "No one (NOONE)"
+    },
+    "0xA8155cf81AdAa78f9ceC69d698Be1859D4F3BF3B": {
+      "Token Name": "HEL Games (Hel)"
+    },
+    "0x39Ea10E507720783C27eDd5F96Bf2D6e199579B8": {
+      "Token Name": "DeltaFlare (HONR)"
+    },
+    "0x843131b15f2ec5bea850ac5164d2e4a3749ad87f": {
+      "Token Name": "WOWcoin (WOW)"
+    },
+    "0x0A199B98fF450bBc883671382B21BDA3FA44b4Ae": {
+      "Token Name": "Game Ace Token Extended (GATe)"
+    },
+    "0x98ff4553a3dcbf5e4ff8b5d4cc6fb763b6f20174": {
+      "Token Name": "MCP Resource (MCPR)"
+    },
+    "0x6b82788c1655cf8709c1b4b0639ec2874db623e2": {
+      "Token Name": "YearnCasino (YRNC)"
+    },
+    "0x8937041c8c52a78c25aa54051f6a9dada23d42a2": {
+      "Token Name": "McDonaldsCoin (MCDC)"
+    },
+    "0x5f17452c0b9c42ea2481ac6614f7e34cf44dcfe0": {
+      "Token Name": "HarborBcg:Treasure (HBGT)"
+    },
+    "0x6ac665c0de9a6ca72b85757b141aa9c428828aca": {
+      "Token Name": "ROGUE (ROGUE)"
+    },
+    "0x66f73d0fd4161cfad4302dc145ff994375c13475": {
+      "Token Name": "DEXGame (DXGM)"
+    },
+    "0x6e975115250b05c828ecb8ededb091975fc20a5d": {
+      "Token Name": "MetaUnit (MEU)"
+    },
+    "0xd4b784ae5c12153d11ca55853d832d2a2d514a08": {
+      "Token Name": "Evolution Land Wood (WOOD)"
+    },
+    "0x425c5b7b55f9c981c71935418ed044e79d8080e2": {
+      "Token Name": "Mad Hatter Society (MADHAT)"
+    },
+    "0xAE36155a55F04a696b8362777620027882B31dB5": {
+      "Token Name": "Kishimoto (KISHIMOTO)"
+    },
+    "0xff5C69e8edc6446a1898698adCf9B1149d5E0306": {
+      "Token Name": "Kishimoto redux (KISHIBURNO)"
+    },
+    "0x37632d10812637f96405FFD78d9512791747282c": {
+      "Token Name": "BRADS (BRDS)"
+    },
+    "0x62450755160E9347DcF947da31AcC841E9668443": {
+      "Token Name": "Iscariot (BLZ)"
+    },
+    "0x12d46d45a7762df53e8c92e43b48ae40e1541f68": {
+      "Token Name": "Coins & Steel Founder Aura (C&SAura)"
+    },
+    "0x36919a60a2B67B6d2329863093D180d23d5A0308": {
+      "Token Name": "Kusunoki Samurai (Kusunoki)"
+    },
+    "0x2d6e10561b320c4f31a903bf0fa92a1ed58637c0": {
+      "Token Name": "War Riders Gun (WRG)"
+    },
+    "0x291de53a16b76dfe28551fd3335225f506db8b82": {
+      "Token Name": "0xGold Token (0xGOLD)"
+    },
+    "0xdb4d1099d53e92593430e33483db41c63525f55f": {
+      "Token Name": "Joystick Games (JOY)"
+    },
+    "0x34e6cd323936cb643b731836a37698a7f4e36255": {
+      "Token Name": "Cypher (CYPX)"
+    },
+    "0x14c4293d7e7325cec8c52cea3df37d91aa9cc7b6": {
+      "Token Name": "CryptoServalGame (CSG)"
+    },
+    "0x0e71d89e7921a78569ecb882c044a0b21df8307d": {
+      "Token Name": "The Greedy Machines vol. 2 (BMINE)"
+    },
+    "0x422b727F3d39F655Fa71cF9510c4Ae5f7c13F5c9": {
+      "Token Name": "Hot Potato (HOTP)"
+    },
+    "0x69fe11b042789bc6e2fdaad064afd32bb298ae05": {
+      "Token Name": "TheRedOrder (ORDR)"
+    },
+    "0xc24b2dbd1fe3efaa503947650cb4a569e79bb6bb": {
+      "Token Name": "Fish (FISH)"
+    },
+    "0x9363e6eadf5e307b96f26dfd94f355b95a0e2498": {
+      "Token Name": "Vestoria (VSTR)"
+    },
+    "0xa4c7963b98838e8f958cf7b87a039249044fe2db": {
+      "Token Name": "LogiTron (LTR)"
+    },
+    "0x53821B9EF069CB6eb360B09480953bF737e2e013": {
+      "Token Name": "MultiPlanetary Inus (INUS)"
+    },
+    "0x06904a21f2db805487fcbdc3b3fe9607daaa5d54": {
+      "Token Name": "Moonray (MNRY)"
+    },
+    "0xDb240eb055AdC53389ceA9345a32e27dFA243ed0": {
+      "Token Name": "MZWars (MZW)"
+    },
+    "0x2F6Ad7743924B1901a0771746152dde44C5F11DE": {
+      "Token Name": "SCARDust (SCARD)"
+    },
+    "0x0AAbCC65Ef352AD84b1326dF188c95b6Ab856c1C": {
+      "Token Name": "Scorefam (SFT)"
+    },
+    "0xc70be5b7c19529ef642d16c10dfe91c58b5c3bf0": {
+      "Token Name": "Mythereum Card (CARD)"
+    },
+    "0x49ceb57714000f18f3749cf2d130e135f9c473a4": {
+      "Token Name": "ASOBI COIN (ABX)"
+    },
+    "0x2c88aa0956bc9813505d73575f653f69ada60923": {
+      "Token Name": "Land (LAND)"
+    },
+    "0xffdf17652cca46eb98a214cb3e413c8661241e49": {
+      "Token Name": "CryptoBeasties Token (CRYB)"
+    },
+    "0xf5774f42b28f35429aac35f8eb57541c511fdd49": {
+      "Token Name": "Arch Crypton Game (ARCG)"
+    },
+    "0x0c5dee00b946a477ebcf24c6a94a634eb1d2808b": {
+      "Token Name": "CryptoGamers Member (CGM)"
+    },
+    "0x96062f59c0afcdc4467a7b63cf68dd6ac28fcfc8": {
+      "Token Name": "SHIBAYC (SBAYC)"
+    },
+    "0x61e90a50137e1f645c9ef4a0d3a4f01477738406": {
+      "Token Name": "League of Kingdoms Arena (LOKA)"
+    },
+    "0x71ab77b7dbb4fa7e017bc15090b2163221420282": {
+      "Token Name": "Highstreet token (HIGH)"
+    },
+    "0xb21508cc2d034f62ded2e9f68121e736f2ac86b3": {
+      "Token Name": "Yummy Animal Cookies (YAC)"
+    },
+    "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30": {
+      "Token Name": "Vidya (VIDYA)"
+    },
+    "0x886f3689f1fa1d483b83fa5cf96f30fa6c73a0e8": {
+      "Token Name": "ORE Forge (OREF)"
+    },
+    "0x49EE64Bc2b365E1e1Aad0e4f31Bd46B3806ab325": {
+      "Token Name": "Kaiju Legends (KAIJU)"
+    },
+    "0x8c9b261faef3b3c2e64ab5e58e04615f8c788099": {
+      "Token Name": "LucidSight-MLB-NFT (MLBCB)"
+    },
+    "0xf1ac7a375429719de0dde33528e2639b9a206eba": {
+      "Token Name": "AMGO - Arena Match Gold (AMGO)"
+    },
+    "0x4cc46a45b49a5073a6c1e0636cbad48efa35cdd3": {
+      "Token Name": "24K GAMES (24K)"
+    },
+    "0x2223bf1d7c19ef7c06dab88938ec7b85952ccd89": {
+      "Token Name": "Kryxivia Coin (KXA)"
+    },
+    "0xf991405e647ec2ad874e6fdf645ddfa8ad9ad227": {
+      "Token Name": "War Riders Garage Property Title (NFTPT)"
+    },
+    "0x42900c80b2dd3e7eacd493dd5c117fc26108c009": {
+      "Token Name": "Ether Legends (ELET)"
+    },
+    "0x30cF203b48edaA42c3B4918E955fED26Cd012A3F": {
+      "Token Name": "Seed (SEED)"
+    },
+    "0x960f401aed58668ef476ef02b2a2d43b83c261d8": {
+      "Token Name": "Dragonereum Dragon (DRAGON)"
+    },
+    "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": {
+      "Token Name": "Axie Infinity Shard (AXS)"
+    },
+    "0x3B604747ad1720C01ded0455728b62c0d2F100F0": {
+      "Token Name": "WAGMI GAMES (WAGMIGAMES)"
+    },
+    "0xd324ba09f83a109da048001bbfb0e84c9733150e": {
+      "Token Name": "FlyGuyz (FLYY)"
+    },
+    "0x301c755ba0fca00b1923768fffb3df7f4e63af31": {
+      "Token Name": "Global Digital Content (GDC)"
+    },
+    "0x2594d80da5f2e4f742d1e479eb9408aad132d0bd": {
+      "Token Name": "MCP Appliance (MCPA)"
+    },
+    "0xaad05381e621226e2951b3256d7aca6912cbda6a": {
+      "Token Name": "COINDOGS (DOG)"
+    },
+    "0x0818000b9194ce99c3c0f12c2ec8c96077b6c72b": {
+      "Token Name": "Hodlberg (HDLBRG)"
+    },
+    "0xd84b1488499d1c95febcda2210cb6592085a9f24": {
+      "Token Name": "HarborBcg:MarineChart (HBGM)"
+    },
+    "0x50b0B64648B93790418B1d9B36b160E2F0713E0B": {
+      "Token Name": "DAR BattleVerse Pass (DBVP)"
+    },
+    "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003": {
+      "Token Name": "Mythos (MYTH)"
+    },
+    "0x05030203674173fa6df6f9f7e34d6e70e9a761d7": {
+      "Token Name": "Muverse Token (MU)"
+    },
+    "0x992D339532A9C42F1b0E59A57e95F38da38c66F6": {
+      "Token Name": "SOUL TOKEN (SOUL)"
+    },
+    "0x0e3c91ed7d966ff1f7b58ab739a55e3c4473cd27": {
+      "Token Name": "Piranhas ($PIR)"
+    },
+    "0x27460aac4b005de72e2326bd8391c27fb41780f8": {
+      "Token Name": "JustBet (WINR)"
+    },
     "0x2c57a7707a367fb2d65e485e9e6a0aa90b79afc4": {
       "Token Name": "QueenXChain (QXC)"
+    },
+    "0xd6e68a5e3f7db9980ba26e0ed8d32e231f510752": {
+      "Token Name": "Brunhilda Magilda 'The Beheadress' (MAB005)"
+    },
+    "0x143653338a0598090e3cd9944590a268524b2d4c": {
+      "Token Name": "EOT (EOT)"
+    },
+    "0x71fc1f555a39e0b698653ab0b475488ec3c34d57": {
+      "Token Name": "Rainmaker Games (RAIN)"
+    },
+    "0xb29663Aa4E2e81e425294193616c1B102B70a158": {
+      "Token Name": "Ludena Protocol (LDN)"
+    },
+    "0x3a1957a0b9755d78c77e301410b254b6147a400c": {
+      "Token Name": "CryptoServal (CS)"
+    },
+    "0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17": {
+      "Token Name": "Dubbz (Dubbz)"
+    },
+    "0x821144518dfE9e7b44fCF4d0824e15e8390d4637": {
+      "Token Name": "ATIS Token (ATIS)"
+    },
+    "0xcbfd3340a21694ecd3812ff6affc4dec9dc2c6dc": {
+      "Token Name": "Dunes (Dunes)"
+    },
+    "0xd4b55f3b0b03b9b84f22bac300c4ef5a537dc614": {
+      "Token Name": "Dreams Quest (DREAMS)"
+    },
+    "0x1c4b7d0e1885bd7667af3378e0c538f74e712006": {
+      "Token Name": "IOGToken (IOG)"
+    },
+    "0x5A786c7A80E43CA4EF36C34A2296c377b1C21D8D": {
+      "Token Name": "AWW.GAMES (AWW)"
+    },
+    "0xf460d98a3517b45edd8063dd3847de92a8038aa2": {
+      "Token Name": "MetaShooter (MHUNT)"
+    },
+    "0xCE242415649c20729403b5B8ce2639660976b40e": {
+      "Token Name": "Oolong token (OLT)"
+    },
+    "0xfdd4E938Bb067280a52AC4e02AaF1502Cc882bA6": {
+      "Token Name": "EarnBet Token (BET)"
+    },
+    "0xcfbc9103362aec4ce3089f155c2da2eea1cb7602": {
+      "Token Name": "CryptoCrystal (CC)"
+    },
+    "0x0e2d93f7d50844a5203eb3dc9c5860f970ba5664": {
+      "Token Name": "eByte Token (EBYTE)"
+    },
+    "0xbda2481db91fc0f942ed3f53de378ba45ba9d17e": {
+      "Token Name": "Farmer (FARMER)"
+    },
+    "0x87d598064c736dd0c712d329afcfaa0ccc1921a1": {
+      "Token Name": "CryptoFighters (CF)"
+    },
+    "0xc03844f07f86ad1d90a1c4a2a8204dcf00f3a991": {
+      "Token Name": "BFH:Sphere (BFHS)"
+    },
+    "0x78326406102c6b8667e529f784e19b55492434ca": {
+      "Token Name": "DOG (DOG)"
+    },
+    "0x5c2fCe5a43A56FC158a5a86CAc4FCC4fBDc577F4": {
+      "Token Name": "MemeForce ($MF)"
+    },
+    "0x29c56e7cb9c840d2b2371b17e28bab44ad3c3ead": {
+      "Token Name": "EsportsPro (ESPRO)"
+    },
+    "0xb7de92be975ccb27e7352a1d47512acbdb0bac32": {
+      "Token Name": "Space Mine (MINE)"
+    },
+    "0x8a832faC3370e9D63Eff426a4B7A296d00AB1836": {
+      "Token Name": "Booty (BOOTY)"
+    },
+    "0xca808163a4d0c5d0960d2a604b598db70fd84b80": {
+      "Token Name": "AWARS (AWARS)"
+    },
+    "0x05732b6d78591e75b31022d71e55aa810498a5a4": {
+      "Token Name": "SHiBGOTCHi (SHiBGOTCHi)"
+    },
+    "0x6F66f3012E0210baBD2384e31863C30f70356237": {
+      "Token Name": "LasMeta (LASM)"
+    },
+    "0x00b8a4698970ad1d724360804E2864785A4BB1A5": {
+      "Token Name": "VegasONE (VOC)"
+    },
+    "0xbb1f24c0c1554b9990222f036b0aad6ee4caec29": {
+      "Token Name": "CryptoSoul (SOUL)"
+    },
+    "0xdceaf1652a131F32a821468Dc03A92df0edd86Ea": {
+      "Token Name": "MyCryptoHeroes:Extension (MCHE)"
+    },
+    "0xe4eb6085899a836abd083fad566ac74f05974947": {
+      "Token Name": "Vreo Token (VREO)"
+    },
+    "0xf56408077487cb879c992909c5b5c66d68c02eb4": {
+      "Token Name": "RIOT (RIOT)"
+    },
+    "0x87be7f119ca6748b340153269736446ec225e309": {
+      "Token Name": "Crypto Slicer (CSS)"
+    },
+    "0x49cfeba167474e6b151a20f80f9906454574ce78": {
+      "Token Name": "O-Bot Game (OBGame)"
+    },
+    "0xde3d505d7ca3f6184632a223f904e38978cdebe7": {
+      "Token Name": "Gravity Collision (GRAV-C)"
+    },
+    "0xacc5193408f99bb4a8991e0ea6adee15d7035c56": {
+      "Token Name": "Spellsword (SPELLS)"
+    },
+    "0x9F7c7EDCE870bBFbff46466E9979F8c6D73474ba": {
+      "Token Name": "Wild Wars Game (WILDWARS)"
+    },
+    "0x4c6443be69aac659db8874d9fa566f7ec4a85342": {
+      "Token Name": "BuilderCoin (BLDR)"
+    },
+    "0x0794ce7d4459105926da230f318c1e34bc790517": {
+      "Token Name": "RankingBall Gold (RBG)"
+    },
+    "0xeb2ed9a5c7a8491b4faf987196baa50ee0855241": {
+      "Token Name": "Invictus (INV)"
+    },
+    "0xf06059f01f6f08a603c939359a0a1186f7687685": {
+      "Token Name": "MCP Citizen (MCPC)"
+    },
+    "0x288F9a192207bC59230204655b12CCd83cEb74Dc": {
+      "Token Name": "Unissou (YTG)"
+    },
+    "0x4f3303332750c82415ddf88796DDA8526390eDE5": {
+      "Token Name": "General Virtual Token (GVT)"
+    },
+    "0xb045f7f363fe4949954811b113bd56d208c67b23": {
+      "Token Name": "Silk (SILK)"
+    },
+    "0x2a6d6a082c410a195157ec4caf67cb9fd718f087": {
+      "Token Name": "Spider Tanks (-)"
+    },
+    "0x438295B5082Dc6a0cc50960E3513D5D7F23405C4": {
+      "Token Name": "Dr.Ji (Dr.Ji)"
+    },
+    "0x134a99F72ef7CC733dE8c5d5fB464f5e24a699a7": {
+      "Token Name": "Gempire.io (GEMS)"
+    },
+    "0xBd13e53255eF917DA7557db1B7D2d5C38a2EFe24": {
+      "Token Name": "DozerDoll (Dozer)"
+    },
+    "0xa97b23e944d56a5063cb018eb14ca11ff0c1c1f7": {
+      "Token Name": "'Berserk' Bern Nicklebock (MAB001)"
+    },
+    "0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c": {
+      "Token Name": "Zum Token (ZUM)"
+    },
+    "0xc36cf0cfcb5d905b8b513860db0cfe63f6cf9f5c": {
+      "Token Name": "Town Star (-)"
+    },
+    "0xc617d51e3a1f621da8ae67b2f652d6ac02eb8d95": {
+      "Token Name": "Hoard Token (HRD)"
+    },
+    "0x71dc40668682a124231301414167e4cf7f55383c": {
+      "Token Name": "Mimir Token (MIMIR)"
+    },
+    "0xecb0598b8081fbecd6ee101a299a898ff3f34faa": {
+      "Token Name": "DopeWarz (DWZ)"
+    },
+    "0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD": {
+      "Token Name": "WAX Economic Token (WAXE)"
+    },
+    "0x8dc89f4716e027394bba225b82328c1ea2ea58bf": {
+      "Token Name": "Galaxy Villains (GVC)"
+    },
+    "0xC8cf9b8CCFb4c53C052427E98669ff28B6f7e301": {
+      "Token Name": "SUPER MARIO (MARIO)"
+    },
+    "0xcaf187eb618d2335b4130d784a697be96f4b07b9": {
+      "Token Name": "Terra (TVA)"
+    },
+    "0xFAb5a05C933f1A2463E334E011992E897D56eF0a": {
+      "Token Name": "DeFi Of Thrones (DoTx)"
+    },
+    "0x8ea01766a118e9bcb6032dc9b3da66b80fe1c31c": {
+      "Token Name": "ONBUFF INNO Newton Token (NEWTON)"
+    },
+    "0x27c743954bce1bfaef8bcbd685527531001d88d7": {
+      "Token Name": "Blockium Token (BOK)"
+    },
+    "0xd832d3b46e70c7b8b9de15715c9c119b0fa99280": {
+      "Token Name": "Nannda Token (NDT)"
+    },
+    "0x273f7f8e6489682df756151f5525576e322d51a3": {
+      "Token Name": "MyCryptoHeroes:Hero (MCHH)"
+    },
+    "0xcd17fa52528f37facb3028688e62ec82d9417581": {
+      "Token Name": "Materium (MTRM)"
+    },
+    "0xeef37d7bd4ae03fd8ee1c44491987e422b53ed25": {
+      "Token Name": "KryptoPets (KPETS)"
+    },
+    "0xB825a0CB3b663E4e483a46352AE3B7e98268cEB6": {
+      "Token Name": "Hero (HERO)"
+    },
+    "0x3F382DbD960E3a9bbCeaE22651E88158d2791550": {
+      "Token Name": "Aavegotchi GHST Token (GHST)"
+    },
+    "0x9b7615bBfF436AA8FD4839644720d6Ae55a8b0d0": {
+      "Token Name": "Protonaut (PRN)"
+    },
+    "0xd6076efe1e577deec21afab6ed383b47e9d8dec6": {
+      "Token Name": "ExperimentalNFT (e11nft)"
+    },
+    "0x6b7734c5ecc51116b806e2ea6decbb3b97f4f92e": {
+      "Token Name": "CRUISEBIT ERC223 (CRBT)"
+    },
+    "0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a": {
+      "Token Name": "EthermonToken (EMON)"
+    },
+    "0xcc4ae94372da236e9b113132e0c46c68704246b9": {
+      "Token Name": "TAGBOND (TAG)"
+    },
+    "0x586dae24dd99ac8a240cc475b052a9f737808073": {
+      "Token Name": "GoE.GG/Genesis (GoE.Genesis)"
+    },
+    "0x3c5610de60b9154410332c5d4614246f9ef129f0": {
+      "Token Name": "GemeGen (GGEN)"
+    },
+    "0x27ad8e47c48063b209fa5ca14c8c46ece49b82d2": {
+      "Token Name": "Active World Rewards Token (AWRT)"
+    },
+    "0xca7b3ba66556c4da2e2a9afef9c64f909a59430a": {
+      "Token Name": "WOLVERINU (WOLVERINU)"
+    },
+    "0x45e42D659D9f9466cD5DF622506033145a9b89Bc": {
+      "Token Name": "Nexium (NxC)"
+    },
+    "0x592eec79662c9237814a1ca010a358f1adad1ff6": {
+      "Token Name": "Desert Token (DTT)"
+    },
+    "0xdfd8d604951ebf1b2297285f1b68de140c43992b": {
+      "Token Name": "Metasens Universal Unit (MSU)"
+    },
+    "0xe0c3223ae0cb8b5a47ff7f4994f5fbcde58496f8": {
+      "Token Name": "BuschCoin (BUC)"
+    },
+    "0x48fbff00e8ebc90c118b44b3d96b915e48656a73": {
+      "Token Name": "Nirvana Meta coin (MNU)"
+    },
+    "0x56f123785b54978c6c0b117f15d3ee69eb9bf6c8": {
+      "Token Name": "MCP Pet (MCPP)"
+    },
+    "0x672EF7E4Fe230B5cA1466C5fDD40588d30FdF90a": {
+      "Token Name": "Wolves Of Wall Street (WOWS)"
+    },
+    "0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7": {
+      "Token Name": "Loot (LOOT)"
+    },
+    "0x3930e4ddb4d24ef2f4cb54c1f009a3694b708428": {
+      "Token Name": "GameFanz (GFN)"
+    },
+    "0x8bcb64bfda77905398b67af0af084c744e777a20": {
+      "Token Name": "GameCell (GCC)"
+    },
+    "0x10a7ecf97c46e3229fe1b801a5943153762e0cf0": {
+      "Token Name": "NFTegg Series #1 (NFTeGG)"
+    },
+    "0x8b0b0e6bc81bc0595fd59c014a1c5a5d6e70d730": {
+      "Token Name": "Edelweiss (EDEL)"
+    },
+    "0x9eFdFC77017cB9b878300eCdcA21fAB0529a22A0": {
+      "Token Name": "AKITSUKI (AKI)"
+    },
+    "0xc328520a8b1cead2489d59c16b7752cb60ebb53d": {
+      "Token Name": "Neon District Game Item (NDITEM)"
+    },
+    "0x52D1D1c87eB75a5D695bFfA343CaC71222cD518E": {
+      "Token Name": "ASLTToken (ASLT)"
+    },
+    "0x33e18a092a93ff21ad04746c7da12e35d34dc7c4": {
+      "Token Name": "Metaverse NFT Index (PLAY)"
+    },
+    "0x047686fb287e7263a23873dea66b4501015a2226": {
+      "Token Name": "Cute Coin (CUTE)"
+    },
+    "0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970": {
+      "Token Name": "NEVERDIE (NDC)"
+    },
+    "0x696130b71078f832db460b09d0470ae759160c75": {
+      "Token Name": "Polyn Token (POLYN)"
+    },
+    "0x3392d8a60b77f8d3eaa4fb58f09d835bd31add29": {
+      "Token Name": "IndiGG (INDI)"
+    },
+    "0x2186ecb39f1b765ba7d78f1c43c2e9d7fc0c1eca": {
+      "Token Name": "MyCryptoPlay (MCP)"
+    },
+    "0x7aF89c8A06719271A96e62E290Ea9Ed192E73FC1": {
+      "Token Name": "Gold mining Members (GMM)"
+    },
+    "0xbc5370374fe08d699cf7fcd2e625a93bf393ccc4": {
+      "Token Name": "Nifty Football Trading Card (NFTFC)"
+    },
+    "0x992bce7898c806403e26aa02a5add90882d482cb": {
+      "Token Name": "DMarket NFT Swap (DM NFT)"
+    },
+    "0x358dba28848cca268ba8a76b65e5b3ef9ef92238": {
+      "Token Name": "Evolution Land Gold (GOLD)"
+    },
+    "0xaC0968a3E2020aC8ca83e60CcF69081EBc6d3bC3": {
+      "Token Name": "CINDRUM (CIND)"
+    },
+    "0x5dbe296f97b23c4a6aa6183d73e574d02ba5c719": {
+      "Token Name": "Level-Up Coin (LUC)"
+    },
+    "0x48cf0E2eCA22EAe0AD33feE16A5CB6E62207A8Ab": {
+      "Token Name": "YTHO (YTHO)"
+    },
+    "0x837704ec8dfec198789baf061d6e93b0e1555da6": {
+      "Token Name": "Evaverse (EVA)"
+    },
+    "0x3a4cab3dcfab144fe7eb2b5a3e288cc03dc07659": {
+      "Token Name": "fantomGO (FTG)"
+    },
+    "0xe8a1df958be379045e2b46a31a98b93a2ecdfded": {
+      "Token Name": "ESZCoin (ESZ)"
+    },
+    "0xf26a23019b4699068bb54457f32dafcf22a9d371": {
+      "Token Name": "CryptoDerby-Horse (CDH)"
+    },
+    "0x355a824bea1adc22733978a3748271e1bbb34130": {
+      "Token Name": "NEPT (NEPT)"
+    },
+    "0xf7f6dee46c6bdcf32c14a825f3a714262960c361": {
+      "Token Name": "EtherTulips (TULIP)"
+    },
+    "0xd73d8A44fd42b1a4b3a89c8a54f2bba3867A91be": {
+      "Token Name": "Hackers (HACKERS)"
+    },
+    "0xB0BFB1E2F72511cF8b4D004852E2054d7b9a76e1": {
+      "Token Name": "Streamix (MIXS)"
+    },
+    "0x3a7011e7e2b32c2b52f7de1294ff35d6ff20310f": {
+      "Token Name": "Storyverse Plot (PLOT)"
+    },
+    "0xa14c04dea16798aa8f25b1da583cd5fbbfd6579e": {
+      "Token Name": "Polychain Monsters Land Genesis Tok... (PMLG)"
+    },
+    "0x46a0A4840B496C8E8fd034c99840F578FD842341": {
+      "Token Name": "TRVBPToken (TRVBP)"
+    },
+    "0xa98ad92a642570b83b369c4eb70efefe638bc895": {
+      "Token Name": "Fishbank (FISH)"
+    },
+    "0xb019ae5c952fa5440e3778a3951cc14c3fe34a3f": {
+      "Token Name": "Battle Credits (BATL)"
+    },
+    "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437": {
+      "Token Name": "GAME Credits (GAME)"
+    },
+    "0x4b20d07da954ba6735a57b253e0653b1b0e89cc5": {
+      "Token Name": "NVA (NVA)"
+    },
+    "0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa": {
+      "Token Name": "Mintopoly Money (MM)"
+    },
+    "0x29f0253a0ff526e88ed4376d684b077f353c2523": {
+      "Token Name": "HeroesOfCrypto Token (HERO)"
+    },
+    "0xf2c6024111254249571e404a88f2f4f5e577afaf": {
+      "Token Name": "2048 (TWO)"
+    },
+    "0xA4B37d6C9E087317bE73C39B826189a1F6F8a6D8": {
+      "Token Name": "Gridcraft Network Genesis Identitie... (GEN0IDENT)"
+    },
+    "0x7031AB87DCC46818806EC07aF46fa8c2aD2A2BFC": {
+      "Token Name": "Tribute (TRBT)"
+    },
+    "0xcca3e26be51b8905f1a01872524f17eb55bd02fb": {
+      "Token Name": "Parabolic (PARA)"
+    },
+    "0x1b5242794288b45831ce069c9934a29b89af0197": {
+      "Token Name": "CryptoSaga Card (CARD)"
+    },
+    "0xb55c5cac5014c662fdbf21a2c59cd45403c482fd": {
+      "Token Name": "Clovers (CLV)"
+    },
+    "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c": {
+      "Token Name": "ISKRA TOKEN (ISK)"
+    },
+    "0xf7a6e15dfd5cdd9ef12711bd757a9b6021abf643": {
+      "Token Name": "CryptoBots (CBT)"
+    },
+    "0xafee04257f9ef008bc4a66e3fcf247680f3c787e": {
+      "Token Name": "BlockchainCuties (CUTIE)"
+    },
+    "0x65b7ccb6d45fe35325c1dfe6dc1a1bcf6c3a5926": {
+      "Token Name": "Get Luck Coin (GLC)"
+    },
+    "0x97308e05adaf022a33fa6f6f2ce2ec20872d8f69": {
+      "Token Name": "Gramps (GRAMPS)"
+    },
+    "0xed95fb27d335033c982921ccd39bcda3f995974b": {
+      "Token Name": "Undra (UNDRA)"
+    },
+    "0x2c0da41c89adb5a1d4430e5761b9b400911426b0": {
+      "Token Name": "DAMA Token (DAMA)"
+    },
+    "0x4b94c8567763654101f690cf4d54957206383b75": {
+      "Token Name": "NEOWORLD CASH (NASH)"
+    },
+    "0xaa665fc881a87b7b194e7422b22e8e6867dd77d7": {
+      "Token Name": "iFARM MANOR (IFARM)"
+    },
+    "0xc7d8d51367582900aca9b555b32571a72ebf3c6d": {
+      "Token Name": "MZW collectible (MZW)"
+    },
+    "0x9680223f7069203e361f55fefc89b7c1a952cdcc": {
+      "Token Name": "Inventory (ITEM)"
+    },
+    "0xb12F78434AE7D12Ae548c51A5cb734Ecc4536594": {
+      "Token Name": "sLoot (SLOOT)"
+    },
+    "0x9f4909Cc95FB870BF48C128C1Fdbb5F482797632": {
+      "Token Name": "Guzzler (GZLR)"
+    },
+    "0x675ce995953136814cb05aaaa5d02327e7dc8c93": {
+      "Token Name": "BLUEBAIKAL (BBC)"
+    },
+    "0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab": {
+      "Token Name": "Gods Unchained (GODS)"
+    },
+    "0x2369686fC9FB6E1fDc46541891568c2f341906eF": {
+      "Token Name": "Drakoin (DRK)"
+    },
+    "0xa4cdb589ae568df05130f5edd8d3b01b83bfd319": {
+      "Token Name": "Utopeon (UTCR)"
+    },
+    "0x238f2d6787dacb6045d72b0ec6626de0ff7c3107": {
+      "Token Name": "Neon District Radiant Blade (NDRB)"
+    },
+    "0x75ABDbc10eEEe99CF708D3273e34de3c161428E4": {
+      "Token Name": "CryptoWars Token (CWT)"
+    },
+    "0xda38f3d22402d3e8b604a484c981d89190beff08": {
+      "Token Name": "Spades Coin (SPADE)"
+    },
+    "0x089a6d83282fb8988a656189f1e7a73fa6c1cac2": {
+      "Token Name": "Prospectors Gold (PGL)"
+    },
+    "0x181d4d65045d371cd84af8c2bbf3affd8da56477": {
+      "Token Name": "DAGEN lifeDAO (DAGEN)"
+    },
+    "0x07221DE6714a6599Bc43331972390781D39C1063": {
+      "Token Name": "DigiBitties 1337 Collection (DB1)"
+    },
+    "0x6fa769eed284a94a73c15299e1d3719b29ae2f52": {
+      "Token Name": "BFH:Unit (BFHU)"
+    },
+    "0xf66ad2b8d4e143e30d12b8738b86bf9da201d45f": {
+      "Token Name": "LamboToken (LAMBO)"
+    },
+    "0xC5bcc8BA3F33Ab0d64f3473e861BDC0685b19Ef5": {
+      "Token Name": "Mechanium ($MECHA)"
+    },
+    "0xB447030C916bA07a5a4AA50a379259E387c48182": {
+      "Token Name": "DozerDoll (Magic Key)"
+    },
+    "0xA5f1460CB7A55e537006FB90234ea45Ae35eA752": {
+      "Token Name": "IN GAME CREDIT (INGAME)"
+    },
+    "0x2cc768c4bd51641c545c5463617d36ea0aaf6053": {
+      "Token Name": "Epher (EPH)"
+    },
+    "0x9eaa67cdabe53187fc1cb65125e24d6e45e53d12": {
+      "Token Name": "Melee Game (MELEE)"
+    },
+    "0xe7f7526c4818b272f91f22f8b46af5b425b13b7f": {
+      "Token Name": "Dirty Dollarz (DDZ)"
+    },
+    "0xe638dc39b6adbee8526b5c22380b4b45daf46d8e": {
+      "Token Name": "Gizer Gaming Token (GZR)"
+    },
+    "0xb140A429c342083E97Daf42d5D82634bd7Ade7d4": {
+      "Token Name": "WAX Governance Token (WAXG)"
+    },
+    "0x06b1b815138ff3188ec38a26a13676d5a1069952": {
+      "Token Name": "Eva Turtle (TRTL)"
+    },
+    "0xB4feDc003053C22ac8b808Bb424f3e1787f30cF2": {
+      "Token Name": "NRJJungleVIBES (NRJJV)"
+    },
+    "0x9f599410d207f3d2828a8712e5e543ac2e040382": {
+      "Token Name": "Tapcoin (TTT)"
+    },
+    "0x85892dd8186e31f0e43a1f2c547f950c39b46703": {
+      "Token Name": "JPEG.LAND (JPEG)"
+    },
+    "0x6Fa0952355607dFB2d399138B7fE10EB90F245e4": {
+      "Token Name": "Clash Token (SCT)"
+    },
+    "0x95014fD5c9Afa80a0aE0F2F0A4f588A0E7803555": {
+      "Token Name": "OasisGame (OSG)"
+    },
+    "0xf7aa404bae09ad87660f84487526b5ae6961841b": {
+      "Token Name": "Coins & Steel Exclusive Item Skin (C&SSkin)"
+    },
+    "0x823556202e86763853b40e9cde725f412e294689": {
+      "Token Name": "Altered State Machine Utility Token (ASTO)"
+    },
+    "0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef": {
+      "Token Name": "PlayFuel (PLF)"
+    },
+    "0x5cc5b05a8a13e3fbdb0bb9fccd98d38e50f90c38": {
+      "Token Name": "Sandbox's LANDs (LAND)"
+    },
+    "0xbbcb004A6B8C8e2dDfd989d571EFa224a1eca3Fc": {
+      "Token Name": "Gamearound Genesis Guild (GEN)"
+    },
+    "0x03b155af3f4459193a276395dd76e357bb472da1": {
+      "Token Name": "Swace (SWACE)"
+    },
+    "0x976d071D737E90fDe3bf98C0b98362D81121F2f1": {
+      "Token Name": "HONOR (HONOR)"
+    },
+    "0x0111ac7e9425c891f935c4ce54cf16db7c14b7db": {
+      "Token Name": "Chainbreakers Items (CBI)"
+    },
+    "0x14a4123da9ad21b2215dc0ab6984ec1e89842c6d": {
+      "Token Name": "Evolution Land Objects (EVO)"
+    },
+    "0xf9027c902095e5f5c038c256579ca433c4dbdc96": {
+      "Token Name": "Pika Finance (PIKA)"
+    },
+    "0x72DC3D52b7EF107a7CFFb6953eaa8A2aD6a204Cd": {
+      "Token Name": "SOUL (SOUL)"
+    },
+    "0x01485E923e51F6ABb2b48aAa310d357B429Ba263": {
+      "Token Name": "Cyborx (CYBRX)"
+    },
+    "0xaE727b5242B662bC0B9e71B2E24546B21E931251": {
+      "Token Name": "CacaDragon (CDR)"
+    },
+    "0xd8c1232fcd219286e341271385bd70601503b3d7": {
+      "Token Name": "Dogira (DOGIRA)"
+    },
+    "0xe8ae4bfd7521d26283bc14f2395675144aa65e6d": {
+      "Token Name": "Atmos - MKIV Datacard (MKIVDatacard)"
+    },
+    "0x4A0eEdF6e95581CdA46A767E612e83731C0cD418": {
+      "Token Name": "WINSSHI (WNS)"
+    },
+    "0x1d036Bbb3535a112186103a51A93B452307Ebd30": {
+      "Token Name": "obscurityDAO (OBSC)"
+    },
+    "0x86e4dc25259ee2191cd8ae40e1865b9f0319646c": {
+      "Token Name": "CryptoRome-Land-NFT (CRLAND)"
+    },
+    "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d": {
+      "Token Name": "Axie (AXIE)"
+    },
+    "0xB1A30851E3f7d841b231B086479608e17198363A": {
+      "Token Name": "HOMEROS (HMR)"
+    },
+    "0x7d92a06808b4c4833623f809218ed403e4a85fe1": {
+      "Token Name": "Universe Crystal Gene (UCG)"
+    },
+    "0x21a2755513e4dfd4e72ad46a3e699e5f08f4710f": {
+      "Token Name": "Smile Coin (SMILE)"
+    },
+    "0xa5522d6137ece774e8084bbf9c34398192ccdca5": {
+      "Token Name": "CYN-COIN (CYNC)"
+    },
+    "0xefbE739c5B999C5Bca13be7Bb238610a3A8Fec93": {
+      "Token Name": "HAKURYU ($RYU)"
+    },
+    "0x1ae15c5c21fe5aa1cc24b1c5cdaff07736cb9c3f": {
+      "Token Name": "Afflarium (AFF)"
+    },
+    "0x44cbf53666ee06327869ff06a10205f83c76ac58": {
+      "Token Name": "FantasyHeroes (HEROES)"
+    },
+    "0x1Cf974dc858f3ED0b713C6E22E761C93264F7d49": {
+      "Token Name": "Fragmented Soul Founders (FSF)"
+    },
+    "0x4e650fa414f9915929bca3e82f5b831a921e76ad": {
+      "Token Name": "GamyFi (GFX)"
+    },
+    "0xf4f618eff5ef36cde2fca4fbd86554c62fb1382b": {
+      "Token Name": "Astra Guild Ventures Token (AGV)"
+    },
+    "0xacf8d5e515ed005655dfefa09c22673a37a7cdee": {
+      "Token Name": "FunFi (FNF)"
+    },
+    "0x06a6a7af298129e3a2ab396c9c06f91d3c54aba8": {
+      "Token Name": "0xUniverse (PLANET)"
+    },
+    "0x3218A02F8F8B5c3894ce30EB255F10Bcba13E654": {
+      "Token Name": "MegaCryptoPolis $MEGA Token (MEGA) (MEGA)"
+    },
+    "0x5a8Bf274976345b79eedb5D8C31FA8687cc60a21": {
+      "Token Name": "SPACELON (SPACELON)"
+    },
+    "0x5a14fe6923e767A8238f29d3E1FB1a913975F0d7": {
+      "Token Name": "PWAY (PWAY)"
+    },
+    "0x80a84a3508aa58521344311c428d88e6d0baabef": {
+      "Token Name": "ULAND HEROES DAPP (UHD)"
+    },
+    "0x067a1eb5e383ed24b66d72aaf80d8d7db3d299a8": {
+      "Token Name": "Sandbox's ASSETs (ASSET)"
+    },
+    "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7": {
+      "Token Name": "reflect.finance (RFI)"
+    },
+    "0x3e5a19c91266ad8ce2477b91585d1856b84062df": {
+      "Token Name": "Ancient8 (A8)"
+    },
+    "0x9332dfc361763d58565139da819c86e773e17249": {
+      "Token Name": "Uniplay (UNP)"
+    },
+    "0x299698B4B44BD6d023981A7317798dEe12860834": {
+      "Token Name": "New Frontier Presents (NFP)"
+    },
+    "0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217": {
+      "Token Name": "PYRO Network (PYRO)"
+    },
+    "0x5fCCE8Ab5500ed68fF5d6d75aF1071195215D97E": {
+      "Token Name": "DozerDoll (Rare Key)"
+    },
+    "0xB7BC7B0A32455F7e7A924f832ca4F0a0ac3b6B88": {
+      "Token Name": "WarLordToken (WLT)"
+    },
+    "0x1320994fa466e19f17b143995999c7275eae50e1": {
+      "Token Name": "Evolution Land Silicon (SIOO)"
+    },
+    "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569": {
+      "Token Name": "Kapital DAO Token (KAP)"
+    },
+    "0xd2727e4259BBa31955FD582986334AEA4fBA8C52": {
+      "Token Name": "BLOOD (BLOOD)"
+    },
+    "0x7d5121505149065b562c789a0145ed750e6e8cdd": {
+      "Token Name": "Victoria VR (VR)"
+    },
+    "0x1276dce965ada590e42d62b3953ddc1ddceb0392": {
+      "Token Name": "Neon District In-Game Item (NDIGI)"
+    },
+    "0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc": {
+      "Token Name": "ZED RUN (ZED)"
+    },
+    "0xb622400807765e73107B7196F444866D7EdF6f62": {
+      "Token Name": "Heros Token (HEROS)"
+    },
+    "0xb6fc94476f0a7e5a1a623bb8514e2cffca7c51f7": {
+      "Token Name": "GAME GOLD (GGOLD)"
+    },
+    "0xf6b6aa0ef0f5edc2c1c5d925477f97eaf66303e7": {
+      "Token Name": "Going Gems (XGG)"
+    },
+    "0xf8e34fecd37f261ed8de048c1e62ea058c055cf7": {
+      "Token Name": "Elons Games (E)"
+    },
+    "0xf1acfb5d95bc090bc55d8ae58a8df4081d73e009": {
+      "Token Name": "Codyfight Token (CTOK)"
+    },
+    "0xdc32ff5aada11b5ce3caf2d00459cfda05293f96": {
+      "Token Name": "Angel Battle Token (ABT)"
+    },
+    "0xca1024b60b00bbd8b5c278f3bbd65b40aab4e837": {
+      "Token Name": "TotalKnockOut (TKO)"
+    },
+    "0x38118BDB3B480F570837A4c2e88faC6E83BE6689": {
+      "Token Name": "Werewolf Coin (WWC)"
+    },
+    "0xcec38306558a31cdbb2a9d6285947c5b44a24f3e": {
+      "Token Name": "Fantasy Sports (DFS)"
+    },
+    "0xaaf9a8ecb475cf7207b7bc19b523d7fa1e99b922": {
+      "Token Name": "TuckerInu (TUCKERINU)"
+    },
+    "0xf766b3e7073f5a6483e27de20ea6f59b30b28f87": {
+      "Token Name": "Ether Kingdoms Items (IMPi)"
+    },
+    "0x2e7570255ac8c449217fb15405fac01f5408d114": {
+      "Token Name": "CryptoRomeCenturion (CROMEC)"
+    },
+    "0x2c33f2501f83dbf43c9ef6378a5c902e724a4a6a": {
+      "Token Name": "Chow Chow (CHOW)"
+    },
+    "0x80DBBdcB4280030Fb22E2a9d671A368211D49D6e": {
+      "Token Name": "Undead Blocks Weapon Loadouts (LOADOUT)"
+    },
+    "0x33be7644c0e489b3a0c639d103392d4f3e338158": {
+      "Token Name": "MarvelousNFT (MNFT)"
+    },
+    "0x71AD3c0D535bbc60f699CC320e2F5CdE315A9781": {
+      "Token Name": "Prey (PREY)"
+    },
+    "0xA16AB7dC3C7dc55aA0a59726144dcc4Bc30822c7": {
+      "Token Name": "Chic-A-Dee EGGS (EGGS)"
+    },
+    "0x2b867efD2dE4Ad2B583Ca0CB3dF9C4040Ef4D329": {
+      "Token Name": "LuckyBlock (LBlock)"
+    },
+    "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca": {
+      "Token Name": "REVV (REVV)"
+    },
+    "0x113981fc4770e7042c8899785C236DE2AD12fAea": {
+      "Token Name": "Minato (Minato)"
+    },
+    "0x71c118b00759b0851785642541ceb0f4ceea0bd5": {
+      "Token Name": "Chibi Fighters (CBF)"
+    },
+    "0x67cbbb366a51fff9ad869d027e496ba49f5f6d55": {
+      "Token Name": "CryptoSpells (CSPL)"
+    },
+    "0x35d112044D174Dd16Fee24d5C5CaB24F4f81cB41": {
+      "Token Name": "Wonder Game (WONDER)"
+    },
+    "0x7fdcd2a1e52f10c28cb7732f46393e297ecadda1": {
+      "Token Name": "HyperDragons (HD)"
+    },
+    "0x7Db73E3b4703F9c51650cd154669432B90EA8E38": {
+      "Token Name": "CryptoCossacks2022 (CC2022)"
+    },
+    "0xf841d292c1141cbf1460a1e2010916565a010cc8": {
+      "Token Name": "Amongus.finance (AMONG)"
+    },
+    "0xfb6ca216c08178f218c0b3983f81e066cb946199": {
+      "Token Name": "fantaCoin (FTC)"
+    },
+    "0x8C0b5D2b6F128944695C03a53ED899e6035F6d75": {
+      "Token Name": "Dragon Master Token (DMT)"
+    },
+    "0x382f0160c24f5c515a19f155bac14d479433a407": {
+      "Token Name": "Klee Kai (KLEE)"
+    },
+    "0x0c4a49567cf002a99941cb19c973e794c04b8c30": {
+      "Token Name": "Big Bank Theory (BBT)"
+    },
+    "0x009D0eF900757D6894682491d9918B15b23aA2ec": {
+      "Token Name": "Metahermia Token (HERMIA)"
+    },
+    "0x5330A5805b9Db68EbCF5247BbC9097163c1c2442": {
+      "Token Name": "Exchage Payment Coin (EXP)"
+    },
+    "0x3085154623f51b00dedfc6ceeb5197277a66b17b": {
+      "Token Name": "NFTY Token (NFTY)"
+    },
+    "0xc1ADf61b3A61a2a09fb763ce81f105D60EE6EcEf": {
+      "Token Name": "WlunaRichGang (WRG)"
+    },
+    "0xc5807256e2e2fe85ca94c3617c4bc5ff2bd9cfb6": {
+      "Token Name": "DragonSeriesToken (DST)"
+    },
+    "0x16b9805a107d0c2803d1f995f68379b975a970d2": {
+      "Token Name": "TKFR (TKFR)"
+    },
+    "0x60177e2985b04911dffe1387265ec33a0c11895f": {
+      "Token Name": "DragonSB (SB)"
+    },
+    "0xa58b5224e2fd94020cb2837231b2b0e4247301a6": {
+      "Token Name": "Cryptovoxel Wearables (WEAR)"
+    },
+    "0x625A748b2f2D1E8A325Fd6Fb71d3989f5C8724ff": {
+      "Token Name": "CLASH (CLASH)"
+    },
+    "0x8bc67d00253fd60b1afcce88b78820413139f4c6": {
+      "Token Name": "CryptoFlowers (CF)"
+    },
+    "0x8399A671f4e629d44cFf8dd1E676501a8B507F0F": {
+      "Token Name": "CryptoGamesToken (CGT)"
+    },
+    "0x6aedbf8dff31437220df351950ba2a3362168d1b": {
+      "Token Name": "Dragonglass (DGS)"
+    },
+    "0x434EA2FE3C2570f2207a69da1C788B5aC7BBf931": {
+      "Token Name": "Monkey Pox Inu (MONKEY)"
+    },
+    "0x01b6d39746cce500b70cfb242dcc5f7596b11e41": {
+      "Token Name": "SHIBAFRIEND NFT (SFT)"
+    },
+    "0x5548498f6ae923f590cd1a1cec8d39e1f9363104": {
+      "Token Name": "Engos (ENGOS)"
+    },
+    "0xa8abf045fe1a9ef0583e436393a6e4e0b483f717": {
+      "Token Name": "CryptoSpells:Guild (CSPL)"
+    },
+    "0x5d8038644608d1f849ed2c6863a2ea667e53371a": {
+      "Token Name": "INUGAMI (INUGAMI)"
+    },
+    "0xB06Ece7B0D5399eA0C381985f69585FDC355C5E4": {
+      "Token Name": "DozerDoll (Unique Key)"
+    },
+    "0xd919fD88d44F6500cd33B534D27E367a950ef5A3": {
+      "Token Name": "Loot Token (LOOT)"
+    },
+    "0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf": {
+      "Token Name": "Wrapped Origin Axie (WOA)"
+    },
+    "0x3a275655586a049fe860be867d10cdae2ffc0f33": {
+      "Token Name": "EtherFreakers (EFKR)"
+    },
+    "0x09f098b155d561fc9f7bccc97038b7e3d20baf74": {
+      "Token Name": "ZooDAO (ZOO)"
+    },
+    "0x3b525ecde940e0e8687C91Ddd861e3c6bae40131": {
+      "Token Name": "Elob Munk (ELOB)"
+    },
+    "0x921a5dce3dfed5cccfbb2e593f2978533bc66110": {
+      "Token Name": "Worldopoly (WPT)"
+    },
+    "0x8469a695d70033ecd170c82be1253842162aa77e": {
+      "Token Name": "Evolution Land Fire (FIRE)"
+    },
+    "0xd51e852630debc24e9e1041a03d80a0107f8ef0c": {
+      "Token Name": "ORIUM (ORM)"
+    },
+    "0xa59e341e8047498700eD244814b01b34547fb21B": {
+      "Token Name": "Medal of Honour (MOH)"
+    },
+    "0x77609d4F3ae31382389374101Aca6108D95b093A": {
+      "Token Name": "BetSwirl Token (BETS)"
+    },
+    "0x1fB1bee30809D9aA447A1d96aD7D6BBAEf9eBcDf": {
+      "Token Name": "Kylithius (KTS)"
+    },
+    "0xaC0741127CAC11E4455C7943b654bcCeD7FDD5A4": {
+      "Token Name": "Ejoy Coin (EJOY)"
+    },
+    "0xed9535442796ad645398d29472868e3ffb9c7158": {
+      "Token Name": "Inugami World (GAMI)"
+    },
+    "0xF6269e2e0C271fb6AF35E7f8a539EbC7155E33bb": {
+      "Token Name": "HAYFEVER (HAY)"
+    },
+    "0x25741f5f2dbdde9cfd38f73be7052ec03b0e9d85": {
+      "Token Name": "Neon District Founder Key (NDKEY0)"
+    },
+    "0xf55Dc9bD4B04AF73599dF11087EcFB9bE7906CB5": {
+      "Token Name": "iDosGamesToken (IGT)"
+    },
+    "0x9df4ac60379c6dc2b295ea04cf80dd60dca99944": {
+      "Token Name": "Mythic Finance (MYTHIC)"
+    },
+    "0x26205D189Cbf0b4d0e1d4eCce3307aBc75B49196": {
+      "Token Name": "YF Dice (YFD)"
+    },
+    "0x012b0ce33060c496d4c3cebccb77cee6ef19d4f2": {
+      "Token Name": "Yandex (Yandex)"
+    },
+    "0x51bc0deaf7bbe82bc9006b0c3531668a4206d27f": {
+      "Token Name": "RAKUN (RAKU)"
+    },
+    "0x4086e77c5e993fdb90a406285d00111a974f877a": {
+      "Token Name": "Blockchain Brawlers Token (BRWL)"
+    },
+    "0x631473485618e7fa0d777df30a41cff63f807d7d": {
+      "Token Name": "Joy City (NJOY)"
+    },
+    "0xB6203D403D02198835406f76A7C9624F267Cb71A": {
+      "Token Name": "METAHERMIA (HERMIA)"
+    },
+    "0xF76f2D211568f0d5755a4F1c8758FAcA32969c37": {
+      "Token Name": "Project Feenix (Feenix)"
+    },
+    "0x0cca2f5561bb0fca88e5b9b48b7fbf000349c357": {
+      "Token Name": "Zodium (ZODI)"
+    },
+    "0x508626d9a29D13EbA26F843A2BD7bF7b00a45be5": {
+      "Token Name": "Kale Currency (KALE)"
+    },
+    "0x4889F721f80C5E9fadE6Ea9B85835D405D79a4f4": {
+      "Token Name": "Mafia.Network (MAFI)"
+    },
+    "0x2c9c19ce3b15ae77c6d80aec3c1194cfd6f7f3fa": {
+      "Token Name": "2CrazyToken (2CRZ)"
+    },
+    "0x44d2d740a5e346a66dd7c7e6919814a44441a64c": {
+      "Token Name": "MetaKitties (MetKit)"
+    },
+    "0xabc7e6c01237e8eef355bba2bf925a730b714d5f": {
+      "Token Name": "CryptoSaga Hero (HERO)"
+    },
+    "0x79ebbf7dd79683b0583fac96b5b6e77e2d08b631": {
+      "Token Name": "WWIN (WWIN)"
+    },
+    "0x4E114d405b9Ba2F59524941733e505Ae03Fb1FB5": {
+      "Token Name": "Joystick (JOY)"
+    },
+    "0x4fece400c0d3db0937162ab44bab34445626ecfe": {
+      "Token Name": "ETH.TOWN Hero (HERO)"
+    },
+    "0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43": {
+      "Token Name": "Elementeum (ELET)"
+    },
+    "0xa0343ed4f61e131d8b9738d810f0aaafa346d305": {
+      "Token Name": "Gold of Skulls (GSK)"
+    },
+    "0xd8d178802785f5e84e5d7d5e1a9636305559d7cd": {
+      "Token Name": "HIGHMONKEY (HMOK)"
+    },
+    "0xb30f5d11b94efbbfdeaa4de38edffceec0be6513": {
+      "Token Name": "Play It Forward DAO (PIF)"
+    },
+    "0x73da6c5f616eb9d8a3b3a4bb920365edef8af4e4": {
+      "Token Name": "IMMOPET TOKEN (IMPT)"
+    },
+    "0x9d3e0892D11f19f5181d4a4C5d04187a9e0d7032": {
+      "Token Name": "Dragonbit (DRGB)"
+    },
+    "0xC7F2723B64d88f4D14f0bEb2e9Ffce78795bbCc6": {
+      "Token Name": "Doshi (DOSHI)"
+    },
+    "0x05215596ae84f77BcceA28f4769d8ED6B2dADb6c": {
+      "Token Name": "NoriGO! (NORI)"
+    },
+    "0x8c55b18e6bb7083b29102e57c34d0c3124c0a952": {
+      "Token Name": "PlanetCrypto (PTC)"
+    },
+    "0xe60d2325f996e197eedded8964227a0c6ca82d0f": {
+      "Token Name": "CryptoRome-Land-NFT (CRLAND)"
+    },
+    "0x444d6088b0f625f8c20192623b3c43001135e0fa": {
+      "Token Name": "Crown Capital (CROWN)"
+    },
+    "0xbf5496122cf1bb778e0cbe5eab936f2be5fc0940": {
+      "Token Name": "FundToken (FUNDZ)"
+    },
+    "0x02Eca910CB3A7D43eBC7e8028652ed5C6b70259B": {
+      "Token Name": "Pteria (PTERIA)"
+    },
+    "0xc21dCcA393Fe26D585db6598533b655816A87543": {
+      "Token Name": "RPG 404 (RPG404)"
+    },
+    "0x995a6c0944322b7285d0712824acf0cf9bf3993a": {
+      "Token Name": "First Ever NFT (FEN)"
+    },
+    "0xdfdd3459d4f87234751696840092ee20c970fb07": {
+      "Token Name": "Myōbu (MYOBU)"
+    },
+    "0x0f3b491841680eb40bd2be42bce7104f2511dbd9": {
+      "Token Name": "Battle Racers Part (BRPART)"
+    },
+    "0x660aed4Dbe105B5F981b905b15F2564eDE42cB2F": {
+      "Token Name": "Evalanche (EVA)"
+    },
+    "0x7ca121b093e2fbd4bb9a894bd5ff487d16f1f83b": {
+      "Token Name": "LORDLESS TOKEN (LESS)"
+    },
+    "0x9690b63Eb85467BE5267A3603f770589Ab12Dc95": {
+      "Token Name": "ForgottenRunesWarriorsGuild (WARRIORS)"
+    },
+    "0x790540ff6117205ac6ef132a5782ba4f4a611355": {
+      "Token Name": "Dogioh Token (Dogioh)"
+    },
+    "0x790bfacae71576107c068f494c8a6302aea640cb": {
+      "Token Name": "Crypto Boss Coin (CBC)"
+    },
+    "0x54b8e638aa2c7a6040f2820f8118237a7bfa0c0d": {
+      "Token Name": "GhostBlade Inu (GhostBlade)"
+    },
+    "0xba7a1265933be28ee36841f8c2170d51688b365d": {
+      "Token Name": "MCP Pack (MCPP)"
+    },
+    "0x60a995cebcd44ca566ae22a9666ed28c67b598a1": {
+      "Token Name": "HARDCORE hcore.finance (HCORE)"
+    },
+    "0x7c5ff719a6c76fe643e9ecd0f11f146a2de05f14": {
+      "Token Name": "GaneshaToken (GNSH)"
+    },
+    "0xED7Fa212E100DFb3b13B834233E4B680332a3420": {
+      "Token Name": "Street Cred (CRED)"
+    },
+    "0xad5f6cdda157694439ef9f6dd409424321c74628": {
+      "Token Name": "Fewmans (FEW)"
+    },
+    "0x56214525566c9f8dcbbd17a108690162476426fa": {
+      "Token Name": "Mintopoly Cards (MC)"
+    },
+    "0x981dc247745800bd2ca28a4bf147f0385eaa0bc0": {
+      "Token Name": "NutsDAO (NUTS)"
+    },
+    "0x222728c202e7164dfbd127181d46409338c4328e": {
+      "Token Name": "MIND Token (MIND)"
+    },
+    "0x19e22a73a046f19ecb51a46ace4ca7a4bb7c20c6": {
+      "Token Name": "Evolution Land Water (HHO)"
+    },
+    "0x1a403e1c96792dfedb8232cf56400eb72ab95acb": {
+      "Token Name": "Saltmarble (SML)"
+    },
+    "0xa3d59c6d24f428dcfedc09724869e7af4d281fdd": {
+      "Token Name": "DeviantsFactions (DEV)"
+    },
+    "0x98c36c0e953463bd5146c8783ce081ce1d187acf": {
+      "Token Name": "Polyient Games Unity (PGU)"
+    },
+    "0x205ed31c867bf715e4182137af95afe9177cd8e7": {
+      "Token Name": "DEFY (DEFY)"
+    },
+    "0xd5b89d470a8cec0d3d2bd2fa31fd5df33b2e3f97": {
+      "Token Name": "BitSport (BFI)"
+    },
+    "0x6e4c6d9b0930073e958abd2aba516b885260b8ff": {
+      "Token Name": "Influence Asteroids (INFA)"
+    },
+    "0x535bfc6883442f2ebe26171c2716cb25b623792c": {
+      "Token Name": "Dissolution (DIS)"
+    },
+    "0x456125cd98107ae0480ba566f1b716d48ba31453": {
+      "Token Name": "Ultimate Champions Token (CHAMP)"
+    },
+    "0xbdb5e34b656535cc4d459cd2b0fc74a821d4723b": {
+      "Token Name": "WonderGame Metaverse (WGM)"
+    },
+    "0xb8d1098d65e60881ef540402e59f352a177b8ce4": {
+      "Token Name": "HYPE (HYPENFT)"
+    },
+    "0xbfde6246df72d3ca86419628cac46a9d2b60393c": {
+      "Token Name": "EtheremonAdventure (EMOND)"
+    },
+    "0xf203ca1769ca8e9e8fe1da9d147db68b6c919817": {
+      "Token Name": "Wrapped NCG (WNCG)"
+    },
+    "0x438691e8d9098dCe98286cbc1c307e660cf0BBD8": {
+      "Token Name": "Be.fan (BFAN)"
+    },
+    "0x625d64c3384aa6d6841a1608ae0ce48776981d38": {
+      "Token Name": "SmartHoldem (STH)"
+    },
+    "0x2653891204f463fb2a2f4f412564b19e955166ae": {
+      "Token Name": "Gold Fever Native Gold (NGL)"
     }
   }
 }

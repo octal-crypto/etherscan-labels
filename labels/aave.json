@@ -754,56 +754,40 @@
       "Token Name": "Aave Interest bearing SUSD (aSUSD)",
       "Subcategory": "Others"
     },
-    "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8": {
-      "Token Name": "Aave Interest bearing USDT (aUSDT)",
+    "0x38E491A71291CD43E8DE63b7253E482622184894": {
+      "Token Name": "Aave AMM Market UniSNXWETH (aAmmUniSNXWETH)",
       "Subcategory": "Others"
     },
     "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d": {
       "Token Name": "Aave Interest bearing DAI (aDAI)",
       "Subcategory": "Others"
     },
-    "0x3D26dcd840fCC8e4B2193AcE8A092e4a65832F9f": {
-      "Token Name": "Aave AMM Market UniUNIWETH (aAmmUniUNIWETH)",
-      "Subcategory": "Others"
-    },
-    "0xe59d2FF6995a926A574390824a657eEd36801E55": {
-      "Token Name": "Aave AMM Market UniAAVEWETH (aAmmUniAAVEWETH)",
-      "Subcategory": "Others"
-    },
-    "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00": {
-      "Token Name": "Aave Interest bearing BAT (aBAT)",
-      "Subcategory": "Others"
-    },
-    "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f": {
-      "Token Name": "Aave Interest bearing MANA (aMANA)",
-      "Subcategory": "Others"
-    },
-    "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04": {
-      "Token Name": "Aave Interest bearing ETH (aETH)",
-      "Subcategory": "Others"
-    },
-    "0x38E491A71291CD43E8DE63b7253E482622184894": {
-      "Token Name": "Aave AMM Market UniSNXWETH (aAmmUniSNXWETH)",
+    "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8": {
+      "Token Name": "Aave Interest bearing USDT (aUSDT)",
       "Subcategory": "Others"
     },
     "0xc58F53A8adff2fB4eb16ED56635772075E2EE123": {
       "Token Name": "Aave AMM Market UniWBTCWETH (aAmmUniWBTCWETH)",
       "Subcategory": "Others"
     },
-    "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8": {
-      "Token Name": "Aave Interest bearing LEND (aLEND)",
+    "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00": {
+      "Token Name": "Aave Interest bearing BAT (aBAT)",
       "Subcategory": "Others"
     },
     "0xA9e201A4e269d6cd5E9F0FcbcB78520cf815878B": {
       "Token Name": "Aave AMM Market UniRENWETH (aAmmUniRENWETH)",
       "Subcategory": "Others"
     },
-    "0x9303EabC860a743aABcc3A1629014CaBcc3F8D36": {
-      "Token Name": "Aave AMM Market UniDAIWETH (aAmmUniDAIWETH)",
+    "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04": {
+      "Token Name": "Aave Interest bearing ETH (aETH)",
       "Subcategory": "Others"
     },
-    "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE": {
-      "Token Name": "Aave Interest bearing SNX (aSNX)",
+    "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f": {
+      "Token Name": "Aave Interest bearing MANA (aMANA)",
+      "Subcategory": "Others"
+    },
+    "0x9303EabC860a743aABcc3A1629014CaBcc3F8D36": {
+      "Token Name": "Aave AMM Market UniDAIWETH (aAmmUniDAIWETH)",
       "Subcategory": "Others"
     },
     "0x370adc71f67f581158Dc56f539dF5F399128Ddf9": {
@@ -814,16 +798,8 @@
       "Token Name": "Aave AMM Market WBTC (aAmmWBTC)",
       "Subcategory": "Others"
     },
-    "0xd24946147829DEaA935bE2aD85A3291dbf109c80": {
-      "Token Name": "Aave AMM Market USDC (aAmmUSDC)",
-      "Subcategory": "Others"
-    },
-    "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f": {
-      "Token Name": "Aave Interest bearing ZRX (aZRX)",
-      "Subcategory": "Others"
-    },
-    "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3": {
-      "Token Name": "Aave Interest bearing WBTC (aWBTC)",
+    "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8": {
+      "Token Name": "Aave Interest bearing LEND (aLEND)",
       "Subcategory": "Others"
     },
     "0xb8db81B84d30E2387de0FF330420A4AAA6688134": {
@@ -834,52 +810,76 @@
       "Token Name": "Aave AMM Market USDT (aAmmUSDT)",
       "Subcategory": "Others"
     },
-    "0x79bE75FFC64DD58e66787E4Eae470c8a1FD08ba4": {
-      "Token Name": "Aave AMM Market DAI (aAmmDAI)",
-      "Subcategory": "Others"
-    },
-    "0x7deB5e830be29F91E298ba5FF1356BB7f8146998": {
-      "Token Name": "Aave Interest bearing MKR (aMKR)",
-      "Subcategory": "Others"
-    },
-    "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84": {
-      "Token Name": "Aave Interest bearing LINK (aLINK)",
+    "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE": {
+      "Token Name": "Aave Interest bearing SNX (aSNX)",
       "Subcategory": "Others"
     },
     "0x0ea20e7fFB006d4Cfe84df2F72d8c7bD89247DB0": {
       "Token Name": "Aave AMM Market UniCRVWETH (aAmmUniCRVWETH)",
       "Subcategory": "Others"
     },
-    "0xf9Fb4AD91812b704Ba883B11d2B576E890a6730A": {
-      "Token Name": "Aave AMM Market WETH (aAmmWETH)",
+    "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f": {
+      "Token Name": "Aave Interest bearing ZRX (aZRX)",
       "Subcategory": "Others"
     },
-    "0x71010A9D003445aC60C4e6A7017c1E89A477B438": {
-      "Token Name": "Aave Interest bearing REP (aREP)",
+    "0xd24946147829DEaA935bE2aD85A3291dbf109c80": {
+      "Token Name": "Aave AMM Market USDC (aAmmUSDC)",
       "Subcategory": "Others"
     },
-    "0x4DA9b813057D04BAef4e5800E36083717b4a0341": {
-      "Token Name": "Aave Interest bearing TUSD (aTUSD)",
+    "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3": {
+      "Token Name": "Aave Interest bearing WBTC (aWBTC)",
       "Subcategory": "Others"
     },
     "0xE340B25fE32B1011616bb8EC495A4d503e322177": {
       "Token Name": "Aave AMM Market UniDAIUSDC (aAmmUniDAIUSDC)",
       "Subcategory": "Others"
     },
-    "0x9D91BE44C06d373a8a226E1f3b146956083803eB": {
-      "Token Name": "Aave Interest bearing KNC (aKNC)",
+    "0x7deB5e830be29F91E298ba5FF1356BB7f8146998": {
+      "Token Name": "Aave Interest bearing MKR (aMKR)",
       "Subcategory": "Others"
     },
-    "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E": {
-      "Token Name": "Aave Interest bearing USDC (aUSDC)",
+    "0x79bE75FFC64DD58e66787E4Eae470c8a1FD08ba4": {
+      "Token Name": "Aave AMM Market DAI (aAmmDAI)",
+      "Subcategory": "Others"
+    },
+    "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84": {
+      "Token Name": "Aave Interest bearing LINK (aLINK)",
+      "Subcategory": "Others"
+    },
+    "0xA1B0edF4460CC4d8bFAA18Ed871bFF15E5b57Eb4": {
+      "Token Name": "Aave AMM Market UniBATWETH (aAmmUniBATWETH)",
+      "Subcategory": "Others"
+    },
+    "0x71010A9D003445aC60C4e6A7017c1E89A477B438": {
+      "Token Name": "Aave Interest bearing REP (aREP)",
+      "Subcategory": "Others"
+    },
+    "0xf9Fb4AD91812b704Ba883B11d2B576E890a6730A": {
+      "Token Name": "Aave AMM Market WETH (aAmmWETH)",
       "Subcategory": "Others"
     },
     "0x391E86e2C002C70dEe155eAceB88F7A3c38f5976": {
       "Token Name": "Aave AMM Market UniUSDCWETH (aAmmUniUSDCWETH)",
       "Subcategory": "Others"
     },
-    "0xA1B0edF4460CC4d8bFAA18Ed871bFF15E5b57Eb4": {
-      "Token Name": "Aave AMM Market UniBATWETH (aAmmUniBATWETH)",
+    "0x4DA9b813057D04BAef4e5800E36083717b4a0341": {
+      "Token Name": "Aave Interest bearing TUSD (aTUSD)",
+      "Subcategory": "Others"
+    },
+    "0xe59d2FF6995a926A574390824a657eEd36801E55": {
+      "Token Name": "Aave AMM Market UniAAVEWETH (aAmmUniAAVEWETH)",
+      "Subcategory": "Others"
+    },
+    "0x9D91BE44C06d373a8a226E1f3b146956083803eB": {
+      "Token Name": "Aave Interest bearing KNC (aKNC)",
+      "Subcategory": "Others"
+    },
+    "0x3D26dcd840fCC8e4B2193AcE8A092e4a65832F9f": {
+      "Token Name": "Aave AMM Market UniUNIWETH (aAmmUniUNIWETH)",
+      "Subcategory": "Others"
+    },
+    "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E": {
+      "Token Name": "Aave Interest bearing USDC (aUSDC)",
       "Subcategory": "Others"
     }
   }
