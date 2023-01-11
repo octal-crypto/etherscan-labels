@@ -2,7 +2,7 @@ const fs = require("fs");
 const https = require("https");
 const JSDOM = require("jsdom").JSDOM;
 
-// This script scrapes labels from etherscan, since there's no API for them.
+// This script scrapes address labels from etherscan, since there's no API for them.
 // Large results are login + captcha gated. To get a session id:
 // (1) Log in to etherscan.io
 // (2) Chrome dev tools -> application -> storage -> cookies -> ASP.NET_SessionId
@@ -19,74 +19,83 @@ const sessionId = "";
 
     // For each label
     const labels = await retry(() => etherscan("/labelcloud"), retriableHTTP);
-    for (const label of labels.querySelectorAll('a[href*="/label/"]')) {
-        const name = label.href.substring(label.href.indexOf("/label/")+7);
+    for (const label of labels.querySelectorAll(".dropdown-menu")) {
+        const data = {};
 
-        // Find a human readable description of the label
-        const page = await retry(() => etherscan(label.href), retriableHTTP);
-        const description = page.getElementsByClassName("card mb-3")[0]?.textContent.trim();
+        // For each of the label's links
+        const selector = "a[href^='/accounts/label/'],a[href^='/tokens/label/']";
+        for (const link of label.querySelectorAll(selector)) {
+            data.Label ??= link.href.substring(link.href.indexOf("/label/")+7)
 
-        // For each subcategory of the label
-        let subcats = page.querySelectorAll(".nav > .nav-item > a.nav-link");
-        subcats = subcats.length == 0 ? [null] :
-            [...subcats].map(s => ({name: s.name, val:s.getAttribute("val") }));
+            // Find a human readable description of the label
+            const page = await retry(() => etherscan(link.href), retriableHTTP);
+            const description = page.getElementsByClassName("card mb-3")[0]?.textContent.trim();
 
-        for (const subcat of subcats) {
+            // For each subcategory of the label
+            let subcats = page.querySelectorAll(".nav > .nav-item > a.nav-link");
+            subcats = subcats.length == 0 ? [null] :
+                [...subcats].map(s => ({name: s.name, val:s.getAttribute("val") }));
+            for (const subcat of subcats) {
 
-            // Find the indexes of interesting columns
-            const cols = new Map([["Address", -1], ["Name Tag", -1], ["Token Name", -1]]);
-            page.querySelector("tr")?.querySelectorAll("th").forEach((th,i) =>
-                cols.forEach((_,k) => th.textContent.endsWith(k) ? cols.set(k,i) : null));
+                // Find the indexes of interesting columns
+                const cols = new Map([["Address", -1], ["Name Tag", -1], ["Token Name", -1]]);
+                page.querySelector("tr")?.querySelectorAll("th").forEach((th,i) =>
+                    cols.forEach((_,k) => th.textContent.endsWith(k) ? cols.set(k,i) : null));
 
-            // Read the table in pages, to avoid timeouts on large results
-            for (let start=0,size=10000;; start+=size) {
-                let url = `${label.href}?start=${start}&size=${size}&col=1&order=asc`;
-                if (subcat) url += `&subcatid=${subcat.val}`;
-                const table = await retry(() => etherscan(url), retriableHTTP);
-                const rows = table.querySelectorAll("tr[class='even'],tr[class='odd']");
+                // Read the table in pages, to avoid timeouts on large results
+                for (let start=0,size=10000;; start+=size) {
+                    let url = `${link.href}?start=${start}&size=${size}&col=1&order=asc`;
+                    if (subcat) url += `&subcatid=${subcat.val}`;
+                    const table = await retry(() => etherscan(url), retriableHTTP);
 
-                // For each row in the table
-                for (const row of rows) {
-                    const data = {Label:name};
+                    // For each row in the table
+                    const rows = table.querySelectorAll("tbody > tr");
+                    for (const row of rows) {
+                        const datum = {Label:data.Label};
 
-                    // Collect data from the interesting columns
-                    cols.forEach((i, col) => {
-                        if (i > -1) {
-                            const value = row.querySelector(`td:nth-child(${1+i})`).textContent;
-                            if (value) data[col] = value;
-                        }
-                    });
+                        // Collect data from the interesting columns
+                        cols.forEach((i, col) => {
+                            if (i > -1) {
+                                const val = row.querySelector(`td:nth-child(${1+i})`).textContent;
+                                if (val) datum[col] = val;
+                            }
+                        });
 
-                    // Write the data to files
-                    if (description) data.Description = description;
-                    if (subcat) data.Subcategory = subcat.name;
-                    updateLabel(data);
-                    updateAddress(data);
+                        // Update the data files
+                        if (description) datum.Description = description;
+                        if (subcat) datum.Subcategory = subcat.name;
+                        updateLabel(datum, data);
+                        updateAddress(datum);
+                    }
+
+                    // If we've read all rows for the label's subcategory
+                    if (rows.length < size) break;
                 }
-
-                // If we've read all rows for the label's subcategory
-                if (rows.length < size) break;
             }
+        }
+        if (data.Label) {
+            fs.writeFileSync(`labels/${data.Label}.json`, JSON.stringify(data, null, 2));
         }
     }
 })().catch(e => { console.error(e); process.exitCode = 1; });
 
-/** Wraps an HTTP GET request in a promise */
+/** Wraps an HTTP GET request in a promise. Returns the
+ *  response body if successful, and {code, message} otherwise. */
 function get(host, path, headers, timeout=120*1000) {
     console.debug(`GET ${host}${path}`);
 
     return new Promise((resolve, reject) => {
         const req = https.request({host, path, headers, timeout}, res => {
             let body = "";
-            res.on('data', chunk => body += chunk);
-            res.on('end', () => res.statusCode < 400
+            res.on("data", chunk => body += chunk);
+            res.on("end", () => res.statusCode < 400
                 ? resolve(body)
                 : reject({code:res.statusCode, message:body}));
         });
         // The request must be destroyed manually on timeout.
         // https://nodejs.org/docs/latest-v18.x/api/http.html#event-timeout
-        req.on('timeout', () => req.destroy()); // Emits an error event
-        req.on('error', err => reject(err));
+        req.on("timeout", () => req.destroy()); // Emits an error event
+        req.on("error", e => reject({code:e?.code == "ETIMEDOUT" ? 504 : 500, message:e}));
         req.end();
     });
 }
@@ -94,7 +103,7 @@ function get(host, path, headers, timeout=120*1000) {
 /** Sends an authenticated HTTP GET request to etherscan and returns a DOM */
 async function etherscan(path, timeout=120*1000) {
     const headers = {cookie:`ASP.NET_SessionId=${sessionId}`};
-    const dom = new JSDOM(await get('etherscan.io', path, headers, timeout)).window.document;
+    const dom = new JSDOM(await get("etherscan.io", path, headers, timeout)).window.document;
     if (dom.querySelector("a[href='/login']")) {
         throw {code:401, message:"Not signed in to etherscan. Check the session id."};
     } else if (dom.querySelector("a[href='/busy']")) {
@@ -105,12 +114,12 @@ async function etherscan(path, timeout=120*1000) {
 
 /** Retries {retriable} errors from {func} with {delay}
   * backoff increased by {mult} and optional {jitter} */
-async function retry(func, retriable=(()=>true), delay=500, mult=1.2, jitter=true) {
+async function retry(func, retriable=(()=>true), delay=2000, mult=1.1, jitter=true) {
     try { return await func(); }
     catch (e) {
         if (!retriable(e)) throw e;
         const ms = Math.round(delay * (jitter ? 2*Math.random() : 1));
-        console.warn("Retrying in %dms: %s", ms, e);
+        console.warn("Retrying in %dms: %O", ms, e);
         await new Promise(r => setTimeout(r, ms));
         return retry(func, retriable, delay*mult, mult);
     }
@@ -119,24 +128,22 @@ async function retry(func, retriable=(()=>true), delay=500, mult=1.2, jitter=tru
 /** Returns true if the error from an HTTP request is retriable */
 function retriableHTTP(e) { return e?.code >= 500 }
 
-/** Updates a label file with new {data} */
-function updateLabel(data) {
-    const {Label, Description, ...d} = data;
-    const file = `labels/${Label}.json`;
-    const old = !fs.existsSync(file)
-        ? { Label:Label, Description:Description, Addresses:[] }
-        : JSON.parse(fs.readFileSync(file));
-    old.Addresses.push(d);
-    fs.writeFileSync(file, JSON.stringify(old, null, 2));
+/** Updates the label {data} with with a new {datum} */
+function updateLabel(datum, data) {
+    const {Label, Description, Address, ...d} = datum;
+    data.Description ??= Description;
+    const address = (data.Addresses ??= {})[Address] ??= {};
+    Object.entries(d).forEach(([k,v]) => address[k] ??= v);
 }
 
-/** Updates an address file with new {data} */
-function updateAddress(data) {
-    const {Address, ...d} = data;
+/** Updates the address file with a new {datum} */
+function updateAddress(datum) {
+    const {Address, Label, ...d} = datum;
     const file = `addresses/${Address}.json`;
     const old = !fs.existsSync(file)
-        ? {Address:Address, Labels:[]}
+        ? {Address:Address, Labels:{}}
         : JSON.parse(fs.readFileSync(file));
-    old.Labels.push(d)
-    fs.writeFileSync(file, JSON.stringify(old, null, 2));
+    const label = old.Labels[Label] ??= {};
+    Object.entries(d).forEach(([k,v]) => label[k] ??= v);
+    fs.writeFileSync(file, old);
 }
