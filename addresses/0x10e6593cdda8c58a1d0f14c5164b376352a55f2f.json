@@ -1,0 +1,19 @@
+{
+  "Address": "0x10e6593cdda8c58a1d0f14c5164b376352a55f2f",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Optimism: DAI Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "layer-2": {
+      "Name Tag": "Optimism: DAI Bridge",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "optimism": {
+      "Name Tag": "Optimism: DAI Bridge",
+      "Description": "Optimism is a scalability stack for Ethereum.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Label": "bloom",
+  "Description": "Bloom is an end-to-end protocol for identity attestation, risk assessment, and credit scoring; entirely on the blockchain. Bloom allows both traditional and digital currency lenders to serve billions of people who currently cannot obtain a bank account or credit score.",
+  "Addresses": {
+    "0xceec7aaa57e3a77c73a9954b9b7d5b32ab688318": {
+      "Name Tag": "Bloom: Attestation Logic"
+    },
+    "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e": {
+      "Name Tag": "Bloom: BLT Token",
+      "Token Name": "Bloom (BLT)"
+    },
+    "0x9d217bcbd0bfae4d7f8f12c7702108d162e3ab79": {
+      "Name Tag": "Bloom: MultiSig"
+    },
+    "0xb547cc51ce58293e6945ba08d664ce051563d9ac": {
+      "Name Tag": "Bloom: Token Sale"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Address": "0x8b4334d4812c530574bd4f2763fcd22de94a969b",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "Tokemak: Treasury Address",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

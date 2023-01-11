@@ -1,0 +1,25 @@
+{
+  "Label": "oobit",
+  "Description": "A financial service aims to make buying and selling digital currency easy, simple, anywhere and anytime.",
+  "Addresses": {
+    "0xf6be265fa72148dfb64106247d21bb15ce650e5e": {
+      "Name Tag": "Oobit 1"
+    },
+    "0x65fb180c8bfaa811e9b2e3d2fa60ef27c15f8732": {
+      "Name Tag": "Oobit 2"
+    },
+    "0xa8ee70f68fffaae3cb8475112409adb9282f3246": {
+      "Name Tag": "Oobit 3"
+    },
+    "0xbf2ebf6c701068ccf046644315ff7417c879bd8a": {
+      "Name Tag": "Oobit 4"
+    },
+    "0x0bc99404e0fca2028d7665e3b473869c6c6ff002": {
+      "Name Tag": "Oobit: Deployer"
+    },
+    "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22": {
+      "Name Tag": "Oobit: OBT Token",
+      "Token Name": "Oobit (OBT)"
+    }
+  }
+}

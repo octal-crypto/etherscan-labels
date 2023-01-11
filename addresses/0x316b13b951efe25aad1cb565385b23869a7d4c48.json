@@ -1,0 +1,17 @@
+{
+  "Address": "0x316b13b951efe25aad1cb565385b23869a7d4c48",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old ETH 26 Day EMA Crossover Yield Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "ETH 26 EMA Crossover Yield (ETHEMAAPY)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old ETH 26 Day EMA Crossover Yield Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "ETH 26 EMA Crossover Yield (ETHEMAAPY)"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Address": "0x9a0aba393aac4dfbff4333b06c407458002c6183",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "acBTC: AC Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "yield-farming": {
+      "Token Name": "ACoconut (AC)"
+    }
+  }
+}

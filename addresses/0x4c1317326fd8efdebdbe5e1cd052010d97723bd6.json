@@ -1,0 +1,15 @@
+{
+  "Address": "0x4c1317326fd8efdebdbe5e1cd052010d97723bd6",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "yearn: Old yCRV Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "yam-finance": {
+      "Name Tag": "yearn: Old yCRV Token",
+      "Description": "Yam.Finance: Earn YAM tokens by providing liquidity.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0xa397d02928acaaf6553fd7e832413c5a732cf559",
+  "Labels": {
+    "beacon-depositor": {
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "maker-vault-owner": {
+      "Description": "A Maker Vault allows a user to deposit cryptocurrency collateral and generate Dai. Vaults are categorized by the type of collateral used to generated Dai. Users create Dai by generating it against their collateral and destroy Dai when repaying their generated Dai balance."
+    }
+  }
+}

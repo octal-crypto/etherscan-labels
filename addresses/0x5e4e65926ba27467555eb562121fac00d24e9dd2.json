@@ -1,0 +1,15 @@
+{
+  "Address": "0x5e4e65926ba27467555eb562121fac00d24e9dd2",
+  "Labels": {
+    "layer-2": {
+      "Name Tag": "Optimism: Canonical Transaction Chain",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "optimism": {
+      "Name Tag": "Optimism: Canonical Transaction Chain",
+      "Description": "Optimism is a scalability stack for Ethereum.",
+      "Subcategory": "Others"
+    }
+  }
+}

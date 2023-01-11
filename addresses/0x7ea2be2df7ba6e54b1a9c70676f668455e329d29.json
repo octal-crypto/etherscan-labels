@@ -1,0 +1,13 @@
+{
+  "Address": "0x7ea2be2df7ba6e54b1a9c70676f668455e329d29",
+  "Labels": {
+    "multichain": {
+      "Name Tag": "Multichain: anyUSDC Token",
+      "Description": "Multichain is a trustless protocol to bridge assets between heterogenous Layer-1 and Layer-2 platforms.",
+      "Token Name": "USDC (anyUSDC)"
+    },
+    "stablecoin": {
+      "Token Name": "USDC (anyUSDC)"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0x88930072f583936f506ce1f1d5fe69290c2d6a2a",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Civitas Protocol (CVT)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

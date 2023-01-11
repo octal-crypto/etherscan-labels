@@ -1,0 +1,11 @@
+{
+  "Address": "0xa3f84d4fe3adccb3c2c9fd73bb41e625a6c437bd",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Etherbtc: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "etherbtc (ethb)"
+    }
+  }
+}

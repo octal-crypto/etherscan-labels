@@ -1,0 +1,14 @@
+{
+  "Address": "0xce52a8dd7c8ad08e94b44620622e3630f7c1fc90",
+  "Labels": {
+    "ico-wallets": {
+      "Name Tag": "Gnosis: MultiSig 3",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "multisig": {
+      "Name Tag": "Gnosis: MultiSig 3",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

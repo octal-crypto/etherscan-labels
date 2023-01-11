@@ -1,0 +1,11 @@
+{
+  "Address": "0x71fbecb11e291f824fd5dc9e760f56a5239e4702",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Hodl DAO: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Hodl DAO (HODL)"
+    }
+  }
+}

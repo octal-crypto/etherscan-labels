@@ -1,0 +1,14 @@
+{
+  "Address": "0x2323763d78bf7104b54a462a79c2ce858d118f2f",
+  "Labels": {
+    "ico-wallets": {
+      "Name Tag": "Civic: Multisig",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "multisig": {
+      "Name Tag": "Civic: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Main"
+    }
+  }
+}

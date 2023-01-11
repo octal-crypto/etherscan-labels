@@ -1,0 +1,14 @@
+{
+  "Address": "0x2796317b0ff8538f253012862c06787adfb8ceb6",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Synapse: Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "synapse": {
+      "Name Tag": "Synapse: Bridge",
+      "Description": "Synapse is a cross-chain protocol powering frictionless interoperability between blockchains.",
+      "Subcategory": "Main"
+    }
+  }
+}

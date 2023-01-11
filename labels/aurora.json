@@ -1,0 +1,13 @@
+{
+  "Label": "aurora",
+  "Description": "Aurora provides Ethereum compatibility, NEAR Protocol scalability, and industry-first user experience through affordable transactions.",
+  "Addresses": {
+    "0x015e634c7c1311a9034220c28d3d12b7f710a3b1": {
+      "Name Tag": "NEAR Protocol: Deployer"
+    },
+    "0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4": {
+      "Name Tag": "NEAR Protocol: NEAR Token",
+      "Token Name": "NEAR (NEAR)"
+    }
+  }
+}

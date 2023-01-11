@@ -1,0 +1,14 @@
+{
+  "Address": "0x8fd3121013a07c57f0d69646e86e7a4880b467b7",
+  "Labels": {
+    "airswap": {
+      "Name Tag": "AirSwap: Legacy",
+      "Description": "AirSwap is scalable, portable, and secure, designed for any token, on any website, on any device, and in any language. Today, market makers are trading dozens of tokens, we are live across the web, available on desktop, tablets, and mobile, supporting 8 of our top community languages."
+    },
+    "old-contract": {
+      "Name Tag": "AirSwap: Legacy",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

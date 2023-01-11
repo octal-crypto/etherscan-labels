@@ -1,0 +1,14 @@
+{
+  "Address": "0x75ace7a086ea0fb1a79e43cc6331ad053d8c67cb",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Gluon Network",
+      "Description": "A gateway connecting one network to another."
+    },
+    "layer-2": {
+      "Name Tag": "Gluon Network",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0x000000000b8a22fdae0233faa785df7974ff0391",
+  "Labels": {
+    "mev-bot": {
+      "Name Tag": "MEV Bot: 0x000...391",
+      "Description": "Contracts detected as being heavily involved with Maximal Extractable Value (MEV - previously, Miner Extractable Value) transactions."
+    }
+  }
+}

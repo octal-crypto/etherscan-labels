@@ -1,0 +1,13 @@
+{
+  "Address": "0xf573d99385c05c23b24ed33de616ad16a43a0919",
+  "Labels": {
+    "bloxroute": {
+      "Name Tag": "bloXroute: Ethical Builder",
+      "Description": "bloXroute is a Blockchain Distribution Network (BDN), a global content distribution network of high performance servers for blockchain scalability."
+    },
+    "mev-builder": {
+      "Name Tag": "bloXroute: Ethical Builder",
+      "Description": "An address detected as an MEV block builder that collects and sequences transactions to produce blocks. Blockspace is sold to it by beacon chain validators."
+    }
+  }
+}

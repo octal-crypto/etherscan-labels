@@ -1,0 +1,22 @@
+{
+  "Address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
+  "Labels": {
+    "aave": {
+      "Name Tag": "Aave: aWETH Token V2",
+      "Description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+      "Subcategory": "Main",
+      "Token Name": "Aave interest bearing WETH (aWETH)"
+    },
+    "defi": {
+      "Token Name": "Aave interest bearing WETH (aWETH)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Main"
+    },
+    "v2": {
+      "Name Tag": "Aave: aWETH Token V2",
+      "Description": "Contracts associated with Version 2 of a project.",
+      "Subcategory": "Main",
+      "Token Name": "Aave interest bearing WETH (aWETH)"
+    }
+  }
+}

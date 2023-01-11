@@ -1,0 +1,72 @@
+{
+  "Label": "bzx",
+  "Description": "bZx is a financial primitive for shorting, leverage, borrowing, and lending that empowers decentralized, efficient blockchain applications.",
+  "Addresses": {
+    "0x56d811088235f11c8920698a204a5010a788f4b3": {
+      "Name Tag": "bZx Protocol Token",
+      "Subcategory": "Main"
+    },
+    "0x493c57c4763932315a328269e1adad09653b9081": {
+      "Name Tag": "bZx DAI iToken",
+      "Subcategory": "Others",
+      "Token Name": "Fulcrum DAI iToken (iDAI)"
+    },
+    "0x77f973fcaf871459aa58cd81881ce453759281bc": {
+      "Name Tag": "bZx ETH iToken",
+      "Subcategory": "Others",
+      "Token Name": "Fulcrum ETH iToken (iETH)"
+    },
+    "0x1cc9567ea2eb740824a45f8026ccf8e46973234d": {
+      "Name Tag": "bZx KNC iToken",
+      "Subcategory": "Others",
+      "Token Name": "Fulcrum KNC iToken (iKNC)"
+    },
+    "0x1d496da96caf6b518b133736beca85d5c4f9cbc5": {
+      "Name Tag": "bZx LINK iToken",
+      "Subcategory": "Others",
+      "Token Name": "Fulcrum LINK iToken (iLINK)"
+    },
+    "0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9": {
+      "Name Tag": "bZx Protocol Token v1",
+      "Subcategory": "Others",
+      "Token Name": "bZx Protocol Token (BZRX)"
+    },
+    "0xbd56e9477fc6997609cf45f84795efbdac642ff1": {
+      "Name Tag": "bZx REP iToken",
+      "Subcategory": "Others",
+      "Token Name": "Fulcrum REP iToken (iREP)"
+    },
+    "0x14094949152eddbfcd073717200da82fed8dc960": {
+      "Name Tag": "bZx SAI iToken",
+      "Subcategory": "Others",
+      "Token Name": "Fulcrum SAI iToken (iSAI)"
+    },
+    "0x49f4592e641820e928f9919ef4abd92a719b4b49": {
+      "Name Tag": "bZx sUSD iToken",
+      "Subcategory": "Others",
+      "Token Name": "Fulcrum sUSD iToken (iSUSD)"
+    },
+    "0xf013406a0b1d544238083df0b93ad0d2cbe0f65f": {
+      "Name Tag": "bZx USDC iToken",
+      "Subcategory": "Others",
+      "Token Name": "Fulcrum USDC iToken (iUSDC)"
+    },
+    "0xba9262578efef8b3aff7f60cd629d6cc8859c8b5": {
+      "Name Tag": "bZx WBTC iToken",
+      "Subcategory": "Others",
+      "Token Name": "Fulcrum WBTC iToken (iWBTC)"
+    },
+    "0xa7eb2bc82df18013ecc2a6c533fc29446442edee": {
+      "Name Tag": "bZx ZRX iToken",
+      "Subcategory": "Others",
+      "Token Name": "Fulcrum ZRX iToken (iZRX)"
+    },
+    "0x8b3d70d628ebd30d4a2ea82db95ba2e906c71633": {
+      "Name Tag": "bZx: Vault",
+      "Subcategory": "Others"
+    },
+    "0x56d811088235F11C8920698a204A5010a788f4b3": {
+      "Token Name": "bZx Protocol Token (BZRX)"
+    }
+  }
+}

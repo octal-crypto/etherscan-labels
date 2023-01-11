@@ -1,0 +1,19 @@
+{
+  "Label": "latoken",
+  "Description": "LATOKEN is a simple, fast and secure way to exchange crypto and tokenize assets",
+  "Addresses": {
+    "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf": {
+      "Name Tag": "LA Token",
+      "Token Name": "LAtoken (LA)"
+    },
+    "0x0861fca546225fbf8806986d211c8398f7457734": {
+      "Name Tag": "LAToken"
+    },
+    "0x7891b20c690605f4e370d6944c8a5dbfac5a451c": {
+      "Name Tag": "LAToken 2"
+    },
+    "0x1b6c1a0e20af81b922cb454c3e52408496ee7201": {
+      "Name Tag": "LAToken 3"
+    }
+  }
+}

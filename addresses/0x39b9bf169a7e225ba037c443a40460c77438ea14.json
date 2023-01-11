@@ -1,0 +1,15 @@
+{
+  "Address": "0x39b9bf169a7e225ba037c443a40460c77438ea14",
+  "Labels": {
+    "layer-2": {
+      "Name Tag": "Loopring: Agent Registry",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "loopring": {
+      "Name Tag": "Loopring: Agent Registry",
+      "Description": "Loopring: Scalable zkRollup exchange protocol.",
+      "Subcategory": "Others"
+    }
+  }
+}

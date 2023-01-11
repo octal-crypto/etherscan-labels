@@ -1,0 +1,11 @@
+{
+  "Address": "0x4afea0f1252335e5e6be870139de87725e16560b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Natmin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Natmin (NAT)"
+    }
+  }
+}

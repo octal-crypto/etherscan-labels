@@ -1,0 +1,15 @@
+{
+  "Address": "0x649f37203c365de759c8fc8ca35bebf5448f70be",
+  "Labels": {
+    "layer-2": {
+      "Name Tag": "OMG Network: ETH Deposit Verifier",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "omg-network": {
+      "Name Tag": "OMG Network: ETH Deposit Verifier",
+      "Description": "The OMG Network is a trustless, non-custodial, Layer-2 scaling solution for transferring value on Ethereum.",
+      "Subcategory": "Others"
+    }
+  }
+}

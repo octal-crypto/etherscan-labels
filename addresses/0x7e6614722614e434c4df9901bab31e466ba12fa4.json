@@ -1,0 +1,14 @@
+{
+  "Address": "0x7e6614722614e434c4df9901bab31e466ba12fa4",
+  "Labels": {
+    "ico-wallets": {
+      "Name Tag": "Mysterium: Multisig",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "multisig": {
+      "Name Tag": "Mysterium: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Main"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "BCAP: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "BCAP (BCAP)"
+    }
+  }
+}

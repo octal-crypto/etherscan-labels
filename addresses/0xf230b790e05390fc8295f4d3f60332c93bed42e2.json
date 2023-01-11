@@ -1,0 +1,20 @@
+{
+  "Address": "0xf230b790e05390fc8295f4d3f60332c93bed42e2",
+  "Labels": {
+    "mainnet-launched": {
+      "Token Name": "Tronix (TRX)",
+      "Description": "Companies whose Mainnet have launched and have migrated from the Ethereum Network. A reminder to swap your tokens to the respective Mainnet if you have yet to do so."
+    },
+    "old-contract": {
+      "Name Tag": "TRON: Old TRX Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Tronix (TRX)"
+    },
+    "tron": {
+      "Name Tag": "TRON: Old TRX Token",
+      "Description": "TRON is a blockchain-based operating system.",
+      "Token Name": "Tronix (TRX)"
+    }
+  }
+}

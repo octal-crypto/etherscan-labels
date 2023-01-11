@@ -1,0 +1,10 @@
+{
+  "Address": "0x131c83801f4d9236f4416a0319ce7a02a76caf94",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "TokenBot: Old TKB Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

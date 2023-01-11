@@ -1,0 +1,10 @@
+{
+  "Address": "0x5dd835a893734b8d556eccf87800b76dda5aedc5",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Bamboo Relay: Old Address",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

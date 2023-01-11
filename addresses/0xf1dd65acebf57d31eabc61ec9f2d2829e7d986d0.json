@@ -1,0 +1,20 @@
+{
+  "Address": "0xf1dd65acebf57d31eabc61ec9f2d2829e7d986d0",
+  "Labels": {
+    "gold": {
+      "Token Name": "Canamex Gold (CXGLD)",
+      "Description": "Gold-backed or related tokens."
+    },
+    "security-token": {
+      "Token Name": "Canamex Gold (CXGLD)",
+      "Description": "Disclaimer:\nEtherscan does not endorse nor certify the following tokens to be Security Tokens."
+    },
+    "st-20": {
+      "Token Name": "Canamex Gold (CXGLD)",
+      "Description": "Polymath's security token standard for tokens launched using their protocol."
+    },
+    "tokenized-asset": {
+      "Token Name": "Canamex Gold (CXGLD)"
+    }
+  }
+}

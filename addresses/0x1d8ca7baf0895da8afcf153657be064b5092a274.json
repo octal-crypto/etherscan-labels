@@ -1,0 +1,9 @@
+{
+  "Address": "0x1d8ca7baf0895da8afcf153657be064b5092a274",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "EthLyteToken (EtLyteT)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

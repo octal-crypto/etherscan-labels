@@ -1,0 +1,10 @@
+{
+  "Address": "0x4470bb87d77b963a013db939be332f927f2b992e",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "AdEx: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

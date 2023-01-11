@@ -1,0 +1,15 @@
+{
+  "Address": "0x34a34267ec4034ba52f154829d0b6548bbbf7c74",
+  "Labels": {
+    "lukso-blockchain": {
+      "Name Tag": "LUKSO: Deprecated Reversible ICO",
+      "Description": "LUKSO, the Blockchain for the new digital lifestyle is created by former Ethereum Developer Fabian Vogelsteller, author of ERC20 and web3.js.\nLUKSO is a place where the worlds of fashion, gaming, design and social media intersect.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "LUKSO: Deprecated Reversible ICO",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

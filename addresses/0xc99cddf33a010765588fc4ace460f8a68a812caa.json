@@ -1,0 +1,10 @@
+{
+  "Address": "0xc99cddf33a010765588fc4ace460f8a68a812caa",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Uqpay: Old Address",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

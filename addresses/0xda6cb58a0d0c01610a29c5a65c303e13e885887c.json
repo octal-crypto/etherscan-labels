@@ -1,0 +1,11 @@
+{
+  "Address": "0xda6cb58a0d0c01610a29c5a65c303e13e885887c",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "carVertical: Old cV Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "cVToken (cV)"
+    }
+  }
+}

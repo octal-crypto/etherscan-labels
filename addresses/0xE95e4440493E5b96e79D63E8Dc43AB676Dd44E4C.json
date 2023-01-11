@@ -1,0 +1,13 @@
+{
+  "Address": "0xE95e4440493E5b96e79D63E8Dc43AB676Dd44E4C",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "AntiSeal (ANTISEAL)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "website-down": {
+      "Token Name": "AntiSeal (ANTISEAL)",
+      "Description": "The last checked status of a website.\nPlease contact us (1. General Inquiry) if the website is back online."
+    }
+  }
+}

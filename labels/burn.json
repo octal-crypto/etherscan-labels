@@ -1,0 +1,106 @@
+{
+  "Label": "burn",
+  "Description": "Tokens are commonly considered burned after sending to an address whose private keys are impossible (or extremely improbable) for anyone to have access to. Another recommended method is to create a contract which immediately self destructs and sends to its own address.",
+  "Addresses": {
+    "0x000000000000000000000000000000000000dead": {
+      "Name Tag": "Null Address: 0x00...dEaD",
+      "Subcategory": "Main"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "Name Tag": "Null Address: 0x000...000",
+      "Subcategory": "Main"
+    },
+    "0x0000000000000000000000000000000000000001": {
+      "Name Tag": "Null Address: 0x000...001",
+      "Subcategory": "Main"
+    },
+    "0x0000000000000000000000000000000000000002": {
+      "Name Tag": "Null Address: 0x000...002",
+      "Subcategory": "Main"
+    },
+    "0x0000000000000000000000000000000000000003": {
+      "Name Tag": "Null Address: 0x000...003",
+      "Subcategory": "Main"
+    },
+    "0x0000000000000000000000000000000000000004": {
+      "Name Tag": "Null Address: 0x000...004",
+      "Subcategory": "Main"
+    },
+    "0x0000000000000000000000000000000000000005": {
+      "Name Tag": "Null Address: 0x000...005",
+      "Subcategory": "Main"
+    },
+    "0x0000000000000000000000000000000000000006": {
+      "Name Tag": "Null Address: 0x000...006",
+      "Subcategory": "Main"
+    },
+    "0x0000000000000000000000000000000000000007": {
+      "Name Tag": "Null Address: 0x000...007",
+      "Subcategory": "Main"
+    },
+    "0x0000000000000000000000000000000000000008": {
+      "Name Tag": "Null Address: 0x000...008",
+      "Subcategory": "Main"
+    },
+    "0x0000000000000000000000000000000000000009": {
+      "Name Tag": "Null Address: 0x000...009",
+      "Subcategory": "Main"
+    },
+    "0x00000000000000000000045261d4ee77acdb3286": {
+      "Name Tag": "Null Address: 0x000...286",
+      "Subcategory": "Main"
+    },
+    "0x0123456789012345678901234567890123456789": {
+      "Name Tag": "Null Address: 0x012...789",
+      "Subcategory": "Main"
+    },
+    "0x1111111111111111111111111111111111111111": {
+      "Name Tag": "Null Address: 0x111...111",
+      "Subcategory": "Main"
+    },
+    "0x1234567890123456789012345678901234567890": {
+      "Name Tag": "Null Address: 0x123...890",
+      "Subcategory": "Main"
+    },
+    "0x2222222222222222222222222222222222222222": {
+      "Name Tag": "Null Address: 0x222...222",
+      "Subcategory": "Main"
+    },
+    "0x3333333333333333333333333333333333333333": {
+      "Name Tag": "Null Address: 0x333...333",
+      "Subcategory": "Main"
+    },
+    "0x4444444444444444444444444444444444444444": {
+      "Name Tag": "Null Address: 0x444...444",
+      "Subcategory": "Main"
+    },
+    "0x6666666666666666666666666666666666666666": {
+      "Name Tag": "Null Address: 0x666...666",
+      "Subcategory": "Main"
+    },
+    "0x8888888888888888888888888888888888888888": {
+      "Name Tag": "Null Address: 0x888...888",
+      "Subcategory": "Main"
+    },
+    "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb": {
+      "Name Tag": "Null Address: 0xbBb...BbB",
+      "Subcategory": "Main"
+    },
+    "0xdead000000000000000042069420694206942069": {
+      "Name Tag": "Null Address: 0xdea...069",
+      "Subcategory": "Main"
+    },
+    "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee": {
+      "Name Tag": "Null Address: 0xeee...eee",
+      "Subcategory": "Main"
+    },
+    "0xffffffffffffffffffffffffffffffffffffffff": {
+      "Name Tag": "Null Address: 0xfff...fff",
+      "Subcategory": "Main"
+    },
+    "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa": {
+      "Name Tag": "Null Address: aAa...aAa",
+      "Subcategory": "Main"
+    }
+  }
+}

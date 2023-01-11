@@ -1,0 +1,13 @@
+{
+  "Address": "0x7031AB87DCC46818806EC07aF46fa8c2aD2A2BFC",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Tribute (TRBT)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "gaming": {
+      "Token Name": "Tribute (TRBT)",
+      "Description": "The category relating to the playing of electronic games."
+    }
+  }
+}

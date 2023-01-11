@@ -1,0 +1,15 @@
+{
+  "Address": "0xcd76de5c57004d47d0216ec7dabd3c72d8c49057",
+  "Labels": {
+    "layer-2": {
+      "Name Tag": "Optimism: Mock OVM Bond Manager",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Main"
+    },
+    "optimism": {
+      "Name Tag": "Optimism: Mock OVM Bond Manager",
+      "Description": "Optimism is a scalability stack for Ethereum.",
+      "Subcategory": "Main"
+    }
+  }
+}

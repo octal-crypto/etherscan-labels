@@ -1,0 +1,15 @@
+{
+  "Address": "0x911143d946ba5d467bfc476491fdb235fef4d667",
+  "Labels": {
+    "ens": {
+      "Name Tag": "ENS: Multisig",
+      "Description": "ENS offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names.",
+      "Subcategory": "Others"
+    },
+    "multisig": {
+      "Name Tag": "ENS: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

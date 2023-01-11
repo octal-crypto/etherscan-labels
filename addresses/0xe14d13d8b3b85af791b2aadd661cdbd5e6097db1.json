@@ -1,0 +1,15 @@
+{
+  "Address": "0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yCRV/YFI Vault",
+      "Token Name": "YFI yVault (yvYFI)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yCRV/YFI Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "YFI yVault (yvYFI)"
+    }
+  }
+}

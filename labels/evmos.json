@@ -1,0 +1,13 @@
+{
+  "Label": "evmos",
+  "Description": "Evmos is bringing the world of Ethereum-based applications and assets to the interoperable networks of the Cosmos ecosystem, all while aligning developer and user incentives.",
+  "Addresses": {
+    "0x9947a1c54cd439037f169c9ee165af3b9c184752": {
+      "Name Tag": "Evmos: Deployer"
+    },
+    "0x93581991f68dbae1ea105233b67f7fa0d6bdee7b": {
+      "Name Tag": "Evmos: WEVMOS Token",
+      "Token Name": "Wrapped Evmos (WEVMOS)"
+    }
+  }
+}

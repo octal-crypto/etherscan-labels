@@ -1,0 +1,14 @@
+{
+  "Address": "0xc03841b5135600312707d39eb2af0d2ad5d51a91",
+  "Labels": {
+    "defi": {
+      "Token Name": "BasketCoin (BSKT)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "deflationary-token": {
+      "Token Name": "BasketCoin (BSKT)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

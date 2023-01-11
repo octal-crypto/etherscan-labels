@@ -1,0 +1,14 @@
+{
+  "Address": "0x185f19b43d818e10a31be68f445ef8edcb8afb83",
+  "Labels": {
+    "ico-wallets": {
+      "Name Tag": "TenX: Multisig",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "multisig": {
+      "Name Tag": "TenX: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Main"
+    }
+  }
+}

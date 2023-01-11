@@ -1,0 +1,13 @@
+{
+  "Address": "0x2f085edec7113e54a1747bd9572b213e662c6165",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "ZARP (Rand Reserve): Old ZARP Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "stablecoin": {
+      "Token Name": "ZARP (Rand Reserve) (ZARP)"
+    }
+  }
+}

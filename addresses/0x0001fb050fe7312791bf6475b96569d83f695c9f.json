@@ -1,0 +1,19 @@
+{
+  "Address": "0x0001fb050fe7312791bf6475b96569d83f695c9f",
+  "Labels": {
+    "defi": {
+      "Name Tag": "Ygov.finance: yearn ",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "yearn-finance": {
+      "Name Tag": "Ygov.finance: yearn ",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Main"
+    },
+    "ygov-finance": {
+      "Name Tag": "Ygov.finance: yearn ",
+      "Subcategory": "Main"
+    }
+  }
+}

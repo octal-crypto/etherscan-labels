@@ -1,0 +1,19 @@
+{
+  "Address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+  "Labels": {
+    "binance": {
+      "Name Tag": "Binance: BNB Token",
+      "Description": "Binance cryptocurrency exchange.",
+      "Subcategory": "Others",
+      "Token Name": "BNB (BNB)"
+    },
+    "blocked": {
+      "Name Tag": "Binance: BNB Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "mainnet-launched": {
+      "Token Name": "BNB (BNB)",
+      "Description": "Companies whose Mainnet have launched and have migrated from the Ethereum Network. A reminder to swap your tokens to the respective Mainnet if you have yet to do so."
+    }
+  }
+}

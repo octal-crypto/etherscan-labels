@@ -1,0 +1,18 @@
+{
+  "Address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+  "Labels": {
+    "beacon-depositor": {
+      "Token Name": "stETH (stETH)",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "lido": {
+      "Name Tag": "Lido: stETH Token",
+      "Description": "Lido is a liquid staking solution for ETH 2.0 backed by industry-leading staking providers. Lido lets users stake their ETH - without locking assets or maintaining infrastructure - whilst participating in on-chain activities.",
+      "Token Name": "stETH (stETH)"
+    },
+    "staking": {
+      "Token Name": "stETH (stETH)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    }
+  }
+}

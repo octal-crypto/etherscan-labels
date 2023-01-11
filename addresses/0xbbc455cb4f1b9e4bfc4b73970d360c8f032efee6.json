@@ -1,0 +1,15 @@
+{
+  "Address": "0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy sLINK Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy sLINK Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth sLINK (sLINK)"
+    }
+  }
+}

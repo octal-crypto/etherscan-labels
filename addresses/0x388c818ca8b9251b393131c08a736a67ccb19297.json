@@ -1,0 +1,13 @@
+{
+  "Address": "0x388c818ca8b9251b393131c08a736a67ccb19297",
+  "Labels": {
+    "lido": {
+      "Name Tag": "Lido: Execution Layer Rewards Vault",
+      "Description": "Lido is a liquid staking solution for ETH 2.0 backed by industry-leading staking providers. Lido lets users stake their ETH - without locking assets or maintaining infrastructure - whilst participating in on-chain activities."
+    },
+    "proposer-fee-recipient": {
+      "Name Tag": "Lido: Execution Layer Rewards Vault",
+      "Description": "An address that is set by Beacon Chain validators as a fee recipient for their block proposers."
+    }
+  }
+}

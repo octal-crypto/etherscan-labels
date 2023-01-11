@@ -1,0 +1,14 @@
+{
+  "Address": "0xe1237aa7f535b0cc33fd973d66cbf830354d16c7",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yWETH Vault"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yWETH Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Wrapped Ether (yWETH)"
+    }
+  }
+}

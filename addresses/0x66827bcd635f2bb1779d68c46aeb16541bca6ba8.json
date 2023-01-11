@@ -1,0 +1,9 @@
+{
+  "Address": "0x66827bcd635f2bb1779d68c46aeb16541bca6ba8",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "piedao.org: Eth2 Depositor",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0xd0e3e318154716bd9d007e1e6b021eab246ff98d",
+  "Labels": {
+    "layer-2": {
+      "Name Tag": "Optimism: OVM State Manager Factory",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Main"
+    },
+    "optimism": {
+      "Name Tag": "Optimism: OVM State Manager Factory",
+      "Description": "Optimism is a scalability stack for Ethereum.",
+      "Subcategory": "Main"
+    }
+  }
+}

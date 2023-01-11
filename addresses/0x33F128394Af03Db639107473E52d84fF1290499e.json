@@ -1,0 +1,9 @@
+{
+  "Address": "0x33F128394Af03Db639107473E52d84fF1290499e",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Green Candle Man (CANDLE)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

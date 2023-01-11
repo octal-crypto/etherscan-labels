@@ -1,0 +1,14 @@
+{
+  "Address": "0x7c6694032b4db11ac485e1cff0f7509d58b41569",
+  "Labels": {
+    "mining": {
+      "Name Tag": "Whalesburg Pool: Old Address",
+      "Description": "Cryptocurrency mining is the validation of transactions on the blockchain. Once validated, these transactions are added to the blockchain's public ledger of past transactions.\nFor this effort, successful miners receive new cryptocurrency as a reward."
+    },
+    "old-contract": {
+      "Name Tag": "Whalesburg Pool: Old Address",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

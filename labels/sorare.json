@@ -1,0 +1,31 @@
+{
+  "Label": "sorare",
+  "Description": "Sorare is a global fantasy football game where you can collect limited edition collectibles, manage your teams and compete to earn prizes.",
+  "Addresses": {
+    "0x1c395af6ee8f262d1befb1dc3b0045fd6cb2d5da": {
+      "Name Tag": "Sorare: Bulk Transfer"
+    },
+    "0x879cd57975d596004863d30c59d579ef78bbbe32": {
+      "Name Tag": "Sorare: Committee"
+    },
+    "0x7f243bc585dc218d6b33949c02d01ac3b007aaa5": {
+      "Name Tag": "Sorare: Deployer"
+    },
+    "0xf5c9f957705bea56a7e806943f98f7777b995826": {
+      "Name Tag": "Sorare: L2 Bridge"
+    },
+    "0x629a673a8242c2ac4b7b8c5d8735fbeac21a6205": {
+      "Name Tag": "Sorare: SOR Token",
+      "Token Name": "Sorare (SOR)"
+    },
+    "0x2cabd63f6f28b493f33d13e34060f0959f3570ae": {
+      "Name Tag": "Sorare: Statement Contract"
+    },
+    "0xdbd324b73f6f85bf9013b75c442021303b635ff9": {
+      "Name Tag": "Sorare: Withdrawal"
+    },
+    "0x06Bc6BF1432C4f28da6aD2BeE7D6e62F91B1B669": {
+      "Token Name": "Sorare NBA (SON)"
+    }
+  }
+}

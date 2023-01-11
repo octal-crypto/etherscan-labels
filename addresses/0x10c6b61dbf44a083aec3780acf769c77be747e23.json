@@ -1,0 +1,13 @@
+{
+  "Address": "0x10c6b61dbf44a083aec3780acf769c77be747e23",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Multichain: Moonriver Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "multichain": {
+      "Name Tag": "Multichain: Moonriver Bridge",
+      "Description": "Multichain is a trustless protocol to bridge assets between heterogenous Layer-1 and Layer-2 platforms."
+    }
+  }
+}

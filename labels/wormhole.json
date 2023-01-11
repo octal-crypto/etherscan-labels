@@ -1,0 +1,79 @@
+{
+  "Label": "wormhole",
+  "Description": "Wormhole is a generic message-passing protocol that connects to multiple chains including Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Avalanche, and Oasis.",
+  "Addresses": {
+    "0xe3adaa4fb7c92ab833ee08b3561d9c434aa2a3ee": {
+      "Token Name": "(Wormhole) (-)"
+    },
+    "0xb9f747162ab1e95d07361f9048bcdf6edda9eea7": {
+      "Name Tag": "Wormhole: ATLAS Token",
+      "Token Name": "(Wormhole) (-)"
+    },
+    "0x7b4b0b9b024109d182dcf3831222fbda81369423": {
+      "Name Tag": "Wormhole: BUSD Token",
+      "Token Name": "BUSD Token (Wormhole) (BUSD)"
+    },
+    "0xbd31ea8212119f94a611fa969881cba3ea06fa3d": {
+      "Name Tag": "Wormhole: LUNA Token",
+      "Token Name": "LUNA (Wormhole) (LUNA)"
+    },
+    "0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b": {
+      "Name Tag": "Wormhole: mSOL Token",
+      "Token Name": "(Wormhole) (-)"
+    },
+    "0xe617dd80c621a5072bd8cba65e9d76c07327004d": {
+      "Name Tag": "Wormhole: RAY Token",
+      "Token Name": "(Wormhole) (-)"
+    },
+    "0xd31a59c85ae9d8edefec411d448f90841571b89c": {
+      "Name Tag": "Wormhole: SOL Token",
+      "Token Name": "Wrapped SOL (Wormhole) (SOL)"
+    },
+    "0x7cd167b101d2808cfd2c45d17b2e7ea9f46b74b6": {
+      "Name Tag": "Wormhole: USDCbs Token",
+      "Token Name": "USD Coin (Wormhole) (USDC)"
+    },
+    "0x566957ef80f9fd5526cd2bef8be67035c0b81130": {
+      "Name Tag": "Wormhole: USDCpo Token",
+      "Token Name": "USD Coin (PoS) (Wormhole) (USDC)"
+    },
+    "0x41f7b8b9b897276b7aae926a9016935280b44e97": {
+      "Name Tag": "Wormhole: USDCso Token",
+      "Token Name": "USD Coin (Wormhole) (USDC)"
+    },
+    "0xde60adfddaabaaac3dafa57b26acc91cb63728c4": {
+      "Name Tag": "Wormhole: USDTbs Token",
+      "Token Name": "Tether USD (Wormhole) (USDT)"
+    },
+    "0x1cdd2eab61112697626f7b4bb0e23da4febf7b7c": {
+      "Name Tag": "Wormhole: USDTso Token",
+      "Token Name": "USDT (Wormhole) (USDT)"
+    },
+    "0xa693b19d2931d498c5b318df961919bb4aee87a5": {
+      "Name Tag": "Wormhole: UST Token",
+      "Token Name": "UST (Wormhole) (UST)"
+    },
+    "0x85f138bfee4ef8e540890cfb48f620571d67eda3": {
+      "Name Tag": "Wormhole: WAVAX Token",
+      "Token Name": "Wrapped AVAX (Wormhole) (WAVAX)"
+    },
+    "0x418d75f65a02b3d53b2418fb8e1fe493759c7605": {
+      "Name Tag": "Wormhole: WBNB Token",
+      "Token Name": "Wrapped BNB (Wormhole) (WBNB)"
+    },
+    "0x7c9f4c87d911613fe9ca58b579f737911aad2d43": {
+      "Name Tag": "Wormhole: WMATIC Token",
+      "Token Name": "Wrapped Matic (Wormhole) (WMATIC)"
+    },
+    "0x26b80fbfc01b71495f477d5237071242e0d959d7": {
+      "Name Tag": "Wormhole: wROSE Token",
+      "Token Name": "Wrapped ROSE (Wormhole) (wROSE)"
+    },
+    "0x7c8161545717a334f3196e765d9713f8042ef338": {
+      "Name Tag": "Wromhole: Cake Token"
+    },
+    "0x7c8161545717a334f3196e765d9713f8042EF338": {
+      "Token Name": "PancakeSwap Token (Wormhole) (Cake)"
+    }
+  }
+}

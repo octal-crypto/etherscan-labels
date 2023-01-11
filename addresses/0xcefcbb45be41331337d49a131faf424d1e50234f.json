@@ -1,0 +1,15 @@
+{
+  "Address": "0xcefcbb45be41331337d49a131faf424d1e50234f",
+  "Labels": {
+    "mstable": {
+      "Name Tag": "mStable: Old Savings Manager 1.0",
+      "Description": "mStable unifies stablecoins, lending and swapping into one standard.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "mStable: Old Savings Manager 1.0",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

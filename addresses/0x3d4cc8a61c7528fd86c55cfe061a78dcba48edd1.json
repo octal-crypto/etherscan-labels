@@ -1,0 +1,13 @@
+{
+  "Address": "0x3d4cc8a61c7528fd86c55cfe061a78dcba48edd1",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Hop Protocol: DAI Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "hop-protocol": {
+      "Name Tag": "Hop Protocol: DAI Bridge",
+      "Description": "Hop Protocol is a rollup-to-rollup general token bridge. It allows users to send tokens from one rollup to another almost immediately without having to wait for the rollup’s challenge period."
+    }
+  }
+}

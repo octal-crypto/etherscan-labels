@@ -1,0 +1,13 @@
+{
+  "Address": "0x3666f603cc164936c1b87e207f36beba4ac5f18a",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Hop Protocol: USDC Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "hop-protocol": {
+      "Name Tag": "Hop Protocol: USDC Bridge",
+      "Description": "Hop Protocol is a rollup-to-rollup general token bridge. It allows users to send tokens from one rollup to another almost immediately without having to wait for the rollup’s challenge period."
+    }
+  }
+}

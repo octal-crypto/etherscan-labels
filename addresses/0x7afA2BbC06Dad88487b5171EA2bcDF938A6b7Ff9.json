@@ -1,0 +1,21 @@
+{
+  "Address": "0x7afA2BbC06Dad88487b5171EA2bcDF938A6b7Ff9",
+  "Labels": {
+    "defi": {
+      "Token Name": "TramsToken (TRAMS)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "dex": {
+      "Token Name": "TramsToken (TRAMS)",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    },
+    "staking": {
+      "Token Name": "TramsToken (TRAMS)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    },
+    "yield-farming": {
+      "Token Name": "TramsToken (TRAMS)"
+    }
+  }
+}

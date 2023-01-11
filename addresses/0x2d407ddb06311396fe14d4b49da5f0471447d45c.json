@@ -1,0 +1,14 @@
+{
+  "Address": "0x2d407ddb06311396fe14d4b49da5f0471447d45c",
+  "Labels": {
+    "sybil-delegate": {
+      "Name Tag": "yearn: Deployer",
+      "Description": "Sybil is a governance tool for discovering delegates. Sybil maps on-chain addresses to digital identities to maintain a list of delegates."
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: Deployer",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others"
+    }
+  }
+}

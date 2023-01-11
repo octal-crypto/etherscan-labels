@@ -1,0 +1,11 @@
+{
+  "Address": "0x1aa61c196e76805fcbe394ea00e4ffced24fc469",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "YieldFarming.insure: Old SAFE Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "yieldfarming.insure (SAFE)"
+    }
+  }
+}

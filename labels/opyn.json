@@ -1,0 +1,26 @@
+{
+  "Label": "opyn",
+  "Description": "Opyn allows you to protect your DeFi deposits and hedge ETH risk.",
+  "Addresses": {
+    "0x39246c4f3f6592c974ebc44f80ba6dc69b817c71": {
+      "Name Tag": "Opyn: Options Exchange",
+      "Subcategory": "Main"
+    },
+    "0xcc5d905b9c2c8c9329eb4e25dc086369d6c7777c": {
+      "Name Tag": "Opyn: Options Factory",
+      "Subcategory": "Main"
+    },
+    "0x7054e08461e3ecb7718b63540addb3c3a1746415": {
+      "Name Tag": "Opyn: Oracle",
+      "Subcategory": "Main"
+    },
+    "0x87887cf0e37d937f989ab76b99e4f4682da044c4": {
+      "Name Tag": "Opyn: Proxy",
+      "Subcategory": "Main"
+    },
+    "0x9e68b67660c223b3e0634d851f5df821e0e17d84": {
+      "Name Tag": "Opyn: Deployer",
+      "Subcategory": "Others"
+    }
+  }
+}

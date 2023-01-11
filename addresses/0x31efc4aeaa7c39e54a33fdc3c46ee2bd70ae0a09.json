@@ -1,0 +1,13 @@
+{
+  "Address": "0x31efc4aeaa7c39e54a33fdc3c46ee2bd70ae0a09",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "xPollinate: Transaction Manager",
+      "Description": "A gateway connecting one network to another."
+    },
+    "dex": {
+      "Name Tag": "xPollinate: Transaction Manager",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    }
+  }
+}

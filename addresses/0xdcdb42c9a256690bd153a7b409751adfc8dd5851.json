@@ -1,0 +1,15 @@
+{
+  "Address": "0xdcdb42c9a256690bd153a7b409751adfc8dd5851",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Ethfinex: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "rhino-fi": {
+      "Name Tag": "Ethfinex: Old Contract",
+      "Description": "Rhino.fi is the rebrand of DeversiFi -- a frictionless #Layer2 gateway to multi-chain DeFi.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

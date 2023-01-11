@@ -1,0 +1,21 @@
+{
+  "Address": "0xf18432ef894ef4b2a5726f933718f5a8cf9ff831",
+  "Labels": {
+    "authentication": {
+      "Token Name": "BioCrypt (BIO)",
+      "Description": "The process of determining whether someone or something is, in fact genuine."
+    },
+    "data": {
+      "Token Name": "BioCrypt (BIO)",
+      "Description": "Information that is stored or processed by computers."
+    },
+    "payments": {
+      "Token Name": "BioCrypt (BIO)",
+      "Description": "Cryptocurrency payment platforms that accept their own native tokens and/or other cryptocurrencies as a form of payment."
+    },
+    "supply-chain": {
+      "Token Name": "BioCrypt (BIO)",
+      "Description": "Supply chain refers to the system between a company and its supplier to produce and distribute a product to the end buyer."
+    }
+  }
+}

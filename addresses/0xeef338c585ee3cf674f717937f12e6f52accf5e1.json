@@ -1,0 +1,17 @@
+{
+  "Address": "0xeef338c585ee3cf674f717937f12e6f52accf5e1",
+  "Labels": {
+    "jarvis-network": {
+      "Name Tag": "Jarvis: Old JRT Token",
+      "Description": "Jarvis Network is a set of protocols on Ethereum allowing anyone to become a broker by funding and maintaining liquidity pools, against which users can gain exposure to the price of any traditional or digital assets.",
+      "Subcategory": "Legacy",
+      "Token Name": "Jarvis Reward Token (JRT)"
+    },
+    "old-contract": {
+      "Name Tag": "Jarvis: Old JRT Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Jarvis Reward Token (JRT)"
+    }
+  }
+}

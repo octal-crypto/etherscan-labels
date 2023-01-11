@@ -1,0 +1,29 @@
+{
+  "Address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Ygov.finance: YFI Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "defi": {
+      "Token Name": "yearn.finance (YFI)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "governance": {
+      "Token Name": "yearn.finance (YFI)",
+      "Description": "The process of governing an organization."
+    },
+    "yearn-finance": {
+      "Name Tag": "Ygov.finance: YFI Token",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Main",
+      "Token Name": "yearn.finance (YFI)"
+    },
+    "ygov-finance": {
+      "Name Tag": "Ygov.finance: YFI Token",
+      "Subcategory": "Main",
+      "Token Name": "yearn.finance (YFI)"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+  "Labels": {
+    "bridge": {
+      "Token Name": "Hop (HOP)",
+      "Description": "A gateway connecting one network to another."
+    },
+    "hop-protocol": {
+      "Name Tag": "Hop: HOP Token",
+      "Description": "Hop Protocol is a rollup-to-rollup general token bridge. It allows users to send tokens from one rollup to another almost immediately without having to wait for the rollup’s challenge period.",
+      "Token Name": "Hop (HOP)"
+    }
+  }
+}

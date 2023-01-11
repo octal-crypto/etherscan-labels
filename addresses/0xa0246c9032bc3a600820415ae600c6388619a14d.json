@@ -1,0 +1,12 @@
+{
+  "Address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Harvest.Finance: FARM Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "yield-farming": {
+      "Token Name": "FARM Reward Token (FARM)"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0xf29e46887ffae92f1ff87dfe39713875da541373",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Unicrypt: Old UNC Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "unicrypt": {
+      "Name Tag": "Unicrypt: Old UNC Token",
+      "Description": "Unicrypt is a platform creating services for other tokens. Services such as token locking contracts, yield farming as a service, and other DEX-oriented products."
+    }
+  }
+}

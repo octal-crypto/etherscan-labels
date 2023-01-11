@@ -1,0 +1,10 @@
+{
+  "Address": "0x4cbfb22dd2a430533f247e8003fc1c997e54fbe6",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Icechain: Old iVault Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

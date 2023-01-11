@@ -1,0 +1,15 @@
+{
+  "Address": "0x757de3ac6b830a931ef178c6634c5c551773155c",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy sNIKKEI Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy sNIKKEI Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth sNIKKEI (sNIKKEI)"
+    }
+  }
+}

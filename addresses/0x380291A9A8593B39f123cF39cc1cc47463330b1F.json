@@ -1,0 +1,21 @@
+{
+  "Address": "0x380291A9A8593B39f123cF39cc1cc47463330b1F",
+  "Labels": {
+    "defi": {
+      "Token Name": "Elite Swap (ELT)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "dex": {
+      "Token Name": "Elite Swap (ELT)",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    },
+    "staking": {
+      "Token Name": "Elite Swap (ELT)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    },
+    "yield-farming": {
+      "Token Name": "Elite Swap (ELT)"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Address": "0xecf8f87f810ecf450940c9f60066b4a7a501d6a7",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "WETH: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

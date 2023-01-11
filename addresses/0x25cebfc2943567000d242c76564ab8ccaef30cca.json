@@ -1,0 +1,9 @@
+{
+  "Address": "0x25cebfc2943567000d242c76564ab8ccaef30cca",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "GELD Finance (GELDF)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Address": "0x49d72e3973900a195a155a46441f0c08179fdb64",
+  "Labels": {
+    "beacon-depositor": {
+      "Token Name": "Cream ETH Token (CRETH2)",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "cream-finance": {
+      "Token Name": "Cream ETH Token (CRETH2)",
+      "Description": "C.R.E.A.M: Crypto Rules Everything Around Me.",
+      "Subcategory": "Others"
+    },
+    "staking": {
+      "Token Name": "Cream ETH Token (CRETH2)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    }
+  }
+}

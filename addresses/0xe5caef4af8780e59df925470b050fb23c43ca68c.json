@@ -1,0 +1,18 @@
+{
+  "Address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Ferrum Network Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "defi": {
+      "Token Name": "Ferrum Network Token (FRM)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "interoperability-cross-chain": {
+      "Token Name": "Ferrum Network Token (FRM)",
+      "Description": "The interoperability between two relatively independent blockchains which allows them to communicate and transfer value with one another."
+    }
+  }
+}

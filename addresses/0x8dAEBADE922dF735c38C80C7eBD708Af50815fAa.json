@@ -1,0 +1,15 @@
+{
+  "Address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+  "Labels": {
+    "bitcoin-pegged": {
+      "Token Name": "tBTC (TBTC)",
+      "Description": "Tokens that are pegged 1:1 to bitcoin"
+    },
+    "tbtc": {
+      "Name Tag": "tBTC: TBTC Token",
+      "Description": "tBTC: Deposit and redeem BTC in DeFi without intermediaries.",
+      "Subcategory": "Others",
+      "Token Name": "tBTC (TBTC)"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Label": "trade-io",
+  "Description": "Trade.io: A better, smarter, faster crypto exchange.\nTrade your Bitcoin and Ethereum for altcoins on an exchange that offers lightning-fast execution and a fully customizable interface.",
+  "Addresses": {
+    "0x1119aaefb02bf12b84d28a5d8ea48ec3c90ef1db": {
+      "Name Tag": "Trade.io"
+    },
+    "0xd947b0ceab2a8885866b9a04a06ae99de852a3d4": {
+      "Name Tag": "Trade.io Token",
+      "Token Name": "Trade Token X (TIOx)"
+    },
+    "0x80bc5512561c7f85a3a9508c7df7901b370fa1df": {
+      "Name Tag": "Trade.io: Old Token"
+    },
+    "0x86fe3c20379ac71ebbf8c0499b41fd2b457e4e9e": {
+      "Name Tag": "Trade.io: Token Sale"
+    },
+    "0x58f75ddacffb183a30f69fe58a67a0d0985fce0f": {
+      "Name Tag": "Trade.io: Wallet 1"
+    },
+    "0x5a2fad810f990c4535ada938400b6b67ef7646af": {
+      "Name Tag": "Trade.io: Wallet 2"
+    }
+  }
+}

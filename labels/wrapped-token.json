@@ -1,0 +1,12 @@
+{
+  "Label": "wrapped-token",
+  "Description": "A wrapped token is a representation of another original token which has been vaulted, allowing it to be used in a different format or on other blockchains.",
+  "Addresses": {
+    "0x29d578cec46b50fa5c88a99c6a4b70184c062953": {
+      "Token Name": "Wrapped Ever (WEVER)"
+    },
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+      "Token Name": "Wrapped Ether (WETH)"
+    }
+  }
+}

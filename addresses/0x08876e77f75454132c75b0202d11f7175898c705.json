@@ -1,0 +1,11 @@
+{
+  "Address": "0x08876e77f75454132c75b0202d11f7175898c705",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Buglab: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "BGL Token (BGL)"
+    }
+  }
+}

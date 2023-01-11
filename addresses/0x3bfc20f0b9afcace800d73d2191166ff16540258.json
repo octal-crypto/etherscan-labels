@@ -1,0 +1,13 @@
+{
+  "Address": "0x3bfc20f0b9afcace800d73d2191166ff16540258",
+  "Labels": {
+    "ico-wallets": {
+      "Name Tag": "Polkadot: MultiSig",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "parity-bug": {
+      "Name Tag": "Polkadot: MultiSig",
+      "Description": "A vulnerability in the Parity Wallet library contract of the standard multi-sig contract that resulted in funds being frozen and Ethers rendered unusable. Postmortem report can be found here."
+    }
+  }
+}

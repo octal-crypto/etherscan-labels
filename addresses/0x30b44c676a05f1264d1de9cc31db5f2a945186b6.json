@@ -1,0 +1,13 @@
+{
+  "Address": "0x30b44c676a05f1264d1de9cc31db5f2a945186b6",
+  "Labels": {
+    "across-protocol": {
+      "Name Tag": "Across Protocol: Bridge Admin",
+      "Description": "Across Protocol is a bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet."
+    },
+    "bridge": {
+      "Name Tag": "Across Protocol: Bridge Admin",
+      "Description": "A gateway connecting one network to another."
+    }
+  }
+}

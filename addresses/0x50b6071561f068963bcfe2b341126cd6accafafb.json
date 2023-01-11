@@ -1,0 +1,14 @@
+{
+  "Address": "0x50b6071561f068963bcfe2b341126cd6accafafb",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Uniswap V2: USD-USDT",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "uniswap": {
+      "Name Tag": "Uniswap V2: USD-USDT",
+      "Description": "Uniswap is a protocol for automated token exchange on Ethereum.",
+      "Subcategory": "Others"
+    }
+  }
+}

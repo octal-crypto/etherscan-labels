@@ -1,0 +1,11 @@
+{
+  "Address": "0x7afebbb46fdb47ed17b22ed075cde2447694fb9e",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Ocean Protocol: Old Ocean Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Ocean Token (OCEAN)"
+    }
+  }
+}

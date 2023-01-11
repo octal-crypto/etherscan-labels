@@ -1,0 +1,33 @@
+{
+  "Address": "0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9",
+  "Labels": {
+    "0x-protocol-ecosystem": {
+      "Token Name": "bZx Protocol Token (BZRX)",
+      "Description": "Projects and addresses associated to 0x Protocol, an open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain."
+    },
+    "bzx": {
+      "Name Tag": "bZx Protocol Token v1",
+      "Description": "bZx is a financial primitive for shorting, leverage, borrowing, and lending that empowers decentralized, efficient blockchain applications.",
+      "Subcategory": "Others",
+      "Token Name": "bZx Protocol Token (BZRX)"
+    },
+    "defi": {
+      "Token Name": "bZx Protocol Token (BZRX)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "liquidity": {
+      "Token Name": "bZx Protocol Token (BZRX)"
+    },
+    "old-contract": {
+      "Name Tag": "bZx Protocol Token v1",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "bZx Protocol Token (BZRX)"
+    },
+    "trading": {
+      "Token Name": "bZx Protocol Token (BZRX)",
+      "Description": "The act of buying and selling goods and services."
+    }
+  }
+}

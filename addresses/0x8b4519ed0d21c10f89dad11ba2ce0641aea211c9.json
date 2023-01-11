@@ -1,0 +1,15 @@
+{
+  "Address": "0x8b4519ed0d21c10f89dad11ba2ce0641aea211c9",
+  "Labels": {
+    "escrow": {
+      "Token Name": "CryptoCasher (CRR)"
+    },
+    "fiat-gateway": {
+      "Token Name": "CryptoCasher (CRR)"
+    },
+    "trading": {
+      "Token Name": "CryptoCasher (CRR)",
+      "Description": "The act of buying and selling goods and services."
+    }
+  }
+}

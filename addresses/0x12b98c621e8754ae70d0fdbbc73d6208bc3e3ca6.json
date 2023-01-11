@@ -1,0 +1,17 @@
+{
+  "Address": "0x12b98c621e8754ae70d0fdbbc73d6208bc3e3ca6",
+  "Labels": {
+    "idle-finance": {
+      "Name Tag": "Idle.finance: Old idleUSDCYield Token",
+      "Description": "Idle.finance: Earn the yield you deserve without worry about finding the best option, either if you want to optimize returns or risks.",
+      "Subcategory": "Legacy",
+      "Token Name": "IdleUSDC v3 [Max yield] (idleUSDCYield)"
+    },
+    "old-contract": {
+      "Name Tag": "Idle.finance: Old idleUSDCYield Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "IdleUSDC v3 [Max yield] (idleUSDCYield)"
+    }
+  }
+}

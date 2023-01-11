@@ -1,0 +1,11 @@
+{
+  "Address": "0x3bb90142552dd38cd0f8e81ad758182cacaa7a92",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Icechain: Old ICLP Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "iChain LP (ICLP)"
+    }
+  }
+}

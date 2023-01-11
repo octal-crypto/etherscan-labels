@@ -1,0 +1,18 @@
+{
+  "Label": "lordless",
+  "Description": "LORDLESS is a fantasy game where you rule your Tavern. Recruit bounty hunters, send them on quests, and reap the rewards. You can also play a bounty hunter to complete the quests and get the rewards.",
+  "Addresses": {
+    "0x7ca121b093e2fbd4bb9a894bd5ff487d16f1f83b": {
+      "Name Tag": "LORDLESS Token",
+      "Token Name": "LORDLESS TOKEN (LESS)"
+    },
+    "0xb9250c9581e4594b7c6914897823ad18d6b78e96": {
+      "Name Tag": "LORDLESS: Bounty",
+      "Token Name": "LORDLESS:Bounty (Bounty)"
+    },
+    "0x15820072729d045ec5232ba3bd060ec5df38e09a": {
+      "Name Tag": "LORDLESS: Tavern NFT",
+      "Token Name": "Tavern NFT (Tavern)"
+    }
+  }
+}

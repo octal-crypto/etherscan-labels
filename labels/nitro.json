@@ -1,0 +1,93 @@
+{
+  "Label": "nitro",
+  "Description": "Arbitrum Nitro is a second-generation Layer 2 blockchain protocol by Arbitrum which could be implemented on any blockchain system that support smart contract functionality.",
+  "Addresses": {
+    "0xa59075221b50c598aed0eae0bb9869639513af0d": {
+      "Name Tag": "Arbitrum Nova: Challenge Manager"
+    },
+    "0xc4448b71118c9071bcb9734a0eac55d18a153949": {
+      "Name Tag": "Arbitrum Nova: Delayed Inbox"
+    },
+    "0x23122da8c581aa7e0d07a36ff1f16f799650232f": {
+      "Name Tag": "Arbitrum Nova: L1 Arb-Custom Gateway"
+    },
+    "0xb2535b988dce19f9d71dfb22db6da744acac21bf": {
+      "Name Tag": "Arbitrum Nova: L1 ERC20 Gateway"
+    },
+    "0xc840838bc438d73c16c2f8b22d2ce3669963cd48": {
+      "Name Tag": "Arbitrum Nova: L1 Gateway Router"
+    },
+    "0xe4e2121b479017955be0b175305b35f312330bae": {
+      "Name Tag": "Arbitrum Nova: L1 WETH Gateway"
+    },
+    "0x7adca86896c4220f19b2f7f9746e7a99e57b0fc5": {
+      "Name Tag": "Arbitrum Nova: One Step Proof Entry"
+    },
+    "0x8323b58c522690e6afae94044825f0c79a93d236": {
+      "Name Tag": "Arbitrum Nova: One Step Prover 0"
+    },
+    "0x9cbc3f14a57ce6ead0e770f528e2f1e8b8c37613": {
+      "Name Tag": "Arbitrum Nova: One Step Prover Host Io"
+    },
+    "0x1efb116ebc38ce895eb2e5e009234e0e0836f2f5": {
+      "Name Tag": "Arbitrum Nova: One Step Prover Math"
+    },
+    "0x7a6c0503107858f82a790e481024134092e19979": {
+      "Name Tag": "Arbitrum Nova: One Step Prover Memory"
+    },
+    "0xfb209827c58283535b744575e11953dcc4bead88": {
+      "Name Tag": "Arbitrum Nova: Rollup"
+    },
+    "0x211e1c4c7f1bf5351ac850ed10fd68cffcf6c21b": {
+      "Name Tag": "Arbitrum Nova: Sequencer Inbox"
+    },
+    "0xcee284f754e854890e311e3280b767f80797180d": {
+      "Name Tag": "Arbitrum One: L1 Arb - Custom Gateway"
+    },
+    "0xd3b5b60020504bc3489d6949d545893982ba3011": {
+      "Name Tag": "Arbitrum One: L1 DAI Gateway"
+    },
+    "0xa3a7b6f88361f48403514059f1f16c8e78d60eec": {
+      "Name Tag": "Arbitrum One: L1 ERC20 Gateway"
+    },
+    "0x72ce9c846789fdb6fc1f34ac4ad25dd9ef7031ef": {
+      "Name Tag": "Arbitrum One: L1 Gateway Router"
+    },
+    "0xd92023e9d9911199a6711321d1277285e6d4e2db": {
+      "Name Tag": "Arbitrum One: Wrapped Ether Gateway"
+    },
+    "0x8315177ab297ba92a06054ce80a67ed4dbd7ed3a": {
+      "Name Tag": "Arbitrum: Bridge"
+    },
+    "0xe5896783a2f463446e1f624e64aa6836be4c6f58": {
+      "Name Tag": "Arbitrum: Challenge Manager"
+    },
+    "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f": {
+      "Name Tag": "Arbitrum: Delayed Inbox"
+    },
+    "0x3e1f62aa8076000c3218493fe3e0ae40bcb9a1df": {
+      "Name Tag": "Arbitrum: OneStepProof Entry"
+    },
+    "0x499a4f574f2e4f8837e242adec86223ef7deefcc": {
+      "Name Tag": "Arbitrum: OneStepProver 0"
+    },
+    "0xb965b08a826d4c7634e0df4c5ef5e1d1f9b5d13a": {
+      "Name Tag": "Arbitrum: OneStepProver Host Io"
+    },
+    "0xd315ac3a82e8edaa84b347f478e0f59801747970": {
+      "Name Tag": "Arbitrum: OneStepProver Math"
+    },
+    "0xb556f3bb0fdcfeaf81a1c393e024a69a3327b676": {
+      "Name Tag": "Arbitrum: OneStepProver Memory"
+    },
+    "0x0b9857ae2d4a3dbe74ffe1d7df045bb7f96e4840": {
+      "Name Tag": "Arbitrum: Outbox 4"
+    },
+    "0x5ef0d09d1e6204141b4d37530808ed19f60fba35": {
+      "Name Tag": "Arbitrum: Rollup"
+    },
+    "0x1c479675ad559dc151f6ec7ed3fbf8cee79582b6": {
+      "Name Tag": "Arbitrum: Sequencer Inbox"
+    }
+  }
+}

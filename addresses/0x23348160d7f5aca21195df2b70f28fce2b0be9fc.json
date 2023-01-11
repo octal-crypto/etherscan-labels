@@ -1,0 +1,15 @@
+{
+  "Address": "0x23348160d7f5aca21195df2b70f28fce2b0be9fc",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy sFTSE Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy sFTSE Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth sFTSE (sFTSE)"
+    }
+  }
+}

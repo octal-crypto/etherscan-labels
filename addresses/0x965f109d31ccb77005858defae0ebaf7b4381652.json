@@ -1,0 +1,10 @@
+{
+  "Address": "0x965f109d31ccb77005858defae0ebaf7b4381652",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "BitStash: Old STASH Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

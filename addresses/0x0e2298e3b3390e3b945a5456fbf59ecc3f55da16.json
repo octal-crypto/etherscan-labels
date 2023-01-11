@@ -1,0 +1,17 @@
+{
+  "Address": "0x0e2298e3b3390e3b945a5456fbf59ecc3f55da16",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Yam.Finance: Old YAM V1 Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "YAM (YAM)"
+    },
+    "yam-finance": {
+      "Name Tag": "Yam.Finance: Old YAM V1 Token",
+      "Description": "Yam.Finance: Earn YAM tokens by providing liquidity.",
+      "Subcategory": "Legacy",
+      "Token Name": "YAM (YAM)"
+    }
+  }
+}

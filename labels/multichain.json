@@ -1,0 +1,136 @@
+{
+  "Label": "multichain",
+  "Description": "Multichain is a trustless protocol to bridge assets between heterogenous Layer-1 and Layer-2 platforms.",
+  "Addresses": {
+    "0x5c08b51ddbe8ba76e07be79975906c39aef2893a": {
+      "Token Name": "Fantom KRW (fKRW)"
+    },
+    "0x3d7f0933ac403773d219cf0519de8082946dc10f": {
+      "Token Name": "Fantom USD (fUSD)"
+    },
+    "0xf99d58e463a2e07e5692127302c20a191861b4d6": {
+      "Name Tag": "AnySwap: ANY Token"
+    },
+    "0x51600b0cff6bbf79e7767158c41fd15e968ec404": {
+      "Name Tag": "Multichain: anyBTC Token"
+    },
+    "0xc10ef9f491c9b59f936957026020c321651ac078": {
+      "Name Tag": "Multichain: anyCall V6"
+    },
+    "0x739ca6d71365a08f584c8fc4e1029045fa8abc4b": {
+      "Name Tag": "Multichain: anyDAI Token",
+      "Token Name": "Dai Stablecoin (anyDAI)"
+    },
+    "0x0615dbba33fe61a31c7ed131bda6655ed76748b1": {
+      "Name Tag": "Multichain: anyETH Token"
+    },
+    "0x979aca85ba37c675e78322ed5d97fa980b9bdf00": {
+      "Name Tag": "Multichain: anyFSN Token"
+    },
+    "0x0abcfbfa8e3fda8b7fba18721caf7d5cf55cf5f5": {
+      "Name Tag": "Multichain: anyLTC Token",
+      "Token Name": "ANY Litecoin (anyLTC)"
+    },
+    "0x54f5a04417e29ff5d7141a6d33cb286f50d5d50e": {
+      "Name Tag": "Multichain: Anyswap Create2"
+    },
+    "0x7ea2be2df7ba6e54b1a9c70676f668455e329d29": {
+      "Name Tag": "Multichain: anyUSDC Token",
+      "Token Name": "USDC (anyUSDC)"
+    },
+    "0x22648c12acd87912ea1710357b1302c6a4154ebc": {
+      "Name Tag": "Multichain: anyUSDT Token",
+      "Token Name": "Tether USD (anyUSDT)"
+    },
+    "0xfc7cc7c7e7985316d23104b9689c511134f59bc8": {
+      "Name Tag": "Multichain: Astar Bridge"
+    },
+    "0x13b432914a996b0a48695df9b2d701eda45ff264": {
+      "Name Tag": "Multichain: BNB Bridge"
+    },
+    "0x4464fc279180045b1f57beacfa0d82e9cd4235cd": {
+      "Name Tag": "Multichain: Deployer 1"
+    },
+    "0x49addc76569402cf893c015ac69a177aaf4e822b": {
+      "Name Tag": "Multichain: Deployer 2"
+    },
+    "0x8132d337977f8d145a7b9cfac393df123c0f0e43": {
+      "Name Tag": "Multichain: Deployer 3"
+    },
+    "0xc564ee9f21ed8a2d8e7e76c085740d5e4c5fafbe": {
+      "Name Tag": "Multichain: Fantom Bridge"
+    },
+    "0x87bcb3038988ca2a89605ffa8f237fb78df1c3ae": {
+      "Name Tag": "Multichain: Fuse Bridge"
+    },
+    "0x46290b0c3a234e3d538050d8f34421797532a827": {
+      "Name Tag": "Multichain: Fusion Bridge"
+    },
+    "0xd779967f8b511c5edf39115341b310022900efed": {
+      "Name Tag": "Multichain: Huobi Bridge"
+    },
+    "0x923e0a17f49fb03d936f2af2d59d379c615f5447": {
+      "Name Tag": "Multichain: KCC Bridge"
+    },
+    "0xec4486a90371c9b66f499ff3936f29f0d5af8b7e": {
+      "Name Tag": "Multichain: Moonbeam Bridge"
+    },
+    "0x10c6b61dbf44a083aec3780acf769c77be747e23": {
+      "Name Tag": "Multichain: Moonriver Bridge"
+    },
+    "0xe4cf417081a0ab3f964b44d904bc2b534351a9a7": {
+      "Name Tag": "Multichain: Oasis Network Bridge"
+    },
+    "0x533e3c0e6b48010873b947bddc4721b1bdff9648": {
+      "Name Tag": "Multichain: Old BSC Bridge"
+    },
+    "0xe95fd76cf16008c12ff3b3a937cb16cd9cc20284": {
+      "Name Tag": "Multichain: Router V3"
+    },
+    "0x6b7a87899490ece95443e979ca9485cbe7e71522": {
+      "Name Tag": "Multichain: Router V4"
+    },
+    "0x765277eebeca2e31912c9946eae1021199b39c61": {
+      "Name Tag": "Multichain: Router V4 2"
+    },
+    "0xba8da9dcf11b50b03fd5284f164ef5cdef910705": {
+      "Name Tag": "Multichain: Router V6"
+    },
+    "0x4e67df0f232c3bc985f8a63326d80ce3d9a40400": {
+      "Name Tag": "Multichain: Shiden Network Bridge"
+    },
+    "0x8cc49fe67a4bd7a15674c4ffd4e969d94304bbbf": {
+      "Name Tag": "Multichain: Syscoin Bridge"
+    },
+    "0x57ed6bd35a6ce815079855cd0b21331d1d5d0a0e": {
+      "Name Tag": "Multichain: Telos Bridge"
+    },
+    "0xcdd83050f045ab31b884f0dc49581bc7b3e0b84c": {
+      "Name Tag": "Multichain: Velas Bridge"
+    },
+    "0xb153fb3d196a8eb25522705560ac152eeec57901": {
+      "Name Tag": "Multichain: Wrapped Ether"
+    },
+    "0x1722800c0f1bfdf916ef948ef7790a861e90d558": {
+      "Name Tag": "multiDAO"
+    },
+    "0x979aCA85bA37c675e78322ed5d97fa980B9Bdf00": {
+      "Token Name": "Fusion (anyFSN)"
+    },
+    "0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a": {
+      "Token Name": "NETVRK (NTVRK)"
+    },
+    "0xe692c8d72bd4ac7764090d54842a305546dd1de5": {
+      "Token Name": "ANY Blocknet (aBLOCK)"
+    },
+    "0x51600B0CfF6Bbf79E7767158C41FD15e968Ec404": {
+      "Token Name": "ANY Bitcoin (anyBTC)"
+    },
+    "0x5067006f830224960fb419d7f25a3a53e9919bb0": {
+      "Token Name": "PAD (PAD)"
+    },
+    "0x66eFF5221ca926636224650Fd3B9c497FF828F7D": {
+      "Token Name": "Multichain BTC (multiBTC)"
+    }
+  }
+}

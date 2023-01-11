@@ -1,0 +1,9 @@
+{
+  "Address": "0x06521af7183a4a61d067016fc3bc0500da1567c1",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "ptxptx: Eth2 Depositor",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

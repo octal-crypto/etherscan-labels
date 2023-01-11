@@ -1,0 +1,19 @@
+{
+  "Address": "0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Cover Protocol: COVER Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "insurance": {
+      "Token Name": "Cover Protocol Governance Token (COVER)"
+    },
+    "website-down": {
+      "Token Name": "Cover Protocol Governance Token (COVER)",
+      "Description": "The last checked status of a website.\nPlease contact us (1. General Inquiry) if the website is back online."
+    },
+    "yield-farming": {
+      "Token Name": "Cover Protocol Governance Token (COVER)"
+    }
+  }
+}

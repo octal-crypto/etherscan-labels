@@ -1,0 +1,9 @@
+{
+  "Address": "0x52a9ea5de35da2cadcc01421e70726bf683695ff",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "brigs: Eth2 Depositor",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

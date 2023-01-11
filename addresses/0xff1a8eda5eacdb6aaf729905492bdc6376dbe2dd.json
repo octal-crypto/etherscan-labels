@@ -1,0 +1,10 @@
+{
+  "Address": "0xff1a8eda5eacdb6aaf729905492bdc6376dbe2dd",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "Gnosis: xDai Bridge Management Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

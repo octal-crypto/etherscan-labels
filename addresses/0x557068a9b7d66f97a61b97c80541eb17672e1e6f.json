@@ -1,0 +1,10 @@
+{
+  "Address": "0x557068a9b7d66f97a61b97c80541eb17672e1e6f",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "LobsterDAO: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

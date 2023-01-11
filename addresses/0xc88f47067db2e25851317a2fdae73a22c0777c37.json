@@ -1,0 +1,14 @@
+{
+  "Address": "0xc88f47067db2e25851317a2fdae73a22c0777c37",
+  "Labels": {
+    "dex": {
+      "Token Name": "oneBTC (oneBTC)",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    },
+    "old-contract": {
+      "Name Tag": "oneBTC: Old oneBTC Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

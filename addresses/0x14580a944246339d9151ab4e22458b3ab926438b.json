@@ -1,0 +1,14 @@
+{
+  "Address": "0x14580a944246339d9151ab4e22458b3ab926438b",
+  "Labels": {
+    "megacryptopolis": {
+      "Name Tag": "MCP: Old Contract 1",
+      "Description": "MegaCryptoPolis is a decentralized city builder game running on Ethereum blockchain smart contracts that you can play in any browser or on mobile device using special apps."
+    },
+    "old-contract": {
+      "Name Tag": "MCP: Old Contract 1",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

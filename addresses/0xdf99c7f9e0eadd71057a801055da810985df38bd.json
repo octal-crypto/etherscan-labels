@@ -1,0 +1,11 @@
+{
+  "Address": "0xdf99c7f9e0eadd71057a801055da810985df38bd",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "PlusCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "PlusCoin (PLC)"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Label": "raidparty",
+  "Description": "RaidParty is an on-chain idle MMO.",
+  "Addresses": {
+    "0x87e738a3d5e5345d6212d8982205a564289e6324": {
+      "Name Tag": "RaidParty: FIGHTER Token"
+    },
+    "0xd311bdacb151b72bddfee9cbdc414af22a5e38dc": {
+      "Name Tag": "RaidParty: Game (Party)"
+    },
+    "0xfa209a705a4da0a240aa355c889ed0995154d7eb": {
+      "Name Tag": "RaidParty: Game (Raid)"
+    },
+    "0x966731dfd9b9925dd105ff465687f5aa8f54ee9f": {
+      "Name Tag": "RaidParty: HERO Token"
+    },
+    "0xdfb6f5112c2dca55fd9982a6c814cbcc83acf07c": {
+      "Name Tag": "RaidParty: Hot Multisig"
+    },
+    "0xCfef8857E9C80e3440A823971420F7Fa5F62f020": {
+      "Token Name": "Confetti (CFTI)"
+    },
+    "0x966731dFD9b9925DD105FF465687F5aA8f54Ee9f": {
+      "Token Name": "Hero (HERO)"
+    },
+    "0x87E738a3d5E5345d6212D8982205A564289e6324": {
+      "Token Name": "Fighter (FIGHTER)"
+    }
+  }
+}

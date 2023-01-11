@@ -1,0 +1,10 @@
+{
+  "Address": "0x841d17c0a12e60df3703f38569b5a9058c75610c",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Synthesis Bank: Old STB Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Address": "0x18b4092dee9ed759b0742608be8ad904957c3d08",
+  "Labels": {
+    "parity-bug": {
+      "Description": "A vulnerability in the Parity Wallet library contract of the standard multi-sig contract that resulted in funds being frozen and Ethers rendered unusable. Postmortem report can be found here."
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0xbd168cbf9d3a375b38dc51a202b5e8a4e52069ed",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Blue Whale: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "BlueWhaleToken (BWX)"
+    }
+  }
+}

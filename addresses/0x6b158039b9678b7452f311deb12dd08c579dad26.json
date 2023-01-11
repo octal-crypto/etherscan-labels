@@ -1,0 +1,15 @@
+{
+  "Address": "0x6b158039b9678b7452f311deb12dd08c579dad26",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "ParaSwap: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "paraswap": {
+      "Name Tag": "ParaSwap: Old Contract",
+      "Description": "ParaSwap: The Fastest Liquidity Aggregator",
+      "Subcategory": "Legacy"
+    }
+  }
+}

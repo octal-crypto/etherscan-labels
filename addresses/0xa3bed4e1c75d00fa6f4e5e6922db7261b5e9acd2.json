@@ -1,0 +1,20 @@
+{
+  "Address": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "mStable: MTA Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "defi": {
+      "Token Name": "Meta (MTA)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "mstable": {
+      "Name Tag": "mStable: MTA Token",
+      "Description": "mStable unifies stablecoins, lending and swapping into one standard.",
+      "Subcategory": "Main",
+      "Token Name": "Meta (MTA)"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0x7b138cc83ecccd6331cd7651c75ee3eb2ec6682e",
+  "Labels": {
+    "bitpie": {
+      "Name Tag": "Bitpie: Batch Sender",
+      "Description": "Bitpie is an industry-leading multi-blockchain (BTC/ETH/EOS/USDT etc.) wallet. They are devoted to providing safe assets management and DApps for users worldwide. With deep understanding of blockchain technology and rich experience of operating Bither Wallet for years, Bitpie enables users to transact and use DApps with great convenience while holding assets totally under their control."
+    },
+    "old-contract": {
+      "Name Tag": "Bitpie: Batch Sender",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

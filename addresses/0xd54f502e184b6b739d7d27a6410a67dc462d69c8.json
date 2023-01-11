@@ -1,0 +1,19 @@
+{
+  "Address": "0xd54f502e184b6b739d7d27a6410a67dc462d69c8",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "dYdX: L2 Perpetual Smart Contract",
+      "Description": "A gateway connecting one network to another."
+    },
+    "dydx": {
+      "Name Tag": "dYdX: L2 Perpetual Smart Contract",
+      "Description": "dYdX: A standard for decentralized margin trading and derivatives",
+      "Subcategory": "Others"
+    },
+    "layer-2": {
+      "Name Tag": "dYdX: L2 Perpetual Smart Contract",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Ren: RenBridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "ren": {
+      "Name Tag": "Ren: RenBridge",
+      "Description": "Ren: Providing access to inter-blockchain liquidity for all decentralized applications. Bringing BTC, BCH and ZEC to your Ethereum dApp.",
+      "Subcategory": "Main"
+    }
+  }
+}

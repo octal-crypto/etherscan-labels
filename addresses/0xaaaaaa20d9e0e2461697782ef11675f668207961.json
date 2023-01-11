@@ -1,0 +1,13 @@
+{
+  "Address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
+  "Labels": {
+    "bridge": {
+      "Token Name": "Aurora (AURORA)",
+      "Description": "A gateway connecting one network to another."
+    },
+    "layer-2": {
+      "Token Name": "Aurora (AURORA)",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels."
+    }
+  }
+}

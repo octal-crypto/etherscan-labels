@@ -1,0 +1,16 @@
+{
+  "Address": "0x457cd14f384e7d103b17feeb01d2a42ad2eca529",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Synthetix: Old Synth SNX",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Synthetix Network Token (SNX)"
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Old Synth SNX",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0x663d3947f03ef5b387992b880ac85940057c13e3",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Gitcoin Grants: WeekInEth",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "gitcoin-grants": {
+      "Name Tag": "Gitcoin Grants: WeekInEth",
+      "Description": "Gitcoin Grants: Get substantial sustainable funding for your projects.",
+      "Subcategory": "Others"
+    }
+  }
+}

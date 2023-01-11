@@ -1,0 +1,13 @@
+{
+  "Address": "0x685aea4F02E39E5a5BB7f7117E88DB1151F38364",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Shill (PoSH)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "staking": {
+      "Token Name": "Shill (PoSH)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    }
+  }
+}

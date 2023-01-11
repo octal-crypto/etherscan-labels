@@ -1,0 +1,10 @@
+{
+  "Address": "0xf26d1bb347a59f6c283c53156519cc1b1abaca51",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "Bankless DAO: Treasury",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

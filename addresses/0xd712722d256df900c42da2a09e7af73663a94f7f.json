@@ -1,0 +1,11 @@
+{
+  "Address": "0xd712722d256df900c42da2a09e7af73663a94f7f",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "FoodCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "FoodCoin EcoSystem (FOOD)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0xfe33ae95a9f0da8a845af33516edc240dcd711d6",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy sDASH Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy sDASH Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth sDASH (sDASH)"
+    }
+  }
+}

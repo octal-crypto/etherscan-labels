@@ -1,0 +1,20 @@
+{
+  "Address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+  "Labels": {
+    "bitcoin-pegged": {
+      "Token Name": "renBTC (renBTC)",
+      "Description": "Tokens that are pegged 1:1 to bitcoin"
+    },
+    "defi": {
+      "Token Name": "renBTC (renBTC)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "ren": {
+      "Name Tag": "Ren: renBTC Token",
+      "Description": "Ren: Providing access to inter-blockchain liquidity for all decentralized applications. Bringing BTC, BCH and ZEC to your Ethereum dApp.",
+      "Subcategory": "Main",
+      "Token Name": "renBTC (renBTC)"
+    }
+  }
+}

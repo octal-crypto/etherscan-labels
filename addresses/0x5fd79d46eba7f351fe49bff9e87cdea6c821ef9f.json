@@ -1,0 +1,19 @@
+{
+  "Address": "0x5fd79d46eba7f351fe49bff9e87cdea6c821ef9f",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Synthetix: L2 Deposit Escrow",
+      "Description": "A gateway connecting one network to another."
+    },
+    "layer-2": {
+      "Name Tag": "Synthetix: L2 Deposit Escrow",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: L2 Deposit Escrow",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Others"
+    }
+  }
+}

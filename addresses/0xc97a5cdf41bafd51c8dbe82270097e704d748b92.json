@@ -1,0 +1,9 @@
+{
+  "Address": "0xc97a5cdf41bafd51c8dbe82270097e704d748b92",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Ether Clown (KLOWN)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

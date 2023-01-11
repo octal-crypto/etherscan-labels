@@ -1,0 +1,25 @@
+{
+  "Label": "nifty-gateway",
+  "Description": "Nifty Gateway is a marketplace for Nifties, which are digital items you can truly own.",
+  "Addresses": {
+    "0x11ab0243c57c6c1b39f2908aaebaed7ccf351491": {
+      "Name Tag": "Nifty Gateway: First and Last",
+      "Token Name": "The First and The Last Open Edition... (THEFIRSTANDTHELASTOPENEDI...)"
+    },
+    "0xf72136fb50f0c90324c9619aaab4289eeb277f3e": {
+      "Name Tag": "Nifty Gateway: Getaway Auctions",
+      "Token Name": "Getaway Open Editions by Nate Hill (GETAWAYOPENEDITIONSBYNATE...)"
+    },
+    "0xef2883efa7bf4ecf169f3ad6c012994078608985": {
+      "Name Tag": "Nifty Gateway: Hard To Explain",
+      "Token Name": "HARD TO EXPLAIN Open Editions by Yo... (HARDTOEXPLAINOPENEDITIONS...)"
+    },
+    "0x934fdb5084d448de4c61c960c5f806689ae720b1": {
+      "Name Tag": "Nifty Gateway: Insides",
+      "Token Name": "INSIDES Open Edition by Paul Jackso... (INSIDESOPENEDITIONBYPAULJ...)"
+    },
+    "0xe052113bd7d7700d623414a0a4585bcae754e9d5": {
+      "Name Tag": "Nifty Gateway: Omnibus"
+    }
+  }
+}

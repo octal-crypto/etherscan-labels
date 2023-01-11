@@ -1,0 +1,15 @@
+{
+  "Address": "0x8414db07a7f743debafb402070ab01a4e0d2e45e",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yCRV/sBTC Vault ",
+      "Token Name": "Curve sBTC Pool yVault (yvCurve-sBTC)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yCRV/sBTC Vault ",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "Curve sBTC Pool yVault (yvCurve-sBTC)"
+    }
+  }
+}

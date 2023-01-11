@@ -1,0 +1,10 @@
+{
+  "Address": "0x01c3a1a6890a146ac187a019f9863b3ab2bff91e",
+  "Labels": {
+    "layer-2": {
+      "Name Tag": "zkSync: L2 Operator V1",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    }
+  }
+}

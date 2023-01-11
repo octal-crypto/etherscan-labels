@@ -1,0 +1,14 @@
+{
+  "Address": "0x8392f6669292fa56123f71949b52d883ae57e225",
+  "Labels": {
+    "alchemix-finance": {
+      "Name Tag": "Alchemix Finance: Treasury",
+      "Description": "Alchemix Finance is a future-yield-backed synthetic asset platform and community DAO."
+    },
+    "multisig": {
+      "Name Tag": "Alchemix Finance: Treasury",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

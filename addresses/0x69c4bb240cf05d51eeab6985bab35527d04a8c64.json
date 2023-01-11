@@ -1,0 +1,11 @@
+{
+  "Address": "0x69c4bb240cf05d51eeab6985bab35527d04a8c64",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Open Chain: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "OPEN (OPEN)"
+    }
+  }
+}

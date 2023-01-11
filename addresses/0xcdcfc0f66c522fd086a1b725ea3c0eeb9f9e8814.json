@@ -1,0 +1,16 @@
+{
+  "Address": "0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814",
+  "Labels": {
+    "idex": {
+      "Name Tag": "Aurora DAO: Old Token",
+      "Description": "IDEX is the only Ethereum decentralized exchange with real-time trading and high transaction throughput.",
+      "Token Name": "Aurora DAO (AURA)"
+    },
+    "old-contract": {
+      "Name Tag": "Aurora DAO: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Aurora DAO (AURA)"
+    }
+  }
+}

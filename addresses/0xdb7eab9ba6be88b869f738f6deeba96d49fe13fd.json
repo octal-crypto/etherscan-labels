@@ -1,0 +1,13 @@
+{
+  "Address": "0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "BOOM (BOOM)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "website-down": {
+      "Token Name": "BOOM (BOOM)",
+      "Description": "The last checked status of a website.\nPlease contact us (1. General Inquiry) if the website is back online."
+    }
+  }
+}

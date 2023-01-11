@@ -1,0 +1,26 @@
+{
+  "Label": "cryptosaga",
+  "Description": "CryptoSaga is a decentralized RPG on the Ethereum blockchain with fully animated Heroes and Mobs.",
+  "Addresses": {
+    "0x8095ff4eea862eefead05b68a2f75f3aef7b81d0": {
+      "Name Tag": "CryptoSaga: Arena Ver1"
+    },
+    "0x1b5242794288b45831ce069c9934a29b89af0197": {
+      "Name Tag": "CryptoSaga: Card",
+      "Token Name": "CryptoSaga Card (CARD)"
+    },
+    "0xcc862f25b2f725c0666d67774c47c63c9a3af150": {
+      "Name Tag": "CryptoSaga: Card Swap Ver2"
+    },
+    "0xc00cc67677b7d54c6d5a4bc6e72ae4822d3e70fd": {
+      "Name Tag": "CryptoSaga: Contract 1"
+    },
+    "0x4d3c07f06fc3de2f3b807f8e242b91b71933a560": {
+      "Name Tag": "CryptoSaga: Dungeon Ver1"
+    },
+    "0xabc7e6c01237e8eef355bba2bf925a730b714d5f": {
+      "Name Tag": "CryptoSaga: Hero",
+      "Token Name": "CryptoSaga Hero (HERO)"
+    }
+  }
+}

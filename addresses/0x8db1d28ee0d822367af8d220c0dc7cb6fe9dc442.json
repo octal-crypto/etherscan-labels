@@ -1,0 +1,14 @@
+{
+  "Address": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442",
+  "Labels": {
+    "defi": {
+      "Token Name": "ETHPAD.network (ETHPAD)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "deflationary-token": {
+      "Token Name": "ETHPAD.network (ETHPAD)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

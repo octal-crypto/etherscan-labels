@@ -1,0 +1,15 @@
+{
+  "Address": "0x85560d8ee2e714e60645f887dd4133ee0479b362",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Zapper.Fi: Old Balancer Zap in ETH or ERC20 2",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "zapper-fi": {
+      "Name Tag": "Zapper.Fi: Old Balancer Zap in ETH or ERC20 2",
+      "Description": "Zapper.Fi: Get instant exposure across multiple DeFi protocols based on your investment goals.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

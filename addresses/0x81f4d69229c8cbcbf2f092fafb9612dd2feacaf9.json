@@ -1,0 +1,11 @@
+{
+  "Address": "0x81f4d69229c8cbcbf2f092fafb9612dd2feacaf9",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "CryptoNode: Old Token 2",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "CryptoNode (CNODE)"
+    }
+  }
+}

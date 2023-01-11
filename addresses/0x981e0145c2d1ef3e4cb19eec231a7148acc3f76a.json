@@ -1,0 +1,10 @@
+{
+  "Address": "0x981e0145c2d1ef3e4cb19eec231a7148acc3f76a",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "MIRL: Old MIRL Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

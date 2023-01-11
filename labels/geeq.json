@@ -1,0 +1,58 @@
+{
+  "Label": "geeq",
+  "Description": "Geeq is a multi-blockchain platform secured by our Proof of Honesty protocolTM (PoH), safe enough for your most valuable data, cheap enough for IoT, and flexible enough for any use.",
+  "Addresses": {
+    "0x6b9f031d718dded0d681c20cb754f97b3bb81b78": {
+      "Name Tag": "Geeq: GEEQ Token",
+      "Subcategory": "Main"
+    },
+    "0x90039552350843902aa86ed50597d7488edb4b35": {
+      "Name Tag": "Geeq: Advisors",
+      "Subcategory": "Others"
+    },
+    "0x16ea8ce690cc7298d0d97a615f1ab915498bb830": {
+      "Name Tag": "Geeq: Customer Aquisition",
+      "Subcategory": "Others"
+    },
+    "0x13d4a4dc465a6abcfac2346572e9c8b4dceec6e4": {
+      "Name Tag": "Geeq: Deployer",
+      "Subcategory": "Others"
+    },
+    "0x5ee7a3bb9956f37ec94e69ec6497f9f957361bc7": {
+      "Name Tag": "Geeq: Floating Liquidity",
+      "Subcategory": "Others"
+    },
+    "0x534ea640f829f542ee439e76833b5002db4eda80": {
+      "Name Tag": "Geeq: Founders",
+      "Subcategory": "Others"
+    },
+    "0xd9a65ded16e8f000115dd1e7ff912c994e80d81b": {
+      "Name Tag": "Geeq: Hybrid Seed Round",
+      "Subcategory": "Others"
+    },
+    "0xdfb0353d79cd338e294dec709e76dc4894c51572": {
+      "Name Tag": "Geeq: Marketing",
+      "Subcategory": "Others"
+    },
+    "0x6154218a394a3dcb6326d2287b72fb7bace04966": {
+      "Name Tag": "Geeq: Pre-Round",
+      "Subcategory": "Others"
+    },
+    "0x4cc427be94c8df62b1f3a2a3cbff904fa80284e8": {
+      "Name Tag": "Geeq: Team",
+      "Subcategory": "Others"
+    },
+    "0xcea90ae86fa4b671816caeeae0297344f8527ce4": {
+      "Name Tag": "Geeq: Unissued Supply",
+      "Subcategory": "Others"
+    },
+    "0xa3429458137ad28384ebb11f263b6ed645ca94c5": {
+      "Name Tag": "Geeq: Unlocked Round",
+      "Subcategory": "Others"
+    },
+    "0x6B9f031D718dDed0d681c20cB754F97b3BB81b78": {
+      "Token Name": "Geeq (GEEQ)",
+      "Subcategory": "Main"
+    }
+  }
+}

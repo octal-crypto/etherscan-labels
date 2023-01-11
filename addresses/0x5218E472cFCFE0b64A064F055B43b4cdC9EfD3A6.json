@@ -1,0 +1,30 @@
+{
+  "Address": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
+  "Labels": {
+    "banking": {
+      "Token Name": "UnFederalReserveToken (eRSDL)"
+    },
+    "defi": {
+      "Token Name": "UnFederalReserveToken (eRSDL)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "reservelending": {
+      "Name Tag": "UnFederalReserve: eRSDL Token",
+      "Description": "ReserveLending: Lending protocol",
+      "Token Name": "UnFederalReserveToken (eRSDL)"
+    },
+    "staking": {
+      "Token Name": "UnFederalReserveToken (eRSDL)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    },
+    "unfederalreserve": {
+      "Name Tag": "UnFederalReserve: eRSDL Token",
+      "Description": "unFederalReserve is a banking Saas company built on the blockchain with products designed for smaller U.S. Treasury chartered banks and non-bank lenders.",
+      "Token Name": "UnFederalReserveToken (eRSDL)"
+    },
+    "yield-farming": {
+      "Token Name": "UnFederalReserveToken (eRSDL)"
+    }
+  }
+}

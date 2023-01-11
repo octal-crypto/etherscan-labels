@@ -1,0 +1,33 @@
+{
+  "Address": "0x3642c0680329ae3e103e2b5ab29ddfed4d43cbe5",
+  "Labels": {
+    "bridge": {
+      "Token Name": "Plenny (PL2)",
+      "Description": "A gateway connecting one network to another."
+    },
+    "defi": {
+      "Token Name": "Plenny (PL2)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "governance": {
+      "Token Name": "Plenny (PL2)",
+      "Description": "The process of governing an organization."
+    },
+    "layer-2": {
+      "Token Name": "Plenny (PL2)",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels."
+    },
+    "marketplace": {
+      "Token Name": "Plenny (PL2)",
+      "Description": "A marketplace is a place where goods and/or services are bought and sold."
+    },
+    "oracle": {
+      "Token Name": "Plenny (PL2)"
+    },
+    "staking": {
+      "Token Name": "Plenny (PL2)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c",
+  "Labels": {
+    "gbx": {
+      "Name Tag": "Rock: Old Token",
+      "Description": "Gibraltar Blockchain Exchange (GBX) is a world-leading institutional-grade token sale platform and digital asset exchange."
+    },
+    "old-contract": {
+      "Name Tag": "Rock: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Rock (RKT)"
+    }
+  }
+}

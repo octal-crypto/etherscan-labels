@@ -1,0 +1,11 @@
+{
+  "Address": "0x35f06858577b526a9351c6d42c89748281b6fe30",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "COSS Exchange Liquidity: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "COSS Exchange Liquidity Token (CELT)"
+    }
+  }
+}

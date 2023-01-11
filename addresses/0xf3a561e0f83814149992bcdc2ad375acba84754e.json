@@ -1,0 +1,9 @@
+{
+  "Address": "0xf3a561e0f83814149992bcdc2ad375acba84754e",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "AutoBurn (ABN)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

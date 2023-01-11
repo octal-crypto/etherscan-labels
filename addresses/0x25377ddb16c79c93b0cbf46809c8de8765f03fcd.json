@@ -1,0 +1,11 @@
+{
+  "Address": "0x25377ddb16c79c93b0cbf46809c8de8765f03fcd",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "CBDAO: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Synthetic CBDAO (SBREE)"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0x84FA8f52E437Ac04107EC1768764B2b39287CB3e",
+  "Labels": {
+    "environment": {
+      "Token Name": "Grove Token (GVR)",
+      "Description": "Projects that aim to help the environment."
+    },
+    "old-contract": {
+      "Name Tag": "Grove: Old GVR Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

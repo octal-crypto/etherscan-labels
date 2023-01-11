@@ -1,0 +1,13 @@
+{
+  "Address": "0xB6eE603933E024d8d53dDE3faa0bf98fE2a3d6f1",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "DeFiat (DFT)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "staking": {
+      "Token Name": "DeFiat (DFT)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    }
+  }
+}

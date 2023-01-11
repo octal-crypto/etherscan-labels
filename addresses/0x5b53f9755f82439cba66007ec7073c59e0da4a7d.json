@@ -1,0 +1,11 @@
+{
+  "Address": "0x5b53f9755f82439cba66007ec7073c59e0da4a7d",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Flowchain Foundation: Old FLC Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "FlowchainCoin (FLC)"
+    }
+  }
+}

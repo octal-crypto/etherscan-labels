@@ -1,0 +1,23 @@
+{
+  "Address": "0x5d22045daceab03b158031ecb7d9d06fad24609b",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Rhino.fi: Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "dex": {
+      "Name Tag": "Rhino.fi: Bridge",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    },
+    "layer-2": {
+      "Name Tag": "Rhino.fi: Bridge",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "rhino-fi": {
+      "Name Tag": "Rhino.fi: Bridge",
+      "Description": "Rhino.fi is the rebrand of DeversiFi -- a frictionless #Layer2 gateway to multi-chain DeFi.",
+      "Subcategory": "Main"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0xa52fd396891e7a74b641a2cb1a6999fcf56b077e",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "Redacted Cartel: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    },
+    "redacted-cartel": {
+      "Name Tag": "Redacted Cartel: Multisig",
+      "Description": "Redacted Cartel is complimentary subDAO for OlympusDAO which aims to leverage Protocol Owned Liquidity to capture gauge influence in the DeFi ecosystem",
+      "Subcategory": "Main"
+    }
+  }
+}

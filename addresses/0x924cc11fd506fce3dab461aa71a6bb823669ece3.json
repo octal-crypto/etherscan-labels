@@ -1,0 +1,15 @@
+{
+  "Address": "0x924cc11fd506fce3dab461aa71a6bb823669ece3",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Zapper.Fi: Old Curve Zap in",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "zapper-fi": {
+      "Name Tag": "Zapper.Fi: Old Curve Zap in",
+      "Description": "Zapper.Fi: Get instant exposure across multiple DeFi protocols based on your investment goals.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

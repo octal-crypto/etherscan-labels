@@ -1,0 +1,13 @@
+{
+  "Address": "0x9c69e7fce961fd837f99c808ad75ed39a2c549cb",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Fire Eyes DAO: Oracle DAO Node",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "oracle-dao": {
+      "Name Tag": "Fire Eyes DAO: Oracle DAO Node",
+      "Description": "Rocket Pool's Oracle DAO members provide duties to the protocol such as oracle tasks and providing staking liveliness for the protocol."
+    }
+  }
+}

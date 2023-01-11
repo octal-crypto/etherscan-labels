@@ -1,0 +1,162 @@
+{
+  "Label": "multisig",
+  "Description": "A contract that requires one or more signers to execute a transaction.",
+  "Addresses": {
+    "0xcafe1a77e84698c83ca8931f54a755176ef75f2c": {
+      "Name Tag": "Aragon: Multisig",
+      "Subcategory": "Main"
+    },
+    "0x5894110995b8c8401bd38262ba0c8ee41d4e4658": {
+      "Name Tag": "Bancor: Multisig 1",
+      "Subcategory": "Main"
+    },
+    "0xcc1aac4513f751effc94e259daf8a37b76f9db75": {
+      "Name Tag": "Bancor: Multisig 3",
+      "Subcategory": "Main"
+    },
+    "0x4f8af8e8734d02a21d73e2a4fb29941f35cbbeac": {
+      "Name Tag": "Bancor: Multisig 4",
+      "Subcategory": "Main"
+    },
+    "0xc39e562defc6ddd1f44ee698cf9303092b86051d": {
+      "Name Tag": "Bancor: Multisig 5",
+      "Subcategory": "Main"
+    },
+    "0x2323763d78bf7104b54a462a79c2ce858d118f2f": {
+      "Name Tag": "Civic: Multisig",
+      "Subcategory": "Main"
+    },
+    "0x9a60ad6de185c4ea95058601beaf16f63742782a": {
+      "Name Tag": "Ethos: Multisig",
+      "Subcategory": "Main"
+    },
+    "0x851b7f3ab81bd8df354f0d7640efcd7288553419": {
+      "Name Tag": "Gnosis: Multisig 2",
+      "Subcategory": "Main"
+    },
+    "0x7e6614722614e434c4df9901bab31e466ba12fa4": {
+      "Name Tag": "Mysterium: Multisig",
+      "Subcategory": "Main"
+    },
+    "0xa33516e6f64c6c2869dff6744953a472cd60c8f6": {
+      "Name Tag": "Storj: Multisig 2",
+      "Subcategory": "Main"
+    },
+    "0x185f19b43d818e10a31be68f445ef8edcb8afb83": {
+      "Name Tag": "TenX: Multisig",
+      "Subcategory": "Main"
+    },
+    "0x9e2b6378ee8ad2a4a95fe481d63caba8fb0ebbf9": {
+      "Name Tag": "Alchemix Finance: Dev Multisig",
+      "Subcategory": "Others"
+    },
+    "0x8392f6669292fa56123f71949b52d883ae57e225": {
+      "Name Tag": "Alchemix Finance: Treasury",
+      "Subcategory": "Others"
+    },
+    "0x8d9d0bd75319a3780d3cab012759efbae334291b": {
+      "Name Tag": "Arcade City: Multisig",
+      "Subcategory": "Others"
+    },
+    "0xab4e5b618fb8f1f3503689dfbdf801478ff6c252": {
+      "Name Tag": "Axie Infinity: Multisig",
+      "Subcategory": "Others"
+    },
+    "0xf26d1bb347a59f6c283c53156519cc1b1abaca51": {
+      "Name Tag": "Bankless DAO: Treasury",
+      "Subcategory": "Others"
+    },
+    "0x4763cfa50311729b65815e5ae9ebbefdb94ec112": {
+      "Name Tag": "BLVKHVND: Multisig",
+      "Subcategory": "Others"
+    },
+    "0x8c2251e028043e38f58ac64c00e1f940d305aa62": {
+      "Name Tag": "ElasticDAO: Multisig",
+      "Subcategory": "Others"
+    },
+    "0x911143d946ba5d467bfc476491fdb235fef4d667": {
+      "Name Tag": "ENS: Multisig",
+      "Subcategory": "Others"
+    },
+    "0xb35cd25e91b376eafba79abe71d78814dec3401a": {
+      "Name Tag": "Ethereum Magicians: Multisig",
+      "Subcategory": "Others"
+    },
+    "0x6e95c8e8557abc08b46f3c347ba06f8dc012763f": {
+      "Name Tag": "Gnosis: MultiSig",
+      "Subcategory": "Others"
+    },
+    "0xce52a8dd7c8ad08e94b44620622e3630f7c1fc90": {
+      "Name Tag": "Gnosis: MultiSig 3",
+      "Subcategory": "Others"
+    },
+    "0xff1a8eda5eacdb6aaf729905492bdc6376dbe2dd": {
+      "Name Tag": "Gnosis: xDai Bridge Management Multisig",
+      "Subcategory": "Others"
+    },
+    "0x7da82c7ab4771ff031b66538d2fb9b0b047f6cf9": {
+      "Name Tag": "Golem: Multisig",
+      "Subcategory": "Others"
+    },
+    "0x83307d16c4dcebc69162ad7444a38cbf569e3603": {
+      "Name Tag": "Hundred Finance: Governance Multisig",
+      "Subcategory": "Others"
+    },
+    "0xaf5800324e355c9eaa2075cad6717ff1ddf067db": {
+      "Name Tag": "Hundred Finance: Treasury Multisig",
+      "Subcategory": "Others"
+    },
+    "0x51c2cef9efa48e08557a361b52db34061c025a1b": {
+      "Name Tag": "JPEGd: Multisig",
+      "Subcategory": "Others"
+    },
+    "0x557068a9b7d66f97a61b97c80541eb17672e1e6f": {
+      "Name Tag": "LobsterDAO: Multisig",
+      "Subcategory": "Others"
+    },
+    "0x245cc372c84b3645bf0ffe6538620b04a217988b": {
+      "Name Tag": "OlympusDAO: DAO Funds",
+      "Subcategory": "Others"
+    },
+    "0x09443d96cd5e208e11049ba17f4f197cd93543a0": {
+      "Name Tag": "Paribus: Ecosystem",
+      "Subcategory": "Others"
+    },
+    "0x55390894452ae920f532e63dee9328258447e40d": {
+      "Name Tag": "Paribus: Foundation",
+      "Subcategory": "Others"
+    },
+    "0xa52fd396891e7a74b641a2cb1a6999fcf56b077e": {
+      "Name Tag": "Redacted Cartel: Multisig",
+      "Subcategory": "Others"
+    },
+    "0xdaeada3d210d2f45874724beea03c7d4bbd41674": {
+      "Name Tag": "Ribbon Finance: Multisig",
+      "Subcategory": "Others"
+    },
+    "0xe94b5eec1fa96ceecbd33ef5baa8d00e4493f4f3": {
+      "Name Tag": "SushiSwap: Treasury Multisig",
+      "Subcategory": "Others"
+    },
+    "0x90b6c61b102ea260131ab48377e143d6eb3a9d4b": {
+      "Name Tag": "Tokemak: Coordinator Address",
+      "Subcategory": "Others"
+    },
+    "0x8b4334d4812c530574bd4f2763fcd22de94a969b": {
+      "Name Tag": "Tokemak: Treasury Address",
+      "Subcategory": "Others"
+    },
+    "0xb04e030140b30c27bcdfaafffa98c57d80eda7b4": {
+      "Name Tag": "Tornado.Cash: Community Fund",
+      "Subcategory": "Others"
+    },
+    "0xc0f783edfebb995eb5e590af08e36e43d4c36cbd": {
+      "Name Tag": "VESQ: DAO Multisig",
+      "Subcategory": "Others"
+    },
+    "0xc2cce1f4190d4451c63cf591678c807679c3d728": {
+      "Name Tag": "WeTrust: Multisig",
+      "Subcategory": "Others"
+    }
+  }
+}

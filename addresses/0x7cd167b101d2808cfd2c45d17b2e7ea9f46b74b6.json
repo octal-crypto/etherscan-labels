@@ -1,0 +1,14 @@
+{
+  "Address": "0x7cd167b101d2808cfd2c45d17b2e7ea9f46b74b6",
+  "Labels": {
+    "bridge": {
+      "Token Name": "USD Coin (Wormhole) (USDC)",
+      "Description": "A gateway connecting one network to another."
+    },
+    "wormhole": {
+      "Name Tag": "Wormhole: USDCbs Token",
+      "Description": "Wormhole is a generic message-passing protocol that connects to multiple chains including Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Avalanche, and Oasis.",
+      "Token Name": "USD Coin (Wormhole) (USDC)"
+    }
+  }
+}

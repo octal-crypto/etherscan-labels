@@ -1,0 +1,10 @@
+{
+  "Address": "0x6666666666666666666666666666666666666666",
+  "Labels": {
+    "burn": {
+      "Name Tag": "Null Address: 0x666...666",
+      "Description": "Tokens are commonly considered burned after sending to an address whose private keys are impossible (or extremely improbable) for anyone to have access to. Another recommended method is to create a contract which immediately self destructs and sends to its own address.",
+      "Subcategory": "Main"
+    }
+  }
+}

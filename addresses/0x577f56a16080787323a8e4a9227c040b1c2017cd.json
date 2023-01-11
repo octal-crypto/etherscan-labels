@@ -1,0 +1,11 @@
+{
+  "Address": "0x577f56a16080787323a8e4a9227c040b1c2017cd",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "DEBIT Coin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "DEBIT Coin (DBC)"
+    }
+  }
+}

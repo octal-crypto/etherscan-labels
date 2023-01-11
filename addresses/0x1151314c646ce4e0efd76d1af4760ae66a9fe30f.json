@@ -1,0 +1,16 @@
+{
+  "Address": "0x1151314c646ce4e0efd76d1af4760ae66a9fe30f",
+  "Labels": {
+    "bitfinex": {
+      "Name Tag": "Bitfinex 1",
+      "Description": "Bitfinex is a full-featured spot trading platform for major digital assets & cryptocurrencies, including Bitcoin, Ethereum, EOS, Litecoin, Ripple, NEO, Monero and many more."
+    },
+    "fiat-gateway": {
+      "Name Tag": "Bitfinex 1"
+    },
+    "otc": {
+      "Name Tag": "Bitfinex 1",
+      "Description": "Related to over-the-counter (OTC) trading firms."
+    }
+  }
+}

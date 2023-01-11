@@ -1,0 +1,15 @@
+{
+  "Address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+  "Labels": {
+    "1inch": {
+      "Name Tag": "1inch: CHI Token",
+      "Description": "1inch Network is a DEX aggregator solution that searches deals across multiple liquidity sources, offering users better rates than individual exchanges.",
+      "Subcategory": "Main",
+      "Token Name": "Chi Gastoken by 1inch (CHI)"
+    },
+    "blocked": {
+      "Name Tag": "1inch: CHI Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    }
+  }
+}

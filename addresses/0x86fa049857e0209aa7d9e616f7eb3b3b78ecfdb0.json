@@ -1,0 +1,15 @@
+{
+  "Address": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0",
+  "Labels": {
+    "mainnet-launched": {
+      "Token Name": "EOS (EOS)",
+      "Description": "Companies whose Mainnet have launched and have migrated from the Ethereum Network. A reminder to swap your tokens to the respective Mainnet if you have yet to do so."
+    },
+    "old-contract": {
+      "Name Tag": "EOS: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "EOS (EOS)"
+    }
+  }
+}

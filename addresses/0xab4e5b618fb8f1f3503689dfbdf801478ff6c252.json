@@ -1,0 +1,14 @@
+{
+  "Address": "0xab4e5b618fb8f1f3503689dfbdf801478ff6c252",
+  "Labels": {
+    "axie-infinity": {
+      "Name Tag": "Axie Infinity: Multisig",
+      "Description": "Axie Infinity is a Pokémon-inspired universe where anyone can earn tokens through skilled gameplay and contributions to the ecosystem. Players can battle, collect, raise, and build a land-based kingdom for their pets."
+    },
+    "multisig": {
+      "Name Tag": "Axie Infinity: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

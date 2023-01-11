@@ -1,0 +1,14 @@
+{
+  "Label": "cryptoserval",
+  "Description": "CryptoServal is a game based on smart contracts running on the Ethereum blockchain, centered around breedable, collectible, and fighting creatures we call CryptoServals! Each animal is unique and owned by you. It cannot be replicated, taken away, or destroyed.",
+  "Addresses": {
+    "0x3a1957a0b9755d78c77e301410b254b6147a400c": {
+      "Name Tag": "CryptoServal: CS Token",
+      "Token Name": "CryptoServal (CS)"
+    },
+    "0x14c4293d7e7325cec8c52cea3df37d91aa9cc7b6": {
+      "Name Tag": "CryptoServal: Game",
+      "Token Name": "CryptoServalGame (CSG)"
+    }
+  }
+}

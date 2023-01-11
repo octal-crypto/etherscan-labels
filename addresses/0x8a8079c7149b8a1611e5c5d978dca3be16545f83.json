@@ -1,0 +1,15 @@
+{
+  "Address": "0x8a8079c7149b8a1611e5c5d978dca3be16545f83",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy iADA Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy iADA Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth iADA (iADA)"
+    }
+  }
+}

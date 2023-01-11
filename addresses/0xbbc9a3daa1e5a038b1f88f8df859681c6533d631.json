@@ -1,0 +1,9 @@
+{
+  "Address": "0xbbc9a3daa1e5a038b1f88f8df859681c6533d631",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "amaq: Eth2 Depositor",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

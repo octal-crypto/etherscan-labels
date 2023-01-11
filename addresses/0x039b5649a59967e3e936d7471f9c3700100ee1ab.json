@@ -1,0 +1,15 @@
+{
+  "Address": "0x039b5649a59967e3e936d7471f9c3700100ee1ab",
+  "Labels": {
+    "kucoin": {
+      "Name Tag": "KuCoin: Old KCS Token",
+      "Description": "KuCoin is the most advanced and secure cryptocurrency exchange to buy and sell Bitcoin, Ethereum, Litecoin, TRON, USDT, NEO, XRP, KCS, and more.",
+      "Token Name": "Kucoin Shares (KCS)"
+    },
+    "old-contract": {
+      "Name Tag": "KuCoin: Old KCS Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

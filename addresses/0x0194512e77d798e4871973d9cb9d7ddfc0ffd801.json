@@ -1,0 +1,9 @@
+{
+  "Address": "0x0194512e77d798e4871973d9cb9d7ddfc0ffd801",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "stakefish: Eth2 Depositor ",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

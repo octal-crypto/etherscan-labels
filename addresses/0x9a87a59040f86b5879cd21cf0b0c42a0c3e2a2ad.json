@@ -1,0 +1,14 @@
+{
+  "Address": "0x9a87a59040f86b5879cd21cf0b0c42a0c3e2a2ad",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Sorbet Finance Hack Alert 106",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "take-action": {
+      "Name Tag": "Sorbet Finance Hack Alert 106",
+      "Description": "The owners of these address are urged to take action immediately.",
+      "Subcategory": "Others"
+    }
+  }
+}

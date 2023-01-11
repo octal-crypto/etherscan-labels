@@ -1,0 +1,14 @@
+{
+  "Address": "0x5c8bf7d294b002c52bd0ba0fb480c7b30d6a0fb2",
+  "Labels": {
+    "miningpoolhub": {
+      "Name Tag": "MiningPoolHub: Old Address 6",
+      "Description": "Mining Pool Hub"
+    },
+    "old-contract": {
+      "Name Tag": "MiningPoolHub: Old Address 6",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

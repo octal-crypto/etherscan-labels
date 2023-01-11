@@ -1,0 +1,31 @@
+{
+  "Label": "nexo",
+  "Description": "Nexo: Let your crypto work for you. The only insured account that lets you borrow instantly in 45+ fiat currencies and earn daily interest on your idle assets.",
+  "Addresses": {
+    "0x00ee047a66d5cff27587a61559138c26b62f7ceb": {
+      "Name Tag": "Nexo 1"
+    },
+    "0xffec0067f5a79cff07527f63d83dd5462ccf8ba4": {
+      "Name Tag": "Nexo 2"
+    },
+    "0x0031e147a79c45f24319dc02ca860cb6142fcba1": {
+      "Name Tag": "Nexo 3"
+    },
+    "0x7344e478574acbe6dac9de1077430139e17eec3d": {
+      "Name Tag": "Nexo 4"
+    },
+    "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206": {
+      "Name Tag": "Nexo Token",
+      "Token Name": "Nexo (NEXO)"
+    },
+    "0x9bdb521a97e95177bf252c253e256a60c3e14447": {
+      "Name Tag": "Nexo: Corporate Treasury"
+    },
+    "0x354e9fa5c6ee7e6092158a8c1b203ccac932d66d": {
+      "Name Tag": "Nexo: Deposit Funder"
+    },
+    "0x65b0bf8ee4947edd2a500d74e50a3d757dc79de0": {
+      "Name Tag": "Nexo: WBTC Merchant Deposit Address "
+    }
+  }
+}

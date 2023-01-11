@@ -1,0 +1,43 @@
+{
+  "Label": "medikey",
+  "Description": "MEDIKEY: Blockchain-based health/life Information Platform",
+  "Addresses": {
+    "0x6c8219172a9eeea5d0a7a9a9dedf0b6d517abd48": {
+      "Name Tag": "MEDIKEY: Advisors"
+    },
+    "0x9a18ee3aca5038ad61af2c9bb6c957012f33dbfd": {
+      "Name Tag": "MEDIKEY: Contractors 1"
+    },
+    "0x320ab84782d9b7b7127760ba763227b5a3579e58": {
+      "Name Tag": "MEDIKEY: Contractors 2"
+    },
+    "0x6c69708813e37d968a755f5a150415f0f7ea1631": {
+      "Name Tag": "MediKey: Deployer"
+    },
+    "0x247dfe359fdafa228a084fb3f29a385ec6d621d3": {
+      "Name Tag": "MEDIKEY: Development Team"
+    },
+    "0xd0c8aa42ea7e939c72dd9f055a27ad329f9812b8": {
+      "Name Tag": "MEDIKEY: Ecosystem Incentives"
+    },
+    "0x1d506ecabe9d00bb29272ba116cc8f3a3a24da86": {
+      "Name Tag": "MEDIKEY: Management Team"
+    },
+    "0xd49b3b18e1c3813ecb5881540dcf8cb09bbb402c": {
+      "Name Tag": "MEDIKEY: Marketing"
+    },
+    "0xe154d54890c35634ca525d543ed58c741af7cf7a": {
+      "Name Tag": "MediKey: MKEY Token",
+      "Token Name": "MEDIKEY (MKEY)"
+    },
+    "0xe98cb1c943ad6263e3258f98a5001cc775ede7cd": {
+      "Name Tag": "MediKey: Old Token"
+    },
+    "0xc90e008b491bf0ebcc4b9d63a5d83ec426346574": {
+      "Name Tag": "MEDIKEY: Operations"
+    },
+    "0x58f826b6661394c2ade8ae6a211dab792dc82112": {
+      "Name Tag": "MEDIKEY: Treasury"
+    }
+  }
+}

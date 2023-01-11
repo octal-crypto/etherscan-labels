@@ -1,0 +1,16 @@
+{
+  "Address": "0x178bf8fd04b47d2de3ef3f6b3d112106375ad584",
+  "Labels": {
+    "old-contract": {
+      "Token Name": "unagii_Tether USD (uUSDT)",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "unagii-com": {
+      "Name Tag": "unagii.com: Old uUSDT Token",
+      "Description": "unagii.com: The best of DeFi on the only app you need for your digital asset yields.",
+      "Subcategory": "Legacy",
+      "Token Name": "unagii_Tether USD (uUSDT)"
+    }
+  }
+}

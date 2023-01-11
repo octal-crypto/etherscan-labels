@@ -1,0 +1,11 @@
+{
+  "Address": "0x29428639d889fa989405ee9baf3ba088e6994edc",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Based.Money: Old $BASED Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "$BASED ($BASED)"
+    }
+  }
+}

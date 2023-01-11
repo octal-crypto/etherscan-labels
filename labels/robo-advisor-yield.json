@@ -1,0 +1,38 @@
+{
+  "Label": "robo-advisor-yield",
+  "Description": "RAY connects yield-generating smart contracts with pooled liquidity. It currently supports on-chain lending for the ETH, DAI and USDC tokens on the Compound, dYdX and Dai Savings Rate markets.",
+  "Addresses": {
+    "0x3d6fa1331e142504ba0b7965cd801c7f3b21b6c0": {
+      "Name Tag": "Robo-Advisor Yield: Aave Opportunity",
+      "Subcategory": "Main"
+    },
+    "0x759a728653c4d0483d897dccf3a343fe2bbbb54a": {
+      "Name Tag": "Robo-Advisor Yield: Bzx Opportunity",
+      "Subcategory": "Main"
+    },
+    "0xea5ee32f3a63c3fabb311c6e8c985d308a53dcc1": {
+      "Name Tag": "Robo-Advisor Yield: Compound Opportunity",
+      "Subcategory": "Main"
+    },
+    "0xc830217bd3000e92ce846c549de6a2a36aea8954": {
+      "Name Tag": "Robo-Advisor Yield: DSR Opportunity",
+      "Subcategory": "Main"
+    },
+    "0xeb6394f817b498c423c44bd72c3d7f8ed5deec6e": {
+      "Name Tag": "Robo-Advisor Yield: Dydx Opportunity",
+      "Subcategory": "Main"
+    },
+    "0x06a5bf70bff314177488864fe03576ff608e6aec": {
+      "Name Tag": "Robo-Advisor Yield: Portfolio Manager",
+      "Subcategory": "Main"
+    },
+    "0xd9fd8ae74d33dfc6883c01d2f5fb0dcb82384854": {
+      "Name Tag": "Robo-Advisor Yield: Deployer",
+      "Subcategory": "Others"
+    },
+    "0x5a2890b14b49e5a2ad9718f7c74973c3297a571c": {
+      "Name Tag": "Robo-Advisor Yield: Deployer 2",
+      "Subcategory": "Others"
+    }
+  }
+}

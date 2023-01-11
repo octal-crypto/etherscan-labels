@@ -1,0 +1,11 @@
+{
+  "Address": "0x5c6d9a1f19cf402a261922b41b3d24c5acbf109f",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "VIPChain: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "VIP (VIP)"
+    }
+  }
+}

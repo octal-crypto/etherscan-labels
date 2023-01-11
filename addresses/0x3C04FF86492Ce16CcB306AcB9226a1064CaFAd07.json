@@ -1,0 +1,9 @@
+{
+  "Address": "0x3C04FF86492Ce16CcB306AcB9226a1064CaFAd07",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Nuclear (NCA)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

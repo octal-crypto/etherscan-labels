@@ -1,0 +1,15 @@
+{
+  "Address": "0xa193c943980a9340f306b3d59deb183dc501b35f",
+  "Labels": {
+    "coinhako": {
+      "Name Tag": "Coinhako: Old Address",
+      "Description": "Coinhako: The easiest way to buy, sell, swap and store digital assets in Asia.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "Coinhako: Old Address",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

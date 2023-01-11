@@ -1,0 +1,11 @@
+{
+  "Address": "0x85e076361cc813a908ff672f9bad1541474402b2",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Telcoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Telcoin (TEL)"
+    }
+  }
+}

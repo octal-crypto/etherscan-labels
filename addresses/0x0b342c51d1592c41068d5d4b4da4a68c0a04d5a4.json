@@ -1,0 +1,17 @@
+{
+  "Address": "0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "OneSwap (ONES)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "dex": {
+      "Token Name": "OneSwap (ONES)",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    },
+    "trading": {
+      "Token Name": "OneSwap (ONES)",
+      "Description": "The act of buying and selling goods and services."
+    }
+  }
+}

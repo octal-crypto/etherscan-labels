@@ -1,0 +1,15 @@
+{
+  "Address": "0xcb550a6d4c8e3517a939bc79d0c7093eb7cf56b5",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "Yearn Finance: yCRV/WBTC Vault",
+      "Token Name": "WBTC yVault (yvWBTC)"
+    },
+    "yearn-finance": {
+      "Name Tag": "Yearn Finance: yCRV/WBTC Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "WBTC yVault (yvWBTC)"
+    }
+  }
+}

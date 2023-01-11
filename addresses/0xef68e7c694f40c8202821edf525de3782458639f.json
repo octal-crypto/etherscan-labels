@@ -1,0 +1,17 @@
+{
+  "Address": "0xef68e7c694f40c8202821edf525de3782458639f",
+  "Labels": {
+    "loopring": {
+      "Name Tag": "Loopring: Old Token",
+      "Description": "Loopring: Scalable zkRollup exchange protocol.",
+      "Subcategory": "Legacy",
+      "Token Name": "Loopring (LRC)"
+    },
+    "old-contract": {
+      "Name Tag": "Loopring: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Loopring (LRC)"
+    }
+  }
+}

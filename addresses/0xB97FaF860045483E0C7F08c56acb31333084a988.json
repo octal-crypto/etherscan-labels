@@ -1,0 +1,9 @@
+{
+  "Address": "0xB97FaF860045483E0C7F08c56acb31333084a988",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Vanilla Network (VNLA)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

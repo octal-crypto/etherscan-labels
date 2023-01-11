@@ -1,0 +1,15 @@
+{
+  "Address": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
+  "Labels": {
+    "mainnet-launched": {
+      "Token Name": "Bytom (BTM)",
+      "Description": "Companies whose Mainnet have launched and have migrated from the Ethereum Network. A reminder to swap your tokens to the respective Mainnet if you have yet to do so."
+    },
+    "old-contract": {
+      "Name Tag": "Bytom: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Bytom (BTM)"
+    }
+  }
+}

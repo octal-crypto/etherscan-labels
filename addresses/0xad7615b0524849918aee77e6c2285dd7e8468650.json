@@ -1,0 +1,11 @@
+{
+  "Address": "0xad7615b0524849918aee77e6c2285dd7e8468650",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "RoboCalls: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Robocalls (RCALLS)"
+    }
+  }
+}

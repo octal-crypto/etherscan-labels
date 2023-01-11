@@ -1,0 +1,14 @@
+{
+  "Address": "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Polygon (Matic): ERC20 Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "polygon-matic": {
+      "Name Tag": "Polygon (Matic): ERC20 Bridge",
+      "Description": "Polygon (previously Matic) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+      "Subcategory": "Others"
+    }
+  }
+}

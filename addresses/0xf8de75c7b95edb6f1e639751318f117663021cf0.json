@@ -1,0 +1,9 @@
+{
+  "Address": "0xf8de75c7b95edb6f1e639751318f117663021cf0",
+  "Labels": {
+    "maker-vault-owner": {
+      "Name Tag": "7 Siblings Recursive Farmer",
+      "Description": "A Maker Vault allows a user to deposit cryptocurrency collateral and generate Dai. Vaults are categorized by the type of collateral used to generated Dai. Users create Dai by generating it against their collateral and destroy Dai when repaying their generated Dai balance."
+    }
+  }
+}

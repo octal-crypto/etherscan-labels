@@ -1,0 +1,17 @@
+{
+  "Address": "0xcf50bc1442a50d1756b34119fe1e26325aa648e3",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old FLEXBTC Social Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "FlexBTC Set (FLEXBTC)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old FLEXBTC Social Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "FlexBTC Set (FLEXBTC)"
+    }
+  }
+}

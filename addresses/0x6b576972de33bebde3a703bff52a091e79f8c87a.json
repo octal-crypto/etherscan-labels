@@ -1,0 +1,19 @@
+{
+  "Address": "0x6b576972de33bebde3a703bff52a091e79f8c87a",
+  "Labels": {
+    "finance": {
+      "Token Name": "unFederal USDC (unUSDC)",
+      "Description": "The study and system of money, investments, and other financial instruments."
+    },
+    "reservelending": {
+      "Name Tag": "unFederalReserve: unUSDC Token",
+      "Description": "ReserveLending: Lending protocol",
+      "Token Name": "unFederal USDC (unUSDC)"
+    },
+    "unfederalreserve": {
+      "Name Tag": "unFederalReserve: unUSDC Token",
+      "Description": "unFederalReserve is a banking Saas company built on the blockchain with products designed for smaller U.S. Treasury chartered banks and non-bank lenders.",
+      "Token Name": "unFederal USDC (unUSDC)"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Label": "neo-tokyo",
+  "Description": "Neo Tokyo is a virtual city.",
+  "Addresses": {
+    "0x835a60cc60b808e47825daa79a9da6c9ff3a892e": {
+      "Name Tag": "Neo Tokyo: NEOTBI Token"
+    },
+    "0x86357a19e5537a8fba9a004e555713bc943a66c0": {
+      "Name Tag": "Neo Tokyo: NEOTI Token",
+      "Token Name": "Neo Tokyo: Identities (NEOTI)"
+    },
+    "0x698fbaaca64944376e2cdc4cad86eaa91362cf54": {
+      "Name Tag": "Neo Tokyo: NEOTOI Token",
+      "Token Name": "Neo Tokyo: Outer Identities (NEOTOI)"
+    },
+    "0xab0b0dd7e4eab0f9e31a539074a03f1c1be80879": {
+      "Name Tag": "Neo Tokyo: NEOTV Token",
+      "Token Name": "Neo Tokyo Part 2: Vault Cards (NEOTV)"
+    },
+    "0xb668beb1fa440f6cf2da0399f8c28cab993bdd65": {
+      "Name Tag": "Neo Tokyo: NTCTZN Token"
+    },
+    "0x0938e3f7ac6d7f674fed551c93f363109bda3af9": {
+      "Name Tag": "Neo Tokyo: NTITEM Token",
+      "Token Name": "Neo Tokyo Part 3 Item Caches (NTITEM)"
+    },
+    "0x3c54b798b3aad4f6089533af3bdbd6ce233019bb": {
+      "Name Tag": "Neo Tokyo: NTLD Token",
+      "Token Name": "Neo Tokyo Part 4 Land Deeds (NTLD)"
+    },
+    "0x7ac66d40d80d2d8d1e45d6b5b10a1c9d1fd69354": {
+      "Name Tag": "Neo Tokyo: NTOITEM Token",
+      "Token Name": "Neo Tokyo Outer Item Caches (NTOITEM)"
+    },
+    "0xb668beB1Fa440F6cF2Da0399f8C28caB993Bdd65": {
+      "Token Name": "Neo Tokyo Citizen (NTCTZN)"
+    },
+    "0x835a60cc60B808e47825daa79A9Da6C9fF3a892E": {
+      "Token Name": "Neo Tokyo: Bought Identities (NEOTBI)"
+    }
+  }
+}

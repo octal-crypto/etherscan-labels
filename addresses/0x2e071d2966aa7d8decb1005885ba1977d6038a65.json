@@ -1,0 +1,14 @@
+{
+  "Address": "0x2e071d2966aa7d8decb1005885ba1977d6038a65",
+  "Labels": {
+    "etheroll": {
+      "Name Tag": "Etheroll Token",
+      "Description": "Etheroll is an Ethereum smart contract for placing bets on their provably-fair dice game using Ether with no deposits or sign-ups. Each dice roll is provably random and cryptographically secure thanks to the nature of the Ethereum blockchain.",
+      "Token Name": "DICE (ROL)"
+    },
+    "gambling": {
+      "Token Name": "DICE (ROL)",
+      "Description": "The wagering of Ethers or something of value on an event with an uncertain outcome with the primary intent of winning more Ethers or material goods."
+    }
+  }
+}

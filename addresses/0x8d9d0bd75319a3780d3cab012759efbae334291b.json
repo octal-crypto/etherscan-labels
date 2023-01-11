@@ -1,0 +1,14 @@
+{
+  "Address": "0x8d9d0bd75319a3780d3cab012759efbae334291b",
+  "Labels": {
+    "ico-wallets": {
+      "Name Tag": "Arcade City: Multisig",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "multisig": {
+      "Name Tag": "Arcade City: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

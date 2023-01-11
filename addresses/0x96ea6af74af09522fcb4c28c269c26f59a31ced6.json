@@ -1,0 +1,15 @@
+{
+  "Address": "0x96ea6af74af09522fcb4c28c269c26f59a31ced6",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yCRV/Link Vault",
+      "Token Name": "yearn Curve.fi LINK/sLINK (yvlinkCRV)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yCRV/Link Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Curve.fi LINK/sLINK (yvlinkCRV)"
+    }
+  }
+}

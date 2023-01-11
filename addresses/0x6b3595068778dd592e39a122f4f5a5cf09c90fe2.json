@@ -1,0 +1,23 @@
+{
+  "Address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "SushiSwap: SUSHI Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "defi": {
+      "Token Name": "SushiToken (SUSHI)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "sushiswap": {
+      "Name Tag": "SushiSwap: SUSHI Token",
+      "Description": "SushiSwap is a protocol for automated token exchange on Ethereum.",
+      "Subcategory": "Main",
+      "Token Name": "SushiToken (SUSHI)"
+    },
+    "yield-farming": {
+      "Token Name": "SushiToken (SUSHI)"
+    }
+  }
+}

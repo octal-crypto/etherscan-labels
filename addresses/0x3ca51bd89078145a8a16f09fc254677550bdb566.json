@@ -1,0 +1,11 @@
+{
+  "Address": "0x3ca51bd89078145a8a16f09fc254677550bdb566",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "IdealCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "IdealCoin (IDC)"
+    }
+  }
+}

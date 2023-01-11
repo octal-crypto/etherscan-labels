@@ -1,0 +1,19 @@
+{
+  "Address": "0x9af839687f6c94542ac5ece2e317daae355493a1",
+  "Labels": {
+    "dex": {
+      "Token Name": "Hydro Protocol (HOT)",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    },
+    "hydro-protocol": {
+      "Name Tag": "Hydro Protocol Token",
+      "Description": "Hydro is an open source framework for building Decentralized Exchanges.",
+      "Subcategory": "Others",
+      "Token Name": "Hydro Protocol (HOT)"
+    },
+    "protocol": {
+      "Token Name": "Hydro Protocol (HOT)",
+      "Description": "The underlying set of rules establishing how connected computers communicate with one another to exchange information."
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0xb1b6e377aa6ec6928a1d499ae58483b2b99658ec",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Gitcoin Grants: solUI",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "gitcoin-grants": {
+      "Name Tag": "Gitcoin Grants: solUI",
+      "Description": "Gitcoin Grants: Get substantial sustainable funding for your projects.",
+      "Subcategory": "Others"
+    }
+  }
+}

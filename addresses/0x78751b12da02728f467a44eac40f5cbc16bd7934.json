@@ -1,0 +1,17 @@
+{
+  "Address": "0x78751b12da02728f467a44eac40f5cbc16bd7934",
+  "Labels": {
+    "idle-finance": {
+      "Name Tag": "Idle.finance: Old idleDAIYield Token",
+      "Description": "Idle.finance: Earn the yield you deserve without worry about finding the best option, either if you want to optimize returns or risks.",
+      "Subcategory": "Legacy",
+      "Token Name": "IdleDAI v3 [Max yield] (idleDAIYield)"
+    },
+    "old-contract": {
+      "Name Tag": "Idle.finance: Old idleDAIYield Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "IdleDAI v3 [Max yield] (idleDAIYield)"
+    }
+  }
+}

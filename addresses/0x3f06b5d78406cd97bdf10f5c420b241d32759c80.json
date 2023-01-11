@@ -1,0 +1,11 @@
+{
+  "Address": "0x3f06b5d78406cd97bdf10f5c420b241d32759c80",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "CyberFM: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "CYBERFM (CYFM)"
+    }
+  }
+}

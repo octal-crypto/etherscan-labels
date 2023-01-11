@@ -1,0 +1,13 @@
+{
+  "Address": "0xbd4a00764217c13a246f86db58d74541a0c3972a",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Fee Recipient: 0xbD4...72A",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "proposer-fee-recipient": {
+      "Name Tag": "Fee Recipient: 0xbD4...72A",
+      "Description": "An address that is set by Beacon Chain validators as a fee recipient for their block proposers."
+    }
+  }
+}

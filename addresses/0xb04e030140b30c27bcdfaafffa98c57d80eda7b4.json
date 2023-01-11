@@ -1,0 +1,15 @@
+{
+  "Address": "0xb04e030140b30c27bcdfaafffa98c57d80eda7b4",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "Tornado.Cash: Community Fund",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    },
+    "tornado-cash": {
+      "Name Tag": "Tornado.Cash: Community Fund",
+      "Description": "Tornado.Cash: Non-custodial anonymous transactions on Ethereum.",
+      "Subcategory": "Others"
+    }
+  }
+}

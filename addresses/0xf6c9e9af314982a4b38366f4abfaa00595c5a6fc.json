@@ -1,0 +1,15 @@
+{
+  "Address": "0xf6c9e9af314982a4b38366f4abfaa00595c5a6fc",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yCRV/UST Vault",
+      "Token Name": "yearn Curve.fi UST/3Crv (yvust3CRV)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yCRV/UST Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Curve.fi UST/3Crv (yvust3CRV)"
+    }
+  }
+}

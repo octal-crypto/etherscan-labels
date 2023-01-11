@@ -1,0 +1,14 @@
+{
+  "Address": "0xc12ba48c781f6e392b49db2e25cd0c28cd77531a",
+  "Labels": {
+    "arbitrum": {
+      "Name Tag": "Arbitrum: Old Rollup Core",
+      "Description": "Arbitrum is a next generation Layer 2 for Ethereum dApps, allowing you to use your favorite tools and scale your dApp at the lowest cost."
+    },
+    "old-contract": {
+      "Name Tag": "Arbitrum: Old Rollup Core",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

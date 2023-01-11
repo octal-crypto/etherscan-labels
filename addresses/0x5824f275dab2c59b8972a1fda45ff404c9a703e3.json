@@ -1,0 +1,11 @@
+{
+  "Address": "0x5824f275dab2c59b8972a1fda45ff404c9a703e3",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Equal: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "EQUAL (EQL)"
+    }
+  }
+}

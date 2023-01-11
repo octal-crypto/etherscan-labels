@@ -1,0 +1,15 @@
+{
+  "Address": "0xa6c040045d962e4b8efa00954c7d23ccd0a2b8ad",
+  "Labels": {
+    "set-protocol": {
+      "Name Tag": "Set: ETH BTC 75/25 Weight Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Others",
+      "Token Name": "BitEth2575RebalancingSetToken (BTCETH2575)"
+    },
+    "set-social-trading": {
+      "Token Name": "BitEth2575RebalancingSetToken (BTCETH2575)",
+      "Description": "Set Social Trading is a marketplace and network that enables traders to create and manage their own Sets, giving the public instant exposure to their trading strategies. Users can follow along with these strategies by simply minting a Set on TokenSets which copies every single action the trader enacts."
+    }
+  }
+}

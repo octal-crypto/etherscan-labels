@@ -1,0 +1,11 @@
+{
+  "Address": "0xd639c50ae803ae2f2b1d536d3b57ab41cbb624f3",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Permian: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Permian (XPR)"
+    }
+  }
+}

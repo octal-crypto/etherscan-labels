@@ -1,0 +1,14 @@
+{
+  "Address": "0x197939c1ca20c2b506d6811d8b6cdb3394471074",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Cream.Finance: Deployer",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "cream-finance": {
+      "Name Tag": "Cream.Finance: Deployer",
+      "Description": "C.R.E.A.M: Crypto Rules Everything Around Me.",
+      "Subcategory": "Others"
+    }
+  }
+}

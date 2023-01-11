@@ -1,0 +1,16 @@
+{
+  "Address": "0x6ba6f2207e343923ba692e5cae646fb0f566db8d",
+  "Labels": {
+    "cryptopunks": {
+      "Name Tag": "Cryptopunks: Old Token",
+      "Description": "CryptoPunks are 10,000 unique collectible characters with proof of ownership stored on the Ethereum blockchain. They are one of the earliest examples of a \"Non-Fungible Token\" on Ethereum, and were inspiration for the ERC-721 standard that powers most digital art and collectibles.",
+      "Token Name": "CRYPTOPUNKS (Ͼ)"
+    },
+    "old-contract": {
+      "Name Tag": "Cryptopunks: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "CRYPTOPUNKS (Ͼ)"
+    }
+  }
+}

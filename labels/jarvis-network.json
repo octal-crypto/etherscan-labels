@@ -1,0 +1,40 @@
+{
+  "Label": "jarvis-network",
+  "Description": "Jarvis Network is a set of protocols on Ethereum allowing anyone to become a broker by funding and maintaining liquidity pools, against which users can gain exposure to the price of any traditional or digital assets.",
+  "Addresses": {
+    "0x8a9c67fee641579deba04928c4bc45f66e26343a": {
+      "Name Tag": "Jarvis Network: JRT Token",
+      "Subcategory": "Main",
+      "Token Name": "Jarvis Reward Token (JRT)"
+    },
+    "0xc31249ba48763df46388ba5c4e7565d62ed4801c": {
+      "Name Tag": "Jarvis: Liquidity Provision",
+      "Subcategory": "Main"
+    },
+    "0x03c2bc72a3e007179e54ffb4563cc235bec8151a": {
+      "Name Tag": "Jarvis: Wallet",
+      "Subcategory": "Main"
+    },
+    "0x0d54aadd7ce2dc10eb9527c6105a3c3f1b463d1b": {
+      "Name Tag": "Jarvis Network: Deployer 1",
+      "Subcategory": "Others"
+    },
+    "0xeef338c585ee3cf674f717937f12e6f52accf5e1": {
+      "Name Tag": "Jarvis: Old JRT Token",
+      "Subcategory": "Legacy",
+      "Token Name": "Jarvis Reward Token (JRT)"
+    },
+    "0x7409856cae628f5d578b285b45669b36e7005283": {
+      "Token Name": "Jarvis Synthetic British Pound (jGBP)",
+      "Subcategory": "Others"
+    },
+    "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0": {
+      "Token Name": "Jarvis Synthetic Swiss Franc (jCHF)",
+      "Subcategory": "Others"
+    },
+    "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b": {
+      "Token Name": "Jarvis Synthetic Euro (jEUR)",
+      "Subcategory": "Others"
+    }
+  }
+}

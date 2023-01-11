@@ -1,0 +1,17 @@
+{
+  "Address": "0x29e240cfd7946ba20895a7a02edb25c210f9f324",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yaLINK Vault"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yaLINK Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Main",
+      "Token Name": "yearn Aave Interest bearing LINK (yaLINK)"
+    },
+    "yield-farming": {
+      "Token Name": "yearn Aave Interest bearing LINK (yaLINK)"
+    }
+  }
+}

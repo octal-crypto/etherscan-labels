@@ -1,0 +1,15 @@
+{
+  "Address": "0xa1ecdcca26150cf69090280ee2ee32347c238c7b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Uniswap: Old sUSD",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "uniswap": {
+      "Name Tag": "Uniswap: Old sUSD",
+      "Description": "Uniswap is a protocol for automated token exchange on Ethereum.",
+      "Subcategory": "Others"
+    }
+  }
+}

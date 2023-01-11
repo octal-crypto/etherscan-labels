@@ -1,0 +1,11 @@
+{
+  "Address": "0xac838aee2f650a6b970ecea56d4651653c1f84a1",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "ClearCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "ClearCoin (CLR)"
+    }
+  }
+}

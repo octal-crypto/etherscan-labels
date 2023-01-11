@@ -1,0 +1,76 @@
+{
+  "Label": "saddle-finance",
+  "Description": "Saddle is an automated market maker (AMM) designed to enable efficient trading between pegged value crypto assets. Saddle is launching with a tokenized bitcoin pool, allowing users to trade between and provide liquidity for tBTC, WBTC, sBTC, and renBTC.",
+  "Addresses": {
+    "0xf5d2e84e816175dfb2c38bd7549d4bd37b1c0559": {
+      "Name Tag": "Saddle.finance: Allowlist",
+      "Subcategory": "Main"
+    },
+    "0x4f6a43ad7cba042606decaca730d4ce0a57ac62e": {
+      "Name Tag": "Saddle.finance: BTC Pool Swap",
+      "Subcategory": "Main"
+    },
+    "0x2b7a5a5923eca5c00c6572cf3e8e08384f563f93": {
+      "Name Tag": "Saddle.finance: BTC Pool SwapUtils",
+      "Subcategory": "Main"
+    },
+    "0xc0409ec303b727bc1f511d7f8c71fd5ead96de1c": {
+      "Name Tag": "Saddle.finance: MathUtils",
+      "Subcategory": "Main"
+    },
+    "0xc28df698475dec994be00c9c9d8658a548e6304f": {
+      "Name Tag": "Saddle.finance: saddleTWRenSBTC LP Token",
+      "Subcategory": "Main",
+      "Token Name": "Saddle tBTC/WBTC/renBTC/sBTC (saddleTWRenSBTC)"
+    },
+    "0x76204f8cfe8b95191a3d1cfa59e267ea65e06fac": {
+      "Name Tag": "Saddle.finance: saddleUSD LP Token",
+      "Subcategory": "Main",
+      "Token Name": "Saddle DAI/USDC/USDT (saddleUSD)"
+    },
+    "0xe37e2a01fea778bc1717d72bd9f018b6a6b241d5": {
+      "Name Tag": "Saddle.finance: saddleVETH2 LP Token",
+      "Subcategory": "Main"
+    },
+    "0x3911f80530595fbd01ab1516ab61255d75aeb066": {
+      "Name Tag": "Saddle.finance: USD Pool",
+      "Subcategory": "Main"
+    },
+    "0x9dc37020f261758871104f9d8b87e575ee45bc5a": {
+      "Name Tag": "Saddle.finance: USD Pool Swap",
+      "Subcategory": "Main"
+    },
+    "0x29fd31d37ab8d27f11eab68f96424bf64231ffce": {
+      "Name Tag": "Saddle.finance: USD Pool SwapDeployer",
+      "Subcategory": "Main"
+    },
+    "0x98d2afc66de1f73598c6cfa35cbdfebb135fb8fa": {
+      "Name Tag": "Saddle.finance: USD Pool SwapFlashLoan",
+      "Subcategory": "Main"
+    },
+    "0x149bbb210051851016f57a2824c0444f642833a6": {
+      "Name Tag": "Saddle.finance: USD Pool SwapUtils",
+      "Subcategory": "Main"
+    },
+    "0xdec2157831d6abc3ec328291119cc91b337272b5": {
+      "Name Tag": "Saddle.finance: vETH2 Pool",
+      "Subcategory": "Main"
+    },
+    "0x5847f8177221268d279cf377d0e01ab3fd993628": {
+      "Name Tag": "Saddle.finance: vETH2 Pool SwapFlashLoan",
+      "Subcategory": "Main"
+    },
+    "0x3f8e527af4e0c6e763e8f368ac679c44c45626ae": {
+      "Name Tag": "Saddle Finance: Multisig",
+      "Subcategory": "Others"
+    },
+    "0x5bdb37d0ddea3a90f233c7b7f6b9394b6b2eef34": {
+      "Name Tag": "Saddle.finance: Deployer",
+      "Subcategory": "Others"
+    },
+    "0xe37E2a01feA778BC1717d72Bd9f018B6A6B241D5": {
+      "Token Name": "Saddle WETH/vETH2 (saddleVETH2)",
+      "Subcategory": "Main"
+    }
+  }
+}

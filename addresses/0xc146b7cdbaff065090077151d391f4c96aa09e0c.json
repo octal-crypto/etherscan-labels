@@ -1,0 +1,12 @@
+{
+  "Address": "0xc146b7cdbaff065090077151d391f4c96aa09e0c",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "MultiChainCapital (MCC)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "yield-farming": {
+      "Token Name": "MultiChainCapital (MCC)"
+    }
+  }
+}

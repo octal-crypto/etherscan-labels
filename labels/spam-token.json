@@ -1,0 +1,81 @@
+{
+  "Label": "spam-token",
+  "Description": "These are accounts associated with sending unsolicited messages and/or advertising.",
+  "Addresses": {
+    "0x809eade17f09cd31407f61ad590dcf730553dbf8": {
+      "Name Tag": "Spam Token 1",
+      "Token Name": "Spam Token"
+    },
+    "0x13be7adf29956b9ac451dbe158a21a61c4d3850a": {
+      "Name Tag": "Spam Token 2",
+      "Token Name": "Spam Token"
+    },
+    "0x742b3cea5ad428f89dc9bd0d23cf1299182917f9": {
+      "Name Tag": "Spam Token 3",
+      "Token Name": "Spam Token"
+    },
+    "0x73478d0db2473f19e97c28d4e9fc80e75588c067": {
+      "Name Tag": "Spam Token 4",
+      "Token Name": "Spam Token"
+    },
+    "0x13110813640cbe18a3b5ab6c3bfde9c0380d5b58": {
+      "Name Tag": "Spam Token 5",
+      "Token Name": "Spam Token"
+    },
+    "0xe3a9a924ae878cdba0f6e83f89b18cbf75efd6d5": {
+      "Name Tag": "Spam Token 6",
+      "Token Name": "Spam Token"
+    },
+    "0xa9fd9bed77322cff6159318cf1382797f53bb418": {
+      "Name Tag": "Spam Token 7",
+      "Token Name": "Spam Token"
+    },
+    "0x8ffcf8c6d7b47e8d05b062c3e5786f726fd37604": {
+      "Name Tag": "Spam Token 8",
+      "Token Name": "Spam Token"
+    },
+    "0xab1ef6c3abe4eb86348103dccf945a3f68cd7ef7": {
+      "Name Tag": "Spam Token 9",
+      "Token Name": "Spam Token"
+    },
+    " 0x53de591dc05404ce1f6198516b62eb14bd563a3a": {
+      "Name Tag": "Spam Token: Deployer"
+    },
+    "0x111bd4e65d7db7b04371adc10b28b1b29bd99e65": {
+      "Token Name": "Spam Token"
+    },
+    "0x4225d4dc8fa09ca2e62ea7ddac8bd2d80ba5ce88": {
+      "Token Name": "Spam Token"
+    },
+    "0x2854b3206f3078ed6375da6190c40e6231259a45": {
+      "Token Name": "Spam Token"
+    },
+    "0xb40c50ec723e3b909ea40f12a0fea22026e1ec35": {
+      "Token Name": "Spam Token"
+    },
+    "0xe50e28c79cd4a680bf9ec2d96058c88f9ae3f614": {
+      "Token Name": "Spam Token"
+    },
+    "0x1f4a27b5f888a119a5cc4a23fdb45ab7112547a5": {
+      "Token Name": "Spam Token"
+    },
+    "0x9411b81d0033b127c7aa149176ce70351169874d": {
+      "Token Name": "Spam Token"
+    },
+    "0xfd31217721e0753b14dfc4219ae3456168254581": {
+      "Token Name": "Spam Token"
+    },
+    "0x387f4f17cb054012ad081722847611523f13ab93": {
+      "Token Name": "Spam Token"
+    },
+    "0x1958f976e5bafd78fce4c8359aaa99613eea8822": {
+      "Token Name": "Spam Token"
+    },
+    "0x4b567027c2e42bb0a285c7fb93d2af3ddd7802cf": {
+      "Token Name": "Spam Token"
+    },
+    "0x101b69d04fac549329e36705a6c2f70dfd394e05": {
+      "Token Name": "Spam Token"
+    }
+  }
+}

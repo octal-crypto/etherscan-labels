@@ -1,0 +1,15 @@
+{
+  "Address": "0xf6b83ccadeee478fc372af6ca7069b14fbc5e1b1",
+  "Labels": {
+    "dydx": {
+      "Name Tag": "dydx: FRI Statement",
+      "Description": "dYdX: A standard for decentralized margin trading and derivatives",
+      "Subcategory": "Others"
+    },
+    "layer-2": {
+      "Name Tag": "dydx: FRI Statement",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    }
+  }
+}

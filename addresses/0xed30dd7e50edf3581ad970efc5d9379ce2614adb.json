@@ -1,0 +1,14 @@
+{
+  "Address": "0xed30dd7e50edf3581ad970efc5d9379ce2614adb",
+  "Labels": {
+    "arcx": {
+      "Name Tag": "ARCx: Old ARCx Token",
+      "Description": "ARCx is a decentralized scoring protocol that powers on-chain identity through the issuance of a DeFi Passport."
+    },
+    "old-contract": {
+      "Token Name": "ARC Governance Token (ARCX)",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

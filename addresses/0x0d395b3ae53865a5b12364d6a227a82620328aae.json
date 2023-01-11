@@ -1,0 +1,11 @@
+{
+  "Address": "0x0d395b3ae53865a5b12364d6a227a82620328aae",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Okschain: Old OKS Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Okschain Token (OKS)"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e",
+  "Labels": {
+    "metronome": {
+      "Name Tag": "Old Metronome Token",
+      "Description": "Metronome is a new cryptocurrency focused on making greater decentralization possible and delivering institutional-class endurance."
+    },
+    "old-contract": {
+      "Name Tag": "Old Metronome Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

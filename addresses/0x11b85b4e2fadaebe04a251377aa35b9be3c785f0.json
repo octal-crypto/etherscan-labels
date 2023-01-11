@@ -1,0 +1,10 @@
+{
+  "Address": "0x11b85b4e2fadaebe04a251377aa35b9be3c785f0",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Freewallet: Old Address",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

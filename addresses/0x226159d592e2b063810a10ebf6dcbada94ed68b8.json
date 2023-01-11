@@ -1,0 +1,15 @@
+{
+  "Address": "0x226159d592e2b063810a10ebf6dcbada94ed68b8",
+  "Labels": {
+    "ens": {
+      "Name Tag": "ENS: Old Public Resolver 2",
+      "Description": "ENS offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "ENS: Old Public Resolver 2",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

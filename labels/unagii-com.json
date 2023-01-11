@@ -1,0 +1,76 @@
+{
+  "Label": "unagii-com",
+  "Description": "unagii.com: The best of DeFi on the only app you need for your digital asset yields.",
+  "Addresses": {
+    "0x634b0273d7060313faa60f96705116c9de50fa1f": {
+      "Name Tag": "unagii.com: uDAIv2 Token",
+      "Subcategory": "Main",
+      "Token Name": "unagii_Dai Stablecoin_v2 (uDAIv2)"
+    },
+    "0xde07f45688cb6cfaac398c1485860e186d55996d": {
+      "Name Tag": "unagii.com: uETHv2 Token",
+      "Subcategory": "Main",
+      "Token Name": "unagii_ETH_v2 (uETHv2)"
+    },
+    "0x791fb6a7152e980233cd94d83fd4b4630f888c5c": {
+      "Name Tag": "unagii.com: uKNC Token",
+      "Subcategory": "Main",
+      "Token Name": "Unagii KNC PoolMaster (uKNC)"
+    },
+    "0x49b09e7e434a3a4a924a3b640cbba54bf93b5677": {
+      "Name Tag": "unagii.com: uUSDCv2 Token",
+      "Subcategory": "Main",
+      "Token Name": "unagii_USD Coin_v2 (uUSDCv2)"
+    },
+    "0xbf8734c5a7b3e6d88aa0110bebb37844ac043d0a": {
+      "Name Tag": "unagii.com: uUSDTv2 Token",
+      "Subcategory": "Main",
+      "Token Name": "unagii_Tether USD_v2 (uUSDTv2)"
+    },
+    "0x7f20551e082ba3e035f2890cbd1ec4e275b9c8c0": {
+      "Name Tag": "unagii.com: uWBTCv2 Token",
+      "Subcategory": "Main",
+      "Token Name": "unagii_Wrapped BTC_v2 (uWBTCv2)"
+    },
+    "0x6c7c332a090c8d2085857cf3220ea01c6d45a723": {
+      "Name Tag": "unagii.com: Deployer",
+      "Subcategory": "Others"
+    },
+    "0x86d10751b18f3fe331c146546868a07224a8598b": {
+      "Name Tag": "unagii.com: Deployer 2",
+      "Subcategory": "Others"
+    },
+    "0x017ff603cc711008772d32c03091d3cba371bcd3": {
+      "Name Tag": "unagii.com: Old KNC pool",
+      "Subcategory": "Legacy"
+    },
+    "0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376": {
+      "Name Tag": "unagii.com: Old uDAI Token",
+      "Subcategory": "Legacy",
+      "Token Name": "unagii_Dai Stablecoin (uDAI)"
+    },
+    "0x77607588222e01bf892a29abab45796a2047fc7b": {
+      "Name Tag": "unagii.com: Old uETH Token",
+      "Subcategory": "Legacy",
+      "Token Name": "unagii_ETH (uETH)"
+    },
+    "0xbc5991ccd8caceba01edc44c2bb9832712c29cab": {
+      "Name Tag": "unagii.com: Old uUSDC Token",
+      "Subcategory": "Legacy",
+      "Token Name": "unagii_USD Coin (uUSDC)"
+    },
+    "0x178bf8fd04b47d2de3ef3f6b3d112106375ad584": {
+      "Name Tag": "unagii.com: Old uUSDT Token",
+      "Subcategory": "Legacy",
+      "Token Name": "unagii_Tether USD (uUSDT)"
+    },
+    "0x3af5ba94c29a8407785f5f6d90ef5d69a8eb2436": {
+      "Name Tag": "unagii.com: Old uWBTC Token",
+      "Subcategory": "Legacy"
+    },
+    "0x3aF5Ba94C29a8407785f5f6d90eF5d69a8EB2436": {
+      "Token Name": "unagii_Wrapped BTC (uWBTC)",
+      "Subcategory": "Legacy"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0x9ca85572e6a3ebf24dedd195623f188735a5179f",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: y3Crv Vault"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: y3Crv Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Curve.fi DAI/USDC/USDT (y3Crv)"
+    }
+  }
+}

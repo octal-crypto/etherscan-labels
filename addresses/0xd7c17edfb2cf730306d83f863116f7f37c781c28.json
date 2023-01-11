@@ -1,0 +1,11 @@
+{
+  "Address": "0xd7c17edfb2cf730306d83f863116f7f37c781c28",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Homebloc: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Homebloc (HOM)"
+    }
+  }
+}

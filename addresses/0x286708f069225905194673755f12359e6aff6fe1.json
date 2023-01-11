@@ -1,0 +1,15 @@
+{
+  "Address": "0x286708f069225905194673755f12359e6aff6fe1",
+  "Labels": {
+    "gbx": {
+      "Name Tag": "GateNet: Old STACS Token",
+      "Description": "Gibraltar Blockchain Exchange (GBX) is a world-leading institutional-grade token sale platform and digital asset exchange.",
+      "Token Name": "STACS (STACS)"
+    },
+    "old-contract": {
+      "Name Tag": "GateNet: Old STACS Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

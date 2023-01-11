@@ -1,0 +1,9 @@
+{
+  "Address": "0x6e049561f84662d3796f30abcb77690c00ad4312",
+  "Labels": {
+    "proposer-fee-recipient": {
+      "Name Tag": "Fee Recipient: 0x6e...312",
+      "Description": "An address that is set by Beacon Chain validators as a fee recipient for their block proposers."
+    }
+  }
+}

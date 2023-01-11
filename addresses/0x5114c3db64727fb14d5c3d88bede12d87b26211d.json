@@ -1,0 +1,11 @@
+{
+  "Address": "0x5114c3db64727fb14d5c3d88bede12d87b26211d",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Grow: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Grow Token (GRWT)"
+    }
+  }
+}

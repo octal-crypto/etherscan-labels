@@ -1,0 +1,20 @@
+{
+  "Address": "0x0d4c1222f5e839a911e2053860e45f18921d72ac",
+  "Labels": {
+    "defi": {
+      "Name Tag": "OMG Network V1: Plasma Framework",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "layer-2": {
+      "Name Tag": "OMG Network V1: Plasma Framework",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "omg-network": {
+      "Name Tag": "OMG Network V1: Plasma Framework",
+      "Description": "The OMG Network is a trustless, non-custodial, Layer-2 scaling solution for transferring value on Ethereum.",
+      "Subcategory": "Main"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0x1B9BAF2A3EdeA91eE431f02d449a1044d5726669",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "CliffordInu (CLIFF)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

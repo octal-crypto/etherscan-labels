@@ -1,0 +1,14 @@
+{
+  "Address": "0xdcd90c7f6324cfa40d7169ef80b12031770b4325",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yCRV/stETH Vault"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yCRV/stETH Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "Curve stETH Pool yVault (yvCurve-stETH)"
+    }
+  }
+}

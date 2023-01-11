@@ -1,0 +1,10 @@
+{
+  "Address": "0x31bb711de2e457066c6281f231fb473fc5c2afd3",
+  "Labels": {
+    "old-contract": {
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Vether (VETH)"
+    }
+  }
+}

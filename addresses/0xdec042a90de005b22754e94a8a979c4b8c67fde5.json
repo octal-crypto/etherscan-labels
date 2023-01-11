@@ -1,0 +1,14 @@
+{
+  "Address": "0xdec042a90de005b22754e94a8a979c4b8c67fde5",
+  "Labels": {
+    "gemini": {
+      "Name Tag": "Gemini: Old Contract 1",
+      "Description": "Gemini a secure place to buy, sell, and store cryptocurrency"
+    },
+    "old-contract": {
+      "Name Tag": "Gemini: Old Contract 1",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

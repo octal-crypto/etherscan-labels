@@ -1,0 +1,9 @@
+{
+  "Address": "0xF53c24f7729C88C110265929c7124E6259eFccAB",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Bobo Cash (BOBO)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

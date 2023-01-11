@@ -1,0 +1,10 @@
+{
+  "Address": "0x90b6c61b102ea260131ab48377e143d6eb3a9d4b",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "Tokemak: Coordinator Address",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

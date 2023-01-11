@@ -1,0 +1,21 @@
+{
+  "Address": "0x43f11c02439e2736800433b4594994bd43cd066d",
+  "Labels": {
+    "charity": {
+      "Token Name": "FLOKI (FLOKI)",
+      "Description": "An organization that raises money to help people in need."
+    },
+    "currency": {
+      "Token Name": "FLOKI (FLOKI)",
+      "Description": "The circulation as a medium of exchange."
+    },
+    "meme": {
+      "Token Name": "FLOKI (FLOKI)"
+    },
+    "old-contract": {
+      "Name Tag": "Floki Inu: Old - FLOKI Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

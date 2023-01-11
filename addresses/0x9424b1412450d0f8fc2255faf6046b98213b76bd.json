@@ -1,0 +1,14 @@
+{
+  "Address": "0x9424b1412450d0f8fc2255faf6046b98213b76bd",
+  "Labels": {
+    "balancer": {
+      "Name Tag": "Balancer: BFactory",
+      "Description": "Balancer is a non-custodial portfolio manager, liquidity provider, and price sensor.",
+      "Subcategory": "Main"
+    },
+    "factory-contract": {
+      "Name Tag": "Balancer: BFactory",
+      "Description": "Contracts which create multiple contracts."
+    }
+  }
+}

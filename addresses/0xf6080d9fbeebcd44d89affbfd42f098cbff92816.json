@@ -1,0 +1,13 @@
+{
+  "Address": "0xf6080d9fbeebcd44d89affbfd42f098cbff92816",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "StarkNet: StarkGate USDC Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "starknet": {
+      "Name Tag": "StarkNet: StarkGate USDC Bridge",
+      "Description": "StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation – without compromising Ethereum's composability and security."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0x39546945695dcb1c037c836925b355262f551f55",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "Yearn: yCRV/HUSD Vault",
+      "Token Name": "yearn Curve.fi HUSD/3Crv (yvhusd3CRV)"
+    },
+    "yearn-finance": {
+      "Name Tag": "Yearn: yCRV/HUSD Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Curve.fi HUSD/3Crv (yvhusd3CRV)"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0xd3b16f647ad234f8b5bb2bdbe8e919daa5268681",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "FOAM Signal: Deployer",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

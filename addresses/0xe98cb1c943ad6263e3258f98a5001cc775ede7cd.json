@@ -1,0 +1,15 @@
+{
+  "Address": "0xe98cb1c943ad6263e3258f98a5001cc775ede7cd",
+  "Labels": {
+    "medikey": {
+      "Name Tag": "MediKey: Old Token",
+      "Description": "MEDIKEY: Blockchain-based health/life Information Platform"
+    },
+    "old-contract": {
+      "Name Tag": "MediKey: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "MEDIKEY (MKEY)"
+    }
+  }
+}

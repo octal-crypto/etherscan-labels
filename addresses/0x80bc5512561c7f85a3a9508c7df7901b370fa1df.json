@@ -1,0 +1,15 @@
+{
+  "Address": "0x80bc5512561c7f85a3a9508c7df7901b370fa1df",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Trade.io: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Trade (TIO)"
+    },
+    "trade-io": {
+      "Name Tag": "Trade.io: Old Token",
+      "Description": "Trade.io: A better, smarter, faster crypto exchange.\nTrade your Bitcoin and Ethereum for altcoins on an exchange that offers lightning-fast execution and a fully customizable interface."
+    }
+  }
+}

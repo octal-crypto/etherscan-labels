@@ -1,0 +1,23 @@
+{
+  "Address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+  "Labels": {
+    "band": {
+      "Name Tag": "Band Protocol: BAND Token",
+      "Description": "Band Protocol connects smart contracts with trusted off-chain information, provided through community-curated data providers.",
+      "Subcategory": "Main",
+      "Token Name": "BandToken (BAND)"
+    },
+    "blocked": {
+      "Name Tag": "Band Protocol: BAND Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "data": {
+      "Token Name": "BandToken (BAND)",
+      "Description": "Information that is stored or processed by computers."
+    },
+    "protocol": {
+      "Token Name": "BandToken (BAND)",
+      "Description": "The underlying set of rules establishing how connected computers communicate with one another to exchange information."
+    }
+  }
+}

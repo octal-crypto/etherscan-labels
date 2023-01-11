@@ -1,0 +1,12 @@
+{
+  "Address": "0xd8e3fb3b08eba982f2754988d70d57edc0055ae6",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Zoracles: ZORA Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "oracle": {
+      "Token Name": "Zoracles (ZORA)"
+    }
+  }
+}

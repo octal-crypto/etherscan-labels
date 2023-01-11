@@ -1,0 +1,15 @@
+{
+  "Address": "0x77ebfdfcc906ddcda0c42b866f26a8d5a2bb0572",
+  "Labels": {
+    "layer-2": {
+      "Name Tag": "Optimism: OVM Chain Storage Container SCC Batches",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Main"
+    },
+    "optimism": {
+      "Name Tag": "Optimism: OVM Chain Storage Container SCC Batches",
+      "Description": "Optimism is a scalability stack for Ethereum.",
+      "Subcategory": "Main"
+    }
+  }
+}

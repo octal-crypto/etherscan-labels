@@ -1,0 +1,19 @@
+{
+  "Address": "0x3eed23ea148d356a72ca695dbce2fceb40a32ce0",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "OMG Network V1: ETH Vault",
+      "Description": "A gateway connecting one network to another."
+    },
+    "layer-2": {
+      "Name Tag": "OMG Network V1: ETH Vault",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "omg-network": {
+      "Name Tag": "OMG Network V1: ETH Vault",
+      "Description": "The OMG Network is a trustless, non-custodial, Layer-2 scaling solution for transferring value on Ethereum.",
+      "Subcategory": "Main"
+    }
+  }
+}

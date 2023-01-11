@@ -1,0 +1,12 @@
+{
+  "Address": "0x668dbf100635f593a3847c0bdaf21f0a09380188",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "BNS.Finance: BNSD Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "yield-farming": {
+      "Token Name": "bns.finance (BNSD)"
+    }
+  }
+}

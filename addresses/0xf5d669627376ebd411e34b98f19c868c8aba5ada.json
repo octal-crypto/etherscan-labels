@@ -1,0 +1,15 @@
+{
+  "Address": "0xf5d669627376ebd411e34b98f19c868c8aba5ada",
+  "Labels": {
+    "axie-infinity": {
+      "Name Tag": "Axie Infinity: Old AXS Token",
+      "Description": "Axie Infinity is a Pokémon-inspired universe where anyone can earn tokens through skilled gameplay and contributions to the ecosystem. Players can battle, collect, raise, and build a land-based kingdom for their pets."
+    },
+    "old-contract": {
+      "Name Tag": "Axie Infinity: Old AXS Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Old Axie Infinity Shard (AXS)"
+    }
+  }
+}

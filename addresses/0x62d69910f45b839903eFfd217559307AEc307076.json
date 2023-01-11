@@ -1,0 +1,9 @@
+{
+  "Address": "0x62d69910f45b839903eFfd217559307AEc307076",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "AfterShock V2 (SHOCK)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

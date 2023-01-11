@@ -1,0 +1,10 @@
+{
+  "Address": "0x59e0520c300657a8218e6c21a2a48682f9942b66",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": " TokenMaker.app: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0xacd43e627e64355f1861cec6d3a6688b31a6f952",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yDAI Vault",
+      "Token Name": "yearn Dai Stablecoin (yDAI)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yDAI Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Dai Stablecoin (yDAI)"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0xb364e75b1189dcbbf7f0c856456c1ba8e4d6481b",
+  "Labels": {
+    "proposer-fee-recipient": {
+      "Name Tag": "Ethpool: Staking",
+      "Description": "An address that is set by Beacon Chain validators as a fee recipient for their block proposers."
+    }
+  }
+}

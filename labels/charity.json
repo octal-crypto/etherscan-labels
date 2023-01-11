@@ -1,0 +1,297 @@
+{
+  "Label": "charity",
+  "Description": "An organization that raises money to help people in need.",
+  "Addresses": {
+    "0x8b99f3660622e21f2910ecca7fbe51d654a1517d": {
+      "Name Tag": "Binance Charity"
+    },
+    "0x095f1fd53a56c01c76a2a56b7273995ce915d8c4": {
+      "Name Tag": "Electronic Frontier Foundation"
+    },
+    "0xc7464dbca260a8faf033460622b23467df5aea42": {
+      "Name Tag": "GiveDirectly"
+    },
+    "0xbf2952b759a70250caa53d9d7f910cd985cbf6aa": {
+      "Name Tag": "Mask On: NFT Donation"
+    },
+    "0x3ec9f2a4c604eab2cb19740d82aa3bbf322a4afc": {
+      "Name Tag": "Mask On: USDT Donation"
+    },
+    "0x54334ebc8c9ef04bc28d614caa557143ed8afc87": {
+      "Name Tag": "Rainforest Foundation US"
+    },
+    "0x542eff118023cff2821b24156a507a513fe93539": {
+      "Name Tag": "SENS Research Foundation"
+    },
+    "0xe17b6ef3c60c7342987425e011571fdcde468df1": {
+      "Name Tag": "SENS Research Foundation 2"
+    },
+    "0x7ca62545a380e7d71f8f5cfa14b9211002075930": {
+      "Token Name": "GivingToServices (SVS)"
+    },
+    "0xb8fa12f8409da31a4fc43d15c4c78c33d8213b9b": {
+      "Token Name": "CaliCoin (CALI)"
+    },
+    "0x8578530205cecbe5db83f7f29ecfeec860c297c2": {
+      "Token Name": "AOG (AOG)"
+    },
+    "0xcdca1b81dbb543baa92c97b701396cd3ba315e5d": {
+      "Token Name": "Shuey Rhon Inu (SHUEY)"
+    },
+    "0x24b20da7a2fa0d1d5afcd693e1c8afff20507efd": {
+      "Token Name": "Medi Token V2 (MEDI)"
+    },
+    "0x920db6c38cf5a2a12554e812d4b3ac2daa8eba4d": {
+      "Token Name": "Evimeria (EVI)"
+    },
+    "0xbbc2045d335cb224228f1850b29173d9d7d7b989": {
+      "Token Name": "HELP (HELP)"
+    },
+    "0xAbC430136A4dE71c9998242de8c1b4B97D2b9045": {
+      "Token Name": "Veros (VRS)"
+    },
+    "0x331A4589516EAE384eA5F557853AF6aF73B9534e": {
+      "Token Name": "CashPay (TCP)"
+    },
+    "0x2C15b2B5336DDa8B44f245772e10C2BCbC0A8aE2": {
+      "Token Name": "DecentFinance (DeFi)"
+    },
+    "0xc2E79F6AeA7551Ab1f8a93D9EdC43Eb8960A362B": {
+      "Token Name": "SatoshiDog (STD)"
+    },
+    "0xcfcffe432a48db53f59c301422d2edd77b2a88d7": {
+      "Token Name": "TEXAN Token (TEXAN)"
+    },
+    "0x27a25fa937549babefc415ad72bf43ad9a0f9e7d": {
+      "Token Name": "Panda Token (PANDA)"
+    },
+    "0xc2856a8310af421a2a65de16428c2dec6ceacb36": {
+      "Token Name": "JamaiCoin (YAH)"
+    },
+    "0x92f34405B409816e288B210C81948C9FA5Fc6ADA": {
+      "Token Name": "ONEMERICACOIN (MEA)"
+    },
+    "0xde2667fEBd1499b698a15DE4a01B991A30AFAE59": {
+      "Token Name": "Dazed Dogs Token (DDOGS)"
+    },
+    "0x944eeE930933BE5E23b690c8589021Ec8619a301": {
+      "Token Name": "MUNCH Token (MUNCH)"
+    },
+    "0x369b77bbeeee50e6ea206dcf41ee670c47360055": {
+      "Token Name": "KIKI (KIKI)"
+    },
+    "0xFD9c6fD6D1F6eC5590630FDD7fE669d90eAA9BAe": {
+      "Token Name": "MY UKRAINIAN MEMORIES (MUM)"
+    },
+    "0x5A7092cf86A6790113C4D3FA83f48fd6EFa71B0D": {
+      "Token Name": "AUTZ Token (AUTZ)"
+    },
+    "0x8Ae6AE8F172d7fc103CCfa5890883d6fE46038C9": {
+      "Token Name": "Eye of God (EOG)"
+    },
+    "0xeb147e6df30633f3178ae1cff17f657baf47f1e0": {
+      "Token Name": "FireShiba (FSHIB)"
+    },
+    "0x9ba4cbcbb920f67f54a8f8f0001d721e0b8944b9": {
+      "Token Name": "RedPanda Earth (REDPANDA)"
+    },
+    "0xc0d61a90946bce89d4096200ef4c6abc6326ca35": {
+      "Token Name": "WATER (H20)"
+    },
+    "0x567EB615575D06917EFB8E92f1F754CDCf9b57D1": {
+      "Token Name": "OCEAN Token (OCEAN)"
+    },
+    "0x51bb3ab03ab49ec5cb3883705949657838a015fd": {
+      "Token Name": "CRYNcoin (CRYN)"
+    },
+    "0xd7acaf41361b56b1fdf7bfd866798268c754d82b": {
+      "Token Name": "PANTHER (PANTHER)"
+    },
+    "0x118b552725e1892137740cB4d29390D952709639": {
+      "Token Name": "Nyx Token (NYXT)"
+    },
+    "0x33e2c129ea670031659ac8852c01d0fe4b297954": {
+      "Token Name": "SkyToken (SKY)"
+    },
+    "0x515f3F502D44558710da94aefDB99360F29f4c84": {
+      "Token Name": "BoonToken (Boon)"
+    },
+    "0x7abbc18ef3e01b8b93cf236a6d68dfc35c5e48aa": {
+      "Token Name": "TeamPizza (TPC)"
+    },
+    "0x88888858c396847ffdbf3efc218cf3f06256292a": {
+      "Token Name": "MaNEKO (NEK)"
+    },
+    "0x090fc4d5436d98e13473c4d6109de6a18bcfb0d4": {
+      "Token Name": "The SkyToken (SKY)"
+    },
+    "0x81dbc1c8e40c3095071949eda9800c2209a7279a": {
+      "Token Name": "Pupper (PUP)"
+    },
+    "0x368724DB722b8Fc28b6bcA54416F3E0497fB834A": {
+      "Token Name": "Invincible Kids (INKIDS)"
+    },
+    "0xaab80423daa0334aba8f16726677c23619e38773": {
+      "Token Name": "ISKRA (CCOH)"
+    },
+    "0xe07eda7d19612a91f225854d27c54b3513310b1d": {
+      "Token Name": "BREEV (BREEV)"
+    },
+    "0x9C5673002d854de18e9F6Feb7f9825F88c5bf1E4": {
+      "Token Name": "Terraform DAO (TERRAFORM)"
+    },
+    "0x383B0b2ce2e1757b5e1D087D8f36013eA595541a": {
+      "Token Name": "Heal The World (HEAL)"
+    },
+    "0x43f11c02439e2736800433b4594994bd43cd066d": {
+      "Token Name": "FLOKI (FLOKI)"
+    },
+    "0xB66e83E9D34E836eF234b72af218Eb8196e83c92": {
+      "Token Name": "deltaV.finance (DELTAV)"
+    },
+    "0x3030A49A6Bc1Fc819a488cA208ddb719f2cFa24B": {
+      "Token Name": "Eleven Gold (ELGD)"
+    },
+    "0x9ae68cb3b25e4876c967650162b1433b80f2d359": {
+      "Token Name": "TittyCoin (TITS)"
+    },
+    "0x8b2b73fc1BFf68730549c95562Bc9DF4fAed4Baf": {
+      "Token Name": "Oscar The Grouch (OSCAR)"
+    },
+    "0x2df488b8A4270bAc5C2cE5FF467A0C5fd2AA49d6": {
+      "Token Name": "Sharity ($Shari)"
+    },
+    "0xb622400807765e73107B7196F444866D7EdF6f62": {
+      "Token Name": "Heros Token (HEROS)"
+    },
+    "0x6fc5af63990aa9e5c5543f5cd8ed148bfa6d9d19": {
+      "Token Name": "Saint Inu (SAINT)"
+    },
+    "0x29a6dB3101f1219aeDbEC0730e69687c69987FaA": {
+      "Token Name": "Goat (GOAT 🐐)"
+    },
+    "0xdf45b26a949dd58a2ce354c2c3157ee0a15a2ec9": {
+      "Token Name": "TGB National Day 2022 Fundraising C... (-)"
+    },
+    "0x171706B7D113c68f2cc68a6CE63b1dbDcdF7B233": {
+      "Token Name": "Echo Token (ECHO)"
+    },
+    "0x5dea27d7b472015b6f2a30a1166f5b7f3d246696": {
+      "Token Name": "tusker.finance (TUSK)"
+    },
+    "0x667965ed64a7fe180f3d10db398d95817c6a1f68": {
+      "Token Name": "CryptoDonater Token (DOTO)"
+    },
+    "0x5e4efb364071c64ee3641fe1e68cb5d2d5558709": {
+      "Token Name": "Katsumi (KATSUMI)"
+    },
+    "0xdb54e9735367300a358563ac3182cc28bdb565cc": {
+      "Token Name": "Cowboy Shiba (CBSHIB)"
+    },
+    "0xd556caf704e39fc728058557a113b226207d2212": {
+      "Token Name": "White Hat Donation Token (WHD)"
+    },
+    "0xE2d310CB8992b3Fa1051BA4710F41c43eB5Bba5D": {
+      "Token Name": "Crypto Wrestling Inu ($CWI)"
+    },
+    "0x7B3860415d1fb670FE8693213C17fc9499B3C0eA": {
+      "Token Name": "Earth Token (Earth)"
+    },
+    "0x1b0566d212901e4c5118e5c7a541777b92fddc7d": {
+      "Token Name": "Freedom Ecosystem (FREEDOM)"
+    },
+    "0x63f7b1b538a78cb699e5399621b3d2e047c40de4": {
+      "Token Name": "Maxity (MAX)"
+    },
+    "0x14Dd7EBE6CB084Cb73EF377e115554D47dc9D61E": {
+      "Token Name": "ApeHaven (APES)"
+    },
+    "0x8424c5ac326834b404742de0067bcb654e86be30": {
+      "Token Name": "Sad Cat Token (SCAT)"
+    },
+    "0x606Ce698Aea1DCa5A2627A4583da13a340667f09": {
+      "Token Name": "SaveBritney (SBRT)"
+    },
+    "0x91caFeBB441747f38C2882ce2B5A3857D3884Df3": {
+      "Token Name": "Saving Johnny Inu (JINU)"
+    },
+    "0xb03b39aa1968e4a66f5efa749171bff7de59a162": {
+      "Token Name": "iHEAR Trust (iHEAR)"
+    },
+    "0xcc559c49972Ad3b806C578bfbdd9dF9C9244145e": {
+      "Token Name": "Sunrise Charity Token (VSC)"
+    },
+    "0x229b239b7d00aa2a41c8b74b1db50a821f58d31a": {
+      "Token Name": "FRUITS (FRTS)"
+    },
+    "0xc0974be844845e994010092eb2d90550f2e7fdcb": {
+      "Token Name": "Smartass (ASS)"
+    },
+    "0x96ef7f9cf1b6ecc66e482a6598fc9f009e9277da": {
+      "Token Name": "Pomi Coin (Pomi)"
+    },
+    "0xc721A9F504b854FF168183064a5e4dd9A668db88": {
+      "Token Name": "Wukoin (WUK)"
+    },
+    "0x83c031b415D58f1bf777aE37582A31bD5068822e": {
+      "Token Name": "Healthcare Heroes Project (HERO)"
+    },
+    "0x524Ebc93BeEf838F70b4Ae54b675d3e971D5884E": {
+      "Token Name": "Challenge Coin (HERO)"
+    },
+    "0xabccaadd77078a67622dfd5f74066ce4581c0a99": {
+      "Token Name": "mameCoin (MAME)"
+    },
+    "0xbffecf4079e0f90147dd46d3e5a6b3a10daea17d": {
+      "Token Name": "Christ Network (JESUS)"
+    },
+    "0x737a783c6ca96963b336283d79ec055fd9f27bb5": {
+      "Token Name": "BUSTY (BSTY)"
+    },
+    "0x77a2Bf0bDa9775Fb3524a6720dD3b16bd455e2C2": {
+      "Token Name": "SafeBreastInu ($BREAST)"
+    },
+    "0x7333cbf5b0b843b4129e234f791b0058347f671a": {
+      "Token Name": "Digies Coin (DIGS)"
+    },
+    "0xC25205A3bb0B45580229f0DaD3808B6b2492cbab": {
+      "Token Name": "The Last Dictator (TLD)"
+    },
+    "0x80aF88983BEb964F1a73D437e52bAE1FeB97d791": {
+      "Token Name": "MOOREX (MOOR)"
+    },
+    "0x24e89bdf2f65326b94e36978a7edeac63623dafa": {
+      "Token Name": "Tiger King (TKING)"
+    },
+    "0x00372812abcb11c2ea291aeb7f612d9e0524b013": {
+      "Token Name": "Shawn Carter (JAYZ)"
+    },
+    "0xf754620784e797f3681f9f295b2528455d2fc0d0": {
+      "Token Name": "ACAB Token (ACAB)"
+    },
+    "0x9318105460626e7fa58308fa4bce40e4616f3565": {
+      "Token Name": "Pixie Dust (PIXIE)"
+    },
+    "0x35a23bc27c345b36dee700a256f69c6334030971": {
+      "Token Name": "Concern Poverty Chain (CHY)"
+    },
+    "0x1997830b5beb723f5089bb8fc38766d419a0444d": {
+      "Token Name": "New Guinea Singing Dog Inu (NEWINU)"
+    },
+    "0x7c3cf2d43b50e78e27a81293a43fcac45796fb54": {
+      "Token Name": "kongdefi.finance (KONG)"
+    },
+    "0x2bd66630c8935f0d783441c5f08777ea241df0fb": {
+      "Token Name": "Kindred Hearts NFT (KHEARTSNFT)"
+    },
+    "0xeb2ed9a5c7a8491b4faf987196baa50ee0855241": {
+      "Token Name": "Invictus (INV)"
+    },
+    "0x2F6Ad7743924B1901a0771746152dde44C5F11DE": {
+      "Token Name": "SCARDust (SCARD)"
+    },
+    "0x01385c810e2ec176bf065d5179e76dbad2a01173": {
+      "Token Name": "Harambe.me (HARAMBE 🐵)"
+    }
+  }
+}

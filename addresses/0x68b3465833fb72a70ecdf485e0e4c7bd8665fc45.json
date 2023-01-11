@@ -1,0 +1,14 @@
+{
+  "Address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45",
+  "Labels": {
+    "dex": {
+      "Name Tag": "Uniswap V3: Router 2",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    },
+    "uniswap": {
+      "Name Tag": "Uniswap V3: Router 2",
+      "Description": "Uniswap is a protocol for automated token exchange on Ethereum.",
+      "Subcategory": "Others"
+    }
+  }
+}

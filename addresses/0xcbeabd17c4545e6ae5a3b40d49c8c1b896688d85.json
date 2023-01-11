@@ -1,0 +1,11 @@
+{
+  "Address": "0xcbeabd17c4545e6ae5a3b40d49c8c1b896688d85",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Ubricoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Ubricoin (UBN)"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0x387dC9acdf21217432e897700DCB593c5B2EFd1e",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "SafeSun (SAFESUN)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

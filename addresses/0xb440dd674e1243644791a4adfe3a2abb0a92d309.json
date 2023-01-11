@@ -1,0 +1,14 @@
+{
+  "Address": "0xb440dd674e1243644791a4adfe3a2abb0a92d309",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy Fee Pool",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy Fee Pool",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main"
+    }
+  }
+}

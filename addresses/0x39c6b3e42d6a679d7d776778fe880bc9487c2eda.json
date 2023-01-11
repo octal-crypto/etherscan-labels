@@ -1,0 +1,22 @@
+{
+  "Address": "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda",
+  "Labels": {
+    "aave": {
+      "Name Tag": "Aave: aKNC Token V2",
+      "Description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+      "Subcategory": "Main",
+      "Token Name": "Aave interest bearing KNC (aKNC)"
+    },
+    "defi": {
+      "Token Name": "Aave interest bearing KNC (aKNC)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Main"
+    },
+    "v2": {
+      "Name Tag": "Aave: aKNC Token V2",
+      "Description": "Contracts associated with Version 2 of a project.",
+      "Subcategory": "Main",
+      "Token Name": "Aave interest bearing KNC (aKNC)"
+    }
+  }
+}

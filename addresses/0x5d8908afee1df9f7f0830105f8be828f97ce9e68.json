@@ -1,0 +1,13 @@
+{
+  "Address": "0x5d8908afee1df9f7f0830105f8be828f97ce9e68",
+  "Labels": {
+    "compound-governance": {
+      "Name Tag": "Argent",
+      "Description": "Top voters in Compound's Governance Leaderboard."
+    },
+    "sybil-delegate": {
+      "Name Tag": "Argent",
+      "Description": "Sybil is a governance tool for discovering delegates. Sybil maps on-chain addresses to digital identities to maintain a list of delegates."
+    }
+  }
+}

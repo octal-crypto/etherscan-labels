@@ -1,0 +1,19 @@
+{
+  "Address": "0x26946ada5ecb57f3a1f91605050ce45c482c9eb1",
+  "Labels": {
+    "bitcoinsov": {
+      "Name Tag": "BitcoinSoV: BSOV Token",
+      "Description": "BitcoinSoV: A Proof of Work Decentralized, Fungible, Censorship Free, Deflationary Currency. Providing anyone in the world with a true Store of Value protected from inflation.",
+      "Subcategory": "Main",
+      "Token Name": "BitcoinSoV (BSOV)"
+    },
+    "deflationary-token": {
+      "Token Name": "BitcoinSoV (BSOV)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "mining": {
+      "Token Name": "BitcoinSoV (BSOV)",
+      "Description": "Cryptocurrency mining is the validation of transactions on the blockchain. Once validated, these transactions are added to the blockchain's public ledger of past transactions.\nFor this effort, successful miners receive new cryptocurrency as a reward."
+    }
+  }
+}

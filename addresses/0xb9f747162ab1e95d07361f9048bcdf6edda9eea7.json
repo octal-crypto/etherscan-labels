@@ -1,0 +1,14 @@
+{
+  "Address": "0xb9f747162ab1e95d07361f9048bcdf6edda9eea7",
+  "Labels": {
+    "bridge": {
+      "Token Name": "(Wormhole) (-)",
+      "Description": "A gateway connecting one network to another."
+    },
+    "wormhole": {
+      "Name Tag": "Wormhole: ATLAS Token",
+      "Description": "Wormhole is a generic message-passing protocol that connects to multiple chains including Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Avalanche, and Oasis.",
+      "Token Name": "(Wormhole) (-)"
+    }
+  }
+}

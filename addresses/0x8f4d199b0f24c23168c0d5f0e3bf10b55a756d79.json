@@ -1,0 +1,8 @@
+{
+  "Address": "0x8f4d199b0f24c23168c0d5f0e3bf10b55a756d79",
+  "Labels": {
+    "beacon-depositor": {
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

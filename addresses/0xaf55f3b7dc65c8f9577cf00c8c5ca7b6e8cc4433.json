@@ -1,0 +1,11 @@
+{
+  "Address": "0xaf55f3b7dc65c8f9577cf00c8c5ca7b6e8cc4433",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "EnterCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Enter-Coin (ENTRC)"
+    }
+  }
+}

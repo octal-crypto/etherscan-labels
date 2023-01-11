@@ -1,0 +1,9 @@
+{
+  "Address": "0xc456490ff2a77646040e9ecb6135e693c9b35d2b",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "ZOD: Eth2 Depositor",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

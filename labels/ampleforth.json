@@ -1,0 +1,22 @@
+{
+  "Label": "ampleforth",
+  "Description": "Ampleforth is a digital-asset-protocol for smart commodity-money.",
+  "Addresses": {
+    "0xd46ba6d942050d489dbd938a2c909a5d5039a161": {
+      "Name Tag": "Ampleforth: AMPL Token",
+      "Token Name": "Ampleforth (AMPL)"
+    },
+    "0xf0d611b2610352600f7055e418e547e1c956c046": {
+      "Name Tag": "Ampleforth: Ecosystem Fund"
+    },
+    "0xbdb30cf89efdd8c7410d9b3d0de04bc41b962770": {
+      "Name Tag": "Ampleforth: Employee & Advisor Pool"
+    },
+    "0x89fe954538a92eca58adaec339ca6374af079a13": {
+      "Name Tag": "Ampleforth: Investor Pool"
+    },
+    "0xb22ed4bec314d475a8782e0b6869f0144d46859c": {
+      "Name Tag": "Ampleforth: Treasury"
+    }
+  }
+}

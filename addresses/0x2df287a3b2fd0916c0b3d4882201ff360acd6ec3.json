@@ -1,0 +1,22 @@
+{
+  "Address": "0x2df287a3b2fd0916c0b3d4882201ff360acd6ec3",
+  "Labels": {
+    "arbitrum": {
+      "Name Tag": "Arbitrum One: One Step Proof 2",
+      "Description": "Arbitrum is a next generation Layer 2 for Ethereum dApps, allowing you to use your favorite tools and scale your dApp at the lowest cost."
+    },
+    "fraud-proof": {
+      "Name Tag": "Arbitrum One: One Step Proof 2",
+      "Description": "Contracts that can be used to establish that an invalid state transition occured on a Layer 2 protocol. Families of L2 protocols that rely on fraud proofs include Channels, Plasma, and Optmistic Rollups."
+    },
+    "layer-2": {
+      "Name Tag": "Arbitrum One: One Step Proof 2",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "protocol": {
+      "Name Tag": "Arbitrum One: One Step Proof 2",
+      "Description": "The underlying set of rules establishing how connected computers communicate with one another to exchange information."
+    }
+  }
+}

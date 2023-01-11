@@ -1,0 +1,13 @@
+{
+  "Address": "0xaab27b150451726ec7738aa1d0a94505c8729bd1",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Eden Network: Builder",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "mev-builder": {
+      "Name Tag": "Eden Network: Builder",
+      "Description": "An address detected as an MEV block builder that collects and sequences transactions to produce blocks. Blockspace is sold to it by beacon chain validators."
+    }
+  }
+}

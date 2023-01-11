@@ -1,0 +1,14 @@
+{
+  "Address": "0x4e9d7f37eadc6fef64b5f5dccc4deb6224667677",
+  "Labels": {
+    "factory-contract": {
+      "Name Tag": "Nuo Network: Account Factory v2",
+      "Description": "Contracts which create multiple contracts."
+    },
+    "nuo-network": {
+      "Name Tag": "Nuo Network: Account Factory v2",
+      "Description": "Nuo Network: Lend and borrow cryptocurrency.",
+      "Subcategory": "Main"
+    }
+  }
+}

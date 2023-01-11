@@ -1,0 +1,480 @@
+{
+  "Label": "kyberswap",
+  "Description": "KyberSwap is an on-chain liquidity protocol that aggregates liquidity and enables users to source liquidity across different decentralized exchanges to achieve the best rate for any token swap, on any supported network.",
+  "Addresses": {
+    "0x31de05f28568e3d3d612bfa6a78b356676367470": {
+      "Name Tag": "Kyber Network: Rainmaker",
+      "Subcategory": "Main"
+    },
+    "0x65bf64ff5f51272f729bdcd7acfb00677ced86cd": {
+      "Name Tag": "Kyber: Contract",
+      "Subcategory": "Main"
+    },
+    "0x7c66550c9c730b6fdd4c03bc2e73c5462c5f7acc": {
+      "Name Tag": "Kyber: Contract 2",
+      "Subcategory": "Main"
+    },
+    "0x798abda6cc246d0edba912092a2a3dbd3d11191b": {
+      "Name Tag": "Kyber: Conversion Rates",
+      "Subcategory": "Main"
+    },
+    "0x49bdd8854481005bba4acebabf6e06cd5f6312e9": {
+      "Name Tag": "Kyber: DAO",
+      "Subcategory": "Main"
+    },
+    "0x1982131c7d6959ff7768ee39c023ad002d8c9759": {
+      "Name Tag": "Kyber: ENS Resolver",
+      "Subcategory": "Main"
+    },
+    "0x8007aa43792a392b221dc091bdb2191e5ff626d1": {
+      "Name Tag": "Kyber: Fee Burner",
+      "Subcategory": "Main"
+    },
+    "0xd3d2b5643e506c6d9b7099e9116d7aaa941114fe": {
+      "Name Tag": "Kyber: Fee Handler",
+      "Subcategory": "Main"
+    },
+    "0xfce10cbf5171dc12c215bbcca5dd75cbaea72506": {
+      "Name Tag": "Kyber: KGT Token",
+      "Subcategory": "Main",
+      "Token Name": "Kyber Genesis (KGT)"
+    },
+    "0x97d7126b6ff7c4d95601912f4cdf790a3cd1edab": {
+      "Name Tag": "Kyber: Liquidity Conversion Rates",
+      "Subcategory": "Main"
+    },
+    "0xa1c0fa73c39cfbcc11ec9eb1afc665aba9996e2c": {
+      "Name Tag": "Kyber: Matching Engine",
+      "Subcategory": "Main"
+    },
+    "0xdd974d5c2e2928dea5f71b9825b8b646686bd200": {
+      "Name Tag": "Kyber: Old KNC Token",
+      "Subcategory": "Main",
+      "Token Name": "KyberNetwork (KNC)"
+    },
+    "0x094c875704c14783049ddf8136e298b3a099c446": {
+      "Name Tag": "Kyber: Promotion Token",
+      "Subcategory": "Main"
+    },
+    "0x818e6fecd516ecc3849daf6845e3ec868087b755": {
+      "Name Tag": "Kyber: Proxy",
+      "Subcategory": "Main"
+    },
+    "0x9aab3f75489902f3a48495025729a0af77d4b11e": {
+      "Name Tag": "Kyber: Proxy 2",
+      "Subcategory": "Main"
+    },
+    "0x63825c174ab367968ec60f061753d3bbd36a0d8f": {
+      "Name Tag": "Kyber: Reserve",
+      "Subcategory": "Main"
+    },
+    "0x7a3370075a54b187d7bd5dcebf0ff2b5552d4f7d": {
+      "Name Tag": "Kyber: Reserve 2",
+      "Subcategory": "Main"
+    },
+    "0x00cd2388c86c960a646d640be44fc8f83b78cec9": {
+      "Name Tag": "Kyber: Reserve 2KEY",
+      "Subcategory": "Main"
+    },
+    "0x485c4ec93d18ebd16623d455567886475ae28d04": {
+      "Name Tag": "Kyber: Reserve 3",
+      "Subcategory": "Main"
+    },
+    "0x3e9ffba3c3eb91f501817b031031a71de2d3163b": {
+      "Name Tag": "Kyber: Reserve ABYSS",
+      "Subcategory": "Main"
+    },
+    "0x977c9abb01ed3e99e9953fd1f472ae9f459e7e70": {
+      "Name Tag": "Kyber: Reserve AMPL",
+      "Subcategory": "Main"
+    },
+    "0x0994c18ed0c328f38d2c451b2a2e1ceb1ae6a812": {
+      "Name Tag": "Kyber: Reserve ANT",
+      "Subcategory": "Main"
+    },
+    "0x302b35bd0b01312ec2652783c04955d7200c3d9b": {
+      "Name Tag": "Kyber: Reserve BAM",
+      "Subcategory": "Main"
+    },
+    "0xb06cf173da7e297aa6268139c7cb67c53d8e4f90": {
+      "Name Tag": "Kyber: Reserve BAND",
+      "Subcategory": "Main"
+    },
+    "0x1fe867bfe9cbe0045467605b959a355223e3885d": {
+      "Name Tag": "Kyber: Reserve BNT",
+      "Subcategory": "Main"
+    },
+    "0x08030715560a146e306b87ca93fd618bb2a80363": {
+      "Name Tag": "Kyber: Reserve BTU",
+      "Subcategory": "Main"
+    },
+    "0xad84a44a673be4fdcd5e39ebd15ebc404e87f314": {
+      "Name Tag": "Kyber: Reserve CND",
+      "Subcategory": "Main"
+    },
+    "0x4e6d0f492fd139151de4728cac47dace56c56af4": {
+      "Name Tag": "Kyber: Reserve EKG",
+      "Subcategory": "Main"
+    },
+    "0x0232ba609782cea145ec3663f52cf7aeb4ac773c": {
+      "Name Tag": "Kyber: Reserve eQUAD",
+      "Subcategory": "Main"
+    },
+    "0xcf1394c5e2e879969fdb1f464ce1487147863dcb": {
+      "Name Tag": "Kyber: Reserve Eth2Dai",
+      "Subcategory": "Main"
+    },
+    "0x1e158c0e93c30d24e918ef83d1e0be23595c3c0f": {
+      "Name Tag": "Kyber: Reserve Eth2Dai 2",
+      "Subcategory": "Main"
+    },
+    "0x2485a4e3dd95a3ef445b786acf7bacc5c99986f7": {
+      "Name Tag": "Kyber: Reserve GDC",
+      "Subcategory": "Main"
+    },
+    "0xaa14dcaa0adbe79cbf00edc6cc4ed17ed39240ac": {
+      "Name Tag": "Kyber: Reserve GEN",
+      "Subcategory": "Main"
+    },
+    "0x05461124c86c0ad7c5d8e012e1499fd9109ffb7d": {
+      "Name Tag": "Kyber: Reserve GNO",
+      "Subcategory": "Main"
+    },
+    "0x3e59c69952a4cfeaf653eedf8ff907d4b6b8762d": {
+      "Name Tag": "Kyber: Reserve KEY",
+      "Subcategory": "Main"
+    },
+    "0x607d7751d9f4845c5a1de9eed39c56f4fc0f855d": {
+      "Name Tag": "Kyber: Reserve KNC",
+      "Subcategory": "Main"
+    },
+    "0x2ed6f2bc006da5897a0c3cd2686283c05e50c573": {
+      "Name Tag": "Kyber: Reserve MET",
+      "Subcategory": "Main"
+    },
+    "0x55a8fda671a257b80258d2a03abd6e0e1e3dbe79": {
+      "Name Tag": "Kyber: Reserve MFG",
+      "Subcategory": "Main"
+    },
+    "0xb45c8956a080d336934cee52a35d4dbabf025b6f": {
+      "Name Tag": "Kyber: Reserve MKR",
+      "Subcategory": "Main"
+    },
+    "0xa33c7c22d0bb673c2aea2c048bb883b679fa1be9": {
+      "Name Tag": "Kyber: Reserve MLN",
+      "Subcategory": "Main"
+    },
+    "0x1833ad67362249823515b59a8aa8b4f6b4358d1b": {
+      "Name Tag": "Kyber: Reserve MYB",
+      "Subcategory": "Main"
+    },
+    "0xb89f41cd2c8b6cba8b851289198b06be8b4dec65": {
+      "Name Tag": "Kyber: Reserve OGN",
+      "Subcategory": "Main"
+    },
+    "0x0ce59e811024c4aa040389fb8917dd9edaef1693": {
+      "Name Tag": "Kyber: Reserve pBTC",
+      "Subcategory": "Main"
+    },
+    "0x71eb6edf770b25fcd60ad9790aa20c422f0f4a0d": {
+      "Name Tag": "Kyber: Reserve PLR",
+      "Subcategory": "Main"
+    },
+    "0x10db2a136ee3e0c963d82af4c86ca483199f2816": {
+      "Name Tag": "Kyber: Reserve PNK",
+      "Subcategory": "Main"
+    },
+    "0x89b3f60a17789aa7c7061af6f5e9efa407153c03": {
+      "Name Tag": "Kyber: Reserve PNT",
+      "Subcategory": "Main"
+    },
+    "0x773a58c0ae122f56d6747bc1264f00174b3144c3": {
+      "Name Tag": "Kyber: Reserve QNT",
+      "Subcategory": "Main"
+    },
+    "0x751eea622edd1e3d768c18afbcaec7dce7750c65": {
+      "Name Tag": "Kyber: Reserve RAE",
+      "Subcategory": "Main"
+    },
+    "0x45eb33d008801d547990caf3b63b4f8ae596ea57": {
+      "Name Tag": "Kyber: Reserve REN",
+      "Subcategory": "Main"
+    },
+    "0x23fe3c603be19d3a1155766358071cacefe14537": {
+      "Name Tag": "Kyber: Reserve REQ",
+      "Subcategory": "Main"
+    },
+    "0x0b798b89155ea31f1312791b9fdfaae7c5f48460": {
+      "Name Tag": "Kyber: Reserve RSR",
+      "Subcategory": "Main"
+    },
+    "0x141104687b51985d6210eb4b398f1dc5b5b9e9f5": {
+      "Name Tag": "Kyber: Reserve RSV",
+      "Subcategory": "Main"
+    },
+    "0xa9742ee9a5407f4c2f8a49f65e3a440f3694960a": {
+      "Name Tag": "Kyber: Reserve SAN",
+      "Subcategory": "Main"
+    },
+    "0xa107dfa919c3f084a7893a260b99586981beb528": {
+      "Name Tag": "Kyber: Reserve SNX",
+      "Subcategory": "Main"
+    },
+    "0x8ea5cf9f61824e8a3ca8aa370ab37e0202b2cc7d": {
+      "Name Tag": "Kyber: Reserve SPIKE",
+      "Subcategory": "Main"
+    },
+    "0x6b84dbd29643294703dbabf8ed97cdef74edd227": {
+      "Name Tag": "Kyber: Reserve SPN",
+      "Subcategory": "Main"
+    },
+    "0x4cb01bd05e4652cbb9f312ae604f4549d2bf2c99": {
+      "Name Tag": "Kyber: Reserve sUSD",
+      "Subcategory": "Main"
+    },
+    "0x3480e12b6c2438e02319e34b4c23770679169190": {
+      "Name Tag": "Kyber: Reserve TKN",
+      "Subcategory": "Main"
+    },
+    "0xe96b41af3da574a991582dc54cc35535550a3f8d": {
+      "Name Tag": "Kyber: Reserve TRYb",
+      "Subcategory": "Main"
+    },
+    "0xfe06bc8bc12595c1c871ff7c2ea9cadc42735d7d": {
+      "Name Tag": "Kyber: Reserve UBT",
+      "Subcategory": "Main"
+    },
+    "0x31e085afd48a1d6e51cc193153d625e8f0514c7f": {
+      "Name Tag": "Kyber: Reserve Uniswap",
+      "Subcategory": "Main"
+    },
+    "0x10908c875d865c66f271f5d3949848971c9595c9": {
+      "Name Tag": "Kyber: Reserve Uniswap V2",
+      "Subcategory": "Main"
+    },
+    "0x7e2fd015616263add31a2acc2a437557cee80fc4": {
+      "Name Tag": "Kyber: Reserve UPP",
+      "Subcategory": "Main"
+    },
+    "0x1670dfb52806de7789d5cf7d5c005cf7083f9a5d": {
+      "Name Tag": "Kyber: Reserve USDC",
+      "Subcategory": "Main"
+    },
+    "0x9e3db227cf04fbf8ac180bf8b6acd64cd0420d32": {
+      "Name Tag": "Kyber: Reserve USDT",
+      "Subcategory": "Main"
+    },
+    "0x57f8160e1c59d16c01bbe181fd94db4e56b60495": {
+      "Name Tag": "Kyber: Reserve WETH",
+      "Subcategory": "Main"
+    },
+    "0x0d8c194e877af78bea7d1a7b00f593aeed7be709": {
+      "Name Tag": "Kyber: SNX Pricing",
+      "Subcategory": "Main"
+    },
+    "0xecf0bdb7b3f349abfd68c3563678124c5e8aaea3": {
+      "Name Tag": "Kyber: Staking",
+      "Subcategory": "Main"
+    },
+    "0xc8fb12402cb16970f3c5f4b48ff68eb9d1289301": {
+      "Name Tag": "Kyber: Storage",
+      "Subcategory": "Main"
+    },
+    "0xf236f3eda58287664526ad5c99712d3c1040c759": {
+      "Name Tag": "Kyber: sUSD Pricing",
+      "Subcategory": "Main"
+    },
+    "0x833e4083b7ae46cea85695c4f7ed25cdad8886de": {
+      "Name Tag": "Kyberswap: Factory",
+      "Subcategory": "Main"
+    },
+    "0xc93239b33239a901143e15473e4a852a0d92c53b": {
+      "Name Tag": "KyberSwap: Fair Launch 2",
+      "Subcategory": "Main"
+    },
+    "0x6a65e062ce8290007301296f3c6ae446af7bdeec": {
+      "Name Tag": "KyberSwap: Migrator",
+      "Subcategory": "Main"
+    },
+    "0xfab5186a194588f5ad5074bd52659302906b4522": {
+      "Name Tag": "Kyberswap: Reward Locker",
+      "Subcategory": "Main"
+    },
+    "0x1c87257f5e8609940bc751a07bb085bb7f8cdbe6": {
+      "Name Tag": "KyberSwap: Router",
+      "Subcategory": "Main"
+    },
+    "0x5649b4dd00780e99bab7abb4a3d581ea1aeb23d0": {
+      "Name Tag": "KberSwap: KSFactory",
+      "Subcategory": "Others"
+    },
+    "0x29483d288845aa883693cff207cd02b828b6177c": {
+      "Name Tag": "Kyber Network: Deployer",
+      "Subcategory": "Others"
+    },
+    "0x9fb131efbac23b735d7764ab12f9e52cc68401ca": {
+      "Name Tag": "Kyber Network: Fee Handler 2",
+      "Subcategory": "Others"
+    },
+    "0x7ec8fcc26be7e9e85b57e73083e5fe0550d8a7fe": {
+      "Name Tag": "Kyber Network: Governance",
+      "Subcategory": "Others"
+    },
+    "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202": {
+      "Name Tag": "Kyber Network: KNC Token",
+      "Subcategory": "Others"
+    },
+    "0x6758a66cd25fef7767a44895041678fc4ae9afd0": {
+      "Name Tag": "Kyber Network: Long Executor",
+      "Subcategory": "Others"
+    },
+    "0x5ec0dcf4f6f55f28550c70b854082993fdc0d3b2": {
+      "Name Tag": "Kyber Network: Reward Distributor",
+      "Subcategory": "Others"
+    },
+    "0xd2d0a0557e5b78e29542d440ec968f9253daa2e2": {
+      "Name Tag": "Kyber Network: Reward Pool",
+      "Subcategory": "Others"
+    },
+    "0x41f5d722e6471c338392884088bd03340f50b3b5": {
+      "Name Tag": "Kyber Network: Short Executor",
+      "Subcategory": "Others"
+    },
+    "0xeadb96f1623176144eba2b24e35325220972b3bd": {
+      "Name Tag": "Kyber Network: Staking 2",
+      "Subcategory": "Others"
+    },
+    "0x0e590bb5f02a0c38888bffb45dee050b8fb60bda": {
+      "Name Tag": "Kyber Network: Treasury",
+      "Subcategory": "Others"
+    },
+    "0xfbd73581af42b26295cf4b88b74a5af71f209f8b": {
+      "Name Tag": "Kyber Network: Voting Power Strategy",
+      "Subcategory": "Others"
+    },
+    "0x1fc3607fa67b58deddb0faf7a116f417a20c551c": {
+      "Name Tag": "Kyber: Aggregation Router",
+      "Subcategory": "Others"
+    },
+    "0x8007ce15acda724689760b4ba493d4766f973649": {
+      "Name Tag": "Kyber: Deployer",
+      "Subcategory": "Others"
+    },
+    "0xe79bc2c998ff2a154ae35bb7ce68555e7fc94ef9": {
+      "Name Tag": "Kyber: Deployer 2",
+      "Subcategory": "Others"
+    },
+    "0xbdd33f411da0b40018922a3bc69001b458227f5c": {
+      "Name Tag": "Kyber: Deployer 3",
+      "Subcategory": "Others"
+    },
+    "0x346fbe5d02c89fb4599f33bdce987981d573740a": {
+      "Name Tag": "Kyber: Deployer 4",
+      "Subcategory": "Others"
+    },
+    "0x61639d6ec06c13a96b5eb9560b359d7c648c7759": {
+      "Name Tag": "Kyber: DMM ETH-KNC",
+      "Subcategory": "Others"
+    },
+    "0xce9874c42dce7fffbe5e48b026ff1182733266cb": {
+      "Name Tag": "Kyber: DMM ETH-USDT",
+      "Subcategory": "Others"
+    },
+    "0xa97642500517c728ce1339a466de0f10c19034cd": {
+      "Name Tag": "Kyber: DMM REQ-ETH",
+      "Subcategory": "Others"
+    },
+    "0x306121f1344ac5f84760998484c0176d7bfb7134": {
+      "Name Tag": "Kyber: DMM USDC-USDT",
+      "Subcategory": "Others"
+    },
+    "0x1cf68bbc2b6d3c6cfe1bd3590cf0e10b06a05f17": {
+      "Name Tag": "Kyber: DMM WBTC-ETH",
+      "Subcategory": "Others"
+    },
+    "0xd343d5dba2fba55eef58189619c05e33cab95ca1": {
+      "Name Tag": "Kyber: DMM WBTC-USDT",
+      "Subcategory": "Others"
+    },
+    "0x3eb01b3391ea15ce752d01cf3d3f09dec596f650": {
+      "Name Tag": "Kyber: MultiSig",
+      "Subcategory": "Others"
+    },
+    "0x2fd6181541bebe30d17cf3a5d9f40ebcecbdba43": {
+      "Name Tag": "Kyber: MultiSig 2",
+      "Subcategory": "Others"
+    },
+    "0xd6cd31f283d24cfb442cba1bcf42290c07c15792": {
+      "Name Tag": "Kyber: Token Sale",
+      "Subcategory": "Others"
+    },
+    "0xfdf28bf25779ed4ca74e958d54653260af604c20": {
+      "Name Tag": "Kyber: WBTC Merchant Deposit Address",
+      "Subcategory": "Others"
+    },
+    "0xdf1a1b60f2d438842916c0adc43748768353ec25": {
+      "Name Tag": "KyberSwap: Aggregation Router 2",
+      "Subcategory": "Others"
+    },
+    "0x2b1c7b41f6a8f2b2bc45c3233a5d5fb3cd6dc9a8": {
+      "Name Tag": "KyberSwap: Anti Snipping Attack Position Manager",
+      "Subcategory": "Others"
+    },
+    "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a": {
+      "Name Tag": "KyberSwap: Elastic Factory",
+      "Subcategory": "Others"
+    },
+    "0xb85ebe2e4ea27526f817ff33fb55fb240057c03f": {
+      "Name Tag": "KyberSwap: Elastic Liquidity Mining",
+      "Subcategory": "Others"
+    },
+    "0x5c503d4b7de0633f031229bbaa6a5e4a31cc35d8": {
+      "Name Tag": "KyberSwap: Elastic Liquidity Mining 2",
+      "Subcategory": "Others"
+    },
+    "0x0d125c15d54ca1f8a813c74a81aee34ebb508c1f": {
+      "Name Tag": "KyberSwap: Elastic Quoter V2",
+      "Subcategory": "Others"
+    },
+    "0xc1e7dfe73e1598e3910ef4c7845b68a9ab6f4c83": {
+      "Name Tag": "KyberSwap: Elastic Router",
+      "Subcategory": "Others"
+    },
+    "0xd7ab1699280980e756c446769b4c0f04550f88c9": {
+      "Name Tag": "KyberSwap: Elastic Tick Fees Reader",
+      "Subcategory": "Others"
+    },
+    "0xda474537ce9b687b78b236452a05631f09b6eb6a": {
+      "Name Tag": "KyberSwap: Elastic Token Position Descriptor",
+      "Subcategory": "Others"
+    },
+    "0x8abd8c92f1901cf204590c16b5ef690a35b3741e": {
+      "Name Tag": "KyberSwap: Elastic Token Position Descriptor Proxy",
+      "Subcategory": "Others"
+    },
+    "0x1c758af0688502e49140230f6b0ebd376d429be5": {
+      "Name Tag": "KyberSwap: KSRouter",
+      "Subcategory": "Others"
+    },
+    "0x617dee16b86534a5d792a4d7a62fb491b544111e": {
+      "Name Tag": "KyberSwap: Meta Aggregation Router",
+      "Subcategory": "Others"
+    },
+    "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": {
+      "Name Tag": "KyberSwap: Meta Aggregation Router v2",
+      "Subcategory": "Others"
+    },
+    "0x165c68077ac06c83800d19200e6e2b08d02de75d": {
+      "Name Tag": "KyberSwap: Ticks Fees Reader",
+      "Subcategory": "Others"
+    },
+    "0x9ae49c0d7f8f9ef4b864e004fe86ac8294e20950": {
+      "Name Tag": "Kyber: Old Contract",
+      "Subcategory": "Legacy"
+    },
+    "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202": {
+      "Token Name": "Kyber Network Crystal v2 (KNC)",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c",
+  "Labels": {
+    "defi": {
+      "Token Name": "Rocket Bunny (BUNNY)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "old-contract": {
+      "Token Name": "Rocket Bunny (BUNNY)",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Address": "0xdffdc00abf0ccd93723f56ba3179015ab4e5c1c8",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Ballbag (BALLBAG)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "meme": {
+      "Token Name": "Ballbag (BALLBAG)"
+    }
+  }
+}

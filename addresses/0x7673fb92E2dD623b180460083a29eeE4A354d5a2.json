@@ -1,0 +1,9 @@
+{
+  "Address": "0x7673fb92E2dD623b180460083a29eeE4A354d5a2",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "BabyCat (BABYCAT)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0x2e38f34055adfd2d2573a641ad48bdf0d5a420a7",
+  "Labels": {
+    "beacon-depositor": {
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "sybil-delegate": {
+      "Description": "Sybil is a governance tool for discovering delegates. Sybil maps on-chain addresses to digital identities to maintain a list of delegates."
+    }
+  }
+}

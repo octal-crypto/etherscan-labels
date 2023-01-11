@@ -1,0 +1,9 @@
+{
+  "Address": "0x71590d4ed14d9cbacb2cff8abf919ac4d22c5b7b",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Ash (ASH)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0x123ab195dd38b1b40510d467a6a359b201af056f",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "LGO Exchange: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "LGO (LGO)"
+    }
+  }
+}

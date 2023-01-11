@@ -1,0 +1,16 @@
+{
+  "Address": "0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a",
+  "Labels": {
+    "digifinex": {
+      "Name Tag": "DigiFinex: Old DFT Token",
+      "Description": "DigiFinex: Safe, stable, intuitive, fast digital asset trading platform.",
+      "Token Name": "DFT (DFT)"
+    },
+    "old-contract": {
+      "Name Tag": "DigiFinex: Old DFT Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "DFT (DFT)"
+    }
+  }
+}

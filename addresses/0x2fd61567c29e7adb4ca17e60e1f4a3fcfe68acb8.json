@@ -1,0 +1,11 @@
+{
+  "Address": "0x2fd61567c29e7adb4ca17e60e1f4a3fcfe68acb8",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "SymVerse: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "SymVerse (SYM)"
+    }
+  }
+}

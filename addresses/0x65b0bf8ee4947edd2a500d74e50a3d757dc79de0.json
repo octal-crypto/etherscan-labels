@@ -1,0 +1,20 @@
+{
+  "Address": "0x65b0bf8ee4947edd2a500d74e50a3d757dc79de0",
+  "Labels": {
+    "loans": {
+      "Name Tag": "Nexo: WBTC Merchant Deposit Address "
+    },
+    "maker-vault-owner": {
+      "Name Tag": "Nexo: WBTC Merchant Deposit Address ",
+      "Description": "A Maker Vault allows a user to deposit cryptocurrency collateral and generate Dai. Vaults are categorized by the type of collateral used to generated Dai. Users create Dai by generating it against their collateral and destroy Dai when repaying their generated Dai balance."
+    },
+    "nexo": {
+      "Name Tag": "Nexo: WBTC Merchant Deposit Address ",
+      "Description": "Nexo: Let your crypto work for you. The only insured account that lets you borrow instantly in 45+ fiat currencies and earn daily interest on your idle assets."
+    },
+    "wbtc-merchant": {
+      "Name Tag": "Nexo: WBTC Merchant Deposit Address ",
+      "Description": "WBTC is a community-led project and its partners include merchants, custodians, exchanges, and DAO members."
+    }
+  }
+}

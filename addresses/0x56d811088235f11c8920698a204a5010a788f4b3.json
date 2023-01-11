@@ -1,0 +1,27 @@
+{
+  "Address": "0x56d811088235f11c8920698a204a5010a788f4b3",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "bZx Protocol Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "bzx": {
+      "Name Tag": "bZx Protocol Token",
+      "Description": "bZx is a financial primitive for shorting, leverage, borrowing, and lending that empowers decentralized, efficient blockchain applications.",
+      "Subcategory": "Main",
+      "Token Name": "bZx Protocol Token (BZRX)"
+    },
+    "defi": {
+      "Token Name": "bZx Protocol Token (BZRX)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "liquidity": {
+      "Token Name": "bZx Protocol Token (BZRX)"
+    },
+    "trading": {
+      "Token Name": "bZx Protocol Token (BZRX)",
+      "Description": "The act of buying and selling goods and services."
+    }
+  }
+}

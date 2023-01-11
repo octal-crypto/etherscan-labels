@@ -1,0 +1,16 @@
+{
+  "Address": "0x013ae307648f529aa72c5767a334ddd37aab43c3",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Synthetix: Old Proxy sBNB Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Synth sBNB (sBNB)"
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Old Proxy sBNB Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

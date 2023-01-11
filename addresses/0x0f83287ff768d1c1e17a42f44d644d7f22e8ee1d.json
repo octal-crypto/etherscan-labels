@@ -1,0 +1,15 @@
+{
+  "Address": "0x0f83287ff768d1c1e17a42f44d644d7f22e8ee1d",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy sCHF Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy sCHF Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth sCHF (sCHF)"
+    }
+  }
+}

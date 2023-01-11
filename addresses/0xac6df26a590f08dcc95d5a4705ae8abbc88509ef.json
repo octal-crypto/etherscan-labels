@@ -1,0 +1,22 @@
+{
+  "Address": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef",
+  "Labels": {
+    "aave": {
+      "Name Tag": "Aave: aENJ Token V2",
+      "Description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+      "Subcategory": "Main",
+      "Token Name": "Aave interest bearing ENJ (aENJ)"
+    },
+    "defi": {
+      "Token Name": "Aave interest bearing ENJ (aENJ)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Main"
+    },
+    "v2": {
+      "Name Tag": "Aave: aENJ Token V2",
+      "Description": "Contracts associated with Version 2 of a project.",
+      "Subcategory": "Main",
+      "Token Name": "Aave interest bearing ENJ (aENJ)"
+    }
+  }
+}

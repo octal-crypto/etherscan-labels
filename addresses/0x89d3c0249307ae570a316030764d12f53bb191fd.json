@@ -1,0 +1,9 @@
+{
+  "Address": "0x89d3c0249307ae570a316030764d12f53bb191fd",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Xiglute Coin (XGC)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

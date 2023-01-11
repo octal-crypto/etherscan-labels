@@ -1,0 +1,11 @@
+{
+  "Address": "0x4bb0a085db8cedf43344bd2fbec83c2c79c4e76b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "WalletPlusX: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "WalletPlusX (WPX)"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Address": "0xaaa4eb35d08dbb9b1b8760cb9ffe77b9023d7511",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old ETH Trending Alpha LT Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "ETH Trending Alpha Set (ETA)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old ETH Trending Alpha LT Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "ETH Trending Alpha Set (ETA)"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0xb4467e8d621105312a914f1d42f10770c0ffe3c8",
+  "Labels": {
+    "old-contract": {
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

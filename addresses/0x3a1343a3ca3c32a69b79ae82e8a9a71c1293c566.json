@@ -1,0 +1,17 @@
+{
+  "Address": "0x3a1343a3ca3c32a69b79ae82e8a9a71c1293c566",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Onyx: Old OSPV Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Onyx S&P 500 (OSPV)"
+    },
+    "onyx-to": {
+      "Name Tag": "Onyx: Old OSPV Token",
+      "Description": "Onyx is a token provider that provides ETF-like, ERC-20 tokens to the crypto masses in order to invest in, or short, crypto or non-crypto assets such as the S&P 500, Gold, Bitcoin, or Nasdaq 100.",
+      "Subcategory": "Legacy",
+      "Token Name": "Onyx S&P 500 (OSPV)"
+    }
+  }
+}

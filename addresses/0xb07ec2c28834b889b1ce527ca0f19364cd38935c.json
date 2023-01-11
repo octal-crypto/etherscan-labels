@@ -1,0 +1,11 @@
+{
+  "Address": "0xb07ec2c28834b889b1ce527ca0f19364cd38935c",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Cardstack: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Cardstack (CARD)"
+    }
+  }
+}

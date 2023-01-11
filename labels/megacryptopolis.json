@@ -1,0 +1,35 @@
+{
+  "Label": "megacryptopolis",
+  "Description": "MegaCryptoPolis is a decentralized city builder game running on Ethereum blockchain smart contracts that you can play in any browser or on mobile device using special apps.",
+  "Addresses": {
+    "0x2594d80da5f2e4f742d1e479eb9408aad132d0bd": {
+      "Name Tag": "MCP: Appliance",
+      "Token Name": "MCP Appliance (MCPA)"
+    },
+    "0xf06059f01f6f08a603c939359a0a1186f7687685": {
+      "Name Tag": "MCP: Citizen",
+      "Token Name": "MCP Citizen (MCPC)"
+    },
+    "0x501f51187acfbbfb711166dea9ee5bbf77c6c2d8": {
+      "Name Tag": "MCP: Deployer"
+    },
+    "0x14580a944246339d9151ab4e22458b3ab926438b": {
+      "Name Tag": "MCP: Old Contract 1"
+    },
+    "0xba7a1265933be28ee36841f8c2170d51688b365d": {
+      "Name Tag": "MCP: Pack",
+      "Token Name": "MCP Pack (MCPP)"
+    },
+    "0x56f123785b54978c6c0b117f15d3ee69eb9bf6c8": {
+      "Name Tag": "MCP: Pet",
+      "Token Name": "MCP Pet (MCPP)"
+    },
+    "0x98ff4553a3dcbf5e4ff8b5d4cc6fb763b6f20174": {
+      "Name Tag": "MCP: Resource",
+      "Token Name": "MCP Resource (MCPR)"
+    },
+    "0x3218A02F8F8B5c3894ce30EB255F10Bcba13E654": {
+      "Token Name": "MegaCryptoPolis $MEGA Token (MEGA) (MEGA)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0xde2f7766c8bf14ca67193128535e5c7454f8387c",
+  "Labels": {
+    "mainnet-launched": {
+      "Token Name": "Metadium (META)",
+      "Description": "Companies whose Mainnet have launched and have migrated from the Ethereum Network. A reminder to swap your tokens to the respective Mainnet if you have yet to do so."
+    },
+    "old-contract": {
+      "Name Tag": "Metadium: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Metadium (META)"
+    }
+  }
+}

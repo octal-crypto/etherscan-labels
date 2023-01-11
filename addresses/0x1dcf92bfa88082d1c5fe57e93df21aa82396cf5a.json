@@ -1,0 +1,10 @@
+{
+  "Address": "0x1dcf92bfa88082d1c5fe57e93df21aa82396cf5a",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "CheckDot: Old CDT Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

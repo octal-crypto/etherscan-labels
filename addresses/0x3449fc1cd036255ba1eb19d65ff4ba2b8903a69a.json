@@ -1,0 +1,17 @@
+{
+  "Address": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
+  "Labels": {
+    "algorithmic-stablecoin": {
+      "Token Name": "BAC (BAC)",
+      "Description": "Non-collateralized stablecoins or seigniorage shares"
+    },
+    "blocked": {
+      "Name Tag": "Basis Cash: BAC Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "staking": {
+      "Token Name": "BAC (BAC)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    }
+  }
+}

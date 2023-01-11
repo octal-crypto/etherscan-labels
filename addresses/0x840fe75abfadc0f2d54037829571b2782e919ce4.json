@@ -1,0 +1,10 @@
+{
+  "Address": "0x840fe75abfadc0f2d54037829571b2782e919ce4",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Webcoin: Old WEB Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

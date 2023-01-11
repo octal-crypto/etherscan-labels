@@ -1,0 +1,15 @@
+{
+  "Address": "0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1",
+  "Labels": {
+    "enzyme-finance": {
+      "Name Tag": "Melon: Old Token",
+      "Description": "Enzyme is a decentralised on-chain asset management infrastructure. It provides an easy and cost-effective way to build, scale & monetise investment strategies in crypto."
+    },
+    "old-contract": {
+      "Name Tag": "Melon: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Melon (MLN)"
+    }
+  }
+}

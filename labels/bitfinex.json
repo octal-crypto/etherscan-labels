@@ -1,0 +1,137 @@
+{
+  "Label": "bitfinex",
+  "Description": "Bitfinex is a full-featured spot trading platform for major digital assets & cryptocurrencies, including Bitcoin, Ethereum, EOS, Litecoin, Ripple, NEO, Monero and many more.",
+  "Addresses": {
+    "0x1151314c646ce4e0efd76d1af4760ae66a9fe30f": {
+      "Name Tag": "Bitfinex 1"
+    },
+    "0x36a85757645e8e8aec062a1dee289c7d615901ca": {
+      "Name Tag": "Bitfinex 10"
+    },
+    "0xc56fefd1028b0534bfadcdb580d3519b5586246e": {
+      "Name Tag": "Bitfinex 11"
+    },
+    "0x0b73f67a49273fc4b9a65dbd25d7d0918e734e63": {
+      "Name Tag": "Bitfinex 12"
+    },
+    "0x482f02e8bc15b5eabc52c6497b425b3ca3c821e8": {
+      "Name Tag": "Bitfinex 13"
+    },
+    "0xe92d1a43df510f82c66382592a047d288f85226f": {
+      "Name Tag": "Bitfinex 19"
+    },
+    "0x742d35cc6634c0532925a3b844bc454e4438f44e": {
+      "Name Tag": "Bitfinex 2"
+    },
+    "0x8103683202aa8da10536036edef04cdd865c225e": {
+      "Name Tag": "Bitfinex 20"
+    },
+    "0x876eabf441b2ee5b5b0554fd502a8e0600950cfa": {
+      "Name Tag": "Bitfinex 3"
+    },
+    "0xdcd0272462140d0a3ced6c4bf970c7641f08cd2c": {
+      "Name Tag": "Bitfinex 4"
+    },
+    "0x4fdd5eb2fb260149a3903859043e962ab89d8ed4": {
+      "Name Tag": "Bitfinex 5"
+    },
+    "0x1b29dd8ff0eb3240238bf97cafd6edea05d5ba82": {
+      "Name Tag": "Bitfinex 6"
+    },
+    "0x30a2ebf10f34c6c4874b0bdd5740690fd2f3b70c": {
+      "Name Tag": "Bitfinex 7"
+    },
+    "0x3f7e77b627676763997344a1ad71acb765fc8ac5": {
+      "Name Tag": "Bitfinex 8"
+    },
+    "0x59448fe20378357f206880c58068f095ae63d5a5": {
+      "Name Tag": "Bitfinex 9"
+    },
+    "0x7727e5113d1d161373623e5f49fd568b4f543a9e": {
+      "Name Tag": "Bitfinex: Contract 1"
+    },
+    "0x0e55c54249f25f70d519b7fb1c20e3331e7ba76d": {
+      "Name Tag": "Bitfinex: Contract 2"
+    },
+    "0x5dbdebcae07cc958ba5290ff9deaae554e29e7b4": {
+      "Name Tag": "Bitfinex: Deployer 1"
+    },
+    "0x2ee3b2df6534abc759ffe994f7b8dcdfaa02cd31": {
+      "Name Tag": "Bitfinex: Deployer 2"
+    },
+    "0xe1f3c653248de6894d683cb2f10de7ca2253046f": {
+      "Name Tag": "Bitfinex: Deployer 3"
+    },
+    "0x2903cadbe271e057edef157340b52a5898d7424f": {
+      "Name Tag": "Bitfinex: Deployer 4"
+    },
+    "0x36928500bc1dcd7af6a2b4008875cc336b927d57": {
+      "Name Tag": "Bitfinex: Deployer 5"
+    },
+    "0x14d06788090769f669427b6aea1c0240d2321f34": {
+      "Name Tag": "Bitfinex: Deployer 6"
+    },
+    "0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec": {
+      "Name Tag": "Bitfinex: Hot Wallet"
+    },
+    "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3": {
+      "Name Tag": "Bitfinex: LEO Token",
+      "Token Name": "Bitfinex LEO Token (LEO)"
+    },
+    "0xab7c74abc0c4d48d1bdad5dcb26153fc8780f83e": {
+      "Name Tag": "Bitfinex: MultiSig 1"
+    },
+    "0xc6cde7c39eb2f0f0095f41570af89efc2c1ea828": {
+      "Name Tag": "Bitfinex: MultiSig 2"
+    },
+    "0xc61b9bb3a7a0767e3179713f3a5c7a9aedce193c": {
+      "Name Tag": "Bitfinex: MultiSig 3"
+    },
+    "0xcafb10ee663f465f9d10588ac44ed20ed608c11e": {
+      "Name Tag": "Bitfinex: Old Address 1"
+    },
+    "0x7180eb39a6264938fdb3effd7341c4727c382153": {
+      "Name Tag": "Bitfinex: Old Address 2"
+    },
+    "0x69c6dcc8f83b196605fa1076897af0e7e2b6b044": {
+      "Name Tag": "Bitfinex: Old Contract 1"
+    },
+    "0x8d5a41e85f4ce2433beef476305d307b9205d98d": {
+      "Name Tag": "Bitfinex: Old Contract 2"
+    },
+    "0xc581b735a1688071a1746c968e0798d642ede491": {
+      "Name Tag": "Euro Tether: EURT Token"
+    },
+    "0xabdf147870235fcfc34153828c769a70b3fae01f": {
+      "Name Tag": "EURT:undefined",
+      "Token Name": "Tether EUR (EURT)"
+    },
+    "0x4922a015c4407f87432b179bb209e125432e4a2a": {
+      "Name Tag": "Tether Gold: Old XAUt Token"
+    },
+    "0x68749665ff8d2d112fa859aa293f07a622782f38": {
+      "Name Tag": "Tether Gold: XAUt Token",
+      "Token Name": "Tether Gold (XAUt)"
+    },
+    "0x6e109e9dd7fa1a58bc3eff667e8e41fc3cc07aef": {
+      "Name Tag": "Tether: CNHT Token",
+      "Token Name": "Tether CNH (CNHT)"
+    },
+    "0xed03ed872159e199065401b6d0d487d78d9464aa": {
+      "Name Tag": "Tether: MXNt Token"
+    },
+    "0x5754284f345afc66a98fbb0a0afe71e0f007b949": {
+      "Name Tag": "Tether: Treasury"
+    },
+    "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+      "Name Tag": "Tether: USDT Stablecoin",
+      "Token Name": "Tether USD (USDT)"
+    },
+    "0xC581b735A1688071A1746c968e0798D642EDE491": {
+      "Token Name": "Euro Tether (EURT)"
+    },
+    "0xed03Ed872159e199065401b6d0D487d78d9464AA": {
+      "Token Name": "TetherToken (MXNt)"
+    }
+  }
+}

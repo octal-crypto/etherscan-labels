@@ -1,0 +1,13 @@
+{
+  "Address": "0xc7cd9d874f93f2409f39a95987b3e3c738313925",
+  "Labels": {
+    "ico-wallets": {
+      "Name Tag": "Musiconomi: MultiSig",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "parity-bug": {
+      "Name Tag": "Musiconomi: MultiSig",
+      "Description": "A vulnerability in the Parity Wallet library contract of the standard multi-sig contract that resulted in funds being frozen and Ethers rendered unusable. Postmortem report can be found here."
+    }
+  }
+}

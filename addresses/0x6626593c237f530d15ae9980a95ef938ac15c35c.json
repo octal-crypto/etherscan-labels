@@ -1,0 +1,13 @@
+{
+  "Address": "0x6626593c237f530d15ae9980a95ef938ac15c35c",
+  "Labels": {
+    "compound-governance": {
+      "Name Tag": "Gauntlet Network",
+      "Description": "Top voters in Compound's Governance Leaderboard."
+    },
+    "sybil-delegate": {
+      "Name Tag": "Gauntlet Network",
+      "Description": "Sybil is a governance tool for discovering delegates. Sybil maps on-chain addresses to digital identities to maintain a list of delegates."
+    }
+  }
+}

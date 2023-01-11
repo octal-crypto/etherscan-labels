@@ -1,0 +1,19 @@
+{
+  "Address": "0x597ad1e0c13bfe8025993d9e79c69e1c0233522e",
+  "Labels": {
+    "defi": {
+      "Token Name": "yearn USD//C (yUSDC)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "vaults": {
+      "Name Tag": "yearn: yUSDC Vault"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yUSDC Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Main",
+      "Token Name": "yearn USD//C (yUSDC)"
+    }
+  }
+}

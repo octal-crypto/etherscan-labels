@@ -1,0 +1,17 @@
+{
+  "Address": "0x7b8d9e95caa85d7905c3435da1ba9fa7f79bf4fa",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old INTETH Social Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "The Intelligent ETH Trading Set (INTETH)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old INTETH Social Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "The Intelligent ETH Trading Set (INTETH)"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0x8e1d8b147cc4c939a597dc501c47cc8b4ab26bd5",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Tetranode",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

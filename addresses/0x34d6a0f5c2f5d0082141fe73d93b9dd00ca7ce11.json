@@ -1,0 +1,9 @@
+{
+  "Address": "0x34d6a0f5c2f5d0082141fe73d93b9dd00ca7ce11",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "GOLDEN TOKEN (GOLD)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

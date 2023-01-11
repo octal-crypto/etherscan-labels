@@ -1,0 +1,11 @@
+{
+  "Address": "0x0cbc9b02b8628ae08688b5cc8134dc09e36c443b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Tratok: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Tratok (TRAT)"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0x52f9eea36f57d86a0f051419fd11e4a256359c8f",
+  "Labels": {
+    "furucombo": {
+      "Name Tag": "Furucombo: Proxy v0.1",
+      "Description": "Furucombo: Save time, save steps, infinite DeFi combinations. Build your own DeFi legos into one transaction without knowing how to code.",
+      "Subcategory": "Main"
+    },
+    "proxy-contract": {
+      "Name Tag": "Furucombo: Proxy v0.1",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    }
+  }
+}

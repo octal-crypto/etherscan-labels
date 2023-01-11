@@ -1,0 +1,17 @@
+{
+  "Address": "0x48f775efbe4f5ece6e0df2f7b5932df56823b990",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Revain: Old R Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Revain (R)"
+    },
+    "revain": {
+      "Name Tag": "Revain: Old R Token",
+      "Description": "Revain: Review platform for crypto community.",
+      "Subcategory": "Legacy",
+      "Token Name": "Revain (R)"
+    }
+  }
+}

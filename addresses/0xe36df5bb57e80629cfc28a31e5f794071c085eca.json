@@ -1,0 +1,11 @@
+{
+  "Address": "0xe36df5bb57e80629cfc28a31e5f794071c085eca",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "BCAChain: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "BCAChain Initial Token (BCAC)"
+    }
+  }
+}

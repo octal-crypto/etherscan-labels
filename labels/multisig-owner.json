@@ -1,0 +1,89 @@
+{
+  "Label": "multisig-owner",
+  "Description": "Owner of a Multisig wallet.",
+  "Addresses": {
+    "0x77217d89cd406ebe6744738da955065423551707": {
+      "Subcategory": "Main"
+    },
+    "0x86fe8d6d4c8a007353617587988552b6921514cb": {
+      "Subcategory": "Main"
+    },
+    "0xc2381378fd9f5b45717d2ca9c44c4f78861c3104": {
+      "Subcategory": "Main"
+    },
+    "0xc156c57231a9302d9f5c7b5ef22871cc25f40736": {
+      "Subcategory": "Main"
+    },
+    "0xbffd447482bae149e9127106a117652a2b0e3116": {
+      "Subcategory": "Main"
+    },
+    "0xc96004a52dc20be8cd322c22f0e06210628d0ac2": {
+      "Subcategory": "Main"
+    },
+    "0xe442325f5827ec9567565a608614131cc09cb598": {
+      "Subcategory": "Main"
+    },
+    " 0x0cec743b8ce4ef8802cac0e5df18a180ed8402a7": {
+      "Name Tag": "Yearn: MultiSig Signer Milkyklim",
+      "Subcategory": "Main"
+    },
+    " 0x6e83d6f57012d74e0f131753f8b5ab557824507d": {
+      "Name Tag": "Yearn: MultiSig Signer Vasiliy Shapovalov",
+      "Subcategory": "Main"
+    },
+    " 0x17e06ce6914e3969f7bd37d8b2a563890ca1c96e": {
+      "Subcategory": "Others"
+    },
+    " 0xe6435e2d1de6e3d3a9e90b2e80e7956ce59a812d": {
+      "Subcategory": "Others"
+    },
+    " 0x1774b6106d7e969d467396a5e90089fead6e55eb": {
+      "Subcategory": "Others"
+    },
+    " 0x4702d39c499236a43654c54783c3f24830e247dc": {
+      "Subcategory": "Others"
+    },
+    " 0xa81636aace97783aac45764b873793be081da592": {
+      "Subcategory": "Others"
+    },
+    " 0x3524c03d39a13d51485419a17586286a6b617dd3": {
+      "Subcategory": "Others"
+    },
+    " 0x131bd1a2827cceb2945b2e3b91ee1bf736ccbf80": {
+      "Subcategory": "Others"
+    },
+    " 0x21daa251f1ee3ebeb3f2c25bc262de56c9a639b9": {
+      "Subcategory": "Others"
+    },
+    " 0x4da7eb21fd6c918b57f61b15109133c069fa091c": {
+      "Subcategory": "Others"
+    },
+    " 0x8d34ea6fb1ed6b60f94ac6cd01dd1181ef12290e": {
+      "Subcategory": "Others"
+    },
+    " 0x1520dd2ccb0c150e5716f57a77c703d95427acbc": {
+      "Name Tag": "Set: Multisig Signer I",
+      "Subcategory": "Others"
+    },
+    " 0x7a1057e6e9093da9c1d4c1d049609b6889fc4c67": {
+      "Name Tag": "Yearn: MultiSig Signer Banteg",
+      "Subcategory": "Others"
+    },
+    " 0x74630370197b4c4795bfeef6645ee14f8cf8997d": {
+      "Name Tag": "Yearn: MultiSig Signer Cp0x.com",
+      "Subcategory": "Others"
+    },
+    " 0x99bc02c239025e431d5741cc1dba8ce77fc51ce3": {
+      "Name Tag": "Yearn: MultiSig Signer Daryllautk",
+      "Subcategory": "Others"
+    },
+    " 0x48f2bd7513da5bb9f7bfd54ea37c41650fd5f3a3": {
+      "Name Tag": "Yearn: MultiSig Signer Devops199fan",
+      "Subcategory": "Others"
+    },
+    " 0x50b0c406a5c1fc492f84c3f3d4552391cf4672f2": {
+      "Name Tag": "Yearn: MultiSig Signer Joe Mahon",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0x51600B0CfF6Bbf79E7767158C41FD15e968Ec404",
+  "Labels": {
+    "bitcoin-pegged": {
+      "Token Name": "ANY Bitcoin (anyBTC)",
+      "Description": "Tokens that are pegged 1:1 to bitcoin"
+    },
+    "multichain": {
+      "Name Tag": "Multichain: anyBTC Token",
+      "Description": "Multichain is a trustless protocol to bridge assets between heterogenous Layer-1 and Layer-2 platforms.",
+      "Token Name": "ANY Bitcoin (anyBTC)"
+    }
+  }
+}

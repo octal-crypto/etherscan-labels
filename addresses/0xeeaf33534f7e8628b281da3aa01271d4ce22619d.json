@@ -1,0 +1,11 @@
+{
+  "Address": "0xeeaf33534f7e8628b281da3aa01271d4ce22619d",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "SwapCoinz: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "SwapCoinz (SPZ)"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0xb9d6ce05a2cdbc4572bafbef179cd37bdaabe942",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "xCrypt: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "xCrypt (XCT)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0x7e76de758cd414096a4882ed2824bc513d7ed7c9",
+  "Labels": {
+    "connext": {
+      "Name Tag": "Router: 0x7e7...7c9",
+      "Description": "Connext is a crosschain liquidity network that enables fast, fully-noncustodial transfers between EVM-compatible chains and L2 systems.",
+      "Subcategory": "Others"
+    },
+    "router": {
+      "Name Tag": "Router: 0x7e7...7c9",
+      "Description": "Routers are liquidity providers that facilitate cross-chain swaps and relay calldata across chains. In exchange, they receive fees for their services.",
+      "Subcategory": "Main"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Address": "0xd76b5c2a23ef78368d8e34288b5b65d616b746ae",
+  "Labels": {
+    "bancor": {
+      "Name Tag": "Bancor: Old ETH Token",
+      "Description": "Bancor is a decentralized liquidity network that allows you to hold any token and convert it to any other token in the network, with no counterparty, at an automatically calculated price, using a simple web wallet.",
+      "Subcategory": "Others"
+    },
+    "old-contract": {
+      "Name Tag": "Bancor: Old ETH Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Ether Token (ETH)"
+    }
+  }
+}

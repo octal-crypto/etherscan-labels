@@ -1,0 +1,9 @@
+{
+  "Address": "0x931a7ca74e35f35a46881a4f968d5fbd095a0279",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "FailToken (FAIL)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

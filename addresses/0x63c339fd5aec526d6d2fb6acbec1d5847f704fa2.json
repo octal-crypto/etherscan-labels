@@ -1,0 +1,10 @@
+{
+  "Address": "0x63c339fd5aec526d6d2fb6acbec1d5847f704fa2",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Fieldcoin: Old FLC Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

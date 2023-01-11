@@ -1,0 +1,15 @@
+{
+  "Address": "0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy sXMR Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy sXMR Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth sXMR (sXMR)"
+    }
+  }
+}

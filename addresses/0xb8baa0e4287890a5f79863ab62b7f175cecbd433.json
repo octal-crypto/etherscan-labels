@@ -1,0 +1,12 @@
+{
+  "Address": "0xb8baa0e4287890a5f79863ab62b7f175cecbd433",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Swerve.fi: SWRV Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "yield-farming": {
+      "Token Name": "Swerve DAO Token (SWRV)"
+    }
+  }
+}

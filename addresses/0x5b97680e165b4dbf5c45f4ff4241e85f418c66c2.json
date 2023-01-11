@@ -1,0 +1,13 @@
+{
+  "Address": "0x5b97680e165b4dbf5c45f4ff4241e85f418c66c2",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Compound Voting: Kain Synthetix",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "compound-governance": {
+      "Name Tag": "Compound Voting: Kain Synthetix",
+      "Description": "Top voters in Compound's Governance Leaderboard."
+    }
+  }
+}

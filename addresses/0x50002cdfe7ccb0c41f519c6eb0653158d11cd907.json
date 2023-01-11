@@ -1,0 +1,14 @@
+{
+  "Address": "0x50002cdfe7ccb0c41f519c6eb0653158d11cd907",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Layer Zero: Aptos Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "layer-2": {
+      "Name Tag": "Layer Zero: Aptos Bridge",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    }
+  }
+}

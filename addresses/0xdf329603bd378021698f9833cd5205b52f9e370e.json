@@ -1,0 +1,11 @@
+{
+  "Address": "0xdf329603bd378021698f9833cd5205b52f9e370e",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Ethershift: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Ethershift (ESH)"
+    }
+  }
+}

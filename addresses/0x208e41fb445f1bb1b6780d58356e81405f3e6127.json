@@ -1,0 +1,15 @@
+{
+  "Address": "0x208e41fb445f1bb1b6780d58356e81405f3e6127",
+  "Labels": {
+    "0x-protocol": {
+      "Name Tag": "0x: Old ERC721 Proxy",
+      "Description": "0x Protocol is an open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "0x: Old ERC721 Proxy",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

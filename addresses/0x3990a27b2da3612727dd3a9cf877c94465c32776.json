@@ -1,0 +1,10 @@
+{
+  "Address": "0x3990a27b2da3612727dd3a9cf877c94465c32776",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "ChainSafe: Old Address",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

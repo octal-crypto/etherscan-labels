@@ -1,0 +1,12 @@
+{
+  "Address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "DAO Maker: DAO Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "dao": {
+      "Token Name": "DAO Maker (DAO)"
+    }
+  }
+}

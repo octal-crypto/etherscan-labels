@@ -1,0 +1,16 @@
+{
+  "Address": "0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Status: Old Genesis Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "StatusGenesis (SGT)"
+    },
+    "status": {
+      "Name Tag": "Status: Old Genesis Token",
+      "Description": "Status is a messenger, crypto wallet, and Web3 browser built with state of the art technology.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Label": "coinhako",
+  "Description": "Coinhako: The easiest way to buy, sell, swap and store digital assets in Asia.",
+  "Addresses": {
+    "0xd4bddf5e3d0435d7a6214a0b949c7bb58621f37c": {
+      "Name Tag": "Coinhako",
+      "Subcategory": "Main"
+    },
+    "0xf2d4766ad705e3a5c9ba5b0436b473085f82f82f": {
+      "Name Tag": "Coinhako: Warm Wallet",
+      "Subcategory": "Main"
+    },
+    "0x19d97aa29cd33bd966d52e2bc9dfc719f2bb9ae1": {
+      "Name Tag": "Coinhako: Deployer",
+      "Subcategory": "Others"
+    },
+    "0xa193c943980a9340f306b3d59deb183dc501b35f": {
+      "Name Tag": "Coinhako: Old Address",
+      "Subcategory": "Legacy"
+    },
+    "0x1d1bd550197c7c0787b9ad0aea9c1cca66ee0e90": {
+      "Name Tag": "Coinhako: Old Address 2",
+      "Subcategory": "Legacy"
+    }
+  }
+}

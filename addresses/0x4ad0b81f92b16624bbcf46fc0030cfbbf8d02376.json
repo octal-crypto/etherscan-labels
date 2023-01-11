@@ -1,0 +1,16 @@
+{
+  "Address": "0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376",
+  "Labels": {
+    "old-contract": {
+      "Token Name": "unagii_Dai Stablecoin (uDAI)",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "unagii-com": {
+      "Name Tag": "unagii.com: Old uDAI Token",
+      "Description": "unagii.com: The best of DeFi on the only app you need for your digital asset yields.",
+      "Subcategory": "Legacy",
+      "Token Name": "unagii_Dai Stablecoin (uDAI)"
+    }
+  }
+}

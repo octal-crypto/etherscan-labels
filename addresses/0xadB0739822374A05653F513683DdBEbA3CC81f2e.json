@@ -1,0 +1,9 @@
+{
+  "Address": "0xadB0739822374A05653F513683DdBEbA3CC81f2e",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Dodeca (DODECA)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

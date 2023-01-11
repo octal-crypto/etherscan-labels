@@ -1,0 +1,22 @@
+{
+  "Address": "0x7deb5e830be29f91e298ba5ff1356bb7f8146998",
+  "Labels": {
+    "aave": {
+      "Name Tag": "Aave: aMKR Token V1",
+      "Description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+      "Subcategory": "Main",
+      "Token Name": "Aave Interest bearing MKR (aMKR)"
+    },
+    "defi": {
+      "Token Name": "Aave Interest bearing MKR (aMKR)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "v1": {
+      "Name Tag": "Aave: aMKR Token V1",
+      "Description": "Contracts associated with Version 1 of a project.",
+      "Subcategory": "Main",
+      "Token Name": "Aave Interest bearing MKR (aMKR)"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0x9a7a4C141a3BCCE4A31e42C1192Ac6Add35069b4",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Momentum (XMM)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0xec6c861c2a2b1e5ff5336731bc80c29dbff88273",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "ElamaChain: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "ElacToken (ELAC)"
+    }
+  }
+}

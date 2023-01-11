@@ -1,0 +1,15 @@
+{
+  "Address": "0xe56d6ccab6551932c0356e4e8d5daf0630920c71",
+  "Labels": {
+    "layer-2": {
+      "Name Tag": "Loopring: Loopring V3",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "loopring": {
+      "Name Tag": "Loopring: Loopring V3",
+      "Description": "Loopring: Scalable zkRollup exchange protocol.",
+      "Subcategory": "Others"
+    }
+  }
+}

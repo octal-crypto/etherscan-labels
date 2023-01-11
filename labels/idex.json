@@ -1,0 +1,27 @@
+{
+  "Label": "idex",
+  "Description": "IDEX is the only Ethereum decentralized exchange with real-time trading and high transaction throughput.",
+  "Addresses": {
+    "0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814": {
+      "Name Tag": "Aurora DAO: Old Token",
+      "Token Name": "Aurora DAO (AURA)"
+    },
+    "0x2a0c0dbecc7e4d658f48e01e3fa353f44050c208": {
+      "Name Tag": "IDEX"
+    },
+    "0xa7a7899d944fe658c4b0a1803bab2f490bd3849e": {
+      "Name Tag": "IDEX 2"
+    },
+    "0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea": {
+      "Name Tag": "IDEX Membership Token",
+      "Token Name": "IDEX Membership (IDXM)"
+    },
+    "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae": {
+      "Name Tag": "IDEX Token",
+      "Token Name": "IDEX Token (IDEX)"
+    },
+    "0x33daedabab9085bd1a94460a652e7ffff592dfe3": {
+      "Name Tag": "IDEX: Deployer"
+    }
+  }
+}

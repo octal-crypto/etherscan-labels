@@ -1,0 +1,13 @@
+{
+  "Address": "0x538d72ded42a76a30f730292da939e0577f22f57",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Bitstamp: Deployer",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "bitstamp": {
+      "Name Tag": "Bitstamp: Deployer",
+      "Description": "Bitstamp: World's longest-standing crypto exchange."
+    }
+  }
+}

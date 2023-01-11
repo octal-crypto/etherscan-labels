@@ -1,0 +1,34 @@
+{
+  "Label": "cache-gold",
+  "Description": "CACHE tokens are fully compliant, public, transparent, redeemable tokens backed by gold stored in vaults around the world.",
+  "Addresses": {
+    "0xf5238462e7235c7b62811567e63dd17d12c2eaa0": {
+      "Name Tag": "CACHE Gold: CGT Token",
+      "Token Name": "CACHE Gold (CGT)"
+    },
+    "0x10583948905d768880ba6c5a17847556da49305a": {
+      "Name Tag": "CACHE Gold: Deployer"
+    },
+    "0x5b7820e62778c7317403d892f6501dd816f82730": {
+      "Name Tag": "CACHE Gold: Locked Gold Oracle"
+    },
+    "0x6522b05fe48d274f14559e0391be3675e6a1ac91": {
+      "Name Tag": "CACHE Gold: Old Backed Treasury"
+    },
+    "0x7ea9b52e9f8673f3e22b4eec2c4c7a7e2d1b6636": {
+      "Name Tag": "CACHE Gold: Old Fee Address"
+    },
+    "0x3ab9c31148789570f51180a3ef7107e16c4b234c": {
+      "Name Tag": "CACHE Gold: Owner (Old)"
+    },
+    "0xc8bf2dbde1d69d174fd40581f5177f684fa26eda": {
+      "Name Tag": "CACHE Gold: Redeem Address"
+    },
+    "0x8dcfa60a1fb2429a7afc0266523f1bf7fbf42a1a": {
+      "Name Tag": "CACHE Gold: Storage Fee Enforcer"
+    },
+    "0xd4033ea2ec53a26d6295f6f375d5c6afbe788660": {
+      "Name Tag": "CACHE Gold: Unbacked Treasury"
+    }
+  }
+}

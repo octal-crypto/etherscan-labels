@@ -1,0 +1,18 @@
+{
+  "Address": "0x8c5E6FdFa54B0027E10d9438E8515b6FA6c38FcC",
+  "Labels": {
+    "defi": {
+      "Token Name": "ICETEA.Finance (ICET)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "dex": {
+      "Token Name": "ICETEA.Finance (ICET)",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    },
+    "staking": {
+      "Token Name": "ICETEA.Finance (ICET)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    }
+  }
+}

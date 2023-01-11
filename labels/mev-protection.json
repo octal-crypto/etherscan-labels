@@ -1,0 +1,16 @@
+{
+  "Label": "mev-protection",
+  "Addresses": {
+    "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab": {
+      "Name Tag": "CoW Protocol: COW Token",
+      "Token Name": "CoW Protocol Token (COW)"
+    },
+    "0xd057b63f5e69cf1b929b356b579cba08d7688048": {
+      "Name Tag": "CoW Protocol: vCOW Token",
+      "Token Name": "CoW Protocol Virtual Token (vCOW)"
+    },
+    "0xd084944d3c05cd115c09d072b9f44ba3e0e45921": {
+      "Token Name": "Manifold Finance (FOLD)"
+    }
+  }
+}

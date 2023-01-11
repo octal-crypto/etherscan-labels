@@ -1,0 +1,20 @@
+{
+  "Address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Curve.fi: CRV Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "curve-fi": {
+      "Name Tag": "Curve.fi: CRV Token",
+      "Description": "Curve is an exchange liquidity pool on Ethereum (like Uniswap) designed for (1) extremely efficient stablecoin trading (2) low risk, supplemental fee income for liquidity providers, without an opportunity cost.",
+      "Subcategory": "Main",
+      "Token Name": "Curve DAO Token (CRV)"
+    },
+    "defi": {
+      "Token Name": "Curve DAO Token (CRV)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    }
+  }
+}

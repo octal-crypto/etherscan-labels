@@ -1,0 +1,15 @@
+{
+  "Address": "0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f",
+  "Labels": {
+    "mainnet-launched": {
+      "Token Name": "CyberMiles (CMT)",
+      "Description": "Companies whose Mainnet have launched and have migrated from the Ethereum Network. A reminder to swap your tokens to the respective Mainnet if you have yet to do so."
+    },
+    "old-contract": {
+      "Name Tag": "CyberMiles: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "CyberMiles (CMT)"
+    }
+  }
+}

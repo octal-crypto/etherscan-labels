@@ -1,0 +1,11 @@
+{
+  "Address": "0x835a44027ee4e92bbd8874e5ede9e5148b069e96",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Protos: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "PROTOS (PRTS)"
+    }
+  }
+}

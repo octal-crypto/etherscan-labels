@@ -1,0 +1,14 @@
+{
+  "Address": "0x24e3794605c84e580eea4972738d633e8a7127c8",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Katalyo: KTLYO Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "defi": {
+      "Token Name": "Katalyo Token (KTLYO)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    }
+  }
+}

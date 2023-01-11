@@ -1,0 +1,14 @@
+{
+  "Address": "0x429876c4a6f89fb470e92456b8313879df98b63c",
+  "Labels": {
+    "defi": {
+      "Token Name": "Cryption Network Token (CNT)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "layer-2": {
+      "Token Name": "Cryption Network Token (CNT)",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels."
+    }
+  }
+}

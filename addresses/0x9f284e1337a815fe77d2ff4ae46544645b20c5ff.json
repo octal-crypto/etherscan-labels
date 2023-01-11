@@ -1,0 +1,18 @@
+{
+  "Address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Evolution Land: Kryptonite",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "darwinia-network": {
+      "Name Tag": "Evolution Land: Kryptonite",
+      "Description": "Darwinia Network provides developers the scalability, cross-chain interoperability, and NFT identifiability, with seamless integrations to Polkadot, bridges to all major blockchains, and on-chain RNG services.",
+      "Token Name": "Darwinia Commitment Token (KTON)"
+    },
+    "gaming": {
+      "Token Name": "Darwinia Commitment Token (KTON)",
+      "Description": "The category relating to the playing of electronic games."
+    }
+  }
+}

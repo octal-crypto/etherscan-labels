@@ -1,0 +1,48 @@
+{
+  "Label": "armor-fi",
+  "Description": "<p>Armor is a smart insurance aggregator for DeFi, built on trustless and decentralized financial infrastructure.</p>",
+  "Addresses": {
+    "0xd7b8ef47c08f824cea3d837afa61484e81d14bfb": {
+      "Name Tag": "Armor.fi: ARMOR/DAI 1inch LP"
+    },
+    "0xa659e66e116d354e779d8dbb35319af67171ffb4": {
+      "Name Tag": "Armor.fi: ARMOR/DAI Uni LP"
+    },
+    "0x01acad2228f18598cd2b8611acd37992bf27313c": {
+      "Name Tag": "Armor.fi: ARMOR/WBTC Uni LP"
+    },
+    "0xf991f1e1b8acd657661c89b5cd452d86de76a8c1": {
+      "Name Tag": "Armor.fi: ARMOR/WETH Uni LP"
+    },
+    "0x1337def1670c54b2a70e590b5654c2b7ce1141a2": {
+      "Name Tag": "Armor.fi: arNFT Staking Contract"
+    },
+    "0xfdf5709d44b26a7dd112556dd1b1ce53c0eaf454": {
+      "Name Tag": "Armor.fi: ETH/ARMOR 1inch LP"
+    },
+    "0x1337def159da6f97db7c4d0e257dc689837b9e70": {
+      "Name Tag": "Armor.fi: FarmController"
+    },
+    "0x0bdb7976c34ab05e5a9031f258b8956f68ee29cf": {
+      "Name Tag": "Armor.fi: FarmController Master"
+    },
+    "0x1f28ed9d4792a567dad779235c2b766ab84d8e33": {
+      "Name Tag": "Armor.fi: MultiSig"
+    },
+    "0xeff1cdc3cc01afab104b00a7d9cd09619b94ae8f": {
+      "Name Tag": "Armor.fi: Referral Rewards Master"
+    },
+    "0x1337def1c79053da23921a3634adbd12f3b748a5": {
+      "Name Tag": "Armor.fi: Referral Rewards Proxy"
+    },
+    "0x1337def1b1ae35314b40e5a4b70e216a499b0e37": {
+      "Name Tag": "Armor.fi: Rewards Vault"
+    },
+    "0x1337def11d788e62a253fea846a505ee1b57623f": {
+      "Name Tag": "Armor.fi: Timelock"
+    },
+    "0x1337def16f9b486faed0293eb623dc8395dfe46a": {
+      "Token Name": "Armor (ARMOR)"
+    }
+  }
+}

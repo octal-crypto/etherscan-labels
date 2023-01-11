@@ -1,0 +1,18 @@
+{
+  "Address": "0x7705c572d9cc824fBA4e4EFb40F00916534396d9",
+  "Labels": {
+    "defi": {
+      "Token Name": "KimchiSwap (KSWAP)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "dex": {
+      "Token Name": "KimchiSwap (KSWAP)",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    },
+    "staking": {
+      "Token Name": "KimchiSwap (KSWAP)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    }
+  }
+}

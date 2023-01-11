@@ -1,0 +1,19 @@
+{
+  "Address": "0xe1be5d3f34e89de342ee97e6e90d405884da6c67",
+  "Labels": {
+    "blockchain": {
+      "Token Name": "TRON (TRX)",
+      "Description": "A blockchain is a public ledger of all cryptocurrency transactions. The following is a list of enterprise-level blockchain platforms."
+    },
+    "old-contract": {
+      "Name Tag": "TRON: Old TRX Token 2",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "tron": {
+      "Name Tag": "TRON: Old TRX Token 2",
+      "Description": "TRON is a blockchain-based operating system.",
+      "Token Name": "TRON (TRX)"
+    }
+  }
+}

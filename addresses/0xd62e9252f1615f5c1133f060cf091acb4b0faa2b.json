@@ -1,0 +1,11 @@
+{
+  "Address": "0xd62e9252f1615f5c1133f060cf091acb4b0faa2b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "NovaChain: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "NovaLend (NLC)"
+    }
+  }
+}

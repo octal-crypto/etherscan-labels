@@ -1,0 +1,11 @@
+{
+  "Address": "0x62195cfda73f99e1bff4881fdcfbf5c9576d3c88",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "lexDAO: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "lexDAO (LEX)"
+    }
+  }
+}

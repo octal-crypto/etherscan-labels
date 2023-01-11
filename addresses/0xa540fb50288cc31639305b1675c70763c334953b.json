@@ -1,0 +1,14 @@
+{
+  "Address": "0xa540fb50288cc31639305b1675c70763c334953b",
+  "Labels": {
+    "dex-ag": {
+      "Name Tag": "DEX.AG: Old Contract 3",
+      "Description": "DEX.AG splits trade orders across multiple DEXes to optimize for price and minimize slippage."
+    },
+    "old-contract": {
+      "Name Tag": "DEX.AG: Old Contract 3",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

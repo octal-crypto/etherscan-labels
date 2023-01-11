@@ -1,0 +1,10 @@
+{
+  "Address": "0x3f4134291ba124531484733e2782d46781c0b66c",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "TEAL: Old TEAC Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

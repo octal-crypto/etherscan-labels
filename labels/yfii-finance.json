@@ -1,0 +1,26 @@
+{
+  "Label": "yfii-finance",
+  "Description": "YFII.finance is a fork of Yearn.finance YFI with YIP 8 implemented.",
+  "Addresses": {
+    "0x16cac1403377978644e78769daa49d8f6b6cf565": {
+      "Name Tag": "Balancer: DAI/YFII 98/2 #2",
+      "Subcategory": "Main"
+    },
+    "0xaffcd3d45cef58b1dfa773463824c6f6bb0dc13a": {
+      "Name Tag": "YFII.finance: balancer",
+      "Subcategory": "Main"
+    },
+    "0xb81d3cb2708530ea990a287142b82d058725c092": {
+      "Name Tag": "YFII.finance: yearn",
+      "Subcategory": "Main"
+    },
+    "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83": {
+      "Name Tag": "YFII.finance: YFII Token",
+      "Subcategory": "Main"
+    },
+    "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83": {
+      "Token Name": "YFII.finance (YFII)",
+      "Subcategory": "Main"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0x6de5bdc580f55bc9dacafcb67b91674040a247e3",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "ZKSwap: V2 Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "layer-2": {
+      "Name Tag": "ZKSwap: V2 Bridge",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    }
+  }
+}

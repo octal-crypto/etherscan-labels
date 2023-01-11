@@ -1,0 +1,15 @@
+{
+  "Address": "0x7047f90229a057c13bf847c0744d646cfb6c9e1a",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yCRV-renBTC Vault",
+      "Token Name": "Curve renBTC Pool yVault (yvCurve-renBTC)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yCRV-renBTC Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "Curve renBTC Pool yVault (yvCurve-renBTC)"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0xf974b5f9Ac9c6632FeE8b76C61B0242ce69C839D",
+  "Labels": {
+    "blockchain": {
+      "Token Name": "ZyxToken (ZYX)",
+      "Description": "A blockchain is a public ledger of all cryptocurrency transactions. The following is a list of enterprise-level blockchain platforms."
+    },
+    "old-contract": {
+      "Name Tag": "ZyxNetwork: Old ZYX Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

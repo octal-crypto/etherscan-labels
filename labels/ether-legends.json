@@ -1,0 +1,23 @@
+{
+  "Label": "ether-legends",
+  "Description": "Ether Legends is a ground breaking collectible trading card game utilizing Blockchain technology for its fast, safe and reliable transactions while providing digital content ownership for all players!",
+  "Addresses": {
+    "0x719502d2755fcf269da27d9f07c96d68a2f3572a": {
+      "Name Tag": "Ether Legends: Elementeum Token Proxy",
+      "Subcategory": "Main"
+    },
+    "0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43": {
+      "Name Tag": "Ether Legends: ELET Token",
+      "Subcategory": "Main",
+      "Token Name": "Elementeum (ELET)"
+    },
+    "0xc7652d6f0d7c4a81029800ad94ef4c3a8f809950": {
+      "Name Tag": "Ether Legends: Deployer",
+      "Subcategory": "Others"
+    },
+    "0x79c59c24465fc3cc92e6419d4b59fdd285d874cf": {
+      "Name Tag": "Ether Legends: Token Sale",
+      "Subcategory": "Others"
+    }
+  }
+}

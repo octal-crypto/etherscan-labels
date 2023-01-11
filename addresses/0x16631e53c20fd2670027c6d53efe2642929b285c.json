@@ -1,0 +1,9 @@
+{
+  "Address": "0x16631e53c20fd2670027c6d53efe2642929b285c",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "pTokens SAFEMOON (pSAFEMOON)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

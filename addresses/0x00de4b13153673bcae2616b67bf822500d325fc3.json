@@ -1,0 +1,14 @@
+{
+  "Address": "0x00de4b13153673bcae2616b67bf822500d325fc3",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Gitcoin: Maintainer",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "gitcoin-grants": {
+      "Name Tag": "Gitcoin: Maintainer",
+      "Description": "Gitcoin Grants: Get substantial sustainable funding for your projects.",
+      "Subcategory": "Main"
+    }
+  }
+}

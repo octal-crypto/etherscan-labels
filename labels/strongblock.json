@@ -1,0 +1,25 @@
+{
+  "Label": "strongblock",
+  "Description": "StrongBlock is a Nodes-as-a-Service platform that provides nodes with passive income rewards.",
+  "Addresses": {
+    "0x099a91d684585618298250cc376a0531f83ef9a2": {
+      "Name Tag": "StrongBlock: Deployer"
+    },
+    "0x2e734269c869bda3ea6550f510d2514f2d66de71": {
+      "Name Tag": "StrongBlock: NFT",
+      "Token Name": " (-)"
+    },
+    "0xc5622f143972a5da6aabc5f5379311ee5eb48568": {
+      "Name Tag": "StrongBlock: Node Rewards"
+    },
+    "0xfbddadd80fe7bda00b901fbaf73803f2238ae655": {
+      "Name Tag": "StrongBlock: Service"
+    },
+    "0x990f341946a3fdb507ae7e52d17851b87168017c": {
+      "Name Tag": "StrongBlock: STRONG Token"
+    },
+    "0x990f341946A3fdB507aE7e52d17851B87168017c": {
+      "Token Name": "Strong (STRONG)"
+    }
+  }
+}

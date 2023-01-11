@@ -1,0 +1,14 @@
+{
+  "Address": "0xFAA965D80D956de59808974E33AdA054F7696de5",
+  "Labels": {
+    "data": {
+      "Token Name": "BTour Chain (BTOUR)",
+      "Description": "Information that is stored or processed by computers."
+    },
+    "old-contract": {
+      "Name Tag": "BTour Chain: Old BTOUR Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

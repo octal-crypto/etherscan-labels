@@ -1,0 +1,9 @@
+{
+  "Address": "0x69e5c11a7c30f0bf84a9faecbd5161aa7a94deca",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "loser coin (lowb)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

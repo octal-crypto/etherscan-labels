@@ -1,0 +1,22 @@
+{
+  "Address": "0x625ae63000f46200499120b906716420bd059240",
+  "Labels": {
+    "aave": {
+      "Name Tag": "Aave: aSUSD Token V1",
+      "Description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+      "Subcategory": "Main",
+      "Token Name": "Aave Interest bearing SUSD (aSUSD)"
+    },
+    "defi": {
+      "Token Name": "Aave Interest bearing SUSD (aSUSD)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "v1": {
+      "Name Tag": "Aave: aSUSD Token V1",
+      "Description": "Contracts associated with Version 1 of a project.",
+      "Subcategory": "Main",
+      "Token Name": "Aave Interest bearing SUSD (aSUSD)"
+    }
+  }
+}

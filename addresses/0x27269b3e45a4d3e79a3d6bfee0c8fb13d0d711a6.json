@@ -1,0 +1,15 @@
+{
+  "Address": "0x27269b3e45a4d3e79a3d6bfee0c8fb13d0d711a6",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy iXRP Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy iXRP Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth iXRP (iXRP)"
+    }
+  }
+}

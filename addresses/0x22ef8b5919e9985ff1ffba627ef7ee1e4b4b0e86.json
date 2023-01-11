@@ -1,0 +1,11 @@
+{
+  "Address": "0x22ef8b5919e9985ff1ffba627ef7ee1e4b4b0e86",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Xfinance: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Xfinance (XFI)"
+    }
+  }
+}

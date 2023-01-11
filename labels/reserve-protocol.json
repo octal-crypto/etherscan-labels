@@ -1,0 +1,29 @@
+{
+  "Label": "reserve-protocol",
+  "Description": "Reserve: The stable cryptocurrency that is economically and legally robust at any scale. Decentralized, 100% asset-backed, and funded by top Silicon Valley investors.",
+  "Addresses": {
+    "0x8762db106b2c2a0bccb3a80d1ed41273552616e8": {
+      "Name Tag": "Reserve Rights: Old RSR Token",
+      "Token Name": "Reserve Rights (RSR)"
+    },
+    "0xa4e581a0954952bec17201cf082380c95d8d644f": {
+      "Name Tag": "Reserve: Deployer"
+    },
+    "0xb8bf093045d5f2e4aac9062bd11a8f599f6565b5": {
+      "Name Tag": "Reserve: Eternal Storage"
+    },
+    "0x5ba9d812f5533f7cf2854963f7a9d212f8f28673": {
+      "Name Tag": "Reserve: Manager"
+    },
+    "0x1c5857e110cd8411054660f60b5de6a6958cfae2": {
+      "Name Tag": "Reserve: RSV Token",
+      "Token Name": "Reserve (RSV)"
+    },
+    "0xaedcfcdd80573c2a312d15d6bb9d921a01e4fb0f": {
+      "Name Tag": "Reserve: Vault"
+    },
+    "0x320623b8e4ff03373931769a31fc52a4e78b5d70": {
+      "Token Name": "Reserve Rights (RSR)"
+    }
+  }
+}

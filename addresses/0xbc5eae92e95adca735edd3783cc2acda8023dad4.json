@@ -1,0 +1,11 @@
+{
+  "Address": "0xbc5eae92e95adca735edd3783cc2acda8023dad4",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "MEXC: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "MEXC Token (MEXC)"
+    }
+  }
+}

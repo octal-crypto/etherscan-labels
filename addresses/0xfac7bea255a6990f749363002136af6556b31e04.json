@@ -1,0 +1,17 @@
+{
+  "Address": "0xfac7bea255a6990f749363002136af6556b31e04",
+  "Labels": {
+    "ens": {
+      "Name Tag": "ENS: Old ENS Token",
+      "Description": "ENS offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names.",
+      "Subcategory": "Legacy",
+      "Token Name": "Ethereum Name Service (ENS)"
+    },
+    "old-contract": {
+      "Name Tag": "ENS: Old ENS Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Ethereum Name Service (ENS)"
+    }
+  }
+}

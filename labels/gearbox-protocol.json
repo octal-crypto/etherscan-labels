@@ -1,0 +1,50 @@
+{
+  "Label": "gearbox-protocol",
+  "Description": "Gearbox Protocol is a generalized leverage protocol that allows you to take leverage in one place and use it across various DeFi protocols and platforms in a composable way.",
+  "Addresses": {
+    "0x444cd42baeddeb707eed823f7177b9abcc779c04": {
+      "Name Tag": "Gearbox Protocol: Account Factory",
+      "Subcategory": "Main"
+    },
+    "0x523da3a8961e4dd4f6206dbf7e6c749f51796bb3": {
+      "Name Tag": "Gearbox Protocol: ACL",
+      "Subcategory": "Main"
+    },
+    "0xcf64698aff7e5f27a11dff868af228653ba53be0": {
+      "Name Tag": "Gearbox Protocol: Address Provier",
+      "Subcategory": "Main"
+    },
+    "0xa50d4e7d8946a7c90652339cdbd262c375d54d99": {
+      "Name Tag": "Gearbox Protocol: Contracts Register",
+      "Subcategory": "Main"
+    },
+    "0x7b1aaf21ac0d420666b5966338ff9aee763c29df": {
+      "Name Tag": "Gearbox Protocol: Credit Account Mining",
+      "Subcategory": "Main"
+    },
+    "0x20da9f3d7d5cb96c2822338830cfd6dee6d508d8": {
+      "Name Tag": "Gearbox Protocol: Deployer",
+      "Subcategory": "Main"
+    },
+    "0xba3335588d9403515223f109edc4eb7269a9ab5d": {
+      "Name Tag": "Gearbox Protocol: GEAR Token",
+      "Subcategory": "Main"
+    },
+    "0x0e74a08443c5e39108520589176ac12ef65ab080": {
+      "Name Tag": "Gearbox Protocol: Price Oracle",
+      "Subcategory": "Main"
+    },
+    "0xa7d5ddc1b8557914f158076b228aa91ef613f1d5": {
+      "Name Tag": "Gearbox Protocol: Technical Multisig",
+      "Subcategory": "Main"
+    },
+    "0x7b065fcb0760df0cea8cfd144e08554f3cea73d1": {
+      "Name Tag": "Gearbox Protocol: Treasury Multisig",
+      "Subcategory": "Main"
+    },
+    "0x4f952c4c5415b2609899abdc2f8f352f600d14d6": {
+      "Name Tag": "Gearbox Protocol: WETH Gateway",
+      "Subcategory": "Main"
+    }
+  }
+}

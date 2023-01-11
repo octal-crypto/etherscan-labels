@@ -1,0 +1,10 @@
+{
+  "Address": "0x464b0b37db1ee1b5fbe27300acfbf172fd5e4f53",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "FKPool: Old Address",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

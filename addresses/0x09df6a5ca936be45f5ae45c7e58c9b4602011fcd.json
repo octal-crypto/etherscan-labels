@@ -1,0 +1,11 @@
+{
+  "Address": "0x09df6a5ca936be45f5ae45c7e58c9b4602011fcd",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Yearn.Fuel: Old YFUEL Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "yearn.fuel (YFUEL)"
+    }
+  }
+}

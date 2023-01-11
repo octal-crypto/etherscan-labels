@@ -1,0 +1,17 @@
+{
+  "Address": "0x78e14b9a8d006ec7e23988a0a87263569c3f4839",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old BBB Social Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "BullBearBitcoin Set (BBB)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old BBB Social Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "BullBearBitcoin Set (BBB)"
+    }
+  }
+}

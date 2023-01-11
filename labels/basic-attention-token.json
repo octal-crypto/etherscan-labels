@@ -1,0 +1,22 @@
+{
+  "Label": "basic-attention-token",
+  "Description": "Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users.\nThe token can be used to obtain a variety of advertising and attention-based services on the Brave platform. The utility of the token is based on user attention, which simply means a person’s focused mental engagement.",
+  "Addresses": {
+    "0x0d8775f648430679a709e98d2b0cb6250d2887ef": {
+      "Name Tag": "Basic Attention: BAT Token",
+      "Token Name": "BAT (BAT)"
+    },
+    "0x3095a47305efd248f6ce272c2db01297a91e8c41": {
+      "Name Tag": "BAT: Deployer"
+    },
+    "0x67fa2c06c9c6d4332f330e14a66bdf1873ef3d2b": {
+      "Name Tag": "BAT: Team Lockup"
+    },
+    "0x7c31560552170ce96c4a7b018e93cddc19dc61b6": {
+      "Name Tag": "BAT: UGP Reserve"
+    },
+    "0x44fcfabfbe32024a01b778c025d70498382cced0": {
+      "Name Tag": "BAT: Wallet"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "Labels": {
+    "wrapped-token": {
+      "Token Name": "Wrapped Ether (WETH)",
+      "Description": "A wrapped token is a representation of another original token which has been vaulted, allowing it to be used in a different format or on other blockchains."
+    }
+  }
+}

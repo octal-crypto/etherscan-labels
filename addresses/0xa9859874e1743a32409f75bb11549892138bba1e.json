@@ -1,0 +1,15 @@
+{
+  "Address": "0xa9859874e1743a32409f75bb11549892138bba1e",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy iETH Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy iETH Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth iETH (iETH)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0xc66ea802717bfb9833400264dd12c2bceaa34a6d",
+  "Labels": {
+    "maker": {
+      "Name Tag": "Maker: Old Token",
+      "Description": "Maker is a decentralized autonomous organization on the Ethereum blockchain seeking to minimize the price volatility of its own stable token — the Dai — against the U.S. Dollar."
+    },
+    "old-contract": {
+      "Name Tag": "Maker: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "MKR (MKR)"
+    }
+  }
+}

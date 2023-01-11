@@ -1,0 +1,13 @@
+{
+  "Address": "0xd49374d1d6d2b2d793035a0116f2b0d19230de26",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Bishu Finance (BishuFi)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "governance": {
+      "Token Name": "Bishu Finance (BishuFi)",
+      "Description": "The process of governing an organization."
+    }
+  }
+}

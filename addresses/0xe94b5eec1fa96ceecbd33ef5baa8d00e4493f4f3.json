@@ -1,0 +1,15 @@
+{
+  "Address": "0xe94b5eec1fa96ceecbd33ef5baa8d00e4493f4f3",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "SushiSwap: Treasury Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    },
+    "sushiswap": {
+      "Name Tag": "SushiSwap: Treasury Multisig",
+      "Description": "SushiSwap is a protocol for automated token exchange on Ethereum.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Address": "0xb13fa6eff52e6db8e9f0f1b60b744a9a9a01425a",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Blockchain Capital: Oracle DAO Node",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "oracle-dao": {
+      "Name Tag": "Blockchain Capital: Oracle DAO Node",
+      "Description": "Rocket Pool's Oracle DAO members provide duties to the protocol such as oracle tasks and providing staking liveliness for the protocol."
+    }
+  }
+}

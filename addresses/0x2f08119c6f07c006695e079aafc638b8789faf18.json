@@ -1,0 +1,15 @@
+{
+  "Address": "0x2f08119c6f07c006695e079aafc638b8789faf18",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yUSDT Vault",
+      "Token Name": "yearn Tether USD (yUSDT)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yUSDT Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Tether USD (yUSDT)"
+    }
+  }
+}

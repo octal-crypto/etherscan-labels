@@ -1,0 +1,9 @@
+{
+  "Address": "0x3a423bf3f811238fa5a8309fe17b9ddc34ce6341",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Rewind.Finance (RWI)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

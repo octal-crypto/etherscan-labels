@@ -1,0 +1,15 @@
+{
+  "Address": "0x90c1f9220d90d3966fbee24045edd73e1d588ad5",
+  "Labels": {
+    "yam-finance": {
+      "Name Tag": "Yearn.Finance: Voting YFI",
+      "Description": "Yam.Finance: Earn YAM tokens by providing liquidity.",
+      "Subcategory": "Others"
+    },
+    "yearn-finance": {
+      "Token Name": "Voting YFI (veYFI)",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others"
+    }
+  }
+}

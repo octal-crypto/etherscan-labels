@@ -1,0 +1,15 @@
+{
+  "Address": "0x775ee938186fddc13bd7c89d24820e1b0758f91d",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Zapper.Fi: Old Uniswap V2 Zap In 2",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "zapper-fi": {
+      "Name Tag": "Zapper.Fi: Old Uniswap V2 Zap In 2",
+      "Description": "Zapper.Fi: Get instant exposure across multiple DeFi protocols based on your investment goals.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

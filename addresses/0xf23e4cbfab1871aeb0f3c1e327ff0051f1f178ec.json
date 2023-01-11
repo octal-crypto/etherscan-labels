@@ -1,0 +1,17 @@
+{
+  "Address": "0xf23e4cbfab1871aeb0f3c1e327ff0051f1f178ec",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old BTC Network Demand Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "BTC Network Demand (BYTE)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old BTC Network Demand Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "BTC Network Demand (BYTE)"
+    }
+  }
+}

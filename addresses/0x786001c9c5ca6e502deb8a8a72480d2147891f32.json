@@ -1,0 +1,11 @@
+{
+  "Address": "0x786001c9c5ca6e502deb8a8a72480d2147891f32",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "BetProtocol: Old BEPRO Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "BetProtocolToken (BEPRO)"
+    }
+  }
+}

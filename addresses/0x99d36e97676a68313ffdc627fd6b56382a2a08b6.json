@@ -1,0 +1,9 @@
+{
+  "Address": "0x99d36e97676a68313ffdc627fd6b56382a2a08b6",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Baby Trump Token (BabyTrump)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

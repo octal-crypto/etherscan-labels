@@ -1,0 +1,9 @@
+{
+  "Address": "0xc12ecee46ed65d970ee5c899fcc7ae133aff9b03",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "TRYfinance (TRY)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

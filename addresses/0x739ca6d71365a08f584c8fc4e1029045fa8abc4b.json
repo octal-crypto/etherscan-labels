@@ -1,0 +1,13 @@
+{
+  "Address": "0x739ca6d71365a08f584c8fc4e1029045fa8abc4b",
+  "Labels": {
+    "multichain": {
+      "Name Tag": "Multichain: anyDAI Token",
+      "Description": "Multichain is a trustless protocol to bridge assets between heterogenous Layer-1 and Layer-2 platforms.",
+      "Token Name": "Dai Stablecoin (anyDAI)"
+    },
+    "stablecoin": {
+      "Token Name": "Dai Stablecoin (anyDAI)"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0xd178b20c6007572bd1fd01d205cc20d32b4a6015",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Aidus: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "aidus (AID)"
+    }
+  }
+}

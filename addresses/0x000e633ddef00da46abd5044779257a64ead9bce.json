@@ -1,0 +1,9 @@
+{
+  "Address": "0x000e633ddef00da46abd5044779257a64ead9bce",
+  "Labels": {
+    "mev-builder": {
+      "Name Tag": "MEV Builder: 0x000...bce",
+      "Description": "An address detected as an MEV block builder that collects and sequences transactions to produce blocks. Blockspace is sold to it by beacon chain validators."
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Fetch.ai: Old FET Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Fetch (FET)"
+    }
+  }
+}

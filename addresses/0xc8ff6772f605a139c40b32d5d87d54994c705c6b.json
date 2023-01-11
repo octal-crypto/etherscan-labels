@@ -1,0 +1,9 @@
+{
+  "Address": "0xc8ff6772f605a139c40b32d5d87d54994c705c6b",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Lion Token (LION)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

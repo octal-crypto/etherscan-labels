@@ -1,0 +1,11 @@
+{
+  "Address": "0x06b05ce580df7ae8cbba7e12438428e4e34e61d7",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Market Protocol: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "MARKET Protocol Token (MKT)"
+    }
+  }
+}

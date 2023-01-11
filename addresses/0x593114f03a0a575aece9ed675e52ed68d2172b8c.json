@@ -1,0 +1,17 @@
+{
+  "Address": "0x593114f03a0a575aece9ed675e52ed68d2172b8c",
+  "Labels": {
+    "authentication": {
+      "Token Name": "BidiPass (BDP)",
+      "Description": "The process of determining whether someone or something is, in fact genuine."
+    },
+    "identity": {
+      "Token Name": "BidiPass (BDP)",
+      "Description": "Identity verification related services to verify that end user submitted information is accurate and related to the identity of a genuine person."
+    },
+    "protocol": {
+      "Token Name": "BidiPass (BDP)",
+      "Description": "The underlying set of rules establishing how connected computers communicate with one another to exchange information."
+    }
+  }
+}

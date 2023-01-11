@@ -1,0 +1,14 @@
+{
+  "Address": "0x9a60ad6de185c4ea95058601beaf16f63742782a",
+  "Labels": {
+    "ico-wallets": {
+      "Name Tag": "Ethos: Multisig",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "multisig": {
+      "Name Tag": "Ethos: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Main"
+    }
+  }
+}

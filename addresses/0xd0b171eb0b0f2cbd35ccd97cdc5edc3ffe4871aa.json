@@ -1,0 +1,11 @@
+{
+  "Address": "0xd0b171eb0b0f2cbd35ccd97cdc5edc3ffe4871aa",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Moeda: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "MoedaLoyaltyPoints (MDA)"
+    }
+  }
+}

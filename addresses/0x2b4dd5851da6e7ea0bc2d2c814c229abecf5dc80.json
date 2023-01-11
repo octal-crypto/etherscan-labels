@@ -1,0 +1,11 @@
+{
+  "Address": "0x2b4dd5851da6e7ea0bc2d2c814c229abecf5dc80",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "MOBU: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "MOBU token (MOBU)"
+    }
+  }
+}

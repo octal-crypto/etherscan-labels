@@ -1,0 +1,9 @@
+{
+  "Address": "0x57865ba267d48671a41431f471933aec32a7c7d1",
+  "Labels": {
+    "mev-builder": {
+      "Name Tag": "Manifold Finance: Builder",
+      "Description": "An address detected as an MEV block builder that collects and sequences transactions to produce blocks. Blockspace is sold to it by beacon chain validators."
+    }
+  }
+}

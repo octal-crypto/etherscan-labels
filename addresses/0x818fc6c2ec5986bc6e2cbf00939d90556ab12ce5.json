@@ -1,0 +1,15 @@
+{
+  "Address": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5",
+  "Labels": {
+    "mainnet-launched": {
+      "Token Name": "Kin (KIN)",
+      "Description": "Companies whose Mainnet have launched and have migrated from the Ethereum Network. A reminder to swap your tokens to the respective Mainnet if you have yet to do so."
+    },
+    "old-contract": {
+      "Name Tag": "Kin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Kin (KIN)"
+    }
+  }
+}

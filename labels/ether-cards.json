@@ -1,0 +1,26 @@
+{
+  "Label": "ether-cards",
+  "Description": "Ether Cards provides an advanced set of tools for the NFT ecosystem. Create dynamic cards that activate discounts, enable access, unlock features, connect to physical items, grant upgrades, and trigger changes based on real-world events.",
+  "Addresses": {
+    "0x329542c7df6a5a59f278c68bd6318bbc82d93192": {
+      "Name Tag": "Ether Cards: Deployer"
+    },
+    "0xd25f03bdc4727b43bf09ace9cf25c5dea21d1532": {
+      "Name Tag": "Ether Cards: Deployer 2"
+    },
+    "0xcf01e438e6bc82653a65273f215ae5e5d19b1b33": {
+      "Name Tag": "Ether Cards: DUST Allocator"
+    },
+    "0xe2e109f1b4eaa8915655fe8fdefc112a34acc5f0": {
+      "Name Tag": "Ether Cards: DUST Token",
+      "Token Name": "DUST Token (DUST)"
+    },
+    "0x97ca7fe0b0288f5eb85f386fed876618fb9b8ab8": {
+      "Name Tag": "Ether Cards: ECF Token",
+      "Token Name": "Ether Cards Founder (ECF)"
+    },
+    "0xcc45a0765e4fcfe174ae6ba7c4f20e1fa3bedb4d": {
+      "Name Tag": "Ether Cards: Extra DUST Allocator"
+    }
+  }
+}

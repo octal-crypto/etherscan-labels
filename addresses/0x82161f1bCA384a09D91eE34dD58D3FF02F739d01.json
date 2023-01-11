@@ -1,0 +1,9 @@
+{
+  "Address": "0x82161f1bCA384a09D91eE34dD58D3FF02F739d01",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Tokyolympic (TKYO)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

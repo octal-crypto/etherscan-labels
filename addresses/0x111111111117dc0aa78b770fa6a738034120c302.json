@@ -1,0 +1,20 @@
+{
+  "Address": "0x111111111117dc0aa78b770fa6a738034120c302",
+  "Labels": {
+    "1inch": {
+      "Name Tag": "1inch: 1INCH Token",
+      "Description": "1inch Network is a DEX aggregator solution that searches deals across multiple liquidity sources, offering users better rates than individual exchanges.",
+      "Subcategory": "Others",
+      "Token Name": "1INCH Token (1INCH)"
+    },
+    "defi": {
+      "Token Name": "1INCH Token (1INCH)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "dex": {
+      "Token Name": "1INCH Token (1INCH)",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0x88c8cf3a212c0369698d13fe98fcb76620389841",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy sEOS Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy sEOS Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth sEOS (sEOS)"
+    }
+  }
+}

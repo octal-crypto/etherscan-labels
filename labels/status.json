@@ -1,0 +1,31 @@
+{
+  "Label": "status",
+  "Description": "Status is a messenger, crypto wallet, and Web3 browser built with state of the art technology.",
+  "Addresses": {
+    "0x744d70fdbe2ba4cf95131626614a1763df805b9e": {
+      "Name Tag": "Status Network: SNT Token",
+      "Subcategory": "Main",
+      "Token Name": "StatusNetwork (SNT)"
+    },
+    "0xbbf0cc1c63f509d48a4674e270d26d80ccaf6022": {
+      "Name Tag": "Status: Community MultiSig",
+      "Subcategory": "Main"
+    },
+    "0xa646e29877d52b9e2de457eca09c724ff16d0a2b": {
+      "Name Tag": "Status: Research & Development MultiSig",
+      "Subcategory": "Main"
+    },
+    "0x6b9ef02657339310e28a7a9d4b5f25f7c1f68d61": {
+      "Name Tag": "Status: Deployer 1",
+      "Subcategory": "Others"
+    },
+    "0x55d34b686aa8c04921397c5807db9ecedba00a4c": {
+      "Name Tag": "Status: Token Sale",
+      "Subcategory": "Others"
+    },
+    "0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468": {
+      "Name Tag": "Status: Old Genesis Token",
+      "Subcategory": "Legacy"
+    }
+  }
+}

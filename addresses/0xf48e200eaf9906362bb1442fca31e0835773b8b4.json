@@ -1,0 +1,15 @@
+{
+  "Address": "0xf48e200eaf9906362bb1442fca31e0835773b8b4",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy sAUD Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy sAUD Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth sAUD (sAUD)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0xf5a38fbc26c720c79350b99d9c0bd42b3e9b8316",
+  "Labels": {
+    "nuo-network": {
+      "Name Tag": "Nuo Network: Account Factory",
+      "Description": "Nuo Network: Lend and borrow cryptocurrency.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "Nuo Network: Account Factory",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

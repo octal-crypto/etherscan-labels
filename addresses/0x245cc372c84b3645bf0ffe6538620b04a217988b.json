@@ -1,0 +1,15 @@
+{
+  "Address": "0x245cc372c84b3645bf0ffe6538620b04a217988b",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "OlympusDAO: DAO Funds",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    },
+    "olympusdao": {
+      "Name Tag": "OlympusDAO: DAO Funds",
+      "Description": "OlympusDAO is building a decentralized reserve currency that remains unbound by a peg.",
+      "Subcategory": "Main"
+    }
+  }
+}

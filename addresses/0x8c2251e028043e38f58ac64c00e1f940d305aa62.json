@@ -1,0 +1,10 @@
+{
+  "Address": "0x8c2251e028043e38f58ac64c00e1f940d305aa62",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "ElasticDAO: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Label": "revest-finance",
+  "Description": "The Revest Protocol pioneers a revolutionary new use of NFTs as financial tools. Individual and project level users can deposit any ERC20 into interactive FNFTs and set custom unlocking conditions (time, value, or contract based).",
+  "Addresses": {
+    "0xd721a90dd7e010c8c5e022cc0100c55ac78e0fc4": {
+      "Name Tag": "Revest Finance: Address Registry"
+    },
+    "0x9b3cab26947f15b4fcbf70d258989d58fc8e1d66": {
+      "Name Tag": "Revest Finance: Chainlink Oracle"
+    },
+    "0xeb3bc40acebabf62d31b0d52fe3ff327b7c82cbc": {
+      "Name Tag": "Revest Finance: Combo Lock"
+    },
+    "0xc03bb46b3bfd42e6a2bf20ad6fa660e4bd3736f8": {
+      "Name Tag": "Revest Finance: Cronje Sun V3 TWAP"
+    },
+    "0xe952bda8c06481506e4731c4f54ced2d4ab81659": {
+      "Name Tag": "Revest Finance: FNFT Handler"
+    },
+    "0x226124e83868812d3dae87eb3c5f28047e1070b7": {
+      "Name Tag": "Revest Finance: Lock Manager"
+    },
+    "0x5b7a093949aaa9ef70e5a563e50aaf5f60154602": {
+      "Name Tag": "Revest Finance: Metadata"
+    },
+    "0x2320a28f52334d62622cc2eafa15de55f9987ed9": {
+      "Name Tag": "Revest Finance: Revest"
+    },
+    "0xa4e7f2a1edb5ad886baa09fb258f8aca7c934ba6": {
+      "Name Tag": "Revest Finance: Rewards Handler"
+    },
+    "0x120a3879da835a5af037bb2d1456bebd6b54d4ba": {
+      "Name Tag": "Revest Finance: RVST Token"
+    },
+    "0x07317ed9204c9e76df03f106ceffd5b021c5f6a5": {
+      "Name Tag": "Revest Finance: Staking"
+    },
+    "0xfd7e5a314b46b41a97d0c5ee6f2a9559e877a756": {
+      "Name Tag": "Revest Finance: Supply Lock"
+    },
+    "0xa81bd16aa6f6b25e66965a2f842e9c806c0aa11f": {
+      "Name Tag": "Revest Finance: Token Vault"
+    },
+    "0x13cd285a7209901f48978b690f1082b25396912b": {
+      "Name Tag": "Revest Finance: Uniswap Oracle"
+    }
+  }
+}

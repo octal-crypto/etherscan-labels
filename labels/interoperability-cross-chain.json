@@ -1,0 +1,111 @@
+{
+  "Label": "interoperability-cross-chain",
+  "Description": "The interoperability between two relatively independent blockchains which allows them to communicate and transfer value with one another.",
+  "Addresses": {
+    "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a": {
+      "Token Name": "WAVES (WAVES)"
+    },
+    "0xf17e65822b568b3903685a7c9f496cf7656cc6c2": {
+      "Token Name": "Biconomy Token (BICO)"
+    },
+    "0x467719ad09025fcc6cf6f8311755809d45a5e5f3": {
+      "Token Name": "Axelar (AXL)"
+    },
+    "0x2e93FE8d550a7B7E7b2e561cd45ceBccbAa79358": {
+      "Token Name": "GXChain Core Asset (GXC)"
+    },
+    "0xd0352a019e9ab9d757776f532377aaebd36fd541": {
+      "Token Name": "Fusion (FSN)"
+    },
+    "0x9E976F211daea0D652912AB99b0Dc21a7fD728e4": {
+      "Token Name": "MAP Protocol (MAP)"
+    },
+    "0xf5cfbc74057c610c8ef151a439252680ac68c6dc": {
+      "Token Name": "Octopus Network Token (OCT)"
+    },
+    "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9": {
+      "Token Name": "BoringDAO (BOR)"
+    },
+    "0xe5caef4af8780e59df925470b050fb23c43ca68c": {
+      "Token Name": "Ferrum Network Token (FRM)"
+    },
+    "0x7b6f71c8b123b38aa8099e0098bec7fbc35b8a13": {
+      "Token Name": "Nerve Network (NVT)"
+    },
+    "0x03D1E72765545729A035e909eDd9371a405f77Fb": {
+      "Token Name": "Nabox Token (NABOX)"
+    },
+    "0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d": {
+      "Token Name": "Graviton (GTON)"
+    },
+    "0x07c9eEFd9059381144265600d3Cbf4974312861b": {
+      "Token Name": "Hycon (HYC)"
+    },
+    "0x5967BE3D7B38CEa1f3E5f8d7dEB7860cCfa21CB2": {
+      "Token Name": "Onto Swap (OSWAP)"
+    },
+    "0x195832a377c09074518c1f3aaeb4bc981f79938f": {
+      "Token Name": "IDO Launchpad (IDO)"
+    },
+    "0x17c090F9a17E4e5a8cEb23bbe7E7e28E3C4Ca196": {
+      "Token Name": "BitDNS (DNS)"
+    },
+    "0x62786eeacc9246b4018e0146cb7a3efeacd9459d": {
+      "Token Name": "LessToken (LESS)"
+    },
+    "0x9ccf191169a613eca433a249d3f40131178caebc": {
+      "Token Name": "MicroChains Gov Token (MCG)"
+    },
+    "0xd9b89eee86b15634c70cab51baf85615a4ab91a1": {
+      "Token Name": "Locklet (LKT)"
+    },
+    "0xdef1fac7bf08f173d286bbbdcbeeade695129840": {
+      "Token Name": "Cerby Token (CERBY)"
+    },
+    "0x4129d3b7a6a2c5c997774077ac02bdafd1af1d6a": {
+      "Token Name": "Ladder Network (LAD)"
+    },
+    "0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D": {
+      "Token Name": "Wrapped ABBC (WABBC)"
+    },
+    "0x4DFe67781D8b177f5a8536aD817BB9eB2c052F48": {
+      "Token Name": "X0swap Token (X0)"
+    },
+    "0xadfb28426864c0ff169f5dcead2efdd09e0deec9": {
+      "Token Name": "PAREX (PRX)"
+    },
+    "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f": {
+      "Token Name": "RAMP DEFI (RAMP)"
+    },
+    "0x5316f8106d71362e40d0f01724ee6218007e620d": {
+      "Token Name": "GasBack.Tech (GASB)"
+    },
+    "0x1d96fd43ee07aa79f8fd003cbdf404fb5ce41ad2": {
+      "Token Name": "Qawalla Token (QWLA)"
+    },
+    "0x47da5456bc2e1ce391b645ce80f2e97192e4976a": {
+      "Token Name": "Pl^g Token (PLUG)"
+    },
+    "0x64875aaa68d1d5521666c67d692ee0b926b08b2f": {
+      "Token Name": "CelsiusX Wrapped ADA (cxADA)"
+    },
+    "0x79b4D12Fa63A8d1202b26c5Ba6d62136A4A09dDa": {
+      "Token Name": "SymVerse (SYM)"
+    },
+    "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F": {
+      "Token Name": "Across Protocol Token (ACX)"
+    },
+    "0x12e57f85b847bade37f37cde3442f00dc33b9982": {
+      "Token Name": "Love (LOVE)"
+    },
+    "0x14EB60F5f270B059B0c788De0Ddc51Da86f8a06d": {
+      "Token Name": "Phantasma Energy (KCAL)"
+    },
+    "0xf9e293d5d793ddc1ae4f778761e0b3e4aa7cf2dd": {
+      "Token Name": "CelsiusX Wrapped DOGE (cxDOGE)"
+    },
+    "0x88c64a7d2ecc882d558dd16abc1537515a78bb7d": {
+      "Token Name": "Shifted BTC (zBTC)"
+    }
+  }
+}

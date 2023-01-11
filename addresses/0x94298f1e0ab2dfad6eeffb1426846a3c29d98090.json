@@ -1,0 +1,11 @@
+{
+  "Address": "0x94298f1e0ab2dfad6eeffb1426846a3c29d98090",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "MyBit: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "MyBit Token (MyB)"
+    }
+  }
+}

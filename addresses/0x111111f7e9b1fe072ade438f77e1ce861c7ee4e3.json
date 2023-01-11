@@ -1,0 +1,11 @@
+{
+  "Address": "0x111111f7e9b1fe072ade438f77e1ce861c7ee4e3",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "BitClave: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Consumer Activity Token (CAT)"
+    }
+  }
+}

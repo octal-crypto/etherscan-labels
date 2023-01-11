@@ -1,0 +1,11 @@
+{
+  "Address": "0xe9a9d1101204b51e8620a28e471f44bb8775e50d",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "SWTCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "SWTCoin (SWAT)"
+    }
+  }
+}

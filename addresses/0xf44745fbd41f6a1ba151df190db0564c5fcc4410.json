@@ -1,0 +1,15 @@
+{
+  "Address": "0xf44745fbd41f6a1ba151df190db0564c5fcc4410",
+  "Labels": {
+    "mainnet-launched": {
+      "Token Name": "COPYTRACK (CPY)",
+      "Description": "Companies whose Mainnet have launched and have migrated from the Ethereum Network. A reminder to swap your tokens to the respective Mainnet if you have yet to do so."
+    },
+    "old-contract": {
+      "Name Tag": "Copytrack: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "COPYTRACK (CPY)"
+    }
+  }
+}

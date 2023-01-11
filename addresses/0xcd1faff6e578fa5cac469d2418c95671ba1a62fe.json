@@ -1,0 +1,18 @@
+{
+  "Address": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Torum: XTM Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "defi": {
+      "Token Name": "Torum (XTM)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "metaverse": {
+      "Token Name": "Torum (XTM)",
+      "Description": "A virtual-reality space in which users can interact with a computer-generated environment and other users."
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0x849d52316331967b6ff1198e5e32a0eb168d039d",
+  "Labels": {
+    "maker-vault-owner": {
+      "Name Tag": "Gnosis: Active Treasury Management",
+      "Description": "A Maker Vault allows a user to deposit cryptocurrency collateral and generate Dai. Vaults are categorized by the type of collateral used to generated Dai. Users create Dai by generating it against their collateral and destroy Dai when repaying their generated Dai balance."
+    }
+  }
+}

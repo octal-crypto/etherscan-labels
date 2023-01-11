@@ -1,0 +1,34 @@
+{
+  "Label": "tbtc",
+  "Description": "tBTC: Deposit and redeem BTC in DeFi without intermediaries.",
+  "Addresses": {
+    "0x3a35ddbb0e06241ee38bf78d90256eab5833483b": {
+      "Name Tag": "tBTC: Deployer",
+      "Subcategory": "Others"
+    },
+    "0x41a1b40c1280883ea14c6a71e23bb66b83b3fb59": {
+      "Name Tag": "tBTC: System",
+      "Subcategory": "Others"
+    },
+    "0x8daebade922df735c38c80c7ebd708af50815faa": {
+      "Name Tag": "tBTC: TBTC Token",
+      "Subcategory": "Others"
+    },
+    "0xca563c455b7dda86d55310c71fbd6ed132c5c28c": {
+      "Name Tag": "tBTC: Vending Machine",
+      "Subcategory": "Others"
+    },
+    "0x1bbe271d15bb64df0bc6cd28df9ff322f2ebd847": {
+      "Name Tag": "tBTC: old TBTC Token",
+      "Subcategory": "Legacy"
+    },
+    "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa": {
+      "Token Name": "tBTC (TBTC)",
+      "Subcategory": "Main"
+    },
+    "0x1bBE271d15Bb64dF0bc6CD28Df9Ff322F2eBD847": {
+      "Token Name": "tBTC (TBTC)",
+      "Subcategory": "Legacy"
+    }
+  }
+}

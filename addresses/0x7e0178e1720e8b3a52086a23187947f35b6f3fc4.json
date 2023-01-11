@@ -1,0 +1,10 @@
+{
+  "Address": "0x7e0178e1720e8b3a52086a23187947f35b6f3fc4",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Dicether: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

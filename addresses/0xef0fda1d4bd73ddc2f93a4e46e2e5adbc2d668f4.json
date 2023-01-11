@@ -1,0 +1,17 @@
+{
+  "Address": "0xef0fda1d4bd73ddc2f93a4e46e2e5adbc2d668f4",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old ETH 20 Day MA Crossover Yield Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "ETH 20 MA Crossover Yield (ETHMACOAPY)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old ETH 20 Day MA Crossover Yield Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "ETH 20 MA Crossover Yield (ETHMACOAPY)"
+    }
+  }
+}

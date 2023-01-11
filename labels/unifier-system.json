@@ -1,0 +1,26 @@
+{
+  "Label": "unifier-system",
+  "Description": "Unifier System token, Unifier or known as UNIF it’s an Decentralized global open-source token ®DeFi #BackedbyUSD",
+  "Addresses": {
+    "0xec02cec4edd54196d2767b61f43b29a49b056fe6": {
+      "Name Tag": "Unifier System: UNIF Token",
+      "Subcategory": "Main"
+    },
+    "0x0d93efb410765f2025b2ae07740274eb495fafeb": {
+      "Name Tag": "Unifier System: USDC Treasure",
+      "Subcategory": "Main"
+    },
+    "0xcaee4a96e3fa7efea170f7df9658aefd2cbe7e7c": {
+      "Name Tag": "Unifier System: USDT Treasure",
+      "Subcategory": "Main"
+    },
+    "0x6fbaec24476322c597d760cda4856e32718d39e3": {
+      "Name Tag": "Unifier System: Deployer",
+      "Subcategory": "Others"
+    },
+    "0xEC02cEc4eDD54196D2767b61F43b29A49b056fe6": {
+      "Token Name": "Unifier (UNIF)",
+      "Subcategory": "Main"
+    }
+  }
+}

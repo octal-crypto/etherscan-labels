@@ -1,0 +1,18 @@
+{
+  "Address": "0x8ec58faa4c1b693b50b7f1331897ad6b52dd824a",
+  "Labels": {
+    "factory-contract": {
+      "Name Tag": "Synthetix: Old Binary Option Market Factory",
+      "Description": "Contracts which create multiple contracts."
+    },
+    "options-trading": {
+      "Name Tag": "Synthetix: Old Binary Option Market Factory",
+      "Subcategory": "Legacy"
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Old Binary Option Market Factory",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

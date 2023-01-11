@@ -1,0 +1,11 @@
+{
+  "Address": "0xc6ea98b258be9be21d88d6e501ae8728a8a09b35",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Gimmer: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Gimmer (GMR)"
+    }
+  }
+}

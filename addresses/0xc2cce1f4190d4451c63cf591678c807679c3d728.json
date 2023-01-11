@@ -1,0 +1,14 @@
+{
+  "Address": "0xc2cce1f4190d4451c63cf591678c807679c3d728",
+  "Labels": {
+    "ico-wallets": {
+      "Name Tag": "WeTrust: Multisig",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "multisig": {
+      "Name Tag": "WeTrust: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

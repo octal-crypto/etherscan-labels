@@ -1,0 +1,15 @@
+{
+  "Address": "0x37d19d1c4e1fa9dc47bd1ea12f742a0887eda74a",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yTUSD Vault",
+      "Token Name": "yearn TrueUSD (yTUSD)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yTUSD Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn TrueUSD (yTUSD)"
+    }
+  }
+}

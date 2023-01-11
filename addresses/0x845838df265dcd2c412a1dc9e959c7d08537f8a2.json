@@ -1,0 +1,20 @@
+{
+  "Address": "0x845838df265dcd2c412a1dc9e959c7d08537f8a2",
+  "Labels": {
+    "curve-fi": {
+      "Name Tag": "Curve.fi: cCrv Token",
+      "Description": "Curve is an exchange liquidity pool on Ethereum (like Uniswap) designed for (1) extremely efficient stablecoin trading (2) low risk, supplemental fee income for liquidity providers, without an opportunity cost.",
+      "Subcategory": "Main",
+      "Token Name": "Curve.fi cDAI/cUSDC (cDAI+cUSDC)"
+    },
+    "defi": {
+      "Token Name": "Curve.fi cDAI/cUSDC (cDAI+cUSDC)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "dex": {
+      "Token Name": "Curve.fi cDAI/cUSDC (cDAI+cUSDC)",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    }
+  }
+}

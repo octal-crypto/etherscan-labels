@@ -1,0 +1,22 @@
+{
+  "Address": "0x328c4c80bc7aca0834db37e6600a6c49e12da4de",
+  "Labels": {
+    "aave": {
+      "Name Tag": "Aave: aSNX Token V1",
+      "Description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+      "Subcategory": "Main",
+      "Token Name": "Aave Interest bearing SNX (aSNX)"
+    },
+    "defi": {
+      "Token Name": "Aave Interest bearing SNX (aSNX)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "v1": {
+      "Name Tag": "Aave: aSNX Token V1",
+      "Description": "Contracts associated with Version 1 of a project.",
+      "Subcategory": "Main",
+      "Token Name": "Aave Interest bearing SNX (aSNX)"
+    }
+  }
+}

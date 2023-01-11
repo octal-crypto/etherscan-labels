@@ -1,0 +1,14 @@
+{
+  "Address": "0x90e6E082B0aa4bf6AFBA0d11163d920A534EBae4",
+  "Labels": {
+    "defi": {
+      "Token Name": "Defiance (DEF)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "deflationary-token": {
+      "Token Name": "Defiance (DEF)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

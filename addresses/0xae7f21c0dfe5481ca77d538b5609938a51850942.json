@@ -1,0 +1,16 @@
+{
+  "Address": "0xae7f21c0dfe5481ca77d538b5609938a51850942",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Synthetix: Old Proxy iCEX Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Synth iCEX (iCEX)"
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Old Proxy iCEX Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

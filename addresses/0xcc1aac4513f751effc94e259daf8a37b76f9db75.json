@@ -1,0 +1,19 @@
+{
+  "Address": "0xcc1aac4513f751effc94e259daf8a37b76f9db75",
+  "Labels": {
+    "bancor": {
+      "Name Tag": "Bancor: Multisig 3",
+      "Description": "Bancor is a decentralized liquidity network that allows you to hold any token and convert it to any other token in the network, with no counterparty, at an automatically calculated price, using a simple web wallet.",
+      "Subcategory": "Others"
+    },
+    "ico-wallets": {
+      "Name Tag": "Bancor: Multisig 3",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "multisig": {
+      "Name Tag": "Bancor: Multisig 3",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Main"
+    }
+  }
+}

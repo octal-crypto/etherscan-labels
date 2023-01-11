@@ -1,0 +1,15 @@
+{
+  "Label": "metamask",
+  "Description": "MetaMask is a crypto wallet & a gateway to blockchain apps. It provides an essential utility for blockchain newcomers, token traders, crypto gamers, and developers.",
+  "Addresses": {
+    "0xf326e4de8f66a0bdc0970b79e0924e33c79f1915": {
+      "Name Tag": "MetaMask: DS Proxy"
+    },
+    "0x11ededebf63bef0ea2d2d071bdf88f71543ec6fb": {
+      "Name Tag": "Metamask: Fees"
+    },
+    "0x881d40237659c251811cec9c364ef91dc08d300c": {
+      "Name Tag": "Metamask: Swap Router"
+    }
+  }
+}

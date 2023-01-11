@@ -1,0 +1,19 @@
+{
+  "Address": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6",
+  "Labels": {
+    "bitcoin-pegged": {
+      "Token Name": "Synth sBTC (sBTC)",
+      "Description": "Tokens that are pegged 1:1 to bitcoin"
+    },
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy sBTC Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy sBTC Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth sBTC (sBTC)"
+    }
+  }
+}

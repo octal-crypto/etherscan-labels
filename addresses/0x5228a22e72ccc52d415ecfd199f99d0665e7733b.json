@@ -1,0 +1,10 @@
+{
+  "Address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "pTokens: Old pBTC Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

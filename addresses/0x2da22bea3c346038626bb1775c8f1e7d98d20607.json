@@ -1,0 +1,11 @@
+{
+  "Address": "0x2da22bea3c346038626bb1775c8f1e7d98d20607",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Jincor: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Jincor Token (JCR)"
+    }
+  }
+}

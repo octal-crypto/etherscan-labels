@@ -1,0 +1,10 @@
+{
+  "Address": "0x232ba9f3b3643ab28d28ed7ee18600708d60e5fe",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Bitcratic: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

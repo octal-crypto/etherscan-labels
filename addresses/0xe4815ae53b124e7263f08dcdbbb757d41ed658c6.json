@@ -1,0 +1,14 @@
+{
+  "Address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "ZKSwap: ZKS Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "defi": {
+      "Token Name": "Zks (ZKS)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    }
+  }
+}

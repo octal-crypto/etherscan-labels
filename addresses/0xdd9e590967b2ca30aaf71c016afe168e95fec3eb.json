@@ -1,0 +1,11 @@
+{
+  "Address": "0xdd9e590967b2ca30aaf71c016afe168e95fec3eb",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "RobotInfra: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "RobotInfra (ROBOT)"
+    }
+  }
+}

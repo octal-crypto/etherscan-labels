@@ -1,0 +1,15 @@
+{
+  "Address": "0x05cf62c4ba0ccea3da680f9a8744ac51116d6231",
+  "Labels": {
+    "chainlink": {
+      "Name Tag": "Chainlink: Old AUD/USD Price Feed",
+      "Description": "Chainlink: Your smart contracts connected to real world data, events and payments.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "Chainlink: Old AUD/USD Price Feed",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

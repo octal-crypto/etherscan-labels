@@ -1,0 +1,11 @@
+{
+  "Address": "0x48c80f1f4d53d5951e5d5438b54cba84f29f32a5",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Augur: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Reputation (REP)"
+    }
+  }
+}

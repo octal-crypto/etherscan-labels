@@ -1,0 +1,11 @@
+{
+  "Address": "0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Zloadr: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Zloadr (ZDR)"
+    }
+  }
+}

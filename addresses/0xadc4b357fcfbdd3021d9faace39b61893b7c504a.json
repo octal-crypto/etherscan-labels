@@ -1,0 +1,9 @@
+{
+  "Address": "0xadc4b357fcfbdd3021d9faace39b61893b7c504a",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Polkamoon (PMOON)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

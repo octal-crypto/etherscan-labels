@@ -1,0 +1,15 @@
+{
+  "Address": "0x042065416c5c665dc196076745326af3cd840d15",
+  "Labels": {
+    "layer-2": {
+      "Name Tag": "Optimism: Fraud Verifier",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Main"
+    },
+    "optimism": {
+      "Name Tag": "Optimism: Fraud Verifier",
+      "Description": "Optimism is a scalability stack for Ethereum.",
+      "Subcategory": "Main"
+    }
+  }
+}

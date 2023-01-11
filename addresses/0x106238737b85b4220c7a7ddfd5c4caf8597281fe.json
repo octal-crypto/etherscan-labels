@@ -1,0 +1,10 @@
+{
+  "Address": "0x106238737b85b4220c7a7ddfd5c4caf8597281fe",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "BurnX: Old BurnX Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0x358d12436080a01a16f711014610f8a4c2c2d233",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Pundi X: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Pundi X (PXS)"
+    },
+    "pundi-x": {
+      "Name Tag": "Pundi X: Old Token",
+      "Description": "Pundi X: Use digital currency anytime, anywhere."
+    }
+  }
+}

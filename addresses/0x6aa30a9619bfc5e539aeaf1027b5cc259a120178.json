@@ -1,0 +1,14 @@
+{
+  "Address": "0x6aa30a9619bfc5e539aeaf1027b5cc259a120178",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Orchid: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "orchid": {
+      "Name Tag": "Orchid: Old Contract",
+      "Description": "Orchid enables a decentralized VPN."
+    }
+  }
+}

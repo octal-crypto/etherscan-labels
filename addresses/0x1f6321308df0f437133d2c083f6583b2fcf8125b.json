@@ -1,0 +1,17 @@
+{
+  "Address": "0x1f6321308df0f437133d2c083f6583b2fcf8125b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old ETH Trending Alpha ST Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "ETH Trending Alpha ST (ETAS)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old ETH Trending Alpha ST Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "ETH Trending Alpha ST (ETAS)"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Address": "0x84810bcf08744d5862b8181f12d17bfd57d3b078",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "SharedStake: Old SGT Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Address": "0x88160f65db0ad427cb7b331e294eb904bc47b35c",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "CardioCoin: Old CRDC Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

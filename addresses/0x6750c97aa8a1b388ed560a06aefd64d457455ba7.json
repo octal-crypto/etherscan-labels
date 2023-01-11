@@ -1,0 +1,11 @@
+{
+  "Address": "0x6750c97aa8a1b388ed560a06aefd64d457455ba7",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Blocktix: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Blocktix Token (TIX)"
+    }
+  }
+}

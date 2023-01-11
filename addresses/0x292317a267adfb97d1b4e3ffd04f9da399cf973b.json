@@ -1,0 +1,11 @@
+{
+  "Address": "0x292317a267adfb97d1b4e3ffd04f9da399cf973b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Credits: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "CREDITS (CS)"
+    }
+  }
+}

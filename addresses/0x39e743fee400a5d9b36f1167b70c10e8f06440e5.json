@@ -1,0 +1,11 @@
+{
+  "Address": "0x39e743fee400a5d9b36f1167b70c10e8f06440e5",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "TNC Group: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "TNC Group Token (TNC)"
+    }
+  }
+}

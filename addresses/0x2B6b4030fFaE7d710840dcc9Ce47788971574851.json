@@ -1,0 +1,12 @@
+{
+  "Address": "0x2B6b4030fFaE7d710840dcc9Ce47788971574851",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "PowerCore (POW3R)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "yield-farming": {
+      "Token Name": "PowerCore (POW3R)"
+    }
+  }
+}

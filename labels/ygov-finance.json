@@ -1,0 +1,37 @@
+{
+  "Label": "ygov-finance",
+  "Addresses": {
+    "0x033e52f513f9b98e129381c6708f9faa2dee5db5": {
+      "Name Tag": "Ygov.finance: Balancer",
+      "Subcategory": "Main"
+    },
+    "0xb01419e74d8a2abb1bbad82925b19c36c191a701": {
+      "Name Tag": "Ygov.finance: Fee Rewards",
+      "Subcategory": "Main"
+    },
+    "0x3a22df48d84957f907e67f4313e3d43179040d6e": {
+      "Name Tag": "Ygov.finance: Governance",
+      "Subcategory": "Main"
+    },
+    "0xba37b002abafdd8e89a1995da52740bbc013d992": {
+      "Name Tag": "Ygov.finance: Governance Staking",
+      "Subcategory": "Main"
+    },
+    "0xcc9efea3ac5df6ad6a656235ef955fbfef65b862": {
+      "Name Tag": "Ygov.finance: Rewards",
+      "Subcategory": "Main"
+    },
+    "0x0001fb050fe7312791bf6475b96569d83f695c9f": {
+      "Name Tag": "Ygov.finance: yearn ",
+      "Subcategory": "Main"
+    },
+    "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e": {
+      "Name Tag": "Ygov.finance: YFI Token",
+      "Subcategory": "Main"
+    },
+    "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
+      "Token Name": "yearn.finance (YFI)",
+      "Subcategory": "Main"
+    }
+  }
+}

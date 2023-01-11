@@ -1,0 +1,10 @@
+{
+  "Address": "0x55b9a11c2e8351b4ffc7b11561148bfac9977855",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Digix: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

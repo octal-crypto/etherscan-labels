@@ -1,0 +1,12 @@
+{
+  "Address": "0x3c0a9d9b70a253b47443470a28e2d8422b9c882f",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Pekker Token (PKR)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "meme": {
+      "Token Name": "Pekker Token (PKR)"
+    }
+  }
+}

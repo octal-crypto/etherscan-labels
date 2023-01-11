@@ -1,0 +1,15 @@
+{
+  "Address": "0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy sDEFI Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy sDEFI Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth sDEFI (sDEFI)"
+    }
+  }
+}

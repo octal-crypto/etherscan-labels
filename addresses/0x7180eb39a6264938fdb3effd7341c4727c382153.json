@@ -1,0 +1,14 @@
+{
+  "Address": "0x7180eb39a6264938fdb3effd7341c4727c382153",
+  "Labels": {
+    "bitfinex": {
+      "Name Tag": "Bitfinex: Old Address 2",
+      "Description": "Bitfinex is a full-featured spot trading platform for major digital assets & cryptocurrencies, including Bitcoin, Ethereum, EOS, Litecoin, Ripple, NEO, Monero and many more."
+    },
+    "old-contract": {
+      "Name Tag": "Bitfinex: Old Address 2",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

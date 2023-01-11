@@ -1,0 +1,13 @@
+{
+  "Address": "0x6a00b86e30167f73e38be086081b80213e8266aa",
+  "Labels": {
+    "meme": {
+      "Token Name": "Catoshi (CATS)"
+    },
+    "old-contract": {
+      "Name Tag": "Catoshi Nakamoto: Old CATS Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

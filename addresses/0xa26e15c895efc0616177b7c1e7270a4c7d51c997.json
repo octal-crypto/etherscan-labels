@@ -1,0 +1,13 @@
+{
+  "Address": "0xa26e15c895efc0616177b7c1e7270a4c7d51c997",
+  "Labels": {
+    "factory-contract": {
+      "Name Tag": "Maker: DS Proxy Factory",
+      "Description": "Contracts which create multiple contracts."
+    },
+    "maker": {
+      "Name Tag": "Maker: DS Proxy Factory",
+      "Description": "Maker is a decentralized autonomous organization on the Ethereum blockchain seeking to minimize the price volatility of its own stable token — the Dai — against the U.S. Dollar."
+    }
+  }
+}

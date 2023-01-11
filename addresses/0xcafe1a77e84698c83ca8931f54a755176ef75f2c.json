@@ -1,0 +1,14 @@
+{
+  "Address": "0xcafe1a77e84698c83ca8931f54a755176ef75f2c",
+  "Labels": {
+    "ico-wallets": {
+      "Name Tag": "Aragon: Multisig",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "multisig": {
+      "Name Tag": "Aragon: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Main"
+    }
+  }
+}

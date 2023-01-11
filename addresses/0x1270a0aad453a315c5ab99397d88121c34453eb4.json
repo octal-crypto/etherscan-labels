@@ -1,0 +1,9 @@
+{
+  "Address": "0x1270a0aad453a315c5ab99397d88121c34453eb4",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Tidebit: Deployer",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Address": "0x256c8919ce1ab0e33974cf6aa9c71561ef3017b6",
+  "Labels": {
+    "across-protocol": {
+      "Name Tag": "Across Protocol: USDC Bridge Pool",
+      "Description": "Across Protocol is a bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet."
+    },
+    "bridge": {
+      "Name Tag": "Across Protocol: USDC Bridge Pool",
+      "Description": "A gateway connecting one network to another."
+    }
+  }
+}

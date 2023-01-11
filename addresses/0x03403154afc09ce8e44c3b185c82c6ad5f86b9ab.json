@@ -1,0 +1,15 @@
+{
+  "Address": "0x03403154afc09ce8e44c3b185c82c6ad5f86b9ab",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "Yearn Finance: yCRV/Aave Vault",
+      "Token Name": "yearn Curve.fi aDAI/aUSDC/aUSDT (yva3CRV)"
+    },
+    "yearn-finance": {
+      "Name Tag": "Yearn Finance: yCRV/Aave Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Curve.fi aDAI/aUSDC/aUSDT (yva3CRV)"
+    }
+  }
+}

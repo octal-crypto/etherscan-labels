@@ -1,0 +1,14 @@
+{
+  "Address": "0x2d7b6c95afeffa50c068d50f89c5c0014e054f0a",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Ren: Darknode Registry Proxy",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "ren": {
+      "Name Tag": "Ren: Darknode Registry Proxy",
+      "Description": "Ren: Providing access to inter-blockchain liquidity for all decentralized applications. Bringing BTC, BCH and ZEC to your Ethereum dApp.",
+      "Subcategory": "Main"
+    }
+  }
+}

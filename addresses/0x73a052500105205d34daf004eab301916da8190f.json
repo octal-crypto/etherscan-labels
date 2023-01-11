@@ -1,0 +1,16 @@
+{
+  "Address": "0x73a052500105205d34daf004eab301916da8190f",
+  "Labels": {
+    "defi": {
+      "Token Name": "iearn TUSD (yTUSD)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yTUSD Token",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Main",
+      "Token Name": "iearn TUSD (yTUSD)"
+    }
+  }
+}

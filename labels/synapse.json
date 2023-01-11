@@ -1,0 +1,53 @@
+{
+  "Label": "synapse",
+  "Description": "Synapse is a cross-chain protocol powering frictionless interoperability between blockchains.",
+  "Addresses": {
+    "0x2796317b0ff8538f253012862c06787adfb8ceb6": {
+      "Name Tag": "Synapse: Bridge",
+      "Subcategory": "Main"
+    },
+    "0xa2569370a9d4841c9a62fc51269110f2eb7e0171": {
+      "Name Tag": "Synapse: Bridge Zap 1",
+      "Subcategory": "Main"
+    },
+    "0x518b553fe47208389271745155a6abf4a961ef28": {
+      "Name Tag": "Synapse: Bridge Zap 2",
+      "Subcategory": "Main"
+    },
+    "0xd10ef2a513cee0db54e959ef16cac711470b62cf": {
+      "Name Tag": "Synapse: MiniChef",
+      "Subcategory": "Main"
+    },
+    "0x647489df0673e17db3163c47d5233ebb6f5cac70": {
+      "Name Tag": "Synapse: Timelock",
+      "Subcategory": "Main"
+    },
+    "0xdf3e63507100dfded269ee113d6c8fb9dc086546": {
+      "Name Tag": "Synapse Network: Vesting",
+      "Subcategory": "Others"
+    },
+    "0x3ee02f08b801b1990ac844d8cd2f119ba6fb9bcf": {
+      "Name Tag": "Synapse: Bridge Config",
+      "Subcategory": "Others"
+    },
+    "0x31fe393815822edacbd81c2262467402199efd0d": {
+      "Name Tag": "Synapse: Bridge Implementation",
+      "Subcategory": "Others"
+    },
+    "0x6571d6be3d8460cf5f7d6711cd9961860029d85f": {
+      "Name Tag": "Synapse: Bridge Zap 3",
+      "Subcategory": "Others"
+    },
+    "0x1b84765de8b7566e4ceaf4d0fd3c5af52d3dde4f": {
+      "Name Tag": "Synapse: nUSD",
+      "Subcategory": "Others"
+    },
+    "0x1116898dda4015ed8ddefb84b6e8bc24528af2d8": {
+      "Name Tag": "Synapse: Stable Liquidity Pool",
+      "Subcategory": "Others"
+    },
+    "0x0f2d719407fdbeff09d87557abb7232601fd9f29": {
+      "Token Name": "Synapse (SYN)"
+    }
+  }
+}

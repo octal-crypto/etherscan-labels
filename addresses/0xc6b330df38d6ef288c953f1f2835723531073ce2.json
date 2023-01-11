@@ -1,0 +1,10 @@
+{
+  "Address": "0xc6b330df38d6ef288c953f1f2835723531073ce2",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Etheropt: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

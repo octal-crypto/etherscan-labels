@@ -1,0 +1,11 @@
+{
+  "Address": "0x53d428716900eae876ad1d7e4535e796b5faeda2",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "ZeroFeeXchange: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Zero Fee Xchange (ZFE)"
+    }
+  }
+}

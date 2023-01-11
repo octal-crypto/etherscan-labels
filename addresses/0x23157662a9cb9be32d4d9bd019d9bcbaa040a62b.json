@@ -1,0 +1,9 @@
+{
+  "Address": "0x23157662a9cb9be32d4d9bd019d9bcbaa040a62b",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Basix (BASX)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

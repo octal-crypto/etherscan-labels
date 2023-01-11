@@ -1,0 +1,11 @@
+{
+  "Address": "0x8bbf4dd0f11b3a535660fd7fcb7158daebd3a17e",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "EthGas: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "ETHGAS (EGAS)"
+    }
+  }
+}

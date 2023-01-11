@@ -1,0 +1,15 @@
+{
+  "Address": "0xa9fe4601811213c340e850ea305481aff02f5b28",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yCRV/WETH Vault",
+      "Token Name": "WETH yVault (yvWETH)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yCRV/WETH Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "WETH yVault (yvWETH)"
+    }
+  }
+}

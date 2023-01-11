@@ -1,0 +1,9 @@
+{
+  "Address": "0xa2EF2757D2eD560c9e3758D1946d7bcccBD5A7fe",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Adventure (TWA)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Address": "0x2f6321db2461f68676f42f396330a4dc4a8f49df",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Bulksender.app: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

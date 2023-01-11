@@ -1,0 +1,12 @@
+{
+  "Address": "0x8fa025E8342EaD1037d2954b95333FF2Bf57162b",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "ShibaMax (SMAX)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "meme": {
+      "Token Name": "ShibaMax (SMAX)"
+    }
+  }
+}

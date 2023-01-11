@@ -1,0 +1,14 @@
+{
+  "Address": "0x4922a015c4407f87432b179bb209e125432e4a2a",
+  "Labels": {
+    "bitfinex": {
+      "Name Tag": "Tether Gold: Old XAUt Token",
+      "Description": "Bitfinex is a full-featured spot trading platform for major digital assets & cryptocurrencies, including Bitcoin, Ethereum, EOS, Litecoin, Ripple, NEO, Monero and many more."
+    },
+    "old-contract": {
+      "Name Tag": "Tether Gold: Old XAUt Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

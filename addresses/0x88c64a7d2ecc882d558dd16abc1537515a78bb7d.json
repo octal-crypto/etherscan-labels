@@ -1,0 +1,20 @@
+{
+  "Address": "0x88c64a7d2ecc882d558dd16abc1537515a78bb7d",
+  "Labels": {
+    "defi": {
+      "Token Name": "Shifted BTC (zBTC)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "interoperability-cross-chain": {
+      "Token Name": "Shifted BTC (zBTC)",
+      "Description": "The interoperability between two relatively independent blockchains which allows them to communicate and transfer value with one another."
+    },
+    "ren": {
+      "Name Tag": "Ren: ZBTC Token",
+      "Description": "Ren: Providing access to inter-blockchain liquidity for all decentralized applications. Bringing BTC, BCH and ZEC to your Ethereum dApp.",
+      "Subcategory": "Main",
+      "Token Name": "Shifted BTC (zBTC)"
+    }
+  }
+}

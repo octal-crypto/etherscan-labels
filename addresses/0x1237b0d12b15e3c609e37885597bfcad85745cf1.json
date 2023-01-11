@@ -1,0 +1,11 @@
+{
+  "Address": "0x1237b0d12b15e3c609e37885597bfcad85745cf1",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Serve: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Serve (SERV)"
+    }
+  }
+}

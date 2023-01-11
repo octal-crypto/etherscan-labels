@@ -1,0 +1,11 @@
+{
+  "Address": "0x9e1ea347c63818763256abd9c8df3e77be473de8",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "MetalStream: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "MetalStream (MTLSTR)"
+    }
+  }
+}

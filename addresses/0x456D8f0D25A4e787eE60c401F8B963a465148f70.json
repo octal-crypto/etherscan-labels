@@ -1,0 +1,9 @@
+{
+  "Address": "0x456D8f0D25A4e787eE60c401F8B963a465148f70",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Cavapoo (CAVA)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

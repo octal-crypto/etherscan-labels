@@ -1,0 +1,15 @@
+{
+  "Address": "0x2e60cf74d81ac34eb21eeff58db4d385920ef419",
+  "Labels": {
+    "curve-fi": {
+      "Name Tag": "Curve.fi: Old Contract",
+      "Description": "Curve is an exchange liquidity pool on Ethereum (like Uniswap) designed for (1) extremely efficient stablecoin trading (2) low risk, supplemental fee income for liquidity providers, without an opportunity cost.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "Curve.fi: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

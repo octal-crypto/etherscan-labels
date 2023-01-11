@@ -1,0 +1,9 @@
+{
+  "Address": "0x033e223870f766644f7f7a4B7dc2E91573707d06",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Zin Finance (Zin)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

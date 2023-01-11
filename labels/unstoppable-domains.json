@@ -1,0 +1,28 @@
+{
+  "Label": "unstoppable-domains",
+  "Description": "Unstoppable Domains is a San Francisco-based company building domains on blockchains. The company is backed by Draper Associates and Boost VC and has received grants from the Ethereum Foundation and the Zilliqa Foundation. Blockchain domains replace cryptocurrency addresses with human readable names and can be used to enable censorship resistant websites.",
+  "Addresses": {
+    "0xd1e5b0ff1287aa9f9a268759062e4ab08b9dacbe": {
+      "Name Tag": ".Crypto: Registry",
+      "Token Name": ".crypto (UD)"
+    },
+    "0xa1cac442be6673c49f8e74ffc7c4fd746f3cbd0d": {
+      "Name Tag": ".Crypto: Resolver 2"
+    },
+    "0xb485d89aba096fc9f117fa28b80dc8aac7971049": {
+      "Name Tag": ".Crypto: Whitelisted Minter"
+    },
+    "0xb0ee56339c3253361730f50c08d3d7817ecd60ca": {
+      "Name Tag": "Unstoppable Domains: Minting Controller"
+    },
+    "0x82ef94294c95ad0930055f31e53a34509227c5f7": {
+      "Name Tag": "Unstoppable Domains: Signature Controller"
+    },
+    "0x09b091492759737c03da9db7edf1cd6bcc3a9d91": {
+      "Name Tag": "Unstoppable Domains: URI Prefix Controller"
+    },
+    "0x049aba7510f45ba5b64ea9e658e342f904db358d": {
+      "Token Name": "Unstoppable Domains (UD)"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Address": "0x80af3f06aefb9f436981cb12b9da35c5da023efd",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old BTCUSDCTA Social Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "BTC TA Set (BTCUSDCTA)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old BTCUSDCTA Social Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "BTC TA Set (BTCUSDCTA)"
+    }
+  }
+}

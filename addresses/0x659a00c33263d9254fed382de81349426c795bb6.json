@@ -1,0 +1,13 @@
+{
+  "Address": "0x659a00c33263d9254fed382de81349426c795bb6",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "StarkNet: StarkGate DAI Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "starknet": {
+      "Name Tag": "StarkNet: StarkGate DAI Bridge",
+      "Description": "StarkNet is a permissionless decentralized ZK-Rollup. It operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation – without compromising Ethereum's composability and security."
+    }
+  }
+}

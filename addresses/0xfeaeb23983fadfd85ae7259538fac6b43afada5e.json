@@ -1,0 +1,10 @@
+{
+  "Address": "0xfeaeb23983fadfd85ae7259538fac6b43afada5e",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Eigen Fx: Old Address",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa",
+  "Labels": {
+    "mainnet-launched": {
+      "Token Name": "ThoreCoin (THR)",
+      "Description": "Companies whose Mainnet have launched and have migrated from the Ethereum Network. A reminder to swap your tokens to the respective Mainnet if you have yet to do so."
+    },
+    "old-contract": {
+      "Name Tag": "ThoreCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "ThoreCoin (THR)"
+    }
+  }
+}

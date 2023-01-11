@@ -1,0 +1,21 @@
+{
+  "Address": "0xe79e177d2a5c7085027d7c64c8f271c81430fc9b",
+  "Labels": {
+    "defi": {
+      "Token Name": "IdleSUSD v3 [Max yield] (idleSUSDYield)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "idle-finance": {
+      "Name Tag": "Idle.finance: Old idleSUSDYield v3 Token",
+      "Description": "Idle.finance: Earn the yield you deserve without worry about finding the best option, either if you want to optimize returns or risks.",
+      "Subcategory": "Legacy",
+      "Token Name": "IdleSUSD v3 [Max yield] (idleSUSDYield)"
+    },
+    "old-contract": {
+      "Name Tag": "Idle.finance: Old idleSUSDYield v3 Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

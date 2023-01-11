@@ -1,0 +1,11 @@
+{
+  "Address": "0x7542013f90df4d24ae1b18641bd9e223f5524320",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "NuclearCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Nuclear (NCA)"
+    }
+  }
+}

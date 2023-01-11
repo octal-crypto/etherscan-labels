@@ -1,0 +1,9 @@
+{
+  "Address": "0x5644bb2B594fcF6F74384D2aD26C68F02a47981C",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "SuperMegaHyperDoge (SMHDoge)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

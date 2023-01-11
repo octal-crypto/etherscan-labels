@@ -1,0 +1,15 @@
+{
+  "Address": "0x06f59a767f33eabe3f1a3d3c14997bae8058430c",
+  "Labels": {
+    "defi": {
+      "Token Name": "Neutrino (USDN)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "old-contract": {
+      "Name Tag": "Neutrino: Old USDN Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

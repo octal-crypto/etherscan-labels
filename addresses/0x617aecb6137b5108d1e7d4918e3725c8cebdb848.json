@@ -1,0 +1,15 @@
+{
+  "Address": "0x617aecb6137b5108d1e7d4918e3725c8cebdb848",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy sBNB Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy sBNB Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth sBNB (sBNB)"
+    }
+  }
+}

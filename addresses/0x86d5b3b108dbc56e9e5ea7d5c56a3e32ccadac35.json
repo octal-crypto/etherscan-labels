@@ -1,0 +1,11 @@
+{
+  "Address": "0x86d5b3b108dbc56e9e5ea7d5c56a3e32ccadac35",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "AgaveCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "AgaveCoin (AGVC)"
+    }
+  }
+}

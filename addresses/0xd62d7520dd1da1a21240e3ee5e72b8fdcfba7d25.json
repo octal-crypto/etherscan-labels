@@ -1,0 +1,11 @@
+{
+  "Address": "0xd62d7520dd1da1a21240e3ee5e72b8fdcfba7d25",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "ZBX: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "ZBX Token (XT)"
+    }
+  }
+}

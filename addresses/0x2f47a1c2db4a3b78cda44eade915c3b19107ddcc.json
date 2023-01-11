@@ -1,0 +1,14 @@
+{
+  "Address": "0x2f47a1c2db4a3b78cda44eade915c3b19107ddcc",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Binance: Eth2 Depositor",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "binance": {
+      "Name Tag": "Binance: Eth2 Depositor",
+      "Description": "Binance cryptocurrency exchange.",
+      "Subcategory": "Others"
+    }
+  }
+}

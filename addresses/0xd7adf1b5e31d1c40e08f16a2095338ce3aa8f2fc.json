@@ -1,0 +1,15 @@
+{
+  "Address": "0xd7adf1b5e31d1c40e08f16a2095338ce3aa8f2fc",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Synthetix: Old Synth iXRP 2",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Old Synth iXRP 2",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

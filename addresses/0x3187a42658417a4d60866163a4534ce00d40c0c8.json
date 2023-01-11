@@ -1,0 +1,9 @@
+{
+  "Address": "0x3187a42658417a4d60866163a4534ce00d40c0c8",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "ssv.network: Deployer",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

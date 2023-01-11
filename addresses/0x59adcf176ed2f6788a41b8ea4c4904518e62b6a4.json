@@ -1,0 +1,15 @@
+{
+  "Address": "0x59adcf176ed2f6788a41b8ea4c4904518e62b6a4",
+  "Labels": {
+    "maker": {
+      "Name Tag": "ProtoSAI Token",
+      "Description": "Maker is a decentralized autonomous organization on the Ethereum blockchain seeking to minimize the price volatility of its own stable token — the Dai — against the U.S. Dollar."
+    },
+    "old-contract": {
+      "Name Tag": "ProtoSAI Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "SAI (SAI)"
+    }
+  }
+}

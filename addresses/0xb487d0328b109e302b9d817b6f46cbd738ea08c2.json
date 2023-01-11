@@ -1,0 +1,9 @@
+{
+  "Address": "0xb487d0328b109e302b9d817b6f46cbd738ea08c2",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "TattooMoney (TAT2)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Address": "0x9ba00d6856a4edf4665bca2c2309936572473b7e",
+  "Labels": {
+    "aave": {
+      "Name Tag": "Aave: aUSDC Token V1",
+      "Description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+      "Subcategory": "Main",
+      "Token Name": "Aave Interest bearing USDC (aUSDC)"
+    },
+    "defi": {
+      "Token Name": "Aave Interest bearing USDC (aUSDC)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "v1": {
+      "Name Tag": "Aave: aUSDC Token V1",
+      "Description": "Contracts associated with Version 1 of a project.",
+      "Subcategory": "Main",
+      "Token Name": "Aave Interest bearing USDC (aUSDC)"
+    }
+  }
+}

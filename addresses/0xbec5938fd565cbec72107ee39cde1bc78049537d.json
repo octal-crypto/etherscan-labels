@@ -1,0 +1,9 @@
+{
+  "Address": "0xbec5938fd565cbec72107ee39cde1bc78049537d",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Swing DAO (SWING)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

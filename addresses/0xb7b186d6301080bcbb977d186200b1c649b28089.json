@@ -1,0 +1,9 @@
+{
+  "Address": "0xb7b186d6301080bcbb977d186200b1c649b28089",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Larp Finance (LARP)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

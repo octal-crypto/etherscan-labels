@@ -1,0 +1,12 @@
+{
+  "Address": "0xA2fe5E51729BE71261BcF42854012827BC44c044",
+  "Labels": {
+    "dao": {
+      "Token Name": "Burn (BURN)"
+    },
+    "deflationary-token": {
+      "Token Name": "Burn (BURN)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

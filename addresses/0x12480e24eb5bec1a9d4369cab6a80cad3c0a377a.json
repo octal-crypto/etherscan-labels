@@ -1,0 +1,11 @@
+{
+  "Address": "0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Substratum: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Substratum (SUB)"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Address": "0xa33516e6f64c6c2869dff6744953a472cd60c8f6",
+  "Labels": {
+    "ico-wallets": {
+      "Name Tag": "Storj: Multisig 2",
+      "Description": "Wallets where Token Sale proceeds are/were being stored."
+    },
+    "multisig": {
+      "Name Tag": "Storj: Multisig 2",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Main"
+    }
+  }
+}

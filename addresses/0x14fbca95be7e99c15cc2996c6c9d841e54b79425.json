@@ -1,0 +1,14 @@
+{
+  "Address": "0x14fbca95be7e99c15cc2996c6c9d841e54b79425",
+  "Labels": {
+    "maker": {
+      "Name Tag": "OasisDex: Old Contract 1",
+      "Description": "Maker is a decentralized autonomous organization on the Ethereum blockchain seeking to minimize the price volatility of its own stable token — the Dai — against the U.S. Dollar."
+    },
+    "old-contract": {
+      "Name Tag": "OasisDex: Old Contract 1",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

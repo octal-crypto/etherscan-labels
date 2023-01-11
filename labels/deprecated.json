@@ -1,0 +1,273 @@
+{
+  "Label": "deprecated",
+  "Description": "A list of tokens, contracts or addresses which have been deprecated by their projects.",
+  "Addresses": {
+    "0x6a29cfd8a5f666a7d69da9437cd4c46616326815": {},
+    "0xceecea8035e81c1148210db3b2f870f470cc81bf": {},
+    "0x623b83755a39b12161a63748f3f595a530917ab2": {},
+    "0x9013498ba5b04dc4d888955784eb06c539eb463f": {
+      "Token Name": "Chainlife (CHNLF)"
+    },
+    "0x00a31b98c325a8dcb8d1dd41d65156a5c898f38c": {},
+    "0x5e5ea2048475854a5702f5b8468a51ba1296efcc": {
+      "Name Tag": "Aura: Old auraBAL Rewards"
+    },
+    "0x7818a1da7bd1e64c199029e86ba244a9798eee10": {
+      "Name Tag": "Aura: Old Booster "
+    },
+    "0xfa838af70314135159b309bf27f1dbf1f954ec34": {
+      "Name Tag": "Aura: Old Booster Owner "
+    },
+    "0xf9c0f3431f859e773ed052758052e06b6d175742": {
+      "Name Tag": "Aura: Old Extra Reward Stash V3"
+    },
+    "0xf843f61508fc17543412de55b10ed87f4c28de50": {
+      "Name Tag": "Aura: Old Pool Manager"
+    },
+    "0x16a04e58a77ab1ce561a37371dfb479a8594947a": {
+      "Name Tag": "Aura: Old Pool Manager Proxy"
+    },
+    "0xdc274f4854831fed60f9eca12cacbd449134cf67": {
+      "Name Tag": "Aura: Old Pool Manager Secondary Proxy"
+    },
+    "0x7ed9003c6003eace1e8c3ae99f0bb19894377b0f": {
+      "Name Tag": "Aura: Old Proxy Factory"
+    },
+    "0x45aad11f2fa2c215bc9686eb6f06d46e0474f356": {
+      "Name Tag": "Aura: Old Reward Factory"
+    },
+    "0x95171c9ef5ca540a6d3502e9547fcfe022458eb5": {
+      "Name Tag": "Aura: Old Stash Factory"
+    },
+    "0xb6ce51dee8bd4a2fd11c01205414dc26f0b453ac": {
+      "Name Tag": "Aura: Old Token Factory"
+    },
+    "0x0077d27cb82ff12322987b225bfce0bb6e8931b4": {
+      "Name Tag": "Corra.Finance: Old CORA Token"
+    },
+    "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a": {
+      "Name Tag": "DigixDAO: DGD Token",
+      "Token Name": "DGD (DGD)"
+    },
+    "0x254891fc1d9545c5fd664b60702899e5e4008481": {
+      "Name Tag": "Fusang: Old Token 1",
+      "Token Name": "Fusang Exchange Holdings Ltd (FSX)"
+    },
+    "0xe428c5460b1fbc7d15d1da7c9d162cb1b9a44046": {
+      "Name Tag": "mStable: OLD FEI Feeder Pool Vault Logic"
+    },
+    "0xbae7b2507a9df82c6c5225930a993ba170a14fb5": {
+      "Name Tag": "mStable: OLD RAI Feeder Pool Vault Logic"
+    },
+    "0xf5e38bbedc78efea055e0c56035adb320e64c4bc": {
+      "Name Tag": "Quant: Deprecated Deployer"
+    },
+    "0x80000000000495561f29841ab6e2ddd2bbf88b54": {
+      "Name Tag": "Shorter Finance: Deprecated Deployer"
+    },
+    "0x778ec2d9b4bae65c57a6436a6c37afc135bad727": {
+      "Name Tag": "Synthetix: Old Dapp Maintenance"
+    },
+    "0xeaf60da0199be2f62005225248705de774582328": {
+      "Name Tag": "Synthetix: Old Proxy iMKR Token 1",
+      "Token Name": "Synth iMKR (iMKR)"
+    },
+    "0x0794d09be5395f69534ff8151d72613077148b29": {
+      "Name Tag": "Synthetix: Old Proxy iMKR Token 2",
+      "Token Name": "Synth iMKR (iMKR)"
+    },
+    "0x5d609c25adaafd856021f92296c66db602a0fce8": {
+      "Name Tag": "Synthetix: Old Proxy sBRL Token"
+    },
+    "0x0bc209fb72390af12bd6fd775355ea0856864b31": {
+      "Name Tag": "Synthetix: Old Proxy sCAD Token"
+    },
+    "0x60feeed05004476518281d43185fb7f52d9722c0": {
+      "Name Tag": "Synthetix: Old Proxy sCNY Token",
+      "Token Name": "Synth sCNY (sCNY)"
+    },
+    "0x74c80bb51da1eac2d40074c647cbd0ab6920063f": {
+      "Name Tag": "Synthetix: Old Proxy sINR Token"
+    },
+    "0xdce506b196b0df677d07e718f872cac9bc368a33": {
+      "Name Tag": "Synthetix: Old Proxy sKRW Token",
+      "Token Name": "Synth sKRW (sKRW)"
+    },
+    "0xe88a4976cb7d8898d39e3f317421d625403ecb8c": {
+      "Name Tag": "Synthetix: Old Proxy sMKR Token 1",
+      "Token Name": "Synth sMKR (sMKR)"
+    },
+    "0x4140919de11fce58e654cc6038017af97f810de1": {
+      "Name Tag": "Synthetix: Old Proxy sMKR Token 2",
+      "Token Name": "Synth sMKR (sMKR)"
+    },
+    "0x26c0cb14470803120321b70ae85405ac298e5a42": {
+      "Name Tag": "Synthetix: Old Proxy sNZD Token",
+      "Token Name": "Synth sNZD (sNZD)"
+    },
+    "0xd9553f0fda012224141aecc1eca0e29868ff7fe8": {
+      "Name Tag": "Synthetix: Old Proxy sPLN Token",
+      "Token Name": "Synth sPLN (sPLN)"
+    },
+    "0xdcb5821fcfdab5553307b8f99591fc9daa3c4be3": {
+      "Name Tag": "Synthetix: Old Proxy sRUB Token",
+      "Token Name": "Synth sRUB (sRUB)"
+    },
+    "0x632db1c25c03dcac8d23ff2c9a4cea34cbeffa1b": {
+      "Name Tag": "Synthetix: Old Proxy sSGD Token",
+      "Token Name": "Synth sSGD (sSGD)"
+    },
+    "0x62492f15cf60c5847d3053e482cade8c5c29af88": {
+      "Name Tag": "Synthetix: Old Proxy XDR Token 1",
+      "Token Name": "Synth XDR (XDR)"
+    },
+    "0xb3f67de9a919476a4c0fe821d67bf5c4637d8429": {
+      "Name Tag": "Synthetix: Old Proxy XDR Token 2",
+      "Token Name": "Synth XDR (XDR)"
+    },
+    "0x99bcc501d04f400ba3f78b5375d00b56ace6ee0d": {
+      "Name Tag": "Synthetix: Old Synth iMKR Token 1",
+      "Token Name": "Synth iMKR (iMKR)"
+    },
+    "0x047fc84504714d526808be07bf17bdd70726ef92": {
+      "Name Tag": "Synthetix: Old Synth iMKR Token 2",
+      "Token Name": "Synth iMKR (iMKR)"
+    },
+    "0xd95e7f80766580634b2e0e49d9f66af317994fc7": {
+      "Name Tag": "Synthetix: Old Synth iMKR Token 3",
+      "Token Name": "Synth iMKR (iMKR)"
+    },
+    "0x10a0532de3c86d9ce810f004fabcf5a1ea464390": {
+      "Name Tag": "Synthetix: Old Synth iMKR Token 4",
+      "Token Name": "Synth iMKR (iMKR)"
+    },
+    "0x1228c7d8bbc5bc53db181bd7b1fce765aa83bf8a": {
+      "Name Tag": "Synthetix: Old Synth iMKR Token 5",
+      "Token Name": "Synth iMKR (iMKR)"
+    },
+    "0xa5a4cccccaa26cea096f6e493839423f4d66c63f": {
+      "Name Tag": "Synthetix: Old Synth sBRL Token",
+      "Token Name": "Synth sBRL (sBRL)"
+    },
+    "0x8f69c9ee79bf9320e1a5c19e559108e1cb3d002b": {
+      "Name Tag": "Synthetix: Old Synth sCAD Token",
+      "Token Name": "Synth sCAD (sCAD)"
+    },
+    "0x60c34eb93afcd1b701ff8c036b128441c68a8a70": {
+      "Name Tag": "Synthetix: Old Synth sCNY Token",
+      "Token Name": "Synth sCNY (sCNY)"
+    },
+    "0x51671b7556ebeb4c43180e983f5569973e15cac9": {
+      "Name Tag": "Synthetix: Old Synth sINR Token",
+      "Token Name": "Synth sINR (sINR)"
+    },
+    "0xdf846d3ded30a0590319f8a7ecd4e233b0e9188c": {
+      "Name Tag": "Synthetix: Old Synth sKRW Token",
+      "Token Name": "Synth sKRW (sKRW)"
+    },
+    "0x13586160e4f890d0631c3c08d989f5b7afe202b0": {
+      "Name Tag": "Synthetix: Old Synth sMKR Token 1",
+      "Token Name": "Synth sMKR (sMKR)"
+    },
+    "0xfac2b3400df00a348c3118831a45a05255f9004a": {
+      "Name Tag": "Synthetix: Old Synth sMKR Token 2",
+      "Token Name": "Synth sMKR (sMKR)"
+    },
+    "0x84965dca28c4eb9de61d80f80e811ea12be1c819": {
+      "Name Tag": "Synthetix: Old Synth sMKR Token 3"
+    },
+    "0x54a0326fb698c2cfaca5327550a897fa66d21f07": {
+      "Name Tag": "Synthetix: Old Synth sMKR Token 4",
+      "Token Name": "Synth sMKR (sMKR)"
+    },
+    "0xd1599e478cc818afa42a4839a6c665d9279c3e50": {
+      "Name Tag": "Synthetix: Old Synth sMKR Token 5",
+      "Token Name": "Synth sMKR (sMKR)"
+    },
+    "0xcf401f31c63f58debfc76f441731dfa945cd0bde": {
+      "Name Tag": "Synthetix: Old Synth sNZD Token",
+      "Token Name": "Synth sNZD (sNZD)"
+    },
+    "0x1943dbd2a793c588b5170188ee6fb62e02afdff7": {
+      "Name Tag": "Synthetix: Old Synth sPLN Token",
+      "Token Name": "Synth sPLN (sPLN)"
+    },
+    "0x8a8dcbba6038c6fc6d192f5cf5c5dd83b98591bc": {
+      "Name Tag": "Synthetix: Old Synth sRUB Token",
+      "Token Name": "Synth sRUB (sRUB)"
+    },
+    "0x2ae393c18b6aa62d6a2250af7b803fa6973bc981": {
+      "Name Tag": "Synthetix: Old Synth sSGD Token",
+      "Token Name": "Synth sSGD (sSGD)"
+    },
+    "0x2972705af18c66c14cdd27ad412961e01944a9c3": {
+      "Name Tag": "Synthetix: Old Synth XDR Token 1",
+      "Token Name": "Synth XDR (XDR)"
+    },
+    "0x6025f88abb6d99d02c5eed82c151d52bac8e444b": {
+      "Name Tag": "Synthetix: Old Synth XDR Token 2",
+      "Token Name": "Synth XDR (XDR)"
+    },
+    "0x30a46e656cdca6b401ff043e1abb151490a07ab0": {
+      "Name Tag": "Synthetix: Old Synth XDR Token 3",
+      "Token Name": "Synth XDR (-)"
+    },
+    "0x96f9d144e55149437640512b82d7dda065e89773": {
+      "Name Tag": "Synthetix: Old Synth XDR Token 4"
+    },
+    "0xa0c19218271f056bc10b1cdd7a5fab48f757bc86": {
+      "Name Tag": "Synthetix: Old Token State iMKR"
+    },
+    "0x0985de52896fc4c9a84d108f5582ec02fdf91605": {
+      "Name Tag": "Synthetix: Old Token State sBRL"
+    },
+    "0xddf91fc27087e076574df31483db5c21a85e47b6": {
+      "Name Tag": "Synthetix: Old Token State sCAD"
+    },
+    "0x5cca1f0c514c0624d3ba7585d56fd2d72cbefd80": {
+      "Name Tag": "Synthetix: Old Token State sCNY"
+    },
+    "0xf8f2f8001fca737efa2bc26217fc20c1f8267fba": {
+      "Name Tag": "Synthetix: Old Token State sINR"
+    },
+    "0x249a10c68afa9827571cb73f29ab5af57ee5a596": {
+      "Name Tag": "Synthetix: Old Token State sKRW"
+    },
+    "0xcee0a0dc7f393ed6ac84a3ac2191c28d6a53acef": {
+      "Name Tag": "Synthetix: Old Token State sMKR"
+    },
+    "0x3fda286f354a3318534026dbacf021c84a71b03c": {
+      "Name Tag": "Synthetix: Old Token State sNZD"
+    },
+    "0xdb957f324be2de9bdab01a3dbb50228569fdee1b": {
+      "Name Tag": "Synthetix: Old Token State sPLN"
+    },
+    "0xf1ef8ee7dfee4bd0e06b0fced1d299387b78cb09": {
+      "Name Tag": "Synthetix: Old Token State sRUB"
+    },
+    "0x000f49fd739d4023b0a6c87ee8705ef1ffb55c87": {
+      "Name Tag": "Synthetix: Old Token State sSGD"
+    },
+    "0xbf093390d8046ae2d0f5465dec7001d65dc159d5": {
+      "Name Tag": "Synthetix: Old Token State XDR"
+    },
+    "0x1f0d1927498fbd4f9e8558704ce5b658929527ec": {
+      "Name Tag": "Zapper.Fi: Deprecated Polygon Bridge"
+    },
+    "0x123151402076fc819B7564510989e475c9cD93CA": {
+      "Token Name": "wrapped-DGLD (wDGLD)"
+    },
+    "0x5D609C25adAafd856021F92296C66dB602A0fcE8": {
+      "Token Name": "Synth sBRL (sBRL)"
+    },
+    "0x74C80bB51Da1EAc2d40074c647CbD0ab6920063f": {
+      "Token Name": "Synth sINR (sINR)"
+    },
+    "0x84965DCa28c4Eb9dE61d80f80e811eA12BE1c819": {
+      "Token Name": "Synth sMKR (sMKR)"
+    },
+    "0x0Bc209fB72390AF12bD6Fd775355ea0856864B31": {
+      "Token Name": "Synth sCAD (sCAD)"
+    }
+  }
+}

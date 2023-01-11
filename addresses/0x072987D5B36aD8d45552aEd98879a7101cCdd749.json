@@ -1,0 +1,9 @@
+{
+  "Address": "0x072987D5B36aD8d45552aEd98879a7101cCdd749",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "BunnyVerse (BNV)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

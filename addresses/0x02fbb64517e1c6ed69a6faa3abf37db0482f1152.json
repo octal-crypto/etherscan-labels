@@ -1,0 +1,13 @@
+{
+  "Address": "0x02fbb64517e1c6ed69a6faa3abf37db0482f1152",
+  "Labels": {
+    "across-protocol": {
+      "Name Tag": "Across Protocol: WBTC Bridge Pool",
+      "Description": "Across Protocol is a bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet."
+    },
+    "bridge": {
+      "Name Tag": "Across Protocol: WBTC Bridge Pool",
+      "Description": "A gateway connecting one network to another."
+    }
+  }
+}

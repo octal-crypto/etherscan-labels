@@ -1,0 +1,10 @@
+{
+  "Address": "0xd01c92937400dd1ece24992b1dc44aeaa47ae72a",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Auctionity: Old Address",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

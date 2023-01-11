@@ -1,0 +1,18 @@
+{
+  "Address": "0x14797f5432f699cb4d4db04df599b74952d78d7b",
+  "Labels": {
+    "arbitrum": {
+      "Name Tag": "Arbitrum: Outbox Entry",
+      "Description": "Arbitrum is a next generation Layer 2 for Ethereum dApps, allowing you to use your favorite tools and scale your dApp at the lowest cost."
+    },
+    "bridge": {
+      "Name Tag": "Arbitrum: Outbox Entry",
+      "Description": "A gateway connecting one network to another."
+    },
+    "layer-2": {
+      "Name Tag": "Arbitrum: Outbox Entry",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    }
+  }
+}

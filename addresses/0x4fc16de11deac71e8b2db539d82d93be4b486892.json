@@ -1,0 +1,13 @@
+{
+  "Address": "0x4fc16de11deac71e8b2db539d82d93be4b486892",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Optics: ERC-20 Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "optics": {
+      "Name Tag": "Optics: ERC-20 Bridge",
+      "Description": "Optics is a protocol for sending messages between EVM chains. It can be used to securely send tokens cross-chain using the burn/mint token model."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Label": "cryptopunks",
+  "Description": "CryptoPunks are 10,000 unique collectible characters with proof of ownership stored on the Ethereum blockchain. They are one of the earliest examples of a \"Non-Fungible Token\" on Ethereum, and were inspiration for the ERC-721 standard that powers most digital art and collectibles.",
+  "Addresses": {
+    "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb": {
+      "Name Tag": "CryptoPunks: Ͼ Token",
+      "Token Name": "CRYPTOPUNKS (Ͼ)"
+    },
+    "0x16f5a35647d6f03d5d3da7b35409d65ba03af3b2": {
+      "Name Tag": "CryptoPunks: Data"
+    },
+    "0xb5191de5e9ed5ce94176b7917430a8512e5ad517": {
+      "Name Tag": "CryptoPunks: Deployer"
+    },
+    "0x6ba6f2207e343923ba692e5cae646fb0f566db8d": {
+      "Name Tag": "Cryptopunks: Old Token",
+      "Token Name": "CRYPTOPUNKS (Ͼ)"
+    }
+  }
+}

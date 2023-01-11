@@ -1,0 +1,14 @@
+{
+  "Address": "0xdaeada3d210d2f45874724beea03c7d4bbd41674",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "Ribbon Finance: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    },
+    "ribbon-finance": {
+      "Name Tag": "Ribbon Finance: Multisig",
+      "Description": "Ribbon Finance is bringing structured products to DeFi."
+    }
+  }
+}

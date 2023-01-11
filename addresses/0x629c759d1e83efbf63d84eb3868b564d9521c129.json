@@ -1,0 +1,14 @@
+{
+  "Address": "0x629c759d1e83efbf63d84eb3868b564d9521c129",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yCRV/Compound Vault"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yCRV/Compound Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Curve.fi cDAI/cUSDC (yvcDAI+cUSDC)"
+    }
+  }
+}

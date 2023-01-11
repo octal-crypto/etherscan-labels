@@ -1,0 +1,14 @@
+{
+  "Address": "0x805129c7144688224c122c924e3855d5b4fa01d8",
+  "Labels": {
+    "etheroll": {
+      "Name Tag": "Etheroll: Old Contract 2",
+      "Description": "Etheroll is an Ethereum smart contract for placing bets on their provably-fair dice game using Ether with no deposits or sign-ups. Each dice roll is provably random and cryptographically secure thanks to the nature of the Ethereum blockchain."
+    },
+    "old-contract": {
+      "Name Tag": "Etheroll: Old Contract 2",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

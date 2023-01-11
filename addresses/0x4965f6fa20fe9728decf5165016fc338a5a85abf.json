@@ -1,0 +1,14 @@
+{
+  "Address": "0x4965f6fa20fe9728decf5165016fc338a5a85abf",
+  "Labels": {
+    "aave": {
+      "Name Tag": "Aave: Proxy",
+      "Description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+      "Subcategory": "Main"
+    },
+    "proxy-contract": {
+      "Name Tag": "Aave: Proxy",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    }
+  }
+}

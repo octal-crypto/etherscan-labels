@@ -1,0 +1,17 @@
+{
+  "Label": "neon-district",
+  "Description": "Neon District cyberpunk RPG",
+  "Addresses": {
+    "0x25741f5f2dbdde9cfd38f73be7052ec03b0e9d85": {
+      "Name Tag": "Neon District: Founder Key",
+      "Token Name": "Neon District Founder Key (NDKEY0)"
+    },
+    "0x1276dce965ada590e42d62b3953ddc1ddceb0392": {
+      "Name Tag": "Neon District: In-Game Item",
+      "Token Name": "Neon District In-Game Item (NDIGI)"
+    },
+    "0x87bbb9d32c5a10f3129e63cd96349342fcbd5972": {
+      "Name Tag": "Neon District: Token Sale"
+    }
+  }
+}

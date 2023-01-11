@@ -1,0 +1,9 @@
+{
+  "Address": "0x9c5476af06590a9277c7706fe70c0a42a480f8a0",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Chooky Inu ($CHOO)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

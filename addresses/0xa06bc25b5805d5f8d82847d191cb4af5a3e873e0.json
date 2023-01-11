@@ -1,0 +1,22 @@
+{
+  "Address": "0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0",
+  "Labels": {
+    "aave": {
+      "Name Tag": "Aave: aLINK Token V2",
+      "Description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+      "Subcategory": "Main",
+      "Token Name": "Aave interest bearing LINK (aLINK)"
+    },
+    "defi": {
+      "Token Name": "Aave interest bearing LINK (aLINK)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Main"
+    },
+    "v2": {
+      "Name Tag": "Aave: aLINK Token V2",
+      "Description": "Contracts associated with Version 2 of a project.",
+      "Subcategory": "Main",
+      "Token Name": "Aave interest bearing LINK (aLINK)"
+    }
+  }
+}

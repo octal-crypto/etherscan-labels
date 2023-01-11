@@ -1,0 +1,14 @@
+{
+  "Address": "0x3ee8743a700f04de27471a43e0da359608679b63",
+  "Labels": {
+    "closure": {
+      "Token Name": "Cygnus (Cyg)",
+      "Description": "Companies or projects who have officially shut down and cease business operations."
+    },
+    "old-contract": {
+      "Name Tag": "Cygnus: Old CYG Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

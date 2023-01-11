@@ -1,0 +1,14 @@
+{
+  "Address": "0xe617dd80c621a5072bd8cba65e9d76c07327004d",
+  "Labels": {
+    "bridge": {
+      "Token Name": "(Wormhole) (-)",
+      "Description": "A gateway connecting one network to another."
+    },
+    "wormhole": {
+      "Name Tag": "Wormhole: RAY Token",
+      "Description": "Wormhole is a generic message-passing protocol that connects to multiple chains including Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Avalanche, and Oasis.",
+      "Token Name": "(Wormhole) (-)"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0x9aca6abfe63a5ae0dc6258cefb65207ec990aa4d",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "DigiPulse: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "DigiPulse (DGT)"
+    }
+  }
+}

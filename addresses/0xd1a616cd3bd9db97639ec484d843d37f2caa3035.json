@@ -1,0 +1,11 @@
+{
+  "Address": "0xd1a616cd3bd9db97639ec484d843d37f2caa3035",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "AgroLyte: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "AgroLyte Token (AGR)"
+    }
+  }
+}

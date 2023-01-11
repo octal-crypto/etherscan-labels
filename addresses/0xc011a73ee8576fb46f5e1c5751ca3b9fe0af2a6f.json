@@ -1,0 +1,24 @@
+{
+  "Address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+  "Labels": {
+    "defi": {
+      "Token Name": "Synthetix Network Token (SNX)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "payments": {
+      "Token Name": "Synthetix Network Token (SNX)",
+      "Description": "Cryptocurrency payment platforms that accept their own native tokens and/or other cryptocurrencies as a form of payment."
+    },
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy SNX Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy SNX Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synthetix Network Token (SNX)"
+    }
+  }
+}

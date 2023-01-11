@@ -1,0 +1,14 @@
+{
+  "Address": "0x123151402076fc819B7564510989e475c9cD93CA",
+  "Labels": {
+    "deprecated": {
+      "Token Name": "wrapped-DGLD (wDGLD)",
+      "Description": "A list of tokens, contracts or addresses which have been deprecated by their projects."
+    },
+    "old-contract": {
+      "Name Tag": "Digital Gold: Old wDGLD Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

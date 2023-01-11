@@ -1,0 +1,14 @@
+{
+  "Address": "0x7b4b0b9b024109d182dcf3831222fbda81369423",
+  "Labels": {
+    "bridge": {
+      "Token Name": "BUSD Token (Wormhole) (BUSD)",
+      "Description": "A gateway connecting one network to another."
+    },
+    "wormhole": {
+      "Name Tag": "Wormhole: BUSD Token",
+      "Description": "Wormhole is a generic message-passing protocol that connects to multiple chains including Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Avalanche, and Oasis.",
+      "Token Name": "BUSD Token (Wormhole) (BUSD)"
+    }
+  }
+}

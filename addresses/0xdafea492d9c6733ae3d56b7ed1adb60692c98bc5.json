@@ -1,0 +1,9 @@
+{
+  "Address": "0xdafea492d9c6733ae3d56b7ed1adb60692c98bc5",
+  "Labels": {
+    "mev-builder": {
+      "Name Tag": "Flashbots: Builder",
+      "Description": "An address detected as an MEV block builder that collects and sequences transactions to produce blocks. Blockspace is sold to it by beacon chain validators."
+    }
+  }
+}

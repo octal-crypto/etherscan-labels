@@ -1,0 +1,13 @@
+{
+  "Address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Indexed: NDX Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "staking": {
+      "Token Name": "Indexed (NDX)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    }
+  }
+}

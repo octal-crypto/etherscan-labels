@@ -1,0 +1,15 @@
+{
+  "Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+  "Labels": {
+    "bitcoin-pegged": {
+      "Token Name": "Wrapped BTC (WBTC)",
+      "Description": "Tokens that are pegged 1:1 to bitcoin"
+    },
+    "wrapped-bitcoin": {
+      "Name Tag": "Wrapped BTC: WBTC Token",
+      "Description": "Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community-led.",
+      "Subcategory": "Main",
+      "Token Name": "Wrapped BTC (WBTC)"
+    }
+  }
+}

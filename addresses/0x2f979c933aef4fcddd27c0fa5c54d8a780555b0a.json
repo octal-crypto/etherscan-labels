@@ -1,0 +1,14 @@
+{
+  "Address": "0x2f979c933aef4fcddd27c0fa5c54d8a780555b0a",
+  "Labels": {
+    "mining": {
+      "Name Tag": "NEST Protocol: Mining Pool",
+      "Description": "Cryptocurrency mining is the validation of transactions on the blockchain. Once validated, these transactions are added to the blockchain's public ledger of past transactions.\nFor this effort, successful miners receive new cryptocurrency as a reward."
+    },
+    "nest-protocol": {
+      "Name Tag": "NEST Protocol: Mining Pool",
+      "Description": "NEST Protocol: A distributed price oracle network that solves the problem of price on-chain through a decentralized incentive scheme.",
+      "Subcategory": "Main"
+    }
+  }
+}

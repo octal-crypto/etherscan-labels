@@ -1,0 +1,17 @@
+{
+  "Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+  "Labels": {
+    "bitfinex": {
+      "Name Tag": "Tether: USDT Stablecoin",
+      "Description": "Bitfinex is a full-featured spot trading platform for major digital assets & cryptocurrencies, including Bitcoin, Ethereum, EOS, Litecoin, Ripple, NEO, Monero and many more.",
+      "Token Name": "Tether USD (USDT)"
+    },
+    "blocked": {
+      "Name Tag": "Tether: USDT Stablecoin",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "stablecoin": {
+      "Token Name": "Tether USD (USDT)"
+    }
+  }
+}

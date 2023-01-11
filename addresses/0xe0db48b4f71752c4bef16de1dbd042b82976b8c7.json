@@ -1,0 +1,14 @@
+{
+  "Address": "0xe0db48b4f71752c4bef16de1dbd042b82976b8c7",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yvmUSD Vault"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yvmUSD Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn mStable USD (yvmUSD)"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+  "Labels": {
+    "0x-protocol-ecosystem": {
+      "Token Name": "Maker (MKR)",
+      "Description": "Projects and addresses associated to 0x Protocol, an open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain."
+    },
+    "dao": {
+      "Token Name": "Maker (MKR)"
+    },
+    "defi": {
+      "Token Name": "Maker (MKR)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "maker": {
+      "Name Tag": "Maker: MKR Token",
+      "Description": "Maker is a decentralized autonomous organization on the Ethereum blockchain seeking to minimize the price volatility of its own stable token — the Dai — against the U.S. Dollar.",
+      "Token Name": "Maker (MKR)"
+    }
+  }
+}

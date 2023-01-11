@@ -1,0 +1,14 @@
+{
+  "Address": "0x7A2C7928c8CF294E25cA7db8a379278c5b0cFa0F",
+  "Labels": {
+    "gambling": {
+      "Token Name": "Cino Games (CINO)",
+      "Description": "The wagering of Ethers or something of value on an event with an uncertain outcome with the primary intent of winning more Ethers or material goods."
+    },
+    "old-contract": {
+      "Name Tag": "Cino Games: Old CINO Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

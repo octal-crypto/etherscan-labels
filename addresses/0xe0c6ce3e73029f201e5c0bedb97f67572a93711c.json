@@ -1,0 +1,9 @@
+{
+  "Address": "0xe0c6ce3e73029f201e5c0bedb97f67572a93711c",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "ETHplode (ETHPLO)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

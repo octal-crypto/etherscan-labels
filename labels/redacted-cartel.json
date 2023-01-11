@@ -1,0 +1,63 @@
+{
+  "Label": "redacted-cartel",
+  "Description": "Redacted Cartel is complimentary subDAO for OlympusDAO which aims to leverage Protocol Owned Liquidity to capture gauge influence in the DeFi ecosystem",
+  "Addresses": {
+    "0xca1d53e40eab232deff03dc824410100bcccf2bc": {
+      "Name Tag": "Redacted Cartel: Bonding Calculator",
+      "Subcategory": "Main"
+    },
+    "0xc0d4ceb216b3ba9c3701b291766fdcba977cec3a": {
+      "Name Tag": "Redacted Cartel: BTRFLY Token",
+      "Subcategory": "Main",
+      "Token Name": "BTRFLY (BTRFLY)"
+    },
+    "0x933fa13abc4e1532dc5de017b6673711c2f16d9a": {
+      "Name Tag": "Redacted Cartel: CRV-DA Dutch Auction",
+      "Subcategory": "Main"
+    },
+    "0x1fdf1233f85a3bae9594b0558e4ec8febe8c6720": {
+      "Name Tag": "Redacted Cartel: LP Bond",
+      "Subcategory": "Main"
+    },
+    "0xa52fd396891e7a74b641a2cb1a6999fcf56b077e": {
+      "Name Tag": "Redacted Cartel: Multisig",
+      "Subcategory": "Main"
+    },
+    "0xe134204b53a4db2b3d9861b04214f8637ecbc8a8": {
+      "Name Tag": "Redacted Cartel: OHM-DA Dutch Auction",
+      "Subcategory": "Main"
+    },
+    "0x57503824e256e878db8136fde66f155c49e362df": {
+      "Name Tag": "Redacted Cartel: PBTRFLY",
+      "Subcategory": "Main"
+    },
+    "0xbde4dfb0dbb0dd8833efb6c5bd0ce048c852c487": {
+      "Name Tag": "Redacted Cartel: Staking",
+      "Subcategory": "Main"
+    },
+    "0xb2120ae79d838d6703cf6d2ac5cc68b5db10683f": {
+      "Name Tag": "Redacted Cartel: Staking Distributor",
+      "Subcategory": "Main"
+    },
+    "0xc0840ec5527d3e70d66ae6575642916f3fd18adf": {
+      "Name Tag": "Redacted Cartel: Staking Helper",
+      "Subcategory": "Main"
+    },
+    "0x086c98855df3c78c6b481b6e1d47bef42e9ac36b": {
+      "Name Tag": "Redacted Cartel: Treasury",
+      "Subcategory": "Main"
+    },
+    "0x7521c8c7ba7e1f650c1109c40876c5dd52f5614c": {
+      "Name Tag": "Redacted Cartel: Warmup",
+      "Subcategory": "Main"
+    },
+    "0xcc94faf235cc5d3bf4bed3a30db5984306c86abc": {
+      "Name Tag": "Redacted Cartel: xBTRFLY",
+      "Subcategory": "Main"
+    },
+    "0xe2ef3b60b0b3087cf1d1179d899a7cd7a11a9fca": {
+      "Name Tag": "Redacted Cartel: Bond Depository Reward",
+      "Subcategory": "Others"
+    }
+  }
+}

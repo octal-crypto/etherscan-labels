@@ -1,0 +1,16 @@
+{
+  "Address": "0xbc5991ccd8caceba01edc44c2bb9832712c29cab",
+  "Labels": {
+    "old-contract": {
+      "Token Name": "unagii_USD Coin (uUSDC)",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "unagii-com": {
+      "Name Tag": "unagii.com: Old uUSDC Token",
+      "Description": "unagii.com: The best of DeFi on the only app you need for your digital asset yields.",
+      "Subcategory": "Legacy",
+      "Token Name": "unagii_USD Coin (uUSDC)"
+    }
+  }
+}

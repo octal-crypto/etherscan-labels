@@ -1,0 +1,16 @@
+{
+  "Address": "0x16de59092dae5ccf4a1e6439d611fd0653f0bd01",
+  "Labels": {
+    "defi": {
+      "Token Name": "iearn DAI (yDAI)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yDAI Token",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Main",
+      "Token Name": "iearn DAI (yDAI)"
+    }
+  }
+}

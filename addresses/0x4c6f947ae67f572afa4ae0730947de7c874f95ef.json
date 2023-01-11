@@ -1,0 +1,14 @@
+{
+  "Address": "0x4c6f947ae67f572afa4ae0730947de7c874f95ef",
+  "Labels": {
+    "arbitrum": {
+      "Name Tag": "Arbitrum: Old Sequencer Inbox",
+      "Description": "Arbitrum is a next generation Layer 2 for Ethereum dApps, allowing you to use your favorite tools and scale your dApp at the lowest cost."
+    },
+    "old-contract": {
+      "Name Tag": "Arbitrum: Old Sequencer Inbox",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

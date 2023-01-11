@@ -1,0 +1,9 @@
+{
+  "Address": "0x60c66718a90f1097cd3155baa156df29cd8fcf20",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Hold. (HOLD)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

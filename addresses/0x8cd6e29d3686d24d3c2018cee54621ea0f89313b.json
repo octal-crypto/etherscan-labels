@@ -1,0 +1,11 @@
+{
+  "Address": "0x8cd6e29d3686d24d3c2018cee54621ea0f89313b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "NerveDEX: Old ENVT Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "NerveNetwork (ENVT)"
+    }
+  }
+}

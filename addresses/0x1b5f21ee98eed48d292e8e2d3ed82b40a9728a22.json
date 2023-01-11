@@ -1,0 +1,11 @@
+{
+  "Address": "0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "DataBrokerDao: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "DataBroker DAO Token (DATA)"
+    }
+  }
+}

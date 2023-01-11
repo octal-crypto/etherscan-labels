@@ -1,0 +1,11 @@
+{
+  "Address": "0x5afee136283f5adc22545ed191decfc2ba2eac33",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Bitway: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Bitway (BTWN)"
+    }
+  }
+}

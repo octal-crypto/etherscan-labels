@@ -1,0 +1,11 @@
+{
+  "Address": "0x5b5d8a8a732a3c73ff0fb6980880ef399ecaf72e",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Prover: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "PROOF (PF)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Address": "0xbc6819294c554f46bee6f5eb5260089a03e270a2",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "DEFLA (DEFLA)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "rebase-token": {
+      "Token Name": "DEFLA (DEFLA)"
+    },
+    "website-down": {
+      "Token Name": "DEFLA (DEFLA)",
+      "Description": "The last checked status of a website.\nPlease contact us (1. General Inquiry) if the website is back online."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Address": "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00",
+  "Labels": {
+    "aave": {
+      "Name Tag": "Aave: aBAT Token V1",
+      "Description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+      "Subcategory": "Main",
+      "Token Name": "Aave Interest bearing BAT (aBAT)"
+    },
+    "defi": {
+      "Token Name": "Aave Interest bearing BAT (aBAT)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "v1": {
+      "Name Tag": "Aave: aBAT Token V1",
+      "Description": "Contracts associated with Version 1 of a project.",
+      "Subcategory": "Main",
+      "Token Name": "Aave Interest bearing BAT (aBAT)"
+    }
+  }
+}

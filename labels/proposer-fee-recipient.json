@@ -1,0 +1,257 @@
+{
+  "Label": "proposer-fee-recipient",
+  "Description": "An address that is set by Beacon Chain validators as a fee recipient for their block proposers.",
+  "Addresses": {
+    "0x811395405be7af1ae48bc61659cb69067f42c0e8": {},
+    "0xaa6a397654d1e74ab8061992a3ad7956951ec0a7": {},
+    "0xb364e75b1189dcbbf7f0c856456c1ba8e4d6481b": {
+      "Name Tag": "Ethpool: Staking"
+    },
+    "0x00178eb7e94c647143cb6ead6aa6258796d9ba3f": {
+      "Name Tag": "Fee Recipient: 0x00...a3F"
+    },
+    "0x0016c20a45c25ad536b6b10e113bb7dc57336ed4": {
+      "Name Tag": "Fee Recipient: 0x001...Ed4"
+    },
+    "0x033ac7a6415fbb3ab100e6c342ee1a8a0702145e": {
+      "Name Tag": "Fee Recipient: 0x03...145E"
+    },
+    "0x05295a0ac05d2165b061cd44907c53b7a85e95ff": {
+      "Name Tag": "Fee Recipient: 0x05...5fF"
+    },
+    "0x07f20b1265059feb39d605e8476aa51595483ec6": {
+      "Name Tag": "Fee Recipient: 0x07...Ec6"
+    },
+    "0x0b16154bcaa748c9e83f1df4035bbbe5578e41d6": {
+      "Name Tag": "Fee Recipient: 0x0b...1D6"
+    },
+    "0x0c19a07242755b3f107cfb4c74d236a18548541f": {
+      "Name Tag": "Fee Recipient: 0x0C...41F"
+    },
+    "0x294f0720c7d6fecc1c8f3e8625ee0b157f19ada4": {
+      "Name Tag": "Fee Recipient: 0x29...Da4"
+    },
+    "0x2f057de7385503839747957c585a4dcd3c69ed83": {
+      "Name Tag": "Fee Recipient: 0x2f...d83"
+    },
+    "0x2f7b53314130dae04ea5b6204dd1c3db3b108e35": {
+      "Name Tag": "Fee Recipient: 0x2F...E35"
+    },
+    "0x326ce3994d16e8ac6193d4a282ecd6be58818866": {
+      "Name Tag": "Fee Recipient: 0x326...866"
+    },
+    "0x34cb778ea0b3e386a16616ec643f06e900bdea26": {
+      "Name Tag": "Fee Recipient: 0x34...a26"
+    },
+    "0x378cdc4e9e9bccd7aeda011888ecf6a8528271fb": {
+      "Name Tag": "Fee Recipient: 0x37...1FB"
+    },
+    "0x3ee4361b72c7ecac056f2dfb32449b142d937675": {
+      "Name Tag": "Fee Recipient: 0x3E...675"
+    },
+    "0x42a93a9f5cfda54716c414b6eaf07cf512f46ead": {
+      "Name Tag": "Fee Recipient: 0x42A...eAD"
+    },
+    "0x4675c7e5baafbffbca748158becba61ef3b0a263": {
+      "Name Tag": "Fee Recipient: 0x467...263"
+    },
+    "0x4e9cc05f7f944d618de85396e669922c2cf6813e": {
+      "Name Tag": "Fee Recipient: 0x4e...13E"
+    },
+    "0x51a1449b3b6d635eddec781cd47a99221712de97": {
+      "Name Tag": "Fee Recipient: 0x51...e97"
+    },
+    "0x534b58ebd8ebdf72cc6119501643567f408cb74a": {
+      "Name Tag": "Fee Recipient: 0x534...74a"
+    },
+    "0x535b918f3724001fd6fb52fcc6cbc220592990a3": {
+      "Name Tag": "Fee Recipient: 0x535...0A3"
+    },
+    "0x54cd0e6771b6487c721ec620c4de1240d3b07696": {
+      "Name Tag": "Fee Recipient: 0x54C...696"
+    },
+    "0x5580bf3a253cec045f2130e6a53da337a3266968": {
+      "Name Tag": "Fee Recipient: 0x55...968"
+    },
+    "0x56c0507e22f214682a2beb7e4f959155d802c525": {
+      "Name Tag": "Fee Recipient: 0x56...525"
+    },
+    "0x5ed5ef074ebf208bdd5c86a9e9e7b7b1263e88c6": {
+      "Name Tag": "Fee Recipient: 0x5E...8C6"
+    },
+    "0x600ddd8bde9fb00de5a325c560dbf75e616d0c3f": {
+      "Name Tag": "Fee Recipient: 0x60...c3F"
+    },
+    "0x68c47a9c3e3a5dd36ba7a890b3a3662bded2104d": {
+      "Name Tag": "Fee Recipient: 0x68...04d"
+    },
+    "0x6a0db4cef1ce2a5f81c8e6322862439f71aca29d": {
+      "Name Tag": "Fee Recipient: 0x6a0...29d"
+    },
+    "0x6b333b20fbae3c5c0969dd02176e30802e2fbbdb": {
+      "Name Tag": "Fee Recipient: 0x6b...BdB"
+    },
+    "0x6d2e03b7effeae98bd302a9f836d0d6ab0002766": {
+      "Name Tag": "Fee Recipient: 0x6d2...766"
+    },
+    "0x6ee4328c22477491199edc7a09ea6ca7f2e6b09f": {
+      "Name Tag": "Fee Recipient: 0x6E...09F"
+    },
+    "0x6e049561f84662d3796f30abcb77690c00ad4312": {
+      "Name Tag": "Fee Recipient: 0x6e...312"
+    },
+    "0x6f3f8c227438182a8140ff921474518400468815": {
+      "Name Tag": "Fee Recipient: 0x6f...815"
+    },
+    "0x70a69fa317107dcf6fc3e8c06d4fbfc49f2481ca": {
+      "Name Tag": "Fee Recipient: 0x70...1Ca"
+    },
+    "0x707fc1439cd11b34a984b989a18476c24a1182a1": {
+      "Name Tag": "Fee Recipient: 0x70...2A1"
+    },
+    "0x71ac96c8c43110e68fb2155a9a0b76e549fe11e1": {
+      "Name Tag": "Fee Recipient: 0x71...1e1"
+    },
+    "0x758a4a45dd08d826fc3f2436ce3fa263fb1a4f42": {
+      "Name Tag": "Fee Recipient: 0x75...F42"
+    },
+    "0x7a2da064c23de11be810384e788486a29d9b6144": {
+      "Name Tag": "Fee Recipient: 0x7A...144"
+    },
+    "0x88888888ad8a8801aa83d728845e4847bc2cd8be": {
+      "Name Tag": "Fee Recipient: 0x888...8be"
+    },
+    "0x8880bb98e7747f73b52a9cfa34dab9a4a06afa38": {
+      "Name Tag": "Fee Recipient: 0x888...A38"
+    },
+    "0x8b02a96ee10837d337a14d68eb4e79280d6fd873": {
+      "Name Tag": "Fee Recipient: 0x8B...873"
+    },
+    "0x95e8403ed2dcb25dc07deaac6ebee12f62efbadd": {
+      "Name Tag": "Fee Recipient: 0x95...aDd"
+    },
+    "0x98b92fde3f215f25e9d8ca1c6ec67b65440bf38a": {
+      "Name Tag": "Fee Recipient: 0x98...38a"
+    },
+    "0x9c1bae8f971a1188c927c15575211db1ac2a303f": {
+      "Name Tag": "Fee Recipient: 0x9c...03F"
+    },
+    "0x9f4b4ceca7ace96834bd2fcc961c772de7cb481a": {
+      "Name Tag": "Fee Recipient: 0x9f...81a"
+    },
+    "0xa0b319a07521c43c4961a1a76977a5ccd46c3122": {
+      "Name Tag": "Fee Recipient: 0xA0...122"
+    },
+    "0xa27cef8af2b6575903b676e5644657fae96f491f": {
+      "Name Tag": "Fee Recipient: 0xa2...91F"
+    },
+    "0xa3a5ef800b47d503e61ee7f0baf7ee80bcc5fbfb": {
+      "Name Tag": "Fee Recipient: 0xa3...bFb"
+    },
+    "0xa8babac2a6d66db720d8271e7a85fb0cb78a5377": {
+      "Name Tag": "Fee Recipient: 0xa8...377"
+    },
+    "0xaab7f8d14b22d7e00fbb87f10a5d4c1b04797b26": {
+      "Name Tag": "Fee Recipient: 0xAa...b26"
+    },
+    "0xadae1798f761fa7fce29b6673d453d1a48a2931a": {
+      "Name Tag": "Fee Recipient: 0xADa...31A"
+    },
+    "0xb4e485a1fec13432b51e42d9c09def56e28bef79": {
+      "Name Tag": "Fee Recipient: 0xB4...F79"
+    },
+    "0xb5902977b237240a66d31d177793a1f60a8b2e12": {
+      "Name Tag": "Fee Recipient: 0xb5...E12"
+    },
+    "0xba401cdac1a3b6aeede21c9c4a483be6c29f88c5": {
+      "Name Tag": "Fee Recipient: 0xBA4...8C5"
+    },
+    "0xbd20bf061b02c28e5967b5a55b374d30d503b1b3": {
+      "Name Tag": "Fee Recipient: 0xbD...1B3"
+    },
+    "0xbd4a00764217c13a246f86db58d74541a0c3972a": {
+      "Name Tag": "Fee Recipient: 0xbD4...72A"
+    },
+    "0xbe3972d8cb690d5222de0c8c6659643de37a8667": {
+      "Name Tag": "Fee Recipient: 0xBE...667"
+    },
+    "0xc0d57da3082995827ac2f502d39ed77948422094": {
+      "Name Tag": "Fee Recipient: 0xc0...094"
+    },
+    "0xc436eb8aed128275c8f224de2f1dd202c0ab5830": {
+      "Name Tag": "Fee Recipient: 0xC4...830"
+    },
+    "0xc531c8b50241f48699de93a7fc638b3251ea246b": {
+      "Name Tag": "Fee Recipient: 0xc5...46b"
+    },
+    "0xcdec61c0e5e0bb5152ccce0580889a994bdc7777": {
+      "Name Tag": "Fee Recipient: 0xcd...777"
+    },
+    "0xcf7e0d5a32e1fe1552fede3da99e56054cc67254": {
+      "Name Tag": "Fee Recipient: 0xcF...254"
+    },
+    "0xd0111cf5bf230832f422da1c6c1d0a512d4e005a": {
+      "Name Tag": "Fee Recipient: 0xd01...05A"
+    },
+    "0xd297dae8361911dbcc34a202ab6852e983c83f8f": {
+      "Name Tag": "Fee Recipient: 0xd2...F8F"
+    },
+    "0xd4e96ef8eee8678dbff4d535e033ed1a4f7605b7": {
+      "Name Tag": "Fee Recipient: 0xd4...5b7"
+    },
+    "0xdbf983e62971c8df631aded26aa72313ee37fa2c": {
+      "Name Tag": "Fee Recipient: 0xDB...A2c"
+    },
+    "0xdefe33795803f2353c69fd8cdb432f9d5cee6762": {
+      "Name Tag": "Fee Recipient: 0xDe...762"
+    },
+    "0xe142006cd11b352a5d3be644978548f12348c91b": {
+      "Name Tag": "Fee Recipient: 0xE1...91b"
+    },
+    "0xe10332741c59ced2ba96db514a9ed865ddf99b6a": {
+      "Name Tag": "Fee Recipient: 0xe10...b6a"
+    },
+    "0xe349aaafb737c8d1ab6e05c4ecbf0e9bc62b6495": {
+      "Name Tag": "Fee Recipient: 0xe3...495"
+    },
+    "0xe35bbafa0266089f95d745d348b468622805d82b": {
+      "Name Tag": "Fee Recipient: 0xE3...82B"
+    },
+    "0xe52c39327ff7576baec3dbfef0787bd62db6d726": {
+      "Name Tag": "Fee Recipient: 0xe5...726"
+    },
+    "0xe688b84b23f322a994a53dbf8e15fa82cdb71127": {
+      "Name Tag": "Fee Recipient: 0xe68...127"
+    },
+    "0xe733455faddf4999176e99a0ec084e978f5552ed": {
+      "Name Tag": "Fee Recipient: 0xE7...2eD"
+    },
+    "0xe7151361c3e8749ac4024b77af4fad8f1b086f69": {
+      "Name Tag": "Fee Recipient: 0xE7...F69"
+    },
+    "0xe887312c0595a10ac88e32ebb8e9f660ad9ab7f7": {
+      "Name Tag": "Fee Recipient: 0xE88...7F7"
+    },
+    "0xe94f1fa4f27d9d288ffea234bb62e1fbc086ca0c": {
+      "Name Tag": "Fee Recipient: 0xE94...A0c"
+    },
+    "0xebec795c9c8bbd61ffc14a6662944748f299cacf": {
+      "Name Tag": "Fee Recipient: 0xeBe...Acf"
+    },
+    "0xed33259a056f4fb449ffb7b7e2ecb43a9b5685bf": {
+      "Name Tag": "Fee Recipient: 0xeD3...5Bf"
+    },
+    "0xf17d119effa0dcbe24d3fa346860be851150358f": {
+      "Name Tag": "Fee Recipient: 0xF1...358F"
+    },
+    "0xf7646187b170dcf991f96e5fbc80fcd83f039ca9": {
+      "Name Tag": "Fee Recipient: 0xf7...CA9"
+    },
+    "0xfda3368e9aa37d3104bb38e46e9e7e856147ab7c": {
+      "Name Tag": "Fee Recipient: 0xfda...b7c"
+    },
+    "0x388c818ca8b9251b393131c08a736a67ccb19297": {
+      "Name Tag": "Lido: Execution Layer Rewards Vault"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0x9463e518dea6810309563c81d5266c1b1d149138",
+  "Labels": {
+    "0x-protocol": {
+      "Name Tag": "0x: Old Order Validator",
+      "Description": "0x Protocol is an open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "0x: Old Order Validator",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

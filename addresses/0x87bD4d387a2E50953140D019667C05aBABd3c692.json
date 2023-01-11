@@ -1,0 +1,12 @@
+{
+  "Address": "0x87bD4d387a2E50953140D019667C05aBABd3c692",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Spray Finance Token (SPRAY)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "yield-farming": {
+      "Token Name": "Spray Finance Token (SPRAY)"
+    }
+  }
+}

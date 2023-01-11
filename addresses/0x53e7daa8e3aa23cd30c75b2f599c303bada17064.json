@@ -1,0 +1,9 @@
+{
+  "Address": "0x53e7daa8e3aa23cd30c75b2f599c303bada17064",
+  "Labels": {
+    "open-grants": {
+      "Name Tag": "Open Grants: ETH2 Development (Dec 2020)",
+      "Description": "Open Grants is a smart contract on Ethereum that forwards any funds that it receives to a defined list of recipients. The contract’s constructor parameters are grantees (list of recipients), amounts (how much to allocate to each grantee) and currency (at time of writing only supports ETH)."
+    }
+  }
+}

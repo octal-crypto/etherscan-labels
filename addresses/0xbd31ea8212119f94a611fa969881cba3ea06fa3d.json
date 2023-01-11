@@ -1,0 +1,14 @@
+{
+  "Address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+  "Labels": {
+    "bridge": {
+      "Token Name": "LUNA (Wormhole) (LUNA)",
+      "Description": "A gateway connecting one network to another."
+    },
+    "wormhole": {
+      "Name Tag": "Wormhole: LUNA Token",
+      "Description": "Wormhole is a generic message-passing protocol that connects to multiple chains including Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Avalanche, and Oasis.",
+      "Token Name": "LUNA (Wormhole) (LUNA)"
+    }
+  }
+}

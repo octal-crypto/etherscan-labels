@@ -1,0 +1,17 @@
+{
+  "Address": "0x1bbe271d15bb64df0bc6cd28df9ff322f2ebd847",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "tBTC: old TBTC Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "tBTC (TBTC)"
+    },
+    "tbtc": {
+      "Name Tag": "tBTC: old TBTC Token",
+      "Description": "tBTC: Deposit and redeem BTC in DeFi without intermediaries.",
+      "Subcategory": "Legacy",
+      "Token Name": "tBTC (TBTC)"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Swarm Fund: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Swarm Fund (SWM)"
+    }
+  }
+}

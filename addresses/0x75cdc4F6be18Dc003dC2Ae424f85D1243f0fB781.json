@@ -1,0 +1,12 @@
+{
+  "Address": "0x75cdc4F6be18Dc003dC2Ae424f85D1243f0fB781",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "JusDeFi (JDFI)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "yield-farming": {
+      "Token Name": "JusDeFi (JDFI)"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Label": "creepz",
+  "Description": "Creepz is a play-to-earn NFT game where players can invade Earth, claim $loomi & dodge enemies.",
+  "Addresses": {
+    "0x5f4a54e29ccb8a02cdf7d7bfa8a0999a8330cced": {
+      "Name Tag": "Creepz: ARMS Token"
+    },
+    "0xfe8c6d19365453d26af321d0e8c910428c23873f": {
+      "Name Tag": "Creepz: CBC Token"
+    },
+    "0x4609ebf4827f67986316e5b05b52f03d6d574bd9": {
+      "Name Tag": "Creepz: Deployer 1"
+    },
+    "0x1cc5c8544e370a0588d6dc00f5cad90ccb75cc1c": {
+      "Name Tag": "Creepz: Deployer 2"
+    },
+    "0x058620596e3cf5d328dbbc4407b80038f2fde7e9": {
+      "Name Tag": "Creepz: Deployer 3"
+    },
+    "0xc3503192343eae4b435e4a1211c5d28bf6f6a696": {
+      "Name Tag": "Creepz: Invasion Grounds"
+    },
+    "0xf1083e064f92db0561fd540f982cbf73a4e2f8f6": {
+      "Name Tag": "Creepz: SHAPE Token"
+    },
+    "0xa63673fd80e67aaeab5489c61760a490476a748a": {
+      "Name Tag": "Creepz: VAULT Token"
+    },
+    "0xfE8C6d19365453D26af321D0e8c910428c23873F": {
+      "Token Name": "Cold Blooded Creepz (CBC)"
+    },
+    "0xF1083e064F92db0561fd540F982Cbf73A4e2F8f6": {
+      "Token Name": "Creepz Shapeshifters (SHAPE)"
+    },
+    "0xA63673Fd80E67aaeAb5489C61760a490476a748a": {
+      "Token Name": "Loomi Vault (VAULT)"
+    },
+    "0x5f4a54E29ccb8a02CDF7D7BFa8a0999A8330CCeD": {
+      "Token Name": "Reptile Armoury (ARMS)"
+    }
+  }
+}

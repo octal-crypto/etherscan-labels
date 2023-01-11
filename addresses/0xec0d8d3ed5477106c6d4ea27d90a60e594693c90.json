@@ -1,0 +1,14 @@
+{
+  "Address": "0xec0d8d3ed5477106c6d4ea27d90a60e594693c90",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yGUSD Vault"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yGUSD Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Gemini dollar (yGUSD)"
+    }
+  }
+}

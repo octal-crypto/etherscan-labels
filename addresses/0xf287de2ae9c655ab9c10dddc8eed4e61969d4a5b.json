@@ -1,0 +1,10 @@
+{
+  "Address": "0xf287de2ae9c655ab9c10dddc8eed4e61969d4a5b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "NIX Bridge: Old NBT Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

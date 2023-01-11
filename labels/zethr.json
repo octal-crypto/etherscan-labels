@@ -1,0 +1,25 @@
+{
+  "Label": "zethr",
+  "Description": "Zethr is a decentralized casino where you can be the house.",
+  "Addresses": {
+    "0xd48b633045af65ff636f3c6edd744748351e020d": {
+      "Name Tag": "Zethr Token",
+      "Token Name": "Zethr (ZTH)"
+    },
+    "0x7430984e1d05d5f447c747123dd26845f6f17544": {
+      "Name Tag": "Zethr: Contract 1"
+    },
+    "0x5986d909b2fd4e8a613160ffa58e1cf067763133": {
+      "Name Tag": "Zethr: Contract 2"
+    },
+    "0xe69c6002f218d6939e13eefbb3d984b22c4e0448": {
+      "Name Tag": "Zethr: Contract 3"
+    },
+    "0x5a1dbff1a772bc35f53c77509b4dc1624c65e6ec": {
+      "Name Tag": "Zethr: Contract 4"
+    },
+    "0xb7e5f473e5550d7ca9857561269531787094b715": {
+      "Name Tag": "Zethr: Contract 5"
+    }
+  }
+}

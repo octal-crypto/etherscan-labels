@@ -1,0 +1,14 @@
+{
+  "Address": "0xbf093390d8046ae2d0f5465dec7001d65dc159d5",
+  "Labels": {
+    "deprecated": {
+      "Name Tag": "Synthetix: Old Token State XDR",
+      "Description": "A list of tokens, contracts or addresses which have been deprecated by their projects."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Old Token State XDR",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

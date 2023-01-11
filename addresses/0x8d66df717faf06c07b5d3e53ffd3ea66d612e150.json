@@ -1,0 +1,17 @@
+{
+  "Address": "0x8d66df717faf06c07b5d3e53ffd3ea66d612e150",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old FLEXETH Social Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "FlexETH Set (FLEXETH)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old FLEXETH Social Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "FlexETH Set (FLEXETH)"
+    }
+  }
+}

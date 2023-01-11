@@ -1,0 +1,14 @@
+{
+  "Address": "0x26607ac599266b21d13c7acf7942c7701a8b699c",
+  "Labels": {
+    "staking": {
+      "Token Name": "Power Index Pool Token (PIPT)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    },
+    "sybil-delegate": {
+      "Name Tag": "PowerIndex: PIPT Token",
+      "Description": "Sybil is a governance tool for discovering delegates. Sybil maps on-chain addresses to digital identities to maintain a list of delegates.",
+      "Token Name": "Power Index Pool Token (PIPT)"
+    }
+  }
+}

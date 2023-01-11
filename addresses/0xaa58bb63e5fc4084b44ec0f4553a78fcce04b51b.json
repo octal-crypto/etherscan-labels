@@ -1,0 +1,10 @@
+{
+  "Address": "0xaa58bb63e5fc4084b44ec0f4553a78fcce04b51b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Fitcoin: Old FITC Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

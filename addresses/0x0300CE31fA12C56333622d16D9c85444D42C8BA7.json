@@ -1,0 +1,9 @@
+{
+  "Address": "0x0300CE31fA12C56333622d16D9c85444D42C8BA7",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "BURNY (BRN)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

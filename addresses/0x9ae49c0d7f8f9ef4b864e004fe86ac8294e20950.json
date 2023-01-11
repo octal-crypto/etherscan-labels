@@ -1,0 +1,15 @@
+{
+  "Address": "0x9ae49c0d7f8f9ef4b864e004fe86ac8294e20950",
+  "Labels": {
+    "kyberswap": {
+      "Name Tag": "Kyber: Old Contract",
+      "Description": "KyberSwap is an on-chain liquidity protocol that aggregates liquidity and enables users to source liquidity across different decentralized exchanges to achieve the best rate for any token swap, on any supported network.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "Kyber: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

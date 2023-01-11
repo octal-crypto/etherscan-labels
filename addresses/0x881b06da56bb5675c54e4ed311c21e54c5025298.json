@@ -1,0 +1,15 @@
+{
+  "Address": "0x881b06da56bb5675c54e4ed311c21e54c5025298",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yLINK Vault",
+      "Token Name": "yearn ChainLink Token (yLINK)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yLINK Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn ChainLink Token (yLINK)"
+    }
+  }
+}

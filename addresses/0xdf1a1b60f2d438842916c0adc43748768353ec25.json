@@ -1,0 +1,14 @@
+{
+  "Address": "0xdf1a1b60f2d438842916c0adc43748768353ec25",
+  "Labels": {
+    "dex": {
+      "Name Tag": "KyberSwap: Aggregation Router 2",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    },
+    "kyberswap": {
+      "Name Tag": "KyberSwap: Aggregation Router 2",
+      "Description": "KyberSwap is an on-chain liquidity protocol that aggregates liquidity and enables users to source liquidity across different decentralized exchanges to achieve the best rate for any token swap, on any supported network.",
+      "Subcategory": "Others"
+    }
+  }
+}

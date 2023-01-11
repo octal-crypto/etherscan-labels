@@ -1,0 +1,11 @@
+{
+  "Address": "0xfb54c2a6b2a4fc3af9b781585215da8ee6bce363",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "TigerCash: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "TigerCash (TCH)"
+    }
+  }
+}

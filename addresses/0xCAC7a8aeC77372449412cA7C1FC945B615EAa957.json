@@ -1,0 +1,21 @@
+{
+  "Address": "0xCAC7a8aeC77372449412cA7C1FC945B615EAa957",
+  "Labels": {
+    "defi": {
+      "Token Name": "Yolex.io (YEX)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "dex": {
+      "Token Name": "Yolex.io (YEX)",
+      "Description": "A decentralized exchange (also known as a DEX) is an exchange market that does not rely on a 3rd party service to hold the client funds but instead trades occur directly between users (peer to peer) through an automated process."
+    },
+    "staking": {
+      "Token Name": "Yolex.io (YEX)",
+      "Description": "The process of holding funds in a cryptocurrency wallet to support the operations of a network."
+    },
+    "yield-farming": {
+      "Token Name": "Yolex.io (YEX)"
+    }
+  }
+}

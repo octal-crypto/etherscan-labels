@@ -1,0 +1,216 @@
+{
+  "Label": "rari-capital",
+  "Description": "Rari Capital aims to deliver the best yield to all users with various risk tolerances. Easy, sustainable and built for the future.",
+  "Addresses": {
+    "0x67db14e73c2dce786b5bbbfa4d010deab4bbfcf9": {
+      "Name Tag": "Rari Capital: cERC20 Implementation",
+      "Subcategory": "Main"
+    },
+    "0xd77e28a1b9a9cfe1fc2eee70e391c05d25853cbf": {
+      "Name Tag": "Rari Capital: cEther Implementation",
+      "Subcategory": "Main"
+    },
+    "0xe102421a85d9c0e71c0ef1870dac658eb43e1493": {
+      "Name Tag": "Rari Capital: Chainlink Price Oracle",
+      "Subcategory": "Main"
+    },
+    "0xe16db319d9da7ce40b666dd2e365a4b8b3c18217": {
+      "Name Tag": "Rari Capital: Comptroller Implementation",
+      "Subcategory": "Main"
+    },
+    "0x96ce4c781edf07f4e3d210c919ca4f9a7ad82a7f": {
+      "Name Tag": "Rari Capital: DAI Dari Pool Price Consumer",
+      "Subcategory": "Main"
+    },
+    "0xafd2aade64e6ea690173f6de59fc09f5c9190d74": {
+      "Name Tag": "Rari Capital: DAI Rari Pool Controller",
+      "Subcategory": "Main"
+    },
+    "0xb465baf04c087ce3ed1c266f96ca43f4847d9635": {
+      "Name Tag": "Rari Capital: DAI Rari Pool Manager",
+      "Subcategory": "Main"
+    },
+    "0x3f579f097f2ce8696ae8c417582cfafde9ec9966": {
+      "Name Tag": "Rari Capital: DAI Rari Pool Proxy",
+      "Subcategory": "Main"
+    },
+    "0x0833cfcb11a5ba89fbaf73a407831c98ad2d7648": {
+      "Name Tag": "Rari Capital: DAI Rari Pool Token",
+      "Subcategory": "Main"
+    },
+    "0x3f4931a8e9d4cdf8f56e7e8a8cfe3bede0e43657": {
+      "Name Tag": "Rari Capital: Ether Rari Pool Controller",
+      "Subcategory": "Main"
+    },
+    "0xa731585ab05fc9f83555cf9bff8f58ee94e18f85": {
+      "Name Tag": "Rari Capital: Fuse Fee Distributor",
+      "Subcategory": "Main"
+    },
+    "0x835482fe0532f169024d5e9410199369aad5c77e": {
+      "Name Tag": "Rari Capital: Fuse Pool Directory",
+      "Subcategory": "Main"
+    },
+    "0x6dc585ad66a10214ef0502492b0cc02f0e836eec": {
+      "Name Tag": "Rari Capital: Fuse Pool Lens",
+      "Subcategory": "Main"
+    },
+    "0xc76190e04012f26a364228cfc41690429c44165d": {
+      "Name Tag": "Rari Capital: Fuse Pool Lens Secondary",
+      "Subcategory": "Main"
+    },
+    "0xf0f3a1494ae00b5350535b7777abb2f499fc13d4": {
+      "Name Tag": "Rari Capital: Fuse Safe Liquidator",
+      "Subcategory": "Main"
+    },
+    "0x9c0caeb986c003417d21a7daaf30221d61fc1043": {
+      "Name Tag": "Rari Capital: Governance Token Distributor",
+      "Subcategory": "Main"
+    },
+    "0x91d9c2b5cf81d55a5f2ecc0fc84e62f9cd2cefd6": {
+      "Name Tag": "Rari Capital: Governor Bravo Delegator",
+      "Subcategory": "Main"
+    },
+    "0x14ee0270c80bed60bdc117d4f218dee0a4909f28": {
+      "Name Tag": "Rari Capital: Interest Rate Model ETH",
+      "Subcategory": "Main"
+    },
+    "0x7ecaf96c79c2b263afe4f486ec9a74f8e563e0a6": {
+      "Name Tag": "Rari Capital: Interest Rate Model WBTC",
+      "Subcategory": "Main"
+    },
+    "0x58c3e7119ec200c09b2b3a9f8ce3bd77b6b47012": {
+      "Name Tag": "Rari Capital: Jump Rate Model ALCX",
+      "Subcategory": "Main"
+    },
+    "0x640dce7c7c6349e254b20eccfa2bb902b354c317": {
+      "Name Tag": "Rari Capital: Jump Rate Model DAI",
+      "Subcategory": "Main"
+    },
+    "0xcdc0a449e011249482824effcfa05c883d36cfc7": {
+      "Name Tag": "Rari Capital: Jump Rate Model Gov Seeds",
+      "Subcategory": "Main"
+    },
+    "0xb579d2761470bba14018959d6dffcc681c09c04b": {
+      "Name Tag": "Rari Capital: Jump Rate Model Stables Majors",
+      "Subcategory": "Main"
+    },
+    "0xc35db333ef7ce4f246de9de11cc1929d6aa11672": {
+      "Name Tag": "Rari Capital: Jump Rate Model UNI",
+      "Subcategory": "Main"
+    },
+    "0xbf2f341ea21aad9f1935636258e67f06c72353dd": {
+      "Name Tag": "Rari Capital: Marketing",
+      "Subcategory": "Main"
+    },
+    "0x1887118e49e0f4a78bd71b792a49de03504a764d": {
+      "Name Tag": "Rari Capital: Master Price Oracle",
+      "Subcategory": "Main"
+    },
+    "0x9e07fda32497e982dd43837a6f61a68177c16356": {
+      "Name Tag": "Rari Capital: Nova Approval Escrow",
+      "Subcategory": "Main"
+    },
+    "0xd9f223a36c2e398b0886f945a7e556b41ef91a3c": {
+      "Name Tag": "Rari Capital: Old REPT Fund Controller",
+      "Subcategory": "Main"
+    },
+    "0x6afe6c37bf75f80d512b9d89c19ec0b346b09a8d": {
+      "Name Tag": "Rari Capital: Old RYPT Fund Controller",
+      "Subcategory": "Main"
+    },
+    "0xd6e194af3d9674b62d1b30ec676030c23961275e": {
+      "Name Tag": "Rari Capital: REPT Fund Manager",
+      "Subcategory": "Main"
+    },
+    "0xa3cc9e4b9784c80a05b3af215c32ff223c3ebe5c": {
+      "Name Tag": "Rari Capital: REPT Fund Proxy",
+      "Subcategory": "Main"
+    },
+    "0xcda4770d65b4211364cb870ad6be19e7ef1d65f4": {
+      "Name Tag": "Rari Capital: REPT Token",
+      "Subcategory": "Main",
+      "Token Name": "Rari Ethereum Pool Token (REPT)"
+    },
+    "0xd291e7a03283640fdc51b121ac401383a46cc623": {
+      "Name Tag": "Rari Capital: RGT Token",
+      "Subcategory": "Main"
+    },
+    "0x9ed0e3fe49af99a8907361d9b7caea8f214fe288": {
+      "Name Tag": "Rari Capital: Roles Authority",
+      "Subcategory": "Main"
+    },
+    "0xee7162bb5191e8ec803f7635de9a920159f1f40c": {
+      "Name Tag": "Rari Capital: RSPT Fund Controller",
+      "Subcategory": "Main"
+    },
+    "0xc6bf8c8a55f77686720e0a88e2fd1feef58ddf4a": {
+      "Name Tag": "Rari Capital: RSPT Fund Manager",
+      "Subcategory": "Main"
+    },
+    "0x77a817077cd7cf0c6e0d4d2c4464648ff6c3fdb8": {
+      "Name Tag": "Rari Capital: RSPT Fund Price Consumer",
+      "Subcategory": "Main"
+    },
+    "0x016bf078abcacb987f0589a6d3beadd4316922b0": {
+      "Name Tag": "Rari Capital: RSPT Token",
+      "Subcategory": "Main"
+    },
+    "0x59fa438cd0731ebf5f4cdcaf72d4960efd13fce6": {
+      "Name Tag": "Rari Capital: RYPT Fund Manager",
+      "Subcategory": "Main"
+    },
+    "0x00815e0e9d118769542ce24be95f8e21c60e5561": {
+      "Name Tag": "Rari Capital: RYPT Fund Price Consumer",
+      "Subcategory": "Main"
+    },
+    "0x3baa6b7af0d72006d3ea770ca29100eb848559ae": {
+      "Name Tag": "Rari Capital: RYPT Token",
+      "Subcategory": "Main",
+      "Token Name": "Rari Yield Pool Token (RYPT)"
+    },
+    "0x66f4856f1bbd1eb09e1c8d9d646f5a3a193da569": {
+      "Name Tag": "Rari Capital: USDC Rari Pool Controller",
+      "Subcategory": "Main"
+    },
+    "0xfe98a52bcacc86432e7aa76376751dcfab202244": {
+      "Name Tag": "Rari Capital: USDC Rari Pool Price Consumer",
+      "Subcategory": "Main"
+    },
+    "0xdbda819b4166eddd54e4f98b48550bc43a3de2ad": {
+      "Name Tag": "Rari Capital: Deployer",
+      "Subcategory": "Others"
+    },
+    "0xb8f02248d53f7edfa38e79263e743e9390f81942": {
+      "Name Tag": "Rari Capital: Deployer 2",
+      "Subcategory": "Others"
+    },
+    "0xb5b64c2216a134f3731d66acace03c7e221afa2d": {
+      "Name Tag": "Rari Capital: Nova Execution Manager",
+      "Subcategory": "Others"
+    },
+    "0xa422890cbbe5eaa8f1c88590fbab7f319d7e24b6": {
+      "Name Tag": "Rari Capital: REPT Fund Controller",
+      "Subcategory": "Others"
+    },
+    "0x5ea4a9a7592683bf0bc187d6da706c6c4770976f": {
+      "Name Tag": "Rari Capital: RGT Reserves",
+      "Subcategory": "Others"
+    },
+    "0xe4dee94233dd4d7c2504744ee6d34f3875b3b439": {
+      "Name Tag": "Rari Capital: RSPT Fund Proxy",
+      "Subcategory": "Others"
+    },
+    "0x35ddefa2a30474e64314aaa7370abe14c042c6e8": {
+      "Name Tag": "Rari Capital: RYPT Fund Proxy",
+      "Subcategory": "Others"
+    },
+    "0xD291E7a03283640FDc51b121aC401383A46cC623": {
+      "Token Name": "Rari Governance Token (RGT)",
+      "Subcategory": "Main"
+    },
+    "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0": {
+      "Token Name": "Rari Stable Pool Token (RSPT)",
+      "Subcategory": "Main"
+    }
+  }
+}

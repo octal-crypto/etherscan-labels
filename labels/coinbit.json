@@ -1,0 +1,26 @@
+{
+  "Label": "coinbit",
+  "Description": "Coinbit: The most reliable cryptocurrency exchange.",
+  "Addresses": {
+    "0x497baef294c11a5f0f5bea3f2adb3073db448b56": {
+      "Name Tag": "Coinbit: DEX Token",
+      "Token Name": "DEX (DEX)"
+    },
+    "0xfff3ada5a2555a2b59bff4f44dfad90146cce8cb": {
+      "Name Tag": "Coinbit: DEXTER Token",
+      "Token Name": "DEXTER (DXR)"
+    },
+    "0x4571f3a386d1bd18e25d70d117e7067fa0bd9d08": {
+      "Name Tag": "Coinbit: DEXTERG Token"
+    },
+    "0xf29226914595052a04f5afbe6410d0c3ed707548": {
+      "Name Tag": "Coinbit: NEXT Token"
+    },
+    "0xF29226914595052a04F5AFbe6410D0C3eD707548": {
+      "Token Name": "NEXT (NET)"
+    },
+    "0x4571f3a386d1bd18E25d70d117e7067FA0Bd9D08": {
+      "Token Name": "DEXTERG (DXG)"
+    }
+  }
+}

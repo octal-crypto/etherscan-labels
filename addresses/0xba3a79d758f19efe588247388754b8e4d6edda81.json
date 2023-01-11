@@ -1,0 +1,11 @@
+{
+  "Address": "0xba3a79d758f19efe588247388754b8e4d6edda81",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "VeriSafe: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "VeriSafe (VSF)"
+    }
+  }
+}

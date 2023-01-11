@@ -1,0 +1,11 @@
+{
+  "Address": "0xfc858154c0b2c4a3323046fb505811f110ebda57",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "NOIA Token Old",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Legacy",
+      "Token Name": "NOIA Token (NOIA)"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Label": "counter-market",
+  "Description": "Counter: The most secure way to trade digital assets, powered by smart contracts.",
+  "Addresses": {
+    "0xc0deee11aa091189fff0713353c43c7c8cae7881": {
+      "Name Tag": "Counter.Market: Code v1"
+    },
+    "0x1234567896326230a28ee368825d11fe6571be4a": {
+      "Name Tag": "Counter.Market: Proxy"
+    },
+    "0x12345678982cb986dd291b50239295e3cb10cdf6": {
+      "Name Tag": "Counter.Market: Registry"
+    },
+    "0x12345678979f29ebc99e00bdc5693ddea564ca80": {
+      "Name Tag": "Counter.Market: Treasury"
+    }
+  }
+}

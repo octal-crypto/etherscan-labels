@@ -1,0 +1,14 @@
+{
+  "Address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Frontier: FRONT Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "defi": {
+      "Token Name": "Frontier Token (FRONT)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    }
+  }
+}

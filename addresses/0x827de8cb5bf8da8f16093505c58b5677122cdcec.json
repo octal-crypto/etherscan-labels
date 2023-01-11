@@ -1,0 +1,11 @@
+{
+  "Address": "0x827de8cb5bf8da8f16093505c58b5677122cdcec",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Cryptaur: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Cryptaur (CPT)"
+    }
+  }
+}

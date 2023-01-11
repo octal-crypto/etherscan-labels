@@ -1,0 +1,14 @@
+{
+  "Address": "0x1935ba29d778f2e4623c42910910ef85be7021ca",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Multichain Hack Alert 546",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "take-action": {
+      "Name Tag": "Multichain Hack Alert 546",
+      "Description": "The owners of these address are urged to take action immediately.",
+      "Subcategory": "Main"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0x16b1eb8b8e9058800bf0ba3684f805a6711a1d2c",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "reflector.finance (RFCTR)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

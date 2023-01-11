@@ -1,0 +1,11 @@
+{
+  "Address": "0x0a60f309a967b327f5d5a007cbd66fc786058395",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "MenaPay: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "MPAY (MPAY)"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Address": "0xdfe0ec39291e3b60aca122908f86809c9ee64e90",
+  "Labels": {
+    "across-protocol": {
+      "Name Tag": "Across Protocol: UMA Bridge Pool",
+      "Description": "Across Protocol is a bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet."
+    },
+    "bridge": {
+      "Name Tag": "Across Protocol: UMA Bridge Pool",
+      "Description": "A gateway connecting one network to another."
+    }
+  }
+}

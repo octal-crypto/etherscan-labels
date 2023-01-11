@@ -1,0 +1,9 @@
+{
+  "Address": "0x3b7f247f21bf3a07088c2d3423f64233d4b069f7",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "DYNAMITE (DYNMT)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

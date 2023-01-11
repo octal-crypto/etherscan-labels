@@ -1,0 +1,14 @@
+{
+  "Address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Akropolis: AKRO Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "defi": {
+      "Token Name": "Akropolis (AKRO)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    }
+  }
+}

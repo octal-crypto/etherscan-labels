@@ -1,0 +1,15 @@
+{
+  "Address": "0x017ff603cc711008772d32c03091d3cba371bcd3",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "unagii.com: Old KNC pool",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "unagii-com": {
+      "Name Tag": "unagii.com: Old KNC pool",
+      "Description": "unagii.com: The best of DeFi on the only app you need for your digital asset yields.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

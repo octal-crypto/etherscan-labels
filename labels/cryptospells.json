@@ -1,0 +1,32 @@
+{
+  "Label": "cryptospells",
+  "Description": "CryptoSpells is a blockchain trading card game.",
+  "Addresses": {
+    "0x67cbbb366a51fff9ad869d027e496ba49f5f6d55": {
+      "Name Tag": "CSPL: Card",
+      "Token Name": "CryptoSpells (CSPL)"
+    },
+    "0xd1e3dbd2476d374f97b93ad7f686eacbebd8f56d": {
+      "Name Tag": "CSPL: CardGateway"
+    },
+    "0x030c09afd8a0e756d114bfb8c8446fbb80e38311": {
+      "Name Tag": "CSPL: Daily Action"
+    },
+    "0x81dc8e0a77c4d9f16d8cd6c2408dcc53d2d9b7ac": {
+      "Name Tag": "CSPL: Deployer"
+    },
+    "0xa8abf045fe1a9ef0583e436393a6e4e0b483f717": {
+      "Name Tag": "CSPL: Guild",
+      "Token Name": "CryptoSpells:Guild (CSPL)"
+    },
+    "0x6bf2592c92aef0b2dd16e25cab3114c99ebd8c4e": {
+      "Name Tag": "CSPL: Guild Pool"
+    },
+    "0xa425feccc7e0114e735141c30a1c6f6891633a27": {
+      "Name Tag": "CSPL: SPL Purchase"
+    },
+    "0xb9e4b4c25449ed746d188385d064773011db806b": {
+      "Name Tag": "CSPL: SPLGateway"
+    }
+  }
+}

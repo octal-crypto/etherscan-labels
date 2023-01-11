@@ -1,0 +1,15 @@
+{
+  "Address": "0xcb98f42221b2c251a4e74a1609722ee09f0cc08e",
+  "Labels": {
+    "proxy-contract": {
+      "Name Tag": "Synthetix: Proxy iDASH Token",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Proxy iDASH Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Main",
+      "Token Name": "Synth iDASH (iDASH)"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Address": "0x3b73c1b2ea59835cbfcadade5462b6ab630d9890",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "ChainSwap: Old TOKEN Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

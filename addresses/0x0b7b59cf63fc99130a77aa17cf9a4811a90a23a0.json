@@ -1,0 +1,9 @@
+{
+  "Address": "0x0b7b59cf63fc99130a77aa17cf9a4811a90a23a0",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Grenade Token (GREN)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

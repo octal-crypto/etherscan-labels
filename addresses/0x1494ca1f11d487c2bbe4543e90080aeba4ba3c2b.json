@@ -1,0 +1,19 @@
+{
+  "Address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+  "Labels": {
+    "defi": {
+      "Token Name": "DefiPulse Index (DPI)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: DeFiPulse Index",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Others"
+    },
+    "sybil-delegate": {
+      "Name Tag": "Set: DeFiPulse Index",
+      "Description": "Sybil is a governance tool for discovering delegates. Sybil maps on-chain addresses to digital identities to maintain a list of delegates."
+    }
+  }
+}

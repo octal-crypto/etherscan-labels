@@ -1,0 +1,19 @@
+{
+  "Address": "0x710b80571db3792fbf4df7763efa6548c25a1635",
+  "Labels": {
+    "defi": {
+      "Name Tag": "Furucombo: Proxy v0.2",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "furucombo": {
+      "Name Tag": "Furucombo: Proxy v0.2",
+      "Description": "Furucombo: Save time, save steps, infinite DeFi combinations. Build your own DeFi legos into one transaction without knowing how to code.",
+      "Subcategory": "Main"
+    },
+    "proxy-contract": {
+      "Name Tag": "Furucombo: Proxy v0.2",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    }
+  }
+}

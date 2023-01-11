@@ -1,0 +1,17 @@
+{
+  "Address": "0xdc5bbcf8189a69337f693a9f3f63ae37789ede92",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old SGW Social Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "TrustlessState Set (TLS)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old SGW Social Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "TrustlessState Set (TLS)"
+    }
+  }
+}

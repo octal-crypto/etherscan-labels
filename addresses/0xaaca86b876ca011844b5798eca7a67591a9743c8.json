@@ -1,0 +1,12 @@
+{
+  "Address": "0xaaca86b876ca011844b5798eca7a67591a9743c8",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "0xNodes: BIOS Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "yield-farming": {
+      "Token Name": "BIOS (BIOS)"
+    }
+  }
+}

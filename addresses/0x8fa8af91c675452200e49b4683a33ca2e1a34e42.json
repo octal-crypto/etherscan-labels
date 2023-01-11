@@ -1,0 +1,14 @@
+{
+  "Address": "0x8fa8af91c675452200e49b4683a33ca2e1a34e42",
+  "Labels": {
+    "bithumb": {
+      "Name Tag": "Bithumb: Old Address 3",
+      "Description": "Bithumb is a South Korean cryptocurrency exchange"
+    },
+    "old-contract": {
+      "Name Tag": "Bithumb: Old Address 3",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

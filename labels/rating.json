@@ -1,0 +1,18 @@
+{
+  "Label": "rating",
+  "Description": "The evaluation or assessment of someone or something based on their quality, standard, performance or a combination of factors.",
+  "Addresses": {
+    "0xe8663a64a96169ff4d95b4299e7ae9a76b905b31": {
+      "Token Name": "Rating (Rating)"
+    },
+    "0xf0042b46d69ad6588c683f7e99e4ccb3f252717a": {
+      "Token Name": "Scam ALERT: HIGH probability. Audit... (SCAM-HIGH)"
+    },
+    "0xc57e4f6e40c600742bdf33a687bd6ef38ae9a846": {
+      "Token Name": "Scam ALERT: UNKNOWN status. Audit m... (SCAM-UNKNOWN)"
+    },
+    "0x98f9df7ad11ee79377e8b0be8680eda0dad35400": {
+      "Token Name": "Scam ALERT: Medium Risk. Audit made... (SCAM-MediumRisk)"
+    }
+  }
+}

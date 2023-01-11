@@ -1,0 +1,11 @@
+{
+  "Address": "0x3363d570f6df3c74d486bb8785d3ebfb9e2347d3",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "HedgeTrade: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "HedgeTrade (HEDG)"
+    }
+  }
+}

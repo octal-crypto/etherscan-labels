@@ -1,0 +1,21 @@
+{
+  "Address": "0x0b9857ae2d4a3dbe74ffe1d7df045bb7f96e4840",
+  "Labels": {
+    "arbitrum": {
+      "Name Tag": "Arbitrum: Outbox 4",
+      "Description": "Arbitrum is a next generation Layer 2 for Ethereum dApps, allowing you to use your favorite tools and scale your dApp at the lowest cost."
+    },
+    "arbitrum-one": {
+      "Name Tag": "Arbitrum: Outbox 4",
+      "Description": "Arbitrum One is a permissionless Ethereum layer 2 rollup with full Ethereum smart contract functionality."
+    },
+    "bridge": {
+      "Name Tag": "Arbitrum: Outbox 4",
+      "Description": "A gateway connecting one network to another."
+    },
+    "nitro": {
+      "Name Tag": "Arbitrum: Outbox 4",
+      "Description": "Arbitrum Nitro is a second-generation Layer 2 blockchain protocol by Arbitrum which could be implemented on any blockchain system that support smart contract functionality."
+    }
+  }
+}

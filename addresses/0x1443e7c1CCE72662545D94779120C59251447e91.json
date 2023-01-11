@@ -1,0 +1,9 @@
+{
+  "Address": "0x1443e7c1CCE72662545D94779120C59251447e91",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Molten (MOL)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

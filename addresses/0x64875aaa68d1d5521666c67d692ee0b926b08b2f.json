@@ -1,0 +1,20 @@
+{
+  "Address": "0x64875aaa68d1d5521666c67d692ee0b926b08b2f",
+  "Labels": {
+    "celsius-network": {
+      "Name Tag": "CelsiusX: cxADA Token",
+      "Description": "Celsius Network lets you earn interest on your crypto and instantly borrow against it. No fees ever.",
+      "Token Name": "CelsiusX Wrapped ADA (cxADA)"
+    },
+    "defi": {
+      "Name Tag": "CelsiusX: cxADA Token",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others",
+      "Token Name": "CelsiusX Wrapped ADA (cxADA)"
+    },
+    "interoperability-cross-chain": {
+      "Token Name": "CelsiusX Wrapped ADA (cxADA)",
+      "Description": "The interoperability between two relatively independent blockchains which allows them to communicate and transfer value with one another."
+    }
+  }
+}

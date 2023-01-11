@@ -1,0 +1,15 @@
+{
+  "Address": "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466",
+  "Labels": {
+    "mainnet-launched": {
+      "Token Name": "AION (AION)",
+      "Description": "Companies whose Mainnet have launched and have migrated from the Ethereum Network. A reminder to swap your tokens to the respective Mainnet if you have yet to do so."
+    },
+    "old-contract": {
+      "Name Tag": "AION: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "AION (AION)"
+    }
+  }
+}

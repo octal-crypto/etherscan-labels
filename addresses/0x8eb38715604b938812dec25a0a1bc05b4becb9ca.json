@@ -1,0 +1,11 @@
+{
+  "Address": "0x8eb38715604b938812dec25a0a1bc05b4becb9ca",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Grin Coin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Gric Coin (GC)"
+    }
+  }
+}

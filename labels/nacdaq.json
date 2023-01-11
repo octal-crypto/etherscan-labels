@@ -1,0 +1,30 @@
+{
+  "Label": "nacdaq",
+  "Description": "NACDAQ is a platform on which transactions with digital assets and related services are performed.",
+  "Addresses": {
+    "0x61048cf69333ac0a7311f60cfd94cafff1da9079": {
+      "Name Tag": "Nacdaq: Staking Pool",
+      "Subcategory": "Main"
+    },
+    "0xbfcffaa83d6604d2b246e3526b56c8b9bb082a3e": {
+      "Name Tag": "Nacdaq: Staking Pool 2",
+      "Subcategory": "Main"
+    },
+    "0x8ffa901bf4bd099eddfa16d5d66b7743dda69019": {
+      "Name Tag": "Nacdaq: Staking Pool 3",
+      "Subcategory": "Main"
+    },
+    "0xd1a6f3fad1d269672f7e740eee820f01f4a64529": {
+      "Name Tag": "Nacdaq: Staking Pool 4",
+      "Subcategory": "Main"
+    },
+    "0x157833a3e5746633c5efd95a86260abfc41d10c5": {
+      "Name Tag": "Nacdaq: Staking Pool 5",
+      "Subcategory": "Main"
+    },
+    "0x742c548e103588db659af4ee3bf12b14d068b562": {
+      "Name Tag": "Nacdaq: Staking Pool 6",
+      "Subcategory": "Main"
+    }
+  }
+}

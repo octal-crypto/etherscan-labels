@@ -1,0 +1,22 @@
+{
+  "Address": "0x72ce9c846789fdb6fc1f34ac4ad25dd9ef7031ef",
+  "Labels": {
+    "arbitrum-one": {
+      "Name Tag": "Arbitrum One: L1 Gateway Router",
+      "Description": "Arbitrum One is a permissionless Ethereum layer 2 rollup with full Ethereum smart contract functionality."
+    },
+    "bridge": {
+      "Name Tag": "Arbitrum One: L1 Gateway Router",
+      "Description": "A gateway connecting one network to another."
+    },
+    "layer-2": {
+      "Name Tag": "Arbitrum One: L1 Gateway Router",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "nitro": {
+      "Name Tag": "Arbitrum One: L1 Gateway Router",
+      "Description": "Arbitrum Nitro is a second-generation Layer 2 blockchain protocol by Arbitrum which could be implemented on any blockchain system that support smart contract functionality."
+    }
+  }
+}

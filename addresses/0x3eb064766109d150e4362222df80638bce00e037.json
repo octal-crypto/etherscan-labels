@@ -1,0 +1,16 @@
+{
+  "Address": "0x3eb064766109d150e4362222df80638bce00e037",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Synthetix: Old Proxy sEUR Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Synth sEUR (sEUR)"
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Old Proxy sEUR Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

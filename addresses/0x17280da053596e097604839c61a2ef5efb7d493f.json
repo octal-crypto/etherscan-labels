@@ -1,0 +1,11 @@
+{
+  "Address": "0x17280da053596e097604839c61a2ef5efb7d493f",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Jobchain: Old JOB Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Jobchain (JOB)"
+    }
+  }
+}

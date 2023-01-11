@@ -1,0 +1,10 @@
+{
+  "Address": "0x75cc8db78d0ea491fdf2f254adaafcb46bbede13",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "WooCommerce: Old Gateway",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

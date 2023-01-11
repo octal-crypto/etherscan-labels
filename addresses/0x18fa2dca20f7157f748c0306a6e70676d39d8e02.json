@@ -1,0 +1,15 @@
+{
+  "Address": "0x18fa2dca20f7157f748c0306a6e70676d39d8e02",
+  "Labels": {
+    "mekaverse": {
+      "Name Tag": "MekaVerse: Old MEKA Token",
+      "Description": "The MekaVerse is a collection of 8,888 generative Mekas inspired by the Japanese Anime universe.",
+      "Token Name": "MekaVerse (MEKA)"
+    },
+    "old-contract": {
+      "Name Tag": "MekaVerse: Old MEKA Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

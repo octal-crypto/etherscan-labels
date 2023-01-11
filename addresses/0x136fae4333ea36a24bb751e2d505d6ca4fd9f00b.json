@@ -1,0 +1,17 @@
+{
+  "Address": "0x136fae4333ea36a24bb751e2d505d6ca4fd9f00b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Set: Old ETH RSI 60/40 Yield Set",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "ETH RSI 60/40 Yield (ETHRSIAPY)"
+    },
+    "set-protocol": {
+      "Name Tag": "Set: Old ETH RSI 60/40 Yield Set",
+      "Description": "Set Protocol helps you easily manage your crypto and enhance your portfolio with automated asset management strategies.",
+      "Subcategory": "Legacy",
+      "Token Name": "ETH RSI 60/40 Yield (ETHRSIAPY)"
+    }
+  }
+}

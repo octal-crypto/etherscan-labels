@@ -1,0 +1,15 @@
+{
+  "Address": "0x2cb4b49c0d6e9db2164d94ce48853bf77c4d883e",
+  "Labels": {
+    "hydro-protocol": {
+      "Name Tag": "Hydro: Old Exchange Contract",
+      "Description": "Hydro is an open source framework for building Decentralized Exchanges.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "Hydro: Old Exchange Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

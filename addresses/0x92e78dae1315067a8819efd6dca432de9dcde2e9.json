@@ -1,0 +1,11 @@
+{
+  "Address": "0x92e78dae1315067a8819efd6dca432de9dcde2e9",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Veros: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Veros (VRS)"
+    }
+  }
+}

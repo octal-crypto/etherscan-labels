@@ -1,0 +1,18 @@
+{
+  "Address": "0xf5c9f957705bea56a7e806943f98f7777b995826",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Sorare: L2 Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "layer-2": {
+      "Name Tag": "Sorare: L2 Bridge",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Others"
+    },
+    "sorare": {
+      "Name Tag": "Sorare: L2 Bridge",
+      "Description": "Sorare is a global fantasy football game where you can collect limited edition collectibles, manage your teams and compete to earn prizes."
+    }
+  }
+}

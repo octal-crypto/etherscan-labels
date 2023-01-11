@@ -1,0 +1,11 @@
+{
+  "Address": "0xa25d01d15fc0e3cdede1bebee4124394aae0db33",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "FollowCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Follow Coin (FLLW)"
+    }
+  }
+}

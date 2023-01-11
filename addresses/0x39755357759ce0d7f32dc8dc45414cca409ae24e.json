@@ -1,0 +1,14 @@
+{
+  "Address": "0x39755357759ce0d7f32dc8dc45414cca409ae24e",
+  "Labels": {
+    "maker": {
+      "Name Tag": "Eth2Dai: Old Contract",
+      "Description": "Maker is a decentralized autonomous organization on the Ethereum blockchain seeking to minimize the price volatility of its own stable token — the Dai — against the U.S. Dollar."
+    },
+    "old-contract": {
+      "Name Tag": "Eth2Dai: Old Contract",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Address": "0x8a743eb80bfc3bf2a5582213aea8b27d2188074a",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "SELENA (SEL)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

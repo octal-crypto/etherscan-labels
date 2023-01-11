@@ -1,0 +1,9 @@
+{
+  "Address": "0x5b2d07da4707baaf2cdd92ec8ec31ad9f551545f",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Dogo Coin (DOGO)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

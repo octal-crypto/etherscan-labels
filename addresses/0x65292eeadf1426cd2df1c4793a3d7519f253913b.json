@@ -1,0 +1,15 @@
+{
+  "Address": "0x65292eeadf1426cd2df1c4793a3d7519f253913b",
+  "Labels": {
+    "coss-io": {
+      "Name Tag": "COSS.io: Old Token 1",
+      "Description": "COSS stands for Crypto One-Stop Solution. Your one-stop shop for all things crypto: an exchange, an e-wallet which supports a broad variety of tokens, a platform for ICO launches and promotional trading campaigns, a fiat gateway, a market cap widget, and more."
+    },
+    "old-contract": {
+      "Name Tag": "COSS.io: Old Token 1",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "COSS (COSS)"
+    }
+  }
+}

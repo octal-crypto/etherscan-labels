@@ -1,0 +1,10 @@
+{
+  "Address": "0xfdea72f4e606e68d9c913d764270529e17a40f88",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Wrapped: Old WFIL Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

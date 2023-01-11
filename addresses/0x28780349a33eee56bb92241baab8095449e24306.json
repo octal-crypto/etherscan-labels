@@ -1,0 +1,15 @@
+{
+  "Address": "0x28780349a33eee56bb92241baab8095449e24306",
+  "Labels": {
+    "layer-2": {
+      "Name Tag": "Rhino.fi: Committee",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Main"
+    },
+    "rhino-fi": {
+      "Name Tag": "Rhino.fi: Committee",
+      "Description": "Rhino.fi is the rebrand of DeversiFi -- a frictionless #Layer2 gateway to multi-chain DeFi.",
+      "Subcategory": "Others"
+    }
+  }
+}

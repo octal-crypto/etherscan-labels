@@ -1,0 +1,11 @@
+{
+  "Address": "0x377ca3bbeaba02e1ce0a265bcf43e81c6b913051",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Contracoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Contracoin (CTCN)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Address": "0xabdf147870235fcfc34153828c769a70b3fae01f",
+  "Labels": {
+    "bitfinex": {
+      "Name Tag": "EURT:undefined",
+      "Description": "Bitfinex is a full-featured spot trading platform for major digital assets & cryptocurrencies, including Bitcoin, Ethereum, EOS, Litecoin, Ripple, NEO, Monero and many more.",
+      "Token Name": "Tether EUR (EURT)"
+    },
+    "old-contract": {
+      "Name Tag": "EURT:undefined",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

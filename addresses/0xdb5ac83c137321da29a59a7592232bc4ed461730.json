@@ -1,0 +1,14 @@
+{
+  "Address": "0xdb5ac83c137321da29a59a7592232bc4ed461730",
+  "Labels": {
+    "maker-vault-owner": {
+      "Name Tag": "Sorbet Finance Hack Alert 149",
+      "Description": "A Maker Vault allows a user to deposit cryptocurrency collateral and generate Dai. Vaults are categorized by the type of collateral used to generated Dai. Users create Dai by generating it against their collateral and destroy Dai when repaying their generated Dai balance."
+    },
+    "take-action": {
+      "Name Tag": "Sorbet Finance Hack Alert 149",
+      "Description": "The owners of these address are urged to take action immediately.",
+      "Subcategory": "Others"
+    }
+  }
+}

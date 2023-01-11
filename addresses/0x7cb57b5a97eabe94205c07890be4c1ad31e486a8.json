@@ -1,0 +1,10 @@
+{
+  "Address": "0x7cb57b5a97eabe94205c07890be4c1ad31e486a8",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "MyEtherWallet: Old Address",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

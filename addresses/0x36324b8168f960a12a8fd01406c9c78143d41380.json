@@ -1,0 +1,17 @@
+{
+  "Address": "0x36324b8168f960a12a8fd01406c9c78143d41380",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "yearn: ySUSD Token 2",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "ySUSD (ySUSD)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: ySUSD Token 2",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Legacy",
+      "Token Name": "ySUSD (ySUSD)"
+    }
+  }
+}

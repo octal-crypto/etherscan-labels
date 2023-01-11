@@ -1,0 +1,11 @@
+{
+  "Address": "0x9f235d23354857efe6c541db92a9ef1877689bcb",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Bolt Global: Old BOLT Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Bolt Token (BOLT)"
+    }
+  }
+}

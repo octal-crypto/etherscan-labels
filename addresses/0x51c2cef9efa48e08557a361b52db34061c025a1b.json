@@ -1,0 +1,10 @@
+{
+  "Address": "0x51c2cef9efa48e08557a361b52db34061c025a1b",
+  "Labels": {
+    "multisig": {
+      "Name Tag": "JPEGd: Multisig",
+      "Description": "A contract that requires one or more signers to execute a transaction.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Address": "0xd497a0ccab80321c5389b752436efda7bdc005bb",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Icechain: Old ISPL Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

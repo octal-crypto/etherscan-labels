@@ -1,0 +1,12 @@
+{
+  "Address": "0x1e950AF2F6f8505c09F0Ca42c4b38F10979cb22E",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "BurnX 2.0 (BurnX20)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    },
+    "meme": {
+      "Token Name": "BurnX 2.0 (BurnX20)"
+    }
+  }
+}

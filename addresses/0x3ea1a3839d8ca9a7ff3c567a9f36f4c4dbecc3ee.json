@@ -1,0 +1,15 @@
+{
+  "Address": "0x3ea1a3839d8ca9a7ff3c567a9f36f4c4dbecc3ee",
+  "Labels": {
+    "layer-2": {
+      "Name Tag": "Optimism: OVM Chain Storage Container CTC Batches",
+      "Description": "Layer 2 refers to several approaches to handle transactions off the main Ethereum chain. These allow for higher scalability of the network and reduced transaction fees. Examples include Optimistic and Zero-Knowledge (ZK) Rollups, Validium, Plasma and State Channels.",
+      "Subcategory": "Main"
+    },
+    "optimism": {
+      "Name Tag": "Optimism: OVM Chain Storage Container CTC Batches",
+      "Description": "Optimism is a scalability stack for Ethereum.",
+      "Subcategory": "Main"
+    }
+  }
+}

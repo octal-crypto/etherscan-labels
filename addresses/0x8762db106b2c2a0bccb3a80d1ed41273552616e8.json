@@ -1,0 +1,15 @@
+{
+  "Address": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Reserve Rights: Old RSR Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "reserve-protocol": {
+      "Name Tag": "Reserve Rights: Old RSR Token",
+      "Description": "Reserve: The stable cryptocurrency that is economically and legally robust at any scale. Decentralized, 100% asset-backed, and funded by top Silicon Valley investors.",
+      "Token Name": "Reserve Rights (RSR)"
+    }
+  }
+}

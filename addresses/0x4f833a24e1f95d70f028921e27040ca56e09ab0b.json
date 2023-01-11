@@ -1,0 +1,15 @@
+{
+  "Address": "0x4f833a24e1f95d70f028921e27040ca56e09ab0b",
+  "Labels": {
+    "0x-protocol": {
+      "Name Tag": "0x: Old Exchange v2.0",
+      "Description": "0x Protocol is an open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "0x: Old Exchange v2.0",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

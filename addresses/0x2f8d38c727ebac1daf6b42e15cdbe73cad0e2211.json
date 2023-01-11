@@ -1,0 +1,9 @@
+{
+  "Address": "0x2f8d38c727ebac1daf6b42e15cdbe73cad0e2211",
+  "Labels": {
+    "parity-bug": {
+      "Name Tag": "AgadroCryptoWallet",
+      "Description": "A vulnerability in the Parity Wallet library contract of the standard multi-sig contract that resulted in funds being frozen and Ethers rendered unusable. Postmortem report can be found here."
+    }
+  }
+}

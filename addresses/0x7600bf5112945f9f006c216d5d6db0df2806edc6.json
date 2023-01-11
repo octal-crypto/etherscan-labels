@@ -1,0 +1,11 @@
+{
+  "Address": "0x7600bf5112945f9f006c216d5d6db0df2806edc6",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Caelum: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Caelum Token (CLM)"
+    }
+  }
+}

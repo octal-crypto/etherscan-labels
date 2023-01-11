@@ -1,0 +1,15 @@
+{
+  "Address": "0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d",
+  "Labels": {
+    "mainnet-launched": {
+      "Token Name": "MATRIX AI Network (MAN)",
+      "Description": "Companies whose Mainnet have launched and have migrated from the Ethereum Network. A reminder to swap your tokens to the respective Mainnet if you have yet to do so."
+    },
+    "old-contract": {
+      "Name Tag": "MATRIX AI Network: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "MATRIX AI Network (MAN)"
+    }
+  }
+}

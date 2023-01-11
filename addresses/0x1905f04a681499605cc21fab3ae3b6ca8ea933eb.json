@@ -1,0 +1,11 @@
+{
+  "Address": "0x1905f04a681499605cc21fab3ae3b6ca8ea933eb",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "POVCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "POVCoin Presale Token (PPOVR)"
+    }
+  }
+}

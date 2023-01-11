@@ -1,0 +1,11 @@
+{
+  "Address": "0x4fe6ea636abe664e0268af373a10ca3621a0b95b",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "EthBits: Old Token 2",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Ethbits (ETB)"
+    }
+  }
+}

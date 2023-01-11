@@ -1,0 +1,112 @@
+{
+  "Label": "dforce",
+  "Description": "dForce advocates to develop and promote blockchain-native DeFi and monetary protocols serving as back-bone infrastructure for DeFi and open finance applications.",
+  "Addresses": {
+    "0x02285acaafeb533e03a7306c55ec031297df9224": {
+      "Name Tag": "dForce: dDAI Token",
+      "Subcategory": "Main",
+      "Token Name": "dForce DAI (dDAI)"
+    },
+    "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0": {
+      "Name Tag": "dForce: DF Token",
+      "Subcategory": "Main",
+      "Token Name": "dForce (DF)"
+    },
+    "0x16c9cf62d8dac4a38fb50ae5fa5d51e9170f3179": {
+      "Name Tag": "dForce: dUSDC Token",
+      "Subcategory": "Main",
+      "Token Name": "dForce USDC (dUSDC)"
+    },
+    "0x868277d475e0e475e38ec5cda2d9c83b5e1d9fc8": {
+      "Name Tag": "dForce: dUSDT Token",
+      "Subcategory": "Main",
+      "Token Name": "dForce USDT (dUSDT)"
+    },
+    "0x355c665e101b9da58704a8fddb5feef210ef20c0": {
+      "Name Tag": "dForce: GOLDx Token",
+      "Subcategory": "Main",
+      "Token Name": "dForce (GOLDx)"
+    },
+    "0x786bf554473f9ab733fd683c528212492a23d895": {
+      "Name Tag": "dForce: Stablecoin Pool",
+      "Subcategory": "Main"
+    },
+    "0x03ef3f37856bd08eb47e2de7abc4ddd2c19b60f2": {
+      "Name Tag": "dForce: Swap",
+      "Subcategory": "Main"
+    },
+    "0xeb269732ab75a6fd61ea60b06fe994cd32a83549": {
+      "Name Tag": "dForce: USDX Token",
+      "Subcategory": "Main",
+      "Token Name": "dForce (USDx)"
+    },
+    "0x377598d56030b2d6a9e83f20d44ba3b10ddfa2d5": {
+      "Name Tag": "dForce: Deployer",
+      "Subcategory": "Others"
+    },
+    "0xb986f3a2d91d3704dc974a24fb735dcc5e3c1e70": {
+      "Name Tag": "dForce: EUX Token",
+      "Subcategory": "Others",
+      "Token Name": "dForce EUR (EUX)"
+    },
+    "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8": {
+      "Name Tag": "dForce: USX Token",
+      "Subcategory": "Others",
+      "Token Name": "dForce USD (USX)"
+    },
+    "0x966e726853ca97449f458a3b012318a08b508202": {
+      "Name Tag": "dForce: xAMZN Token",
+      "Subcategory": "Others",
+      "Token Name": "dForce Amazon Stock (xAMZN)"
+    },
+    "0xc4ba45bee9004408403b558a26099134282f2185": {
+      "Name Tag": "dForce: xAPPL Token",
+      "Subcategory": "Others",
+      "Token Name": "dForce Apple Stock (xAPPL)"
+    },
+    "0x527ec46ac094b399265d1d71eff7b31700aa655d": {
+      "Name Tag": "dForce: xBTC Token",
+      "Subcategory": "Others",
+      "Token Name": "dForce BTC (xBTC)"
+    },
+    "0x32f9063bc2a2a57bcbe26ef662dc867d5e6446d1": {
+      "Name Tag": "dForce: xCOIN Token",
+      "Subcategory": "Others",
+      "Token Name": "dForce Coinbase Stock (xCOIN)"
+    },
+    "0x8d2cb35893c01fa8b564c84bd540c5109d9d278e": {
+      "Name Tag": "dForce: xETH Token",
+      "Subcategory": "Others",
+      "Token Name": "dForce ETH (xETH)"
+    },
+    "0x8dc6987f7d8e5ae9c39f767a324c5e46c1f731eb": {
+      "Name Tag": "dForce: xTSLA Token",
+      "Subcategory": "Others",
+      "Token Name": "dForce Tesla Stock (xTSLA)"
+    },
+    "0x44c324970e5cbc5d4c3f3b7604cbc6640c2dcfbf": {
+      "Token Name": "dForce EUR (iEUX)",
+      "Subcategory": "Others"
+    },
+    "0xf54954ba7e3cdfda23941753b48039ab5192aea0": {
+      "Token Name": "dForce USD (iUSX)",
+      "Subcategory": "Others"
+    },
+    "0x1adc34af68e970a93062b67344269fd341979eb0": {
+      "Token Name": "dForce USD (iUSX)",
+      "Subcategory": "Others"
+    },
+    "0x237c69e082a94d37ebdc92a84b58455872e425d6": {
+      "Token Name": "dForce ETH (ixETH)",
+      "Subcategory": "Others"
+    },
+    "0x4013e6754634ca99af31b5717fa803714fa07b35": {
+      "Token Name": "dForce BTC (ixBTC)",
+      "Subcategory": "Others"
+    },
+    "0xab9c8c81228abd4687078ebda5ae236789b08673": {
+      "Token Name": "dForce EUR (iEUX)",
+      "Subcategory": "Others"
+    }
+  }
+}

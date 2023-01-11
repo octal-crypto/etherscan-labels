@@ -1,0 +1,11 @@
+{
+  "Address": "0x2fd41f516fac94ed08e156f489f56ca3a80b04d0",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "eBitcoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "eBTC (EBTC)"
+    }
+  }
+}

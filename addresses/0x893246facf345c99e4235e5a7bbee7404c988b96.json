@@ -1,0 +1,13 @@
+{
+  "Address": "0x893246facf345c99e4235e5a7bbee7404c988b96",
+  "Labels": {
+    "bridge": {
+      "Name Tag": "Hop Protocol: SNX Bridge",
+      "Description": "A gateway connecting one network to another."
+    },
+    "hop-protocol": {
+      "Name Tag": "Hop Protocol: SNX Bridge",
+      "Description": "Hop Protocol is a rollup-to-rollup general token bridge. It allows users to send tokens from one rollup to another almost immediately without having to wait for the rollup’s challenge period."
+    }
+  }
+}

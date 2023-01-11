@@ -1,0 +1,9 @@
+{
+  "Address": "0x7cfcc845cd5ead8592d4a7126ada2e3be25f62a0",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Gooch: Eth2 Depositor",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Address": "0x4fcfce2cddd8114f5ddff23f8869337197b27e1f",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Torum: Old XTM Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

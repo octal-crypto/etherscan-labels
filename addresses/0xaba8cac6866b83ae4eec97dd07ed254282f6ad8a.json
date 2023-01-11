@@ -1,0 +1,21 @@
+{
+  "Address": "0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a",
+  "Labels": {
+    "blocked": {
+      "Name Tag": "Yam.Finance: Old YAMv2 Token",
+      "Description": "These addresses have been blocked by a custodial stablecoin provider (such as USDT and USDC)."
+    },
+    "old-contract": {
+      "Name Tag": "Yam.Finance: Old YAMv2 Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "YAMv2 (YAMv2)"
+    },
+    "yam-finance": {
+      "Name Tag": "Yam.Finance: Old YAMv2 Token",
+      "Description": "Yam.Finance: Earn YAM tokens by providing liquidity.",
+      "Subcategory": "Legacy",
+      "Token Name": "YAMv2 (YAMv2)"
+    }
+  }
+}

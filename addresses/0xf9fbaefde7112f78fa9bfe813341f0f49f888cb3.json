@@ -1,0 +1,10 @@
+{
+  "Address": "0xf9fbaefde7112f78fa9bfe813341f0f49f888cb3",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "DDS Store: Old DDS Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

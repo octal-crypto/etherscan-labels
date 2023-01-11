@@ -1,0 +1,14 @@
+{
+  "Address": "0x0ec24e397a3592da41264209cc0582bc3bbc9776",
+  "Labels": {
+    "beacon-depositor": {
+      "Name Tag": "Eth2 Depositor: 0x0Ec...776",
+      "Description": "An address that has deposited ETH into the Beacon Chain to become a validator."
+    },
+    "take-action": {
+      "Name Tag": "Eth2 Depositor: 0x0Ec...776",
+      "Description": "The owners of these address are urged to take action immediately.",
+      "Subcategory": "Others"
+    }
+  }
+}

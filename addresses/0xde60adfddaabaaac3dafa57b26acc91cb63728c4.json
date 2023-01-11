@@ -1,0 +1,14 @@
+{
+  "Address": "0xde60adfddaabaaac3dafa57b26acc91cb63728c4",
+  "Labels": {
+    "bridge": {
+      "Token Name": "Tether USD (Wormhole) (USDT)",
+      "Description": "A gateway connecting one network to another."
+    },
+    "wormhole": {
+      "Name Tag": "Wormhole: USDTbs Token",
+      "Description": "Wormhole is a generic message-passing protocol that connects to multiple chains including Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Avalanche, and Oasis.",
+      "Token Name": "Tether USD (Wormhole) (USDT)"
+    }
+  }
+}

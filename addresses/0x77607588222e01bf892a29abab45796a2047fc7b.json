@@ -1,0 +1,16 @@
+{
+  "Address": "0x77607588222e01bf892a29abab45796a2047fc7b",
+  "Labels": {
+    "old-contract": {
+      "Token Name": "unagii_ETH (uETH)",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    },
+    "unagii-com": {
+      "Name Tag": "unagii.com: Old uETH Token",
+      "Description": "unagii.com: The best of DeFi on the only app you need for your digital asset yields.",
+      "Subcategory": "Legacy",
+      "Token Name": "unagii_ETH (uETH)"
+    }
+  }
+}

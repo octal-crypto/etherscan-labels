@@ -1,0 +1,54 @@
+{
+  "Label": "arbitrum-one",
+  "Description": "Arbitrum One is a permissionless Ethereum layer 2 rollup with full Ethereum smart contract functionality.",
+  "Addresses": {
+    "0xcee284f754e854890e311e3280b767f80797180d": {
+      "Name Tag": "Arbitrum One: L1 Arb - Custom Gateway"
+    },
+    "0xd3b5b60020504bc3489d6949d545893982ba3011": {
+      "Name Tag": "Arbitrum One: L1 DAI Gateway"
+    },
+    "0xa3a7b6f88361f48403514059f1f16c8e78d60eec": {
+      "Name Tag": "Arbitrum One: L1 ERC20 Gateway"
+    },
+    "0x72ce9c846789fdb6fc1f34ac4ad25dd9ef7031ef": {
+      "Name Tag": "Arbitrum One: L1 Gateway Router"
+    },
+    "0xd92023e9d9911199a6711321d1277285e6d4e2db": {
+      "Name Tag": "Arbitrum One: Wrapped Ether Gateway"
+    },
+    "0x8315177ab297ba92a06054ce80a67ed4dbd7ed3a": {
+      "Name Tag": "Arbitrum: Bridge"
+    },
+    "0xe5896783a2f463446e1f624e64aa6836be4c6f58": {
+      "Name Tag": "Arbitrum: Challenge Manager"
+    },
+    "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f": {
+      "Name Tag": "Arbitrum: Delayed Inbox"
+    },
+    "0x3e1f62aa8076000c3218493fe3e0ae40bcb9a1df": {
+      "Name Tag": "Arbitrum: OneStepProof Entry"
+    },
+    "0x499a4f574f2e4f8837e242adec86223ef7deefcc": {
+      "Name Tag": "Arbitrum: OneStepProver 0"
+    },
+    "0xb965b08a826d4c7634e0df4c5ef5e1d1f9b5d13a": {
+      "Name Tag": "Arbitrum: OneStepProver Host Io"
+    },
+    "0xd315ac3a82e8edaa84b347f478e0f59801747970": {
+      "Name Tag": "Arbitrum: OneStepProver Math"
+    },
+    "0xb556f3bb0fdcfeaf81a1c393e024a69a3327b676": {
+      "Name Tag": "Arbitrum: OneStepProver Memory"
+    },
+    "0x0b9857ae2d4a3dbe74ffe1d7df045bb7f96e4840": {
+      "Name Tag": "Arbitrum: Outbox 4"
+    },
+    "0x5ef0d09d1e6204141b4d37530808ed19f60fba35": {
+      "Name Tag": "Arbitrum: Rollup"
+    },
+    "0x1c479675ad559dc151f6ec7ed3fbf8cee79582b6": {
+      "Name Tag": "Arbitrum: Sequencer Inbox"
+    }
+  }
+}

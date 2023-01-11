@@ -1,0 +1,17 @@
+{
+  "Address": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
+  "Labels": {
+    "augur": {
+      "Name Tag": "Augur: REP Token",
+      "Description": "Augur: The world’s most accessible, no-limit betting exchange.",
+      "Subcategory": "Legacy",
+      "Token Name": "Reputation (REP)"
+    },
+    "old-contract": {
+      "Name Tag": "Augur: REP Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Reputation (REP)"
+    }
+  }
+}

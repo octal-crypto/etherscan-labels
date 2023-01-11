@@ -1,0 +1,15 @@
+{
+  "Address": "0x7c3e3eae4d893d11c61e74d5187c962ba5744a3b",
+  "Labels": {
+    "defi": {
+      "Token Name": "Kokoswap Token (KOKO)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Others"
+    },
+    "old-contract": {
+      "Name Tag": "KokoSwap: Old KOKO Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Address": "0x442e735978155ed54ab19201ec834bb519f60168",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Bistox Exchange: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Bistox Exchange Token (BSX)"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Label": "foam",
+  "Description": "The FOAM Proof of Location protocol empowers a permissionless and autonomous network of radio beacons that can offer secure location services independent of external centralized sources such as GPS through time synchronization.",
+  "Addresses": {
+    "0x4946fcea7c692606e8908002e55a582af44ac121": {
+      "Name Tag": "FOAM: FOAM Token",
+      "Token Name": "FOAM Token (FOAM)"
+    },
+    "0x3061cfbae69bff0f933353cea20de6c89ab16acc": {
+      "Name Tag": "FOAM: MultiSig"
+    },
+    "0x2832373dddad96bbfb44f1b7da11b6541026bf40": {
+      "Name Tag": "FOAM: Registry"
+    },
+    "0x36f16a0d35b866cdd0f3c3fa39e2ba8f48b099d2": {
+      "Name Tag": "FOAM: Signal",
+      "Token Name": "FOAM Signal (FSX)"
+    },
+    "0x66f27365d66c0e8ad4ef87db8cb4af63ce874b7b": {
+      "Name Tag": "FOAM: TCR Voting"
+    },
+    "0x01ed068115ba99b94c65c7791d4ac5dee1253835": {
+      "Name Tag": "FOAM: Treasure Hunt",
+      "Token Name": "FOAM Treasure Hunt (FTH)"
+    }
+  }
+}

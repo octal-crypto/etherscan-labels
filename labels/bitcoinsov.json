@@ -1,0 +1,27 @@
+{
+  "Label": "bitcoinsov",
+  "Description": "BitcoinSoV: A Proof of Work Decentralized, Fungible, Censorship Free, Deflationary Currency. Providing anyone in the world with a true Store of Value protected from inflation.",
+  "Addresses": {
+    "0x26946ada5ecb57f3a1f91605050ce45c482c9eb1": {
+      "Name Tag": "BitcoinSoV: BSOV Token",
+      "Subcategory": "Main",
+      "Token Name": "BitcoinSoV (BSOV)"
+    },
+    "0x19e6bf254abf5abc925ad72d32bac44c6c03d3a4": {
+      "Name Tag": "BitcoinSoV: Time Lock Contract",
+      "Subcategory": "Main"
+    },
+    "0xabb58af7e64eb324895cb1c15c1865bb125e953f": {
+      "Name Tag": "BSoV Pool: Minting",
+      "Subcategory": "Main"
+    },
+    "0xde0d47fa92b4d616b100f5dd027fc91704b24b73": {
+      "Name Tag": "BSoV Pool: Payments",
+      "Subcategory": "Main"
+    },
+    "0x6bff432b1d4982b8199bc01145b7e99c725b9196": {
+      "Name Tag": "BitcoinSoV: Deployer",
+      "Subcategory": "Others"
+    }
+  }
+}

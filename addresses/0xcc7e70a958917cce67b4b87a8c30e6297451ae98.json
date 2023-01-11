@@ -1,0 +1,14 @@
+{
+  "Address": "0xcc7e70a958917cce67b4b87a8c30e6297451ae98",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yCRV/GUSD Vault"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yCRV/GUSD Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Curve.fi GUSD/3Crv (yvgusd3CRV)"
+    }
+  }
+}

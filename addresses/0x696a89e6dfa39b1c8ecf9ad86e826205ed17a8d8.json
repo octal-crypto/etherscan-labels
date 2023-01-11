@@ -1,0 +1,11 @@
+{
+  "Address": "0x696a89e6dfa39b1c8ecf9ad86e826205ed17a8d8",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "ATMChain: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Attention Token of Media (ATM)"
+    }
+  }
+}

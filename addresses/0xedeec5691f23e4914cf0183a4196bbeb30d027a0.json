@@ -1,0 +1,9 @@
+{
+  "Address": "0xedeec5691f23e4914cf0183a4196bbeb30d027a0",
+  "Labels": {
+    "deflationary-token": {
+      "Token Name": "Wrapped STA (WSTA)",
+      "Description": "A deflationary token that decreases in total supply every time a token transfer happens. As with every transfer, a percentage of the transferred amount will be burned."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Address": "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656",
+  "Labels": {
+    "aave": {
+      "Name Tag": "Aave: aWBTC Token V2",
+      "Description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+      "Subcategory": "Main",
+      "Token Name": "Aave interest bearing WBTC (aWBTC)"
+    },
+    "defi": {
+      "Token Name": "Aave interest bearing WBTC (aWBTC)",
+      "Description": "List of decentralized finance products.",
+      "Subcategory": "Main"
+    },
+    "v2": {
+      "Name Tag": "Aave: aWBTC Token V2",
+      "Description": "Contracts associated with Version 2 of a project.",
+      "Subcategory": "Main",
+      "Token Name": "Aave interest bearing WBTC (aWBTC)"
+    }
+  }
+}

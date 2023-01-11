@@ -1,0 +1,16 @@
+{
+  "Address": "0x28af5a2f0cc12f2f19dd946608c945456b52b3f6",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Synthetix: Old Proxy sCHF Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Synth sCHF (sCHF)"
+    },
+    "synthetix": {
+      "Name Tag": "Synthetix: Old Proxy sCHF Token",
+      "Description": "Synthetix, formerly Havven, is a cryptoasset-backed network that enables the creation of on-chain synthetic assets.",
+      "Subcategory": "Legacy"
+    }
+  }
+}

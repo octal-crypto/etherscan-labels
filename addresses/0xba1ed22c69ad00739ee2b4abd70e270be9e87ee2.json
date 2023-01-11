@@ -1,0 +1,11 @@
+{
+  "Address": "0xba1ed22c69ad00739ee2b4abd70e270be9e87ee2",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Webflix: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Webflix Token (WFX)"
+    }
+  }
+}

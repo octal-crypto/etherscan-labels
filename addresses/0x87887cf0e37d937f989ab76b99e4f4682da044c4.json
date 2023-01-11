@@ -1,0 +1,18 @@
+{
+  "Address": "0x87887cf0e37d937f989ab76b99e4f4682da044c4",
+  "Labels": {
+    "compound-governance": {
+      "Name Tag": "Opyn: Proxy",
+      "Description": "Top voters in Compound's Governance Leaderboard."
+    },
+    "opyn": {
+      "Name Tag": "Opyn: Proxy",
+      "Description": "Opyn allows you to protect your DeFi deposits and hedge ETH risk.",
+      "Subcategory": "Main"
+    },
+    "proxy-contract": {
+      "Name Tag": "Opyn: Proxy",
+      "Description": "A proxy contract acts as an eternal storage and will DELEGATECALL to the logic contract, which processes the data."
+    }
+  }
+}

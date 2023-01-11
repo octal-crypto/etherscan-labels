@@ -1,0 +1,15 @@
+{
+  "Address": "0xe625f5923303f1ce7a43acfefd11fd12f30dbca4",
+  "Labels": {
+    "vaults": {
+      "Name Tag": "yearn: yCRV/aETH Vault",
+      "Token Name": "yearn Curve.fi ETH/aETH (yvankrCRV)"
+    },
+    "yearn-finance": {
+      "Name Tag": "yearn: yCRV/aETH Vault",
+      "Description": "Yearn.Finance: Yield aggregator for lending platforms that rebalances for highest yield whenever the contract is interacted with.",
+      "Subcategory": "Others",
+      "Token Name": "yearn Curve.fi ETH/aETH (yvankrCRV)"
+    }
+  }
+}

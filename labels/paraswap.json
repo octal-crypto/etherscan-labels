@@ -1,0 +1,45 @@
+{
+  "Label": "paraswap",
+  "Description": "ParaSwap: The Fastest Liquidity Aggregator",
+  "Addresses": {
+    "0x1bd435f3c054b6e901b7b108a0ab7617c808677b": {
+      "Name Tag": "ParaSwap P4",
+      "Subcategory": "Main"
+    },
+    "0x86969d29f5fd327e1009ba66072be22db6017cc6": {
+      "Name Tag": "ParaSwap V1",
+      "Subcategory": "Main"
+    },
+    "0x9509665d015bfe3c77aa5ad6ca20c8afa1d98989": {
+      "Name Tag": "ParaSwap V2",
+      "Subcategory": "Main"
+    },
+    "0xf90e98f3d8dce44632e5020abf2e122e0f99dfab": {
+      "Name Tag": "ParaSwap V3",
+      "Subcategory": "Main"
+    },
+    "0x60fb0b38ff0fcb98462e70aa5da4dff047635ec3": {
+      "Name Tag": "ParaSwap: Deployer",
+      "Subcategory": "Others"
+    },
+    "0xe6b692dcc972b9a5c3c414ac75ddc420b9edc92d": {
+      "Name Tag": "ParaSwap: Deployer 2",
+      "Subcategory": "Others"
+    },
+    "0x6b158039b9678b7452f311deb12dd08c579dad26": {
+      "Name Tag": "ParaSwap: Old Contract",
+      "Subcategory": "Legacy"
+    },
+    "0x72338b82800400f5488eca2b5a37270ba3b7a111": {
+      "Name Tag": "ParaSwap: Old Contract 2",
+      "Subcategory": "Legacy"
+    },
+    "0xf92c1ad75005e6436b4ee84e88cb23ed8a290988": {
+      "Name Tag": "ParaSwap: Old Contract 3",
+      "Subcategory": "Legacy"
+    },
+    "0xcafe001067cdef266afb7eb5a286dcfd277f3de5": {
+      "Token Name": "ParaSwap (PSP)"
+    }
+  }
+}

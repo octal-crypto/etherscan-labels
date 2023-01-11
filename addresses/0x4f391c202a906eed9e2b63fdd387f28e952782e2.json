@@ -1,0 +1,15 @@
+{
+  "Address": "0x4f391c202a906eed9e2b63fdd387f28e952782e2",
+  "Labels": {
+    "nest-protocol": {
+      "Name Tag": "NEST Protocol: Old Oracle",
+      "Description": "NEST Protocol: A distributed price oracle network that solves the problem of price on-chain through a decentralized incentive scheme.",
+      "Subcategory": "Legacy"
+    },
+    "old-contract": {
+      "Name Tag": "NEST Protocol: Old Oracle",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others"
+    }
+  }
+}

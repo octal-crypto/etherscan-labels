@@ -1,0 +1,11 @@
+{
+  "Address": "0x8c65e992297d5f092a756def24f4781a280198ff",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "GazeCoin: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "GazeCoin (GZE)"
+    }
+  }
+}

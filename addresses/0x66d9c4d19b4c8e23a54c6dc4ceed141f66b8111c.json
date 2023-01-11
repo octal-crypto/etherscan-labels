@@ -1,0 +1,11 @@
+{
+  "Address": "0x66d9c4d19b4c8e23a54c6dc4ceed141f66b8111c",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Fountain: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Fountain 2 (FTN)"
+    }
+  }
+}

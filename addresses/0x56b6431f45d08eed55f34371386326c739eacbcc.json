@@ -1,0 +1,11 @@
+{
+  "Address": "0x56b6431f45d08eed55f34371386326c739eacbcc",
+  "Labels": {
+    "old-contract": {
+      "Name Tag": "Ethereum Meta: Old Token",
+      "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
+      "Subcategory": "Others",
+      "Token Name": "Ethereum Meta (ETHM)"
+    }
+  }
+}
