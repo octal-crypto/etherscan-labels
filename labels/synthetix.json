@@ -2146,21 +2146,6 @@
     "0xa2B0fDe6D710e201d0d608e924A484d1A5fEd57c": {
       "Token Name": "Synth sXRP (sXRP)"
     },
-    "0xEb029507d3e043DD6C87F2917C4E82B902c35618": {
-      "Token Name": "Synth sCOMP (sCOMP)"
-    },
-    "0x30635297E450b930f8693297eBa160D9e6c8eBcf": {
-      "Token Name": "Synth sUNI (sUNI)"
-    },
-    "0x0fEd38108bdb8e62ef7b5680E8E0726E2F29e0De": {
-      "Token Name": "Synth iREN (iREN)"
-    },
-    "0x176C674Ee533C6139B0dc8b458D72A93dCB3e705": {
-      "Token Name": "Synth iAAVE (iAAVE)"
-    },
-    "0x89FCb32F29e509cc42d0C8b6f058C993013A843F": {
-      "Token Name": "Synthetix Debt Shares (SDS)"
-    },
     "0xD31533E8d0f3DF62060e94B3F1318137bB6E3525": {
       "Token Name": "Synth sREN (sREN)"
     },
@@ -2176,9 +2161,6 @@
     "0x1715AC0743102BF5Cd58EfBB6Cf2dC2685d967b6": {
       "Token Name": "Synth sDOT (sDOT)"
     },
-    "0x918dA91Ccbc32B7a6A0cc4eCd5987bbab6E31e6D": {
-      "Token Name": "Synth sTSLA (sTSLA)"
-    },
     "0x592244301CeA952d6daB2fdC1fE6bd9E53917306": {
       "Token Name": "Synth iYFI (iYFI)"
     },
@@ -2188,11 +2170,29 @@
     "0x992058B7DB08F9734d84485bfbC243C4ee6954A7": {
       "Token Name": "Synth sYFI (sYFI)"
     },
+    "0x918dA91Ccbc32B7a6A0cc4eCd5987bbab6E31e6D": {
+      "Token Name": "Synth sTSLA (sTSLA)"
+    },
     "0x6345728B1ccE16E6f8C509950b5c84FFF88530d9": {
       "Token Name": "Synth iCOMP (iCOMP)"
     },
+    "0x89FCb32F29e509cc42d0C8b6f058C993013A843F": {
+      "Token Name": "Synthetix Debt Shares (SDS)"
+    },
     "0x36A00FF9072570eF4B9292117850B8FE08d96cce": {
       "Token Name": "Synth iUNI (iUNI)"
+    },
+    "0xEb029507d3e043DD6C87F2917C4E82B902c35618": {
+      "Token Name": "Synth sCOMP (sCOMP)"
+    },
+    "0x30635297E450b930f8693297eBa160D9e6c8eBcf": {
+      "Token Name": "Synth sUNI (sUNI)"
+    },
+    "0x0fEd38108bdb8e62ef7b5680E8E0726E2F29e0De": {
+      "Token Name": "Synth iREN (iREN)"
+    },
+    "0x176C674Ee533C6139B0dc8b458D72A93dCB3e705": {
+      "Token Name": "Synth iAAVE (iAAVE)"
     }
   }
 }

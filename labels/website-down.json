@@ -2,10 +2,10 @@
   "Label": "website-down",
   "Description": "The last checked status of a website.\nPlease contact us (1. General Inquiry) if the website is back online.",
   "Addresses": {
-    "0x91268aba147d738fa8665b342ef519e0c4541c07": {},
     "0x0fbbfd1243552c8a66ab05c1f9530fb116e9fff4": {
       "Token Name": "Alicoin (ALIC)"
     },
+    "0x91268aba147d738fa8665b342ef519e0c4541c07": {},
     "0x3df616ee25ba3fa146544ab595f106bff5ac4397": {
       "Name Tag": "12daily.club"
     },
@@ -472,11 +472,11 @@
     "0x8b40761142b9aa6dc8964e61d0585995425c3d94": {
       "Token Name": "Tripio (TRIO)"
     },
-    "0x2c949199cff14aeaf1b33d64db01f48fb57f592f": {
-      "Token Name": "CoinBene Coin (CONI)"
-    },
     "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8": {
       "Token Name": "Dracula Token (DRC)"
+    },
+    "0x2c949199cff14aeaf1b33d64db01f48fb57f592f": {
+      "Token Name": "CoinBene Coin (CONI)"
     },
     "0x0bc61dded5f6710c637cf8288eb6058766ce1921": {
       "Token Name": "CEN (CEN)"
@@ -484,11 +484,11 @@
     "0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c": {
       "Token Name": "Proton Token (PTT)"
     },
-    "0x7E43581b19ab509BCF9397a2eFd1ab10233f27dE": {
-      "Token Name": "BitGuild PLAT (PLAT)"
-    },
     "0xDb144CD0F15eE40AaC5602364B470d703d7e16b6": {
       "Token Name": "vSlice (VSL)"
+    },
+    "0x7E43581b19ab509BCF9397a2eFd1ab10233f27dE": {
+      "Token Name": "BitGuild PLAT (PLAT)"
     },
     "0xbddab785b306bcd9fb056da189615cc8ece1d823": {
       "Token Name": "Ebakus (EBK)"
@@ -559,662 +559,143 @@
     "0xA1248c718d52752b2cC257eeb0eBa900408dAeB8": {
       "Token Name": "SWYFT Token (SWYFTT)"
     },
-    "0x786448439d9401e0a8427aCf7Ca66A5114eb2368": {
-      "Token Name": "Dipper (Dip)"
-    },
-    "0xc0A25a24CcE412E2Fb407c08E3785437FEE9Ad1d": {
-      "Token Name": "Orient (OFT)"
-    },
-    "0x5d56962db8e35197f8e50d76f1f9285a6d7d7619": {
-      "Token Name": "Davion Token (DAVP)"
-    },
-    "0xf53c580bc4065405bc649cc077ff4f2f28528f4b": {
-      "Token Name": "Bittwatt (BWT)"
-    },
-    "0x3aef8e803bd9be47e69b9f36487748d30d940b96": {
-      "Token Name": "vesta (vesta)"
-    },
-    "0xDD436a0Dce9244B36599AE7b22f0373b4e33992d": {
-      "Token Name": "TrustUSD (TRUSD)"
-    },
-    "0xca694eb79ef355ea0999485d211e68f39ae98493": {
-      "Token Name": "Traceability Chain Coin (TAC)"
-    },
-    "0x22f098f08c4eda4be4ad6b4ba59866f3e98cef92": {
-      "Token Name": "Force For Fast Token (FFF)"
-    },
-    "0x90D702f071d2af33032943137AD0aB4280705817": {
-      "Token Name": "yffs.finance (YFFS)"
-    },
-    "0x3719c13d28a5adaba97b6c343b1f51e57b6b6e7d": {
-      "Token Name": "Rapid Swap (RAPID)"
-    },
-    "0x8e8fe3add2ab97dee73636d87d7cff113fd09746": {
-      "Token Name": "Decentralized Privacy (DPC)"
-    },
-    "0xd18A8abED9274eDBEace4B12D86A8633283435Da": {
-      "Token Name": "UnoSwap (UNOS)"
-    },
-    "0xef9c8a1b3ce9055266e1ce20b98a4c882f0e5c78": {
-      "Token Name": "ETH3S (ETH3S)"
-    },
-    "0xb2ed199b46630e789e8740fb83b1611acf018516": {
-      "Token Name": "GOL D INU (GINU)"
-    },
-    "0xF96459323030137703483B46fD59A71D712BF0aa": {
-      "Token Name": "XTAKE (XTK)"
-    },
-    "0x8e12bd795d2608f90440c84dddd2d985240696d5": {
-      "Token Name": "ISALCOIN (ISAL)"
-    },
-    "0x9b3e946e1a8ea0112b147af4e6e020752f2446bc": {
-      "Token Name": "Puregold Token (PGT)"
-    },
-    "0x58a10de802F441dc0D3788021440cb5322298066": {
-      "Token Name": "Vector Robotics (VERTO)"
-    },
-    "0xc851a9B5808c46Ee93A360F1B33F7409eeE5Df9f": {
-      "Token Name": "Nausicaa-Inu (NAUSICAA)"
-    },
-    "0x079DE196d5e8BabcA45f7d621Fe0127f4Dc753d9": {
-      "Token Name": "Rotex (RTX)"
-    },
-    "0x559Efe1d7A54fb1C7f25a036952F8498CdF02EDB": {
-      "Token Name": "DOGG Token (DOGG)"
-    },
-    "0xEf327568556310d344c49FB7cE6CBFE7b2bB83e6": {
-      "Token Name": "YFA finance (YFA)"
-    },
-    "0x14Be9Bde94102E13971E8f98ACEcaC823CB7fD30": {
-      "Token Name": "YearnFinanceConnect (YFIC)"
-    },
-    "0xA0471cdd5c0dc2614535fD7505b17A651a8F0DAB": {
-      "Token Name": "EasySwap (ESWA)"
-    },
-    "0x865bfd8232778f00cae81315bf75ef1fe6e30cdd": {
-      "Token Name": "ABLE X Token (ABLX)"
-    },
-    "0x929d87A3aaAbc18da7f34945C896F4500CDB0043": {
-      "Token Name": "houseofcards.finance (HOC)"
-    },
-    "0x1F6DEADcb526c4710Cf941872b86dcdfBbBD9211": {
-      "Token Name": "Ruletka (RTK)"
-    },
-    "0x68e0a48d3bff6633a31d1d100b70f93c3859218b": {
-      "Token Name": "Blaze DeFi (BNFI)"
-    },
-    "0x457a57e931cba4dff5ce8500cc0dff18356df041": {
-      "Token Name": "phantom (pht)"
-    },
-    "0x7c9D8Fb3bDe3D9Ea6e89170618C2dC3d16695D36": {
-      "Token Name": "WhiteRockCasino (WRC)"
-    },
-    "0x52d904eff2605463c2f0b338d34abc9b7c3e3b08": {
-      "Token Name": "Bitpower (BPP)"
-    },
-    "0xAEA5E11E22E447fA9837738A0cd2848857748ADF": {
-      "Token Name": "SocialFinance (SOFI)"
-    },
-    "0xce5114d7fa8361f0c088ee26fa3a5446c4a1f50b": {
-      "Token Name": "Blue Whale eXchange (BWX)"
-    },
-    "0x43acEDd39Ba4B0bfcCd92897fCe617Fb90a971d8": {
-      "Token Name": "SafeBank (sBANK)"
-    },
-    "0x29a5c1db7321c5c9eae57f9366ee8eef00ca11fb": {
-      "Token Name": "SHKOOBY INU (SHKOOBY)"
-    },
-    "0x1Efb2286BF89F01488C6B2a22B2556C0f45e972b": {
-      "Token Name": "Moon YFI (MYFI)"
-    },
-    "0x31bfde4d0fbf3fa89b230d370e3b206e67ef8b15": {
-      "Token Name": "DIGINU (DIGINU)"
-    },
-    "0x7fe4fbad1fee10d6cf8e08198608209a9275944c": {
-      "Token Name": "Infinity Token (IT)"
-    },
-    "0xbf0f3ccb8fa385a287106fba22e6bb722f94d686": {
-      "Token Name": "Zytara USD (ZUSD)"
-    },
-    "0x975769557510167d25BEed6E32806537173E292C": {
-      "Token Name": "Derivex (DVX)"
-    },
-    "0xc27c95350ecd634c80df89db0f10cd5c24b7b11f": {
-      "Token Name": "PixieCoin (PXC)"
-    },
-    "0xca96dcc988ec155a30eb78f45fccb968e2ebf5fd": {
-      "Token Name": "Ghostface Shiba (GFSHIB)"
-    },
-    "0x9746953f5b1324a78132895cfd263f417b0faae3": {
-      "Token Name": "ValueCyberToken (VCT)"
-    },
-    "0xcd64aa18ddbce84411adbfe6da49354ba5187a45": {
-      "Token Name": "Korbot (KBOT)"
-    },
-    "0x4544346c22fe54f26407c9b3c3e602e98e02fedd": {
-      "Token Name": "BearBrick Labs (BBL)"
-    },
-    "0xa00425d3e2d3e9ff74f3e112b4d3a7978d7d88c2": {
-      "Token Name": "GoPower Token (GPT)"
-    },
-    "0x08ed14bcefa48ba8b0ceb8403d6c5923c22e7fb4": {
-      "Token Name": "DogDeFiShares (DogDeFiS)"
-    },
-    "0xde544e54a330abd1ea8a0e6693d46bfe95d9a684": {
-      "Token Name": "Niftymoji (MOJI)"
-    },
-    "0x3108ccFd96816F9E663baA0E8c5951D229E8C6da": {
-      "Token Name": "DarkToken (DARK)"
-    },
-    "0x11F4C6B3E8F50c50935c7889EDc56C96F41B5399": {
-      "Token Name": "Synthetic YBDAO (YBREE)"
-    },
-    "0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16": {
-      "Token Name": "Zilla (ZLA)"
-    },
-    "0x256845e721C0c46d54E6afBD4FA3B52CB72353EA": {
-      "Token Name": "UniDollar (UNIUSD)"
-    },
-    "0x15a664416e42766a6cc0a1221d9c088548a6e731": {
-      "Token Name": "WEBN (WEBN)"
-    },
-    "0x170cb9d7f4c6c42bcf0bc9c5252d10df9400c362": {
-      "Token Name": "Hancom Token (HCT)"
-    },
-    "0x681b24478e9f7e31ee3b5b7f807c9151e46aa165": {
-      "Token Name": "GAME SWAP (GAME)"
-    },
-    "0x4636893ca179f1b3e7fd2ad3f2717b98ec061d83": {
-      "Token Name": "yxy.finance (YxY)"
-    },
-    "0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139": {
-      "Token Name": "ATMChain (ATM)"
-    },
-    "0x30ac8317dfb0ab4263cd8db1c4f10749911b126c": {
-      "Token Name": "AxeDAO (AXE)"
-    },
-    "0xd8002cd05d5b2a85557e1caaa179cc2408d5ad42": {
-      "Token Name": "BINGO Entertainment (777)"
-    },
-    "0x7Ed037EB22982b839A5f0b67f6a652c9857CcD4d": {
-      "Token Name": "MultiStakeCapital (MSC)"
-    },
-    "0xab5c04bbe42667610a2da07ac98ea9fa6e4a9514": {
-      "Token Name": "IZEROIUM (IZER)"
-    },
-    "0x82b89e0F9C0695639EB88659D0c306dBC242AF96": {
-      "Token Name": "BoomBaby.io (BoomB)"
-    },
-    "0x6C8aAd3100e3fa45AAC799c0c302400900b60302": {
-      "Token Name": "YFI CREDITS (YFIC)"
-    },
-    "0x8E4A84FF6CD5Ed56f18f4313E61ce297089DBCD6": {
-      "Token Name": "SienaBankToken (SBTT)"
-    },
-    "0x61b2d3ea9f1c6b387c985c73d40e8fbfb284e5c7": {
-      "Token Name": "RoboCalls (RC20)"
-    },
-    "0xf0b47eE3D3BDBEf94999b2B8F4b81a52fbE2E3eD": {
-      "Token Name": "TWERK (TWERK)"
-    },
-    "0x43ae53b8c920c6c69f4abf393fcb68a6dd4cbab4": {
-      "Token Name": "RiveMont (RVMT)"
-    },
-    "0xdF3A0a958F5a599Aa8f3071AA6488C22416EFB89": {
-      "Token Name": "ATTN (ATTN)"
-    },
-    "0x26c5331a8AAEDe3d3Af276fD61329163a55ECbCa": {
-      "Token Name": "ABYSS (ABY*)"
-    },
-    "0x47eB79217f42f92dbd741ADd1B1a6783A2c873cf": {
-      "Token Name": "Bast (bast)"
-    },
-    "0x4d4a85865a91c1d0f51e6a84879486ec6679140e": {
-      "Token Name": "Rogue Protocol (ROGUE)"
-    },
-    "0xaf6F6aBf18D2cC611921E6a683164eFAa9165b43": {
-      "Token Name": "Satoru Inu (SATO)"
-    },
-    "0x355a458d555151d3b27f94227960ade1504e526a": {
-      "Token Name": "StockChain Coin (SCC)"
-    },
-    "0x67D94Da1F10861174926681984DBCb4c97EA25Dd": {
-      "Token Name": "desire.finance (DESIRE)"
-    },
-    "0xb0dfd28d3cf7a5897c694904ace292539242f858": {
-      "Token Name": "Lotto (LOTTO)"
-    },
-    "0x05385abD2a95a8cd9B696F738aed73f1AFbc12E0": {
-      "Token Name": "Fompound (FOMP)"
-    },
-    "0xe8b251822d003a2b2466ee0e38391c2db2048739": {
-      "Token Name": "rbase.finance (RBASE)"
-    },
-    "0xd67b1Db49801b6F4c96a01a4F7964233150dc58b": {
-      "Token Name": "KaratBank Coin (KBC)"
-    },
-    "0x3c7b464376db7c9927930cf50eefdea2eff3a66a": {
-      "Token Name": "USDA (USDA)"
-    },
-    "0x9bbc9286cdf6eefebf21df19bac71c6bdd7759d4": {
-      "Token Name": "QBEE (QBZ)"
-    },
-    "0x300a902513815028e97fc79e92082ce6a98d3b74": {
-      "Token Name": "Ethersocks (SOX)"
-    },
-    "0xe17e41ACD4caa3CeC048837bfd1918b3c4141767": {
-      "Token Name": "ACE Entertainment Token (ACE)"
-    },
-    "0xEA3cB156745a8d281A5fC174186C976F2dD04c2E": {
-      "Token Name": "Nobrainer.Finance (BRAIN)"
-    },
-    "0x237c9e8a085663ebaa22a600c1b9846fb529e900": {
-      "Token Name": "GenshinImpact (GenIm)"
-    },
-    "0xebf56b58be8339a827f9e9bed5feae3a6c63a562": {
-      "Token Name": "Pikachu Inu (PIKACHU)"
-    },
-    "0xf2Df8458130F00c94bCDE2Dd3F288cF608187F87": {
-      "Token Name": "FEAST.finance (FEAST)"
-    },
-    "0x4086692D53262b2Be0b13909D804F0491FF6Ec3e": {
-      "Token Name": "Yield Farming Known as Ash (YFKA)"
-    },
-    "0x72976fad0bd181dbca9d40dee2145e53de2c382e": {
-      "Token Name": "AZLOCK DAO (AZLDO)"
-    },
-    "0xC8cf9b8CCFb4c53C052427E98669ff28B6f7e301": {
-      "Token Name": "SUPER MARIO (MARIO)"
-    },
-    "0xc2bd7a597391f31d2e36c2cb769fce0e5bd6d482": {
-      "Token Name": "Anti-Lockdown (FREE)"
-    },
-    "0xf08c68bd5f4194d994fd70726746bf529ee5a617": {
-      "Token Name": "ThoreNext (THX)"
-    },
-    "0x88665a7556e1b3c939d6661248116886845249a8": {
-      "Token Name": "LinkFlow (LF)"
-    },
-    "0xaF183350bDF8082B486CEE23fBfcCa6eA3258DAC": {
-      "Token Name": "Defi Firefly (DFF)"
-    },
-    "0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4": {
-      "Token Name": "Sergey Save Link (SSL)"
-    },
-    "0x567287d4f42086beab4b36de9af21c70adec6760": {
-      "Token Name": "Latino Token (LATINO)"
-    },
-    "0x5aaa2182459377b6ca18b10712f9f602140764af": {
-      "Token Name": "ElevationToken (EVT)"
-    },
-    "0xff744f2315C9d61d825B581C973576055C3da07E": {
-      "Token Name": "HPLUS (HPLUS)"
-    },
-    "0xba5160ba66b286f1b9b6f3a57a6abcfa440e7aa2": {
-      "Token Name": "HUB Coin (HUB)"
-    },
-    "0x3fa807B6F8d4c407e6E605368F4372d14658b38C": {
-      "Token Name": "Rise Protocol (RISE)"
-    },
-    "0xEAE0b10B2cc955563ff99374c2Beb726aC4407CE": {
-      "Token Name": "Cthulhu Coin (CTHU)"
-    },
-    "0x4a73e60adbb8575500ffc6aaea6128954011c8af": {
-      "Token Name": "Doch (DCH)"
-    },
-    "0xe9f3cb0229eb8d0aaf03ec84883950134ed20ddc": {
-      "Token Name": "SLT (SLT)"
-    },
-    "0x9De152C32d820EB2E1Df392854d4dF2f4F305530": {
-      "Token Name": "Greyzdorf dollar (USDG)"
-    },
-    "0x1a231e75538a931c395785EF5D1A5581ec622B0e": {
-      "Token Name": "Zoom Protocol (ZOM)"
-    },
-    "0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9": {
-      "Token Name": "More Gold Coin (MGC)"
-    },
     "0x2Ea3dAEF9f2F18742cC6EF67f31B6E2E03834eeC": {
       "Token Name": "True Earn Defi (TED)"
-    },
-    "0x884e3902c4d5cfa86de4ace7a96aa91ebc25c0ff": {
-      "Token Name": "Jbox (JBX)"
-    },
-    "0x2d98c5e92da2204bc2e9142373ed209a7ca9850a": {
-      "Token Name": "DARK DEFI (DARK)"
-    },
-    "0xbce67604c08c4839980c32485657f63211c73e14": {
-      "Token Name": "DIPEX (DPX)"
-    },
-    "0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222": {
-      "Token Name": "BispexToken (BPX)"
-    },
-    "0xfb40e79e56cc7d406707b66c4fd175e07eb2ae3c": {
-      "Token Name": "ROTTSCHILD.com (ROTTS)"
-    },
-    "0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930": {
-      "Token Name": "BIKICOIN TOKEN (BIKI)"
-    },
-    "0xbBa1DA8aFF34eBEF5Ce4d68312B33ef629548b06": {
-      "Token Name": "唯药链 (FOCV)"
-    },
-    "0x5a4b14aea23a605abc463f04a6b8aaf52dd3e7c6": {
-      "Token Name": "HeartBout HP (HP)"
-    },
-    "0x393fac0773c765c80dc887451377d553c46f83b1": {
-      "Token Name": "RAKSUR (RAS)"
-    },
-    "0x361887c1d1b73557018c47c8001711168128cf69": {
-      "Token Name": "Firdaos (FDO)"
-    },
-    "0xa883E72c12473DeD50A5FbfFA60E4000fa5FE3C8": {
-      "Token Name": "LOAD (LOAD)"
-    },
-    "0xb5bb48567bfd0bfe9e4b08ef8b7f91556cc2a112": {
-      "Token Name": "Bankcoin (BCASH)"
-    },
-    "0xff0A3C3394765700611bC4Cac016821aECa7D1A1": {
-      "Token Name": "Vadia Finance (VAD)"
-    },
-    "0x3f5be50e4651ee184109a0b1b71d344d12e8b603": {
-      "Token Name": "RFYIELD.FINANCE (RFY)"
-    },
-    "0xdB11F6Fc8E16c02719e9c2Eb3c4C762feE8F5C5b": {
-      "Token Name": "Nydronia (NIA)"
-    },
-    "0xB9782532FA7062A6F73df1CE71d75c0E16046ebC": {
-      "Token Name": "YFI Paprika (YFIP)"
-    },
-    "0x7777770f8A6632ff043c8833310e245EBa9209E6": {
-      "Token Name": "Tokens of Babel, Price is God (TOB)"
-    },
-    "0x265cd209a1ce46ad5a7fc5e51b2831290578996a": {
-      "Token Name": "Beethoven Finance (BTH)"
-    },
-    "0xb83Cd8d39462B761bb0092437d38b37812dd80A2": {
-      "Token Name": "GoldenRatio (GRT)"
-    },
-    "0xabc1280a0187a2020cc675437aed400185f86db6": {
-      "Token Name": "Smart Application Chain (SAC)"
-    },
-    "0x6aba1623ea906d1164cbb007e764ebde2514a2ba": {
-      "Token Name": "App Alliance Association (AAA)"
-    },
-    "0x2B04DaDD412f7281d3CCabfb8425FD9c9E841588": {
-      "Token Name": "BITTUP (BTU)"
-    },
-    "0x78a5b382b9a83fe042a4f7eb2399d563fda931c3": {
-      "Token Name": "heizuan token (HZT)"
-    },
-    "0xda5180086461ff6eeb09580181ac160522dcdcd4": {
-      "Token Name": "BraziliexToken (BRZX)"
-    },
-    "0x4212fea9fec90236ecc51e41e2096b16ceb84555": {
-      "Token Name": "Six Domain Asset (SDA)"
-    },
-    "0xfc05205ff402849b081e72ae4f8fc93cbdf40db1": {
-      "Token Name": "Lelouch Lamperouge (Lelouch)"
-    },
-    "0x3A1c1d1c06bE03cDDC4d3332F7C20e1B37c97CE9": {
-      "Token Name": "Vybe (VYBE)"
-    },
-    "0x82866b4A71BA9d930Fe338C386B6A45a7133eb36": {
-      "Token Name": "QCORE.FINANCE (QCORE)"
-    },
-    "0x3521c85c3000bff57eac04489eb05bbd3193a531": {
-      "Token Name": "METAWHALE BTC (mwBTC)"
-    },
-    "0xa5522d6137ece774e8084bbf9c34398192ccdca5": {
-      "Token Name": "CYN-COIN (CYNC)"
-    },
-    "0xb393cd041afc1aca4c380c663793fe2c7b8a0212": {
-      "Token Name": "NanTrade (NAN)"
-    },
-    "0x33c23d44679433A88B89ca38D3311A9a3D160699": {
-      "Token Name": "RainbowToken (RAINBOW)"
-    },
-    "0x281f5b914b0d589f8193cd5e711c6920874e00c8": {
-      "Token Name": "Mobilum Token (MBM)"
-    },
-    "0xd6875274b000462f59e9327cbde2cef637914569": {
-      "Token Name": "QUSD (QUSD)"
-    },
-    "0xbce7bd79558dda90b261506768f265c5543a9f90": {
-      "Token Name": "TKNT (TKNT)"
-    },
-    "0xdb69c3f8977f78952303987e87153c1988cf65a9": {
-      "Token Name": "PUGLIFE (PUGL)"
-    },
-    "0xdf2705d4368cd2ee3bbff73594ae47244064dffb": {
-      "Token Name": "Xenoverse (XENO)"
-    },
-    "0x422252B656Bcb93F2C3823737Bf0BeA0dA5b02AB": {
-      "Token Name": "LARP (LARP)"
-    },
-    "0xc4d4ac5b05fd942382147dd853b3b856ffb646a6": {
-      "Token Name": "Dasis Bond (DAIB)"
-    },
-    "0xb66a2131a6b840dd020151f80723caed603efb51": {
-      "Token Name": "NNB Token (NNB)"
-    },
-    "0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f": {
-      "Token Name": "BlockMesh (MESH)"
-    },
-    "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad": {
-      "Token Name": "CreedToken (CREED)"
-    },
-    "0x22b59a7387F7D25fe2b1c692Ee825e1802E6E3d5": {
-      "Token Name": "CoinViewCap (CVC)"
-    },
-    "0x72c1123c8e57d75fbf36478544b64cde0abe7f1b": {
-      "Token Name": "Aghanim (AGH)"
-    },
-    "0x55986C1dcbf2fA1f3402C5Df256272621624821f": {
-      "Token Name": "Bank BTC | https://bankbtc.app (BANKBTC)"
-    },
-    "0x93eCD2ecDFb91aB2fEe28A8779A6adfe2851cda6": {
-      "Token Name": "LoanBurst (LBurst)"
-    },
-    "0xba7b770b54733e78cac22c5bc1bf2c7ba1cb8c9f": {
-      "Token Name": "PullBack Finance (PLBK)"
-    },
-    "0x5b3F693EfD5710106eb2Eac839368364aCB5a70f": {
-      "Token Name": "Relayer (RLR)"
-    },
-    "0x031e0c6a7c91df1bc171d33cccc6988fd2ddeb6f": {
-      "Token Name": "TopCoinFX (TCFX)"
-    },
-    "0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a": {
-      "Token Name": "Level01 Token (LVX)"
-    },
-    "0x46760d2bf2f4dd5405646d9b2ce7b723efe74a48": {
-      "Token Name": "Penny For Bit (PFB)"
-    },
-    "0x06b179e292f080871825bed5d722162fd96b4c95": {
-      "Token Name": "10x.gg (XGG)"
-    },
-    "0xc21dBEE65D62770953035f0434C532d578a666c9": {
-      "Token Name": "CryptoEnergy (CNRG)"
-    },
-    "0x55696efc7c9779d868ac34ac6b4a4c5fed61ac12": {
-      "Token Name": "Dynamic Supply Tracker (DSTR)"
-    },
-    "0x4946583c5b86e01ccd30c71a05617d06e3e73060": {
-      "Token Name": "Foresting Token (PTON)"
-    },
-    "0x1a0f2ab46ec630f9fd638029027b552afa64b94c": {
-      "Token Name": "Aston X (ATX)"
-    },
-    "0xD82BB924a1707950903e2C0a619824024e254cD1": {
-      "Token Name": "DAOfi (DAOfi)"
-    },
-    "0xd2727e4259BBa31955FD582986334AEA4fBA8C52": {
-      "Token Name": "BLOOD (BLOOD)"
-    },
-    "0x37941b3fdb2bd332e667d452a58be01bcacb923e": {
-      "Token Name": "fren (FREN)"
-    },
-    "0xcb2fa15f4ea7c55bf6ef9456a662412b137043e9": {
-      "Token Name": "PAYOU.FINANCE (PAYOU)"
-    },
-    "0xc58467b855401ef3ff8fda9216f236e29f0d6277": {
-      "Token Name": "Gasgains (GASG)"
-    },
-    "0xA866F0198208Eb07c83081d5136BE7f775c2399e": {
-      "Token Name": "Kore (KORE)"
-    },
-    "0x24f529fd94a63E1Fdf25D77C949f05ac6Bf1B818": {
-      "Token Name": "FIB (FIB)"
-    },
-    "0x4d75d9e37667a2d4677ec3d74bdd9049326ad8d6": {
-      "Token Name": "NFT WARS (WAR)"
-    },
-    "0xe09394f8ba642430ed448ca20f342ec7aa1ba2e1": {
-      "Token Name": "FESS (FESS)"
     },
     "0xa6714a2e5f0b1bdb97b895b0913b4fcd3a775e4d": {
       "Token Name": "PromotionCoin (PC)"
     },
-    "0x57b3140f522a3ef2f98c046f78e0d03075908591": {
-      "Token Name": "ePlatinum (ePLAT)"
+    "0x05385abD2a95a8cd9B696F738aed73f1AFbc12E0": {
+      "Token Name": "Fompound (FOMP)"
     },
-    "0x091094d324005054e49608d2d29069eb9cb6c7a2": {
-      "Token Name": "Green Energy Coin (GREC)"
+    "0x91383A15C391c142b80045D8b4730C1c37ac0378": {
+      "Token Name": "XSTABLE.PROTOCOL (XST)"
     },
-    "0xcf58b4e4863c0d085bd1c65b3f2932e261547fab": {
-      "Token Name": "Lorde Edge (EDGELON)"
+    "0xe7e4279b80d319ede2889855135a22021baf0907": {
+      "Token Name": "ZeusNetwork (ZEUS)"
     },
-    "0xaB456bDb0A373BBaC6C4A76176E9f159cAcD5752": {
-      "Token Name": "SOCIETY OF GALACTIC EXPLORATION (SGE)"
+    "0xb5bb48567bfd0bfe9e4b08ef8b7f91556cc2a112": {
+      "Token Name": "Bankcoin (BCASH)"
     },
-    "0x897Abf83f0C44b86cb67ec56c006c00d56659517": {
-      "Token Name": "Arteon (ARTEON)"
+    "0x58a10de802F441dc0D3788021440cb5322298066": {
+      "Token Name": "Vector Robotics (VERTO)"
     },
-    "0x54de6226b8a54B5A5935bB54f47c3e409c71634a": {
-      "Token Name": "EveryApe.com (EVAPE)"
+    "0x265ba42daf2d20f3f358a7361d9f69cb4e28f0e6": {
+      "Token Name": "UniBombV3 (UBOMB)"
     },
-    "0x5728e59002939074a10D0819732DcFc0bf6b5610": {
-      "Token Name": "Uniswap X (UNIX)"
+    "0xcb2fa15f4ea7c55bf6ef9456a662412b137043e9": {
+      "Token Name": "PAYOU.FINANCE (PAYOU)"
     },
-    "0xdef1fac7bf08f173d286bbbdcbeeade695129840": {
-      "Token Name": "Cerby Token (CERBY)"
+    "0xff0A3C3394765700611bC4Cac016821aECa7D1A1": {
+      "Token Name": "Vadia Finance (VAD)"
+    },
+    "0x55696efc7c9779d868ac34ac6b4a4c5fed61ac12": {
+      "Token Name": "Dynamic Supply Tracker (DSTR)"
+    },
+    "0xc2bd7a597391f31d2e36c2cb769fce0e5bd6d482": {
+      "Token Name": "Anti-Lockdown (FREE)"
+    },
+    "0x4946583c5b86e01ccd30c71a05617d06e3e73060": {
+      "Token Name": "Foresting Token (PTON)"
     },
     "0x7B0F66fA5cf5cc28280c1e7051af881E06579362": {
       "Token Name": "YFarmLand Token (YFARMER)"
     },
-    "0x06e04bbfa6a53c57ebfc17e1aeed8e2686640ecd": {
-      "Token Name": "BabyCatGirl (BBYCAT)"
+    "0x1a231e75538a931c395785EF5D1A5581ec622B0e": {
+      "Token Name": "Zoom Protocol (ZOM)"
     },
-    "0x500d15aA5b01E7eb77e4D4C8283Df3E6c49Da754": {
-      "Token Name": "Hashthereum (HETH)"
+    "0xa57392548087453dec6106e670bbfb849276b358": {
+      "Token Name": "GemVault Coin (GVC)"
     },
-    "0xBfEC1b4C9398600fe2cbc918d500E494aef3e6F5": {
-      "Token Name": "DopeSwap (DOPE)"
+    "0x9dca0903768abd565bc861a8e18c37962aaf31f6": {
+      "Token Name": "Hidden Global ($HDDN)"
     },
-    "0xD6d3608F2D770d0A8D0dA62D7AfE21EA1da86d9c": {
-      "Token Name": "AmericanHorror.Finance (AHF)"
+    "0x9205c049c231dda51bace0ba569f047e3e1e9979": {
+      "Token Name": "Latam Cash (LMCH)"
     },
-    "0x20B4B41DDaECD180798bd4322BA971FA1A54e512": {
-      "Token Name": "DHD Coin (DHD)"
+    "0x54de6226b8a54B5A5935bB54f47c3e409c71634a": {
+      "Token Name": "EveryApe.com (EVAPE)"
     },
-    "0xae8f1356ec073accdd4bf5914d37a44dfd954a0d": {
-      "Token Name": "BioToken (BIO)"
+    "0x237c9e8a085663ebaa22a600c1b9846fb529e900": {
+      "Token Name": "GenshinImpact (GenIm)"
     },
-    "0xa0afAA285Ce85974c3C881256cB7F225e3A1178a": {
-      "Token Name": "Wrapped CRES (wCRES)"
+    "0xc560984d8c4ced2a0eba5790b33b6f43afeef759": {
+      "Token Name": "SpritzCoin (SPRTZ)"
     },
-    "0xaD2aa3C57570AD9811bA8Ee90316f9C73F78035A": {
-      "Token Name": "Casino Land Network (CLN)"
+    "0xc8475018B8aFe888A38E05a25215F7CF00fC38FA": {
+      "Token Name": "BetaCore Finance (BCORE)"
     },
-    "0x171d750d42d661b62c277a6b486adb82348c3eca": {
-      "Token Name": "Omnitude (ECOM)"
+    "0x314bD765cAB4774b2E547eB0aA15013e03FF74d2": {
+      "Token Name": "MONEY PARTY (PARTY)"
     },
-    "0x61f33Da40594cEc1E3Dc900FaF99F861D01e2e7D": {
-      "Token Name": "Cybereits Token (CRE)"
+    "0x7Ed037EB22982b839A5f0b67f6a652c9857CcD4d": {
+      "Token Name": "MultiStakeCapital (MSC)"
     },
-    "0x54b8c98268dA0055971652A95F2bfD3a9349A38c": {
-      "Token Name": "Printer.Finance (PRINT)"
+    "0xF96459323030137703483B46fD59A71D712BF0aa": {
+      "Token Name": "XTAKE (XTK)"
     },
-    "0x0CC4F8735DAE4b1aB7682cb05AEb19115e693E98": {
-      "Token Name": "cowfarm.finance (COW)"
+    "0xFaC917971Ce50849502022B40aa8a12843F022C0": {
+      "Token Name": "BORED MUSEUM (BORED)"
     },
-    "0x5e7bed6a5c8ef7ab019aaff2a2ecec5f6b40c6b1": {
-      "Token Name": "YucanSwap (YYU)"
+    "0xd8002cd05d5b2a85557e1caaa179cc2408d5ad42": {
+      "Token Name": "BINGO Entertainment (777)"
     },
-    "0xa5a2Af22EAc6f050227d844B108c2B2A011FD329": {
-      "Token Name": "Tunnel (TNI)"
+    "0x091094d324005054e49608d2d29069eb9cb6c7a2": {
+      "Token Name": "Green Energy Coin (GREC)"
     },
-    "0xc2b58812c24020ea924c3d7c241c441605f12e75": {
-      "Token Name": "Entherfound (ETF)"
+    "0x929d87A3aaAbc18da7f34945C896F4500CDB0043": {
+      "Token Name": "houseofcards.finance (HOC)"
     },
-    "0x47A60748de6dbd8Dce3991adc5751cE0f32279dC": {
-      "Token Name": "ClbrToken (CLBR)"
+    "0x355a458d555151d3b27f94227960ade1504e526a": {
+      "Token Name": "StockChain Coin (SCC)"
     },
-    "0x21654674a56acd8b213ea44829172d1c877e21a0": {
-      "Token Name": "Pomer Token (PMR)"
+    "0xc949fc82a15964fb5b97e5cf8f9ffed139086821": {
+      "Token Name": "PGPAY (PGPAY)"
     },
-    "0x1cc0744c5106bb47a61c4e41f517cb6f1c49b547": {
-      "Token Name": "Chalice Finance (CHAL)"
+    "0x48c58b8496642bc4c860c7efc13813b73aa674f7": {
+      "Token Name": "Super Shiba Club (SSC)"
     },
-    "0x084da5a9c0e3f086532b98d8568432349b89d9df": {
-      "Token Name": "FUUPAY (FPT)"
+    "0x4d4a85865a91c1d0f51e6a84879486ec6679140e": {
+      "Token Name": "Rogue Protocol (ROGUE)"
     },
-    "0x74c287ad5328daca276c6a1c1f149415b12c148d": {
-      "Token Name": "Pazzy (PAZZY)"
+    "0x5aaa2182459377b6ca18b10712f9f602140764af": {
+      "Token Name": "ElevationToken (EVT)"
     },
-    "0x5fbdb42bb048c685c990a37f2c87fe087c586655": {
-      "Token Name": "XENON (XEN)"
+    "0x7a82C573B378CEEa29772aFB93891f0d0afA93b7": {
+      "Token Name": "Wizard (WIZ)"
     },
-    "0x181c94a45ed257baf2211d4ff7e1f49a5964134a": {
-      "Token Name": "MetaShib Token (METASHIB)"
-    },
-    "0x6febdfc0a9d9502c45343fce0df08828def44795": {
-      "Token Name": "3X Short BNB Token (BNBBEAR)"
-    },
-    "0xce1298ef635326d9f197963e49e1e67422761897": {
-      "Token Name": "PiSwap Token (PIS)"
-    },
-    "0xd5dC8921A5c58FB0ebA6db6b40Eab40283Dc3C01": {
-      "Token Name": "DDAM (DDAM)"
-    },
-    "0x814f67fa286f7572b041d041b1d99b432c9155ee": {
-      "Token Name": "DRAGON (DRG)"
-    },
-    "0x36d10c6800d569bb8c4fe284a05ffe3b752f972c": {
-      "Token Name": "We Show Token (WET)"
-    },
-    "0xe3f3869dDD41C23Eff3630F58E5bFA584C770D67": {
-      "Token Name": "Lock3r (LK3R)"
-    },
-    "0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90": {
-      "Token Name": "LOCK Token (LOCK)"
-    },
-    "0x57700244B20f84799a31c6C96DadFF373ca9D6c5": {
-      "Token Name": "TRUST DAO (TRUST)"
-    },
-    "0x7d529a5b3c41126760a0fa3c1a9652d8a7a07793": {
-      "Token Name": "Narwhale (NAWA)"
-    },
-    "0xdB80734b094a3F964DEdfD10e8946753aE0AC04c": {
-      "Token Name": "Keep Calm (KCH)"
+    "0x9080e92296a176883aAB1d7d1B7e50BC055B0cAa": {
+      "Token Name": "YFI CREDITS GROUP (YFICG)"
     },
     "0x251B5C9eFf2d9F04DC525f601E13293bfE40E4f5": {
       "Token Name": "iYearn Finance (IYFI)"
     },
-    "0x7206579D60e985928098Ea8fF8773C66788A9cdc": {
-      "Token Name": "$UNIMEME ($UNIMEME)"
+    "0x08ed14bcefa48ba8b0ceb8403d6c5923c22e7fb4": {
+      "Token Name": "DogDeFiShares (DogDeFiS)"
     },
-    "0x7d2ee0a3856cffd58fb0963c0e24bf1277a0be0e": {
-      "Token Name": "Zeno Inu (ZENO)"
+    "0xaf6F6aBf18D2cC611921E6a683164eFAa9165b43": {
+      "Token Name": "Satoru Inu (SATO)"
     },
-    "0xcbA6f10d1147B2c5a3D8d8cBd93C373B31c6C2C8": {
-      "Token Name": "VuePay Token (VUP)"
+    "0x3aef8e803bd9be47e69b9f36487748d30d940b96": {
+      "Token Name": "vesta (vesta)"
     },
-    "0x708aA4e8AaeAaD6074dD09cc4e5C52A70452eB39": {
-      "Token Name": "Bitcoffeen (BFF)"
+    "0x21e5e0a1433a7626605db64b69a47e6eb8480ffb": {
+      "Token Name": "MissCoin (MISS)"
     },
-    "0x96c30d5499ef6ea96a9c221bc18bc39d29c97f27": {
-      "Token Name": "Thar token (Thar)"
+    "0x37941b3fdb2bd332e667d452a58be01bcacb923e": {
+      "Token Name": "fren (FREN)"
+    },
+    "0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139": {
+      "Token Name": "ATMChain (ATM)"
+    },
+    "0xECbF566944250ddE88322581024E611419715f7A": {
+      "Token Name": "xBTC (xBTC)"
+    },
+    "0x6f919d67967a97ea36195a2346d9244e60fe0ddb": {
+      "Token Name": "Blockcloud (BLOC)"
+    },
+    "0x681b24478e9f7e31ee3b5b7f807c9151e46aa165": {
+      "Token Name": "GAME SWAP (GAME)"
     },
     "0x53066cddbc0099eb6c96785d9b3df2aaeede5da3": {
       "Token Name": "Penta Network Token (PNT)"
@@ -1222,482 +703,1001 @@
     "0x22eEab2f980E8ed7824f8EA548C9595564a0F0e4": {
       "Token Name": "Standard Crypto Fund (QQQF)"
     },
-    "0x3539a4f4c0dffc813b75944821e380c9209d3446": {
-      "Token Name": "GCB (GCB)"
+    "0x6aba1623ea906d1164cbb007e764ebde2514a2ba": {
+      "Token Name": "App Alliance Association (AAA)"
     },
-    "0x21ab6c9fac80c59d401b37cb43f81ea9dde7fe34": {
-      "Token Name": "Baer Chain (BRC)"
+    "0xdB80734b094a3F964DEdfD10e8946753aE0AC04c": {
+      "Token Name": "Keep Calm (KCH)"
     },
-    "0x5c62da804298d5972a323c80b539b8e7517a0dde": {
-      "Token Name": "VENJOCOIN (VJC)"
-    },
-    "0x3f344c88d823f180fb8b44a3c7cfc4edc92dfa35": {
-      "Token Name": "Dswap Token (Dswap)"
-    },
-    "0xc8475018B8aFe888A38E05a25215F7CF00fC38FA": {
-      "Token Name": "BetaCore Finance (BCORE)"
-    },
-    "0x042aFd3869A47E2d5d42CC787D5c9E19DF32185F": {
-      "Token Name": "Hotpot Base Token (POT)"
-    },
-    "0xee98A5c3FD8c9063C5D8777758d3901a88df957b": {
-      "Token Name": "ZEB Token (ZEB)"
-    },
-    "0x6971fD17a3f82a7b9C957C82c6F4a5C8723Ba6C9": {
-      "Token Name": "fecore.finance (FECORE)"
-    },
-    "0x9080e92296a176883aAB1d7d1B7e50BC055B0cAa": {
-      "Token Name": "YFI CREDITS GROUP (YFICG)"
-    },
-    "0xfbc3c8aad80b5934d134e2cce065702ff254ad7d": {
-      "Token Name": "CHAOEX (CHEX)"
-    },
-    "0x6B4b3B0B0130C9b4dDa7c6FB4602BEefBBF10672": {
-      "Token Name": "Pump Farm (PPF)"
-    },
-    "0x511232281BCD64d15b08C7f78825C45968caDbbf": {
-      "Token Name": "Tritecoin (TRT)"
-    },
-    "0x265ba42daf2d20f3f358a7361d9f69cb4e28f0e6": {
-      "Token Name": "UniBombV3 (UBOMB)"
-    },
-    "0x3004cf8b4e28d60f4e305df25a57cd5faf37b8d5": {
-      "Token Name": "BSYS (BSYS)"
-    },
-    "0x1FC05d480B1eF1175a31123bFDBd36BfEE256889": {
-      "Token Name": "noob.finance ($NOOB)"
-    },
-    "0x006699d34AA3013605d468d2755A2Fe59A16B12B": {
-      "Token Name": "Zild Finance Coin (Zild)"
-    },
-    "0x4AFAdB32b8fdB334cF9f20AFb476A06c1F5b111A": {
-      "Token Name": "TLS Token (TLS)"
-    },
-    "0x6f919d67967a97ea36195a2346d9244e60fe0ddb": {
-      "Token Name": "Blockcloud (BLOC)"
-    },
-    "0x40E7705254494a7E61D5b7c86da50225DDc3DaAE": {
-      "Token Name": "yplutus.finance (yPLT)"
-    },
-    "0xc162e46e891Da3e7A2AC2F3dF2A305C9ae938d4f": {
-      "Token Name": "yfChain (YFC)"
-    },
-    "0x0E1fe60bc4aC0e3102343752ae7E49d01d444c0b": {
-      "Token Name": "Havens Nook (HXN)"
-    },
-    "0x3479b0acf875405d7853f44142fe06470a40f6cc": {
-      "Token Name": "Value USD (vUSD)"
-    },
-    "0x314bD765cAB4774b2E547eB0aA15013e03FF74d2": {
-      "Token Name": "MONEY PARTY (PARTY)"
-    },
-    "0x191baFe4e3888Ec289753c7d592634e3Abe1eE14": {
-      "Token Name": "CoinSWOP (cSWOP)"
-    },
-    "0xc24b2dbd1fe3efaa503947650cb4a569e79bb6bb": {
-      "Token Name": "Fish (FISH)"
-    },
-    "0x9205c049c231dda51bace0ba569f047e3e1e9979": {
-      "Token Name": "Latam Cash (LMCH)"
-    },
-    "0x2029017f38128bfefaa6c7b9cdd1b680ce8e5c03": {
-      "Token Name": "Candy (CAD)"
-    },
-    "0x93065b5c7eb63333b8e57a73012d25f687895785": {
-      "Token Name": "ColletrixToken (CIPX)"
-    },
-    "0x790BaF0C914898C62163A61F150637D4bd180697": {
-      "Token Name": "NIRVANA (VANA)"
-    },
-    "0x5cf501e64786444e025c5b24025f98399538ea5d": {
-      "Token Name": "GalaxyPoolCion (GPO)"
-    },
-    "0x48c58b8496642bc4c860c7efc13813b73aa674f7": {
-      "Token Name": "Super Shiba Club (SSC)"
-    },
-    "0x0bead9a1bcc1b84d06e3f2df67e3549fd55ab054": {
-      "Token Name": "EURxb (EURxb)"
-    },
-    "0xB351dA6ffEbd5DddD1dA037929FCf334d6B4A8D5": {
-      "Token Name": "Flit Token (FLT)"
-    },
-    "0x5f8A35021F1C9BE802000Ca141d7EeeE577Df7FD": {
-      "Token Name": "Farm House Finance (FHSE)"
-    },
-    "0x9388f54fa978aa9e24395a8b69033304eccea4df": {
-      "Token Name": "Bitscoin (BTCX)"
-    },
-    "0xc1fa06e8596c3fa98ccd2113c38b6b60b6efa00d": {
-      "Token Name": "Erotica (EROTICA)"
-    },
-    "0x20bcae16a8ba95d8e8363e265de4ecfc36ec5cd9": {
-      "Token Name": "HEY BITCOIN (HYBN)"
-    },
-    "0x168e39f96a653ce0a456560687241b0b2936e5ff": {
-      "Token Name": "2based.finance (2BASED)"
-    },
-    "0x4c10BD19688B906665fBd53415f279F34b44ECE7": {
-      "Token Name": "YUI Token (YUI)"
-    },
-    "0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A": {
-      "Token Name": "YFED.FINANCE (YFED)"
-    },
-    "0xa2688932bAd3C10FF3354e65790FE1081E5f2bF2": {
-      "Token Name": "yearnfamily.finance (YFF)"
-    },
-    "0x5c5413BaD5f6FdB0f4fcD1457e46eAd8e01D73d3": {
-      "Token Name": "UAHPAY (UAH)"
-    },
-    "0x1d464ac5e046e5fe280c9588edf8eb681b07008f": {
-      "Token Name": "GMB (GMB)"
-    },
-    "0x0f767338244418310342d49b02183715691d988f": {
-      "Token Name": "Genesis (GENT)"
-    },
-    "0x3a5051566b2241285be871f650c445a88a970edd": {
-      "Token Name": "The Humanoids (HMNDS)"
-    },
-    "0x56D1aE30c97288DA4B58BC39F026091778e4E316": {
-      "Token Name": "DAGT Crypto Platform (DAGT)"
-    },
-    "0x2731d151CBDf84A8A4C6d9D0BaE74012Db51E428": {
-      "Token Name": "IFToken (IFT)"
-    },
-    "0x917FD2f7378FF479419dCB56C5cbB445fBbF902A": {
-      "Token Name": "COINWAYCOIN (CAN)"
-    },
-    "0x1b7c4d4F226cCf3211B0F99c4fdfb84A2606bF8e": {
-      "Token Name": "OrbV2 (ORBV2)"
-    },
-    "0x2ba6b1e4424e19816382d15937739959f7da5fd8": {
-      "Token Name": "MEX (MEX)"
-    },
-    "0x7aFaC1D878C66A47263DCe57976C371Ae2e74882": {
-      "Token Name": "YFMOONBEAM (YFMB)"
-    },
-    "0xA2605E8679d399bb98fA8C2F0b4Ef6D04f3E5c1A": {
-      "Token Name": "YFBinance (YFBI)"
-    },
-    "0xFaC917971Ce50849502022B40aa8a12843F022C0": {
-      "Token Name": "BORED MUSEUM (BORED)"
-    },
-    "0xF49f43c1E8b0c8aC13E63ec7921692a199029d49": {
-      "Token Name": "Coldbank (COLD)"
-    },
-    "0xc52e23194476b1dd39408cb0b9d935da8e6db3d6": {
-      "Token Name": "Clever (CLVA)"
-    },
-    "0xa918897bd10d6DeE614470C24a061b78b021B3a9": {
-      "Token Name": "UCoin (UCoin)"
-    },
-    "0x5e4abe6419650ca839ce5bb7db422b881a6064bb": {
-      "Token Name": "Wi Coin (WiC)"
-    },
-    "0xc275865a6cce78398e94cb2af29fa0d787b7f7eb": {
-      "Token Name": "RiseCoin Token (RSCT)"
-    },
-    "0xa57392548087453dec6106e670bbfb849276b358": {
-      "Token Name": "GemVault Coin (GVC)"
-    },
-    "0x21e5e0a1433a7626605db64b69a47e6eb8480ffb": {
-      "Token Name": "MissCoin (MISS)"
-    },
-    "0xa81B07da1A6d60a53De91bEbfac2b9367840b8FD": {
-      "Token Name": "EMJAC (MKK)"
-    },
-    "0x820A8481451e893Bc66DCe50C84d45617CaC3705": {
-      "Token Name": "Bitcoin True (BTCT)"
-    },
-    "0x5D762F76b9E91F71cc4F94391BDFe6333dB8519c": {
-      "Token Name": "IYF.finance (IYF)"
-    },
-    "0x4f56221252d117f35E2f6Ab937A3F77CAd38934D": {
-      "Token Name": "CryptoCricketClub (3Cs)"
-    },
-    "0xE95e4440493E5b96e79D63E8Dc43AB676Dd44E4C": {
-      "Token Name": "AntiSeal (ANTISEAL)"
-    },
-    "0xbdbb0ee6144544ec814d417b0ad41f16fc8b858e": {
-      "Token Name": "BitKAM (KAM)"
-    },
-    "0x43afc9058a3DeBF37eaDf99138e449cE8a480A8a": {
-      "Token Name": "STAMP (STAMP)"
-    },
-    "0x1da015ea4ad2d3e5586e54b9fb0682ca3ca8a17a": {
-      "Token Name": "DragonToken (DT)"
-    },
-    "0x5592c5aa89492ea918d55b804e177b5ca7dccd5a": {
-      "Token Name": "Wrapped xBTC (wxBTC)"
-    },
-    "0x5C406D99E04B8494dc253FCc52943Ef82bcA7D75": {
-      "Token Name": "cUSD Currency (cUSD)"
-    },
-    "0x355376d6471e09a4ffca8790f50da625630c5270": {
-      "Token Name": "libartysharetoken (LST)"
-    },
-    "0x91383A15C391c142b80045D8b4730C1c37ac0378": {
-      "Token Name": "XSTABLE.PROTOCOL (XST)"
-    },
-    "0xc09d3DbD8F1C5F70F5a624935dFF180AF6FB51C7": {
-      "Token Name": "Sloth Finance (Sloth)"
-    },
-    "0xb339FcA531367067e98d7c4f9303Ffeadff7B881": {
-      "Token Name": "Aludra Network (ALD)"
-    },
-    "0x4eecbf6534d10957e53f4bfe1ae10df2021c1684": {
-      "Token Name": "IotaGold (IOTAG)"
-    },
-    "0x1F9F9bC358dDC30763e81A0081B86A638E6277aB": {
-      "Token Name": "CryptoNote Index Fund Token (CNIF)"
-    },
-    "0xdd6c68bb32462e01705011a4e2ad1a60740f217f": {
-      "Token Name": "Hubiits (HBT)"
-    },
-    "0x95c9bd1f81cee7391da3eac81693e60f3292c1e0": {
-      "Token Name": "LinfinityCoin (LFC)"
-    },
-    "0x5abfd418adb35e89c68313574eb16bdffc15e607": {
-      "Token Name": "TimviToken (TMV)"
-    },
-    "0xab55bdef7057b76482914e79f037999f4ebb6bf1": {
-      "Token Name": "Healing Plus (HP)"
-    },
-    "0xd957E08ac5421E2C28510586B57d095E5094836a": {
-      "Token Name": "VorteX Network (VTX)"
-    },
-    "0xbc6819294c554f46bee6f5eb5260089a03e270a2": {
-      "Token Name": "DEFLA (DEFLA)"
-    },
-    "0x0209ce3516587cc4a22b54c024b2ee724c117036": {
-      "Token Name": "miniCORE (miniCORE)"
-    },
-    "0x054bD236b42385c938357112F419dC5943687886": {
-      "Token Name": "HeavensGate (HATE)"
-    },
-    "0x270371c58d9d775ed73971dd414656107384f235": {
-      "Token Name": "BTAP (BTAP)"
-    },
-    "0xaeF4F02E31CdbF007f8D98da4aE365188A0E9eCC": {
-      "Token Name": "The Famous Token (TFT)"
-    },
-    "0x50e5d59b54fd8331fdfc59974a02e421f78b3a58": {
-      "Token Name": "Frozenswap.org (FROZEN)"
-    },
-    "0x288F9a192207bC59230204655b12CCd83cEb74Dc": {
-      "Token Name": "Unissou (YTG)"
-    },
-    "0xf1d1a5306daae314af6c5d027a492b313e07e1a0": {
-      "Token Name": "Envoy (ENV)"
-    },
-    "0xEED736b2b809550D89A941C2005dE93588c628e2": {
-      "Token Name": "ETHPlus (ETHP)"
-    },
-    "0x3d9da8fe44ccf682bb1bd974bb664bef099ef813": {
-      "Token Name": "BMBCoin (BMB)"
-    },
-    "0xd51e852630debc24e9e1041a03d80a0107f8ef0c": {
-      "Token Name": "ORIUM (ORM)"
-    },
-    "0x40e45890dff79e7d533797d964e64a2c0121f49a": {
-      "Token Name": "Smart Trade Coin (TRADE)"
-    },
-    "0x3e3CdA3218212503883C79F6D2FeEF29E6Bbb87d": {
-      "Token Name": "GpyxToken (GPYX)"
-    },
-    "0x38f7cd43662d1cff4cc3c2c4b749f7cfed1d1db3": {
-      "Token Name": "Neeva (NVA)"
-    },
-    "0xCd475371E39c0d94e82FCCc9dD0ea710D0dc0C0B": {
-      "Token Name": "THECASH (TCH)"
-    },
-    "0x324af2d5353f2dd138e234b359d30d67c64b1b20": {
-      "Token Name": "Oracle System (ORC)"
-    },
-    "0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e": {
-      "Token Name": "Divert finance (DEVE)"
-    },
-    "0x780116d91e5592e58a3b3c76a351571b39abcec6": {
-      "Token Name": "Boxx (BOXX)"
-    },
-    "0x40b92fCE37CEfA03baf7603e7913C1d34dD1a4EC": {
-      "Token Name": "YeaFinance (YEA)"
-    },
-    "0x4893A1938dF49f4178c37E4E965CC8A1B3882173": {
-      "Token Name": "Baroin (BRI)"
-    },
-    "0x61bc1F530AC6193D73aF1e1A6A14CB44b9C3f915": {
-      "Token Name": "Pajama.Finance (PJM)"
-    },
-    "0x01c8857057326B8f64DCb5cba6d802DcD132946e": {
-      "Token Name": "ShareAt (XAT)"
-    },
-    "0x79BA92DDA26FcE15e1e9af47D5cFdFD2A093E000": {
-      "Token Name": "SERGS (SERGS)"
-    },
-    "0xc96c1609a1a45ccc667b2b7fa6508e29617f7b69": {
-      "Token Name": "2GT_token (2GT)"
-    },
-    "0x089a502032166e07ae83eb434c16790ca2fa4661": {
-      "Token Name": "Cure Farm (CURE)"
-    },
-    "0x108D27F9c4b2A98C025c94c76Ca78c6Ce6C7A4eB": {
-      "Token Name": "MetaPrediction (METP)"
-    },
-    "0xdf6ef343350780bf8c3410bf062e0c015b1dd671": {
-      "Token Name": "Blackmoon Crypto Token (BMC)"
-    },
-    "0xc047C42554c6495c85108aE8ee66fA4E3B88176d": {
-      "Token Name": "Mcn Token (MCN)"
-    },
-    "0x56C64e280ef1262DA370d2c5862Bb61C6Dc3Dbb4": {
-      "Token Name": "Bigcoin (BIG)"
-    },
-    "0x64db5e5280421789af5c253a5ab260278ffd40ed": {
-      "Token Name": "Diffract Finance (DFR)"
-    },
-    "0xea004e8FA3701B8E58E41b78D50996e0f7176CbD": {
-      "Token Name": "yffc.finance (YFFC)"
-    },
-    "0x2B78C26973545F9fD7EbDb01922966628382e6Ba": {
-      "Token Name": "yefam.finance (YEFAM)"
-    },
-    "0xfa4cce6d38047abfe5cd07b76e3858bf54e7f1dc": {
-      "Token Name": "CryptoHeroes (HEROES)"
-    },
-    "0x6c4522f0035bed2180b40f4c5d9dbaab64b41325": {
-      "Token Name": "Passport Finance (PASS)"
-    },
-    "0x33c2DA7Fd5B125E629B3950f3c38d7f721D7B30D": {
-      "Token Name": "Seal Finance (Seal)"
-    },
-    "0x212fa406fd28663ee6110d863a18e80960300e5c": {
-      "Token Name": "Astra Network Token (ANX)"
-    },
-    "0xECbF566944250ddE88322581024E611419715f7A": {
-      "Token Name": "xBTC (xBTC)"
-    },
-    "0x91268abA147D738Fa8665B342EF519e0C4541C07": {
-      "Token Name": "XeriumNetwork (XRU)"
-    },
-    "0xeE3b9B531F4C564c70e14B7b3BB7D516f33513ff": {
-      "Token Name": "DeFi Omega (DFIO)"
+    "0x300a902513815028e97fc79e92082ce6a98d3b74": {
+      "Token Name": "Ethersocks (SOX)"
     },
     "0x7e1a6fb26702ecb0439a641c5c285f7eec430419": {
       "Token Name": "九州币 (KYSC)"
     },
-    "0x15bCDFAd12498DE8a922E62442Ae4CC4bd33bd25": {
-      "Token Name": "Walletreum (WALT)"
+    "0xbf0f3ccb8fa385a287106fba22e6bb722f94d686": {
+      "Token Name": "Zytara USD (ZUSD)"
     },
-    "0x688ff43c3c19e4714f0beb76df8ee394207ab411": {
-      "Token Name": "RoboAi Coin R2R (R2R)"
+    "0x22b59a7387F7D25fe2b1c692Ee825e1802E6E3d5": {
+      "Token Name": "CoinViewCap (CVC)"
     },
-    "0xed196d746493bc855f95ce5346c0161f68db874b": {
-      "Token Name": "SHIKOKU INU (SHIK)"
+    "0x8E4A84FF6CD5Ed56f18f4313E61ce297089DBCD6": {
+      "Token Name": "SienaBankToken (SBTT)"
     },
-    "0xca6892d6bd9ab4f640b9e91ffbded23ec97fb6f6": {
-      "Token Name": "XBASE.Finance (XBASE)"
+    "0x820A8481451e893Bc66DCe50C84d45617CaC3705": {
+      "Token Name": "Bitcoin True (BTCT)"
     },
-    "0xEDA6eFE5556e134Ef52f2F858aa1e81c84CDA84b": {
-      "Token Name": "Capital.finance (CAP)"
+    "0x9746953f5b1324a78132895cfd263f417b0faae3": {
+      "Token Name": "ValueCyberToken (VCT)"
     },
-    "0xE70b94C2320fB0289Db0Cac0cCBD60dd8F51ff89": {
-      "Token Name": "Rezerve (RZRV)"
+    "0x72c1123c8e57d75fbf36478544b64cde0abe7f1b": {
+      "Token Name": "Aghanim (AGH)"
     },
-    "0xF989E16233ad1aD0F2aF739547eF92745341F52B": {
-      "Token Name": "Coin Fella Token (CFT)"
+    "0xd5dC8921A5c58FB0ebA6db6b40Eab40283Dc3C01": {
+      "Token Name": "DDAM (DDAM)"
     },
-    "0x5645A66AA7594E0b5ca69c37323f1Aa8a1BaF37c": {
-      "Token Name": "Exodia Inu (EXODIA)"
+    "0x042aFd3869A47E2d5d42CC787D5c9E19DF32185F": {
+      "Token Name": "Hotpot Base Token (POT)"
     },
-    "0xc626c9e2247c8a0c863ad6daa97ed939e12786de": {
-      "Token Name": "Digital Wallet Coin (DWC)"
-    },
-    "0xc949fc82a15964fb5b97e5cf8f9ffed139086821": {
-      "Token Name": "PGPAY (PGPAY)"
-    },
-    "0x015df42d36Bc851c7F15f80bd1D4e8dBF02aed0c": {
-      "Token Name": "connect coin (XCON)"
-    },
-    "0x4D4186dBF3a098b170D6C72bad47E2C68E3Bc58e": {
-      "Token Name": "Parm Token (PARM)"
+    "0xdf2705d4368cd2ee3bbff73594ae47244064dffb": {
+      "Token Name": "Xenoverse (XENO)"
     },
     "0xde9d41a01bb11a9f41e709242824e54c3917084e": {
       "Token Name": "IGNITE (IGN)"
     },
-    "0x80bb277f4355a43cdbb86a82f9876c946476d9eb": {
-      "Token Name": "DogDefiCoin (DOGDEFI)"
+    "0xdd6c68bb32462e01705011a4e2ad1a60740f217f": {
+      "Token Name": "Hubiits (HBT)"
     },
-    "0xa5f8fc0921880cb7342368bd128eb8050442b1a1": {
-      "Token Name": "Block Array (ARY)"
+    "0xce5114d7fa8361f0c088ee26fa3a5446c4a1f50b": {
+      "Token Name": "Blue Whale eXchange (BWX)"
     },
-    "0x86B1FC1C0c5D120842d8c86BabADe714E28777c6": {
-      "Token Name": "devil.finance (SOUL)"
+    "0x422252B656Bcb93F2C3823737Bf0BeA0dA5b02AB": {
+      "Token Name": "LARP (LARP)"
     },
-    "0x3f4cd830543db25254ec0f05eac058d4d6e86166": {
-      "Token Name": "Jindoge (JINDOGE)"
+    "0x457a57e931cba4dff5ce8500cc0dff18356df041": {
+      "Token Name": "phantom (pht)"
     },
-    "0xa0bb0027c28ade4ac628b7f81e7b93ec71b4e020": {
-      "Token Name": "Rug Proof Token (RPT)"
+    "0xCd475371E39c0d94e82FCCc9dD0ea710D0dc0C0B": {
+      "Token Name": "THECASH (TCH)"
     },
-    "0x244c5276ea5bb927575417156038d7381b44ab2c": {
-      "Token Name": "Bridge Finance Token (BFR)"
+    "0x1b7c4d4F226cCf3211B0F99c4fdfb84A2606bF8e": {
+      "Token Name": "OrbV2 (ORBV2)"
     },
-    "0x9dca0903768abd565bc861a8e18c37962aaf31f6": {
-      "Token Name": "Hidden Global ($HDDN)"
+    "0xb339FcA531367067e98d7c4f9303Ffeadff7B881": {
+      "Token Name": "Aludra Network (ALD)"
     },
-    "0xc560984d8c4ced2a0eba5790b33b6f43afeef759": {
-      "Token Name": "SpritzCoin (SPRTZ)"
+    "0xf2Df8458130F00c94bCDE2Dd3F288cF608187F87": {
+      "Token Name": "FEAST.finance (FEAST)"
     },
-    "0x21cD6Af01383651ed10554394C0497f9dB5e5dbC": {
-      "Token Name": "CryptoPing (PING)"
+    "0x5a4b14aea23a605abc463f04a6b8aaf52dd3e7c6": {
+      "Token Name": "HeartBout HP (HP)"
     },
-    "0x59a63e3bc9bc1ce9abfd7b928d13d02d98b818d6": {
-      "Token Name": "Golddoge Sachs (GDS)"
+    "0xab5c04bbe42667610a2da07ac98ea9fa6e4a9514": {
+      "Token Name": "IZEROIUM (IZER)"
     },
-    "0xfC64C0adF4a08008E3fA2bf9c03540032B1C8288": {
-      "Token Name": "g9tro Crowdfunding Platform (g9tro)"
+    "0x01c8857057326B8f64DCb5cba6d802DcD132946e": {
+      "Token Name": "ShareAt (XAT)"
+    },
+    "0xbBa1DA8aFF34eBEF5Ce4d68312B33ef629548b06": {
+      "Token Name": "唯药链 (FOCV)"
+    },
+    "0x21ab6c9fac80c59d401b37cb43f81ea9dde7fe34": {
+      "Token Name": "Baer Chain (BRC)"
+    },
+    "0xca6892d6bd9ab4f640b9e91ffbded23ec97fb6f6": {
+      "Token Name": "XBASE.Finance (XBASE)"
+    },
+    "0x67D94Da1F10861174926681984DBCb4c97EA25Dd": {
+      "Token Name": "desire.finance (DESIRE)"
+    },
+    "0xabc1280a0187a2020cc675437aed400185f86db6": {
+      "Token Name": "Smart Application Chain (SAC)"
+    },
+    "0x9b3e946e1a8ea0112b147af4e6e020752f2446bc": {
+      "Token Name": "Puregold Token (PGT)"
+    },
+    "0xd957E08ac5421E2C28510586B57d095E5094836a": {
+      "Token Name": "VorteX Network (VTX)"
+    },
+    "0x265cd209a1ce46ad5a7fc5e51b2831290578996a": {
+      "Token Name": "Beethoven Finance (BTH)"
+    },
+    "0xdf6ef343350780bf8c3410bf062e0c015b1dd671": {
+      "Token Name": "Blackmoon Crypto Token (BMC)"
+    },
+    "0x4544346c22fe54f26407c9b3c3e602e98e02fedd": {
+      "Token Name": "BearBrick Labs (BBL)"
+    },
+    "0xc275865a6cce78398e94cb2af29fa0d787b7f7eb": {
+      "Token Name": "RiseCoin Token (RSCT)"
+    },
+    "0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A": {
+      "Token Name": "YFED.FINANCE (YFED)"
+    },
+    "0x3fa807B6F8d4c407e6E605368F4372d14658b38C": {
+      "Token Name": "Rise Protocol (RISE)"
+    },
+    "0xb83Cd8d39462B761bb0092437d38b37812dd80A2": {
+      "Token Name": "GoldenRatio (GRT)"
+    },
+    "0xf1d1a5306daae314af6c5d027a492b313e07e1a0": {
+      "Token Name": "Envoy (ENV)"
+    },
+    "0x11F4C6B3E8F50c50935c7889EDc56C96F41B5399": {
+      "Token Name": "Synthetic YBDAO (YBREE)"
+    },
+    "0xea004e8FA3701B8E58E41b78D50996e0f7176CbD": {
+      "Token Name": "yffc.finance (YFFC)"
+    },
+    "0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930": {
+      "Token Name": "BIKICOIN TOKEN (BIKI)"
+    },
+    "0x57700244B20f84799a31c6C96DadFF373ca9D6c5": {
+      "Token Name": "TRUST DAO (TRUST)"
+    },
+    "0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222": {
+      "Token Name": "BispexToken (BPX)"
+    },
+    "0xf53c580bc4065405bc649cc077ff4f2f28528f4b": {
+      "Token Name": "Bittwatt (BWT)"
+    },
+    "0x1da015ea4ad2d3e5586e54b9fb0682ca3ca8a17a": {
+      "Token Name": "DragonToken (DT)"
+    },
+    "0x2d98c5e92da2204bc2e9142373ed209a7ca9850a": {
+      "Token Name": "DARK DEFI (DARK)"
+    },
+    "0x4212fea9fec90236ecc51e41e2096b16ceb84555": {
+      "Token Name": "Six Domain Asset (SDA)"
+    },
+    "0xc21dBEE65D62770953035f0434C532d578a666c9": {
+      "Token Name": "CryptoEnergy (CNRG)"
+    },
+    "0x4c10BD19688B906665fBd53415f279F34b44ECE7": {
+      "Token Name": "YUI Token (YUI)"
+    },
+    "0x22f098f08c4eda4be4ad6b4ba59866f3e98cef92": {
+      "Token Name": "Force For Fast Token (FFF)"
+    },
+    "0xf08c68bd5f4194d994fd70726746bf529ee5a617": {
+      "Token Name": "ThoreNext (THX)"
+    },
+    "0x2B78C26973545F9fD7EbDb01922966628382e6Ba": {
+      "Token Name": "yefam.finance (YEFAM)"
+    },
+    "0x567287d4f42086beab4b36de9af21c70adec6760": {
+      "Token Name": "Latino Token (LATINO)"
+    },
+    "0x20bcae16a8ba95d8e8363e265de4ecfc36ec5cd9": {
+      "Token Name": "HEY BITCOIN (HYBN)"
+    },
+    "0x5e7bed6a5c8ef7ab019aaff2a2ecec5f6b40c6b1": {
+      "Token Name": "YucanSwap (YYU)"
+    },
+    "0xc52e23194476b1dd39408cb0b9d935da8e6db3d6": {
+      "Token Name": "Clever (CLVA)"
+    },
+    "0xB351dA6ffEbd5DddD1dA037929FCf334d6B4A8D5": {
+      "Token Name": "Flit Token (FLT)"
+    },
+    "0x7aFaC1D878C66A47263DCe57976C371Ae2e74882": {
+      "Token Name": "YFMOONBEAM (YFMB)"
+    },
+    "0xbce7bd79558dda90b261506768f265c5543a9f90": {
+      "Token Name": "TKNT (TKNT)"
+    },
+    "0x559Efe1d7A54fb1C7f25a036952F8498CdF02EDB": {
+      "Token Name": "DOGG Token (DOGG)"
+    },
+    "0xd67b1Db49801b6F4c96a01a4F7964233150dc58b": {
+      "Token Name": "KaratBank Coin (KBC)"
+    },
+    "0x9De152C32d820EB2E1Df392854d4dF2f4F305530": {
+      "Token Name": "Greyzdorf dollar (USDG)"
+    },
+    "0xEDA6eFE5556e134Ef52f2F858aa1e81c84CDA84b": {
+      "Token Name": "Capital.finance (CAP)"
+    },
+    "0xEA3cB156745a8d281A5fC174186C976F2dD04c2E": {
+      "Token Name": "Nobrainer.Finance (BRAIN)"
+    },
+    "0xBfEC1b4C9398600fe2cbc918d500E494aef3e6F5": {
+      "Token Name": "DopeSwap (DOPE)"
+    },
+    "0x0f767338244418310342d49b02183715691d988f": {
+      "Token Name": "Genesis (GENT)"
+    },
+    "0x3c7b464376db7c9927930cf50eefdea2eff3a66a": {
+      "Token Name": "USDA (USDA)"
     },
     "0x0f1ed66c251bcb52ecf7e67ac64bb72482048adb": {
       "Token Name": "SEER-ERC20-Token (SEER)"
     },
-    "0x3DE7148c41e3B3233f3310E794F68d8E70Ca69AF": {
-      "Token Name": "ShibaLink (SLINK)"
+    "0x688ff43c3c19e4714f0beb76df8ee394207ab411": {
+      "Token Name": "RoboAi Coin R2R (R2R)"
     },
-    "0x0fdC5313333533cC0c00C22792BfF7383d3055F2": {
-      "Token Name": "YFPRO.FINANCE (YFPRO)"
+    "0xfc05205ff402849b081e72ae4f8fc93cbdf40db1": {
+      "Token Name": "Lelouch Lamperouge (Lelouch)"
     },
-    "0x7Ef1081Ecc8b5B5B130656a41d4cE4f89dBBCC8c": {
-      "Token Name": "CP3RToken (CP3R)"
+    "0xb66a2131a6b840dd020151f80723caed603efb51": {
+      "Token Name": "NNB Token (NNB)"
     },
-    "0xB24f135C954b71B75dD413b288835b5a8d4AFa74": {
-      "Token Name": "ZenFinance (ZEN)"
+    "0x393fac0773c765c80dc887451377d553c46f83b1": {
+      "Token Name": "RAKSUR (RAS)"
     },
     "0xa478a13242b64629bff309125770b69f75bd77cb": {
       "Token Name": "Bitcoin SB (BSB)"
     },
-    "0x636484A1C41e88e3FC7C99248ca0B3c3a844aB86": {
-      "Token Name": "Gogeta Inu (GOGETA)"
+    "0x56D1aE30c97288DA4B58BC39F026091778e4E316": {
+      "Token Name": "DAGT Crypto Platform (DAGT)"
     },
-    "0xe7e4279b80d319ede2889855135a22021baf0907": {
-      "Token Name": "ZeusNetwork (ZEUS)"
+    "0x8e8fe3add2ab97dee73636d87d7cff113fd09746": {
+      "Token Name": "Decentralized Privacy (DPC)"
     },
-    "0xa8ebb13b9895e52ab7d815ce7f63591402581624": {
-      "Token Name": "ESCX Token (ESCX)"
+    "0x5b3F693EfD5710106eb2Eac839368364aCB5a70f": {
+      "Token Name": "Relayer (RLR)"
+    },
+    "0x6C8aAd3100e3fa45AAC799c0c302400900b60302": {
+      "Token Name": "YFI CREDITS (YFIC)"
+    },
+    "0xba7b770b54733e78cac22c5bc1bf2c7ba1cb8c9f": {
+      "Token Name": "PullBack Finance (PLBK)"
+    },
+    "0x897Abf83f0C44b86cb67ec56c006c00d56659517": {
+      "Token Name": "Arteon (ARTEON)"
     },
     "0xd32Ed17bC769c7A252A64bd915d6dB8F70Ca5113": {
       "Token Name": "Sasuke Inu (SINU)"
     },
-    "0xf75c5d8ed3f556ca670c06c08079609da6374a10": {
-      "Token Name": "Gladius Finance (GLAD)"
+    "0xff744f2315C9d61d825B581C973576055C3da07E": {
+      "Token Name": "HPLUS (HPLUS)"
     },
-    "0x7a82C573B378CEEa29772aFB93891f0d0afA93b7": {
-      "Token Name": "Wizard (WIZ)"
+    "0x50e5d59b54fd8331fdfc59974a02e421f78b3a58": {
+      "Token Name": "Frozenswap.org (FROZEN)"
+    },
+    "0x3f4cd830543db25254ec0f05eac058d4d6e86166": {
+      "Token Name": "Jindoge (JINDOGE)"
+    },
+    "0x4a73e60adbb8575500ffc6aaea6128954011c8af": {
+      "Token Name": "Doch (DCH)"
+    },
+    "0x14Be9Bde94102E13971E8f98ACEcaC823CB7fD30": {
+      "Token Name": "YearnFinanceConnect (YFIC)"
+    },
+    "0x031e0c6a7c91df1bc171d33cccc6988fd2ddeb6f": {
+      "Token Name": "TopCoinFX (TCFX)"
+    },
+    "0xc1fa06e8596c3fa98ccd2113c38b6b60b6efa00d": {
+      "Token Name": "Erotica (EROTICA)"
+    },
+    "0x3108ccFd96816F9E663baA0E8c5951D229E8C6da": {
+      "Token Name": "DarkToken (DARK)"
+    },
+    "0xD82BB924a1707950903e2C0a619824024e254cD1": {
+      "Token Name": "DAOfi (DAOfi)"
+    },
+    "0xaeF4F02E31CdbF007f8D98da4aE365188A0E9eCC": {
+      "Token Name": "The Famous Token (TFT)"
+    },
+    "0x15a664416e42766a6cc0a1221d9c088548a6e731": {
+      "Token Name": "WEBN (WEBN)"
+    },
+    "0xa5522d6137ece774e8084bbf9c34398192ccdca5": {
+      "Token Name": "CYN-COIN (CYNC)"
+    },
+    "0x0E1fe60bc4aC0e3102343752ae7E49d01d444c0b": {
+      "Token Name": "Havens Nook (HXN)"
+    },
+    "0xA0471cdd5c0dc2614535fD7505b17A651a8F0DAB": {
+      "Token Name": "EasySwap (ESWA)"
+    },
+    "0x054bD236b42385c938357112F419dC5943687886": {
+      "Token Name": "HeavensGate (HATE)"
+    },
+    "0x108D27F9c4b2A98C025c94c76Ca78c6Ce6C7A4eB": {
+      "Token Name": "MetaPrediction (METP)"
+    },
+    "0x96c30d5499ef6ea96a9c221bc18bc39d29c97f27": {
+      "Token Name": "Thar token (Thar)"
+    },
+    "0x4893A1938dF49f4178c37E4E965CC8A1B3882173": {
+      "Token Name": "Baroin (BRI)"
+    },
+    "0xcf58b4e4863c0d085bd1c65b3f2932e261547fab": {
+      "Token Name": "Lorde Edge (EDGELON)"
+    },
+    "0x43ae53b8c920c6c69f4abf393fcb68a6dd4cbab4": {
+      "Token Name": "RiveMont (RVMT)"
+    },
+    "0x2B04DaDD412f7281d3CCabfb8425FD9c9E841588": {
+      "Token Name": "BITTUP (BTU)"
+    },
+    "0xd18A8abED9274eDBEace4B12D86A8633283435Da": {
+      "Token Name": "UnoSwap (UNOS)"
+    },
+    "0x780116d91e5592e58a3b3c76a351571b39abcec6": {
+      "Token Name": "Boxx (BOXX)"
+    },
+    "0xda5180086461ff6eeb09580181ac160522dcdcd4": {
+      "Token Name": "BraziliexToken (BRZX)"
+    },
+    "0x6971fD17a3f82a7b9C957C82c6F4a5C8723Ba6C9": {
+      "Token Name": "fecore.finance (FECORE)"
+    },
+    "0xcbA6f10d1147B2c5a3D8d8cBd93C373B31c6C2C8": {
+      "Token Name": "VuePay Token (VUP)"
+    },
+    "0x3d9da8fe44ccf682bb1bd974bb664bef099ef813": {
+      "Token Name": "BMBCoin (BMB)"
+    },
+    "0x6febdfc0a9d9502c45343fce0df08828def44795": {
+      "Token Name": "3X Short BNB Token (BNBBEAR)"
+    },
+    "0x38f7cd43662d1cff4cc3c2c4b749f7cfed1d1db3": {
+      "Token Name": "Neeva (NVA)"
+    },
+    "0x7Ef1081Ecc8b5B5B130656a41d4cE4f89dBBCC8c": {
+      "Token Name": "CP3RToken (CP3R)"
+    },
+    "0xc58467b855401ef3ff8fda9216f236e29f0d6277": {
+      "Token Name": "Gasgains (GASG)"
+    },
+    "0x171d750d42d661b62c277a6b486adb82348c3eca": {
+      "Token Name": "Omnitude (ECOM)"
+    },
+    "0x31bfde4d0fbf3fa89b230d370e3b206e67ef8b15": {
+      "Token Name": "DIGINU (DIGINU)"
+    },
+    "0x40e45890dff79e7d533797d964e64a2c0121f49a": {
+      "Token Name": "Smart Trade Coin (TRADE)"
+    },
+    "0x4636893ca179f1b3e7fd2ad3f2717b98ec061d83": {
+      "Token Name": "yxy.finance (YxY)"
+    },
+    "0x1cc0744c5106bb47a61c4e41f517cb6f1c49b547": {
+      "Token Name": "Chalice Finance (CHAL)"
+    },
+    "0xa883E72c12473DeD50A5FbfFA60E4000fa5FE3C8": {
+      "Token Name": "LOAD (LOAD)"
+    },
+    "0x8e12bd795d2608f90440c84dddd2d985240696d5": {
+      "Token Name": "ISALCOIN (ISAL)"
+    },
+    "0x21654674a56acd8b213ea44829172d1c877e21a0": {
+      "Token Name": "Pomer Token (PMR)"
+    },
+    "0x3f344c88d823f180fb8b44a3c7cfc4edc92dfa35": {
+      "Token Name": "Dswap Token (Dswap)"
+    },
+    "0xca96dcc988ec155a30eb78f45fccb968e2ebf5fd": {
+      "Token Name": "Ghostface Shiba (GFSHIB)"
+    },
+    "0x281f5b914b0d589f8193cd5e711c6920874e00c8": {
+      "Token Name": "Mobilum Token (MBM)"
+    },
+    "0xEf327568556310d344c49FB7cE6CBFE7b2bB83e6": {
+      "Token Name": "YFA finance (YFA)"
+    },
+    "0xdef1fac7bf08f173d286bbbdcbeeade695129840": {
+      "Token Name": "Cerby Token (CERBY)"
+    },
+    "0x74c287ad5328daca276c6a1c1f149415b12c148d": {
+      "Token Name": "Pazzy (PAZZY)"
+    },
+    "0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a": {
+      "Token Name": "Level01 Token (LVX)"
+    },
+    "0x26c5331a8AAEDe3d3Af276fD61329163a55ECbCa": {
+      "Token Name": "ABYSS (ABY*)"
+    },
+    "0x084da5a9c0e3f086532b98d8568432349b89d9df": {
+      "Token Name": "FUUPAY (FPT)"
+    },
+    "0x64db5e5280421789af5c253a5ab260278ffd40ed": {
+      "Token Name": "Diffract Finance (DFR)"
+    },
+    "0x24f529fd94a63E1Fdf25D77C949f05ac6Bf1B818": {
+      "Token Name": "FIB (FIB)"
+    },
+    "0x61f33Da40594cEc1E3Dc900FaF99F861D01e2e7D": {
+      "Token Name": "Cybereits Token (CRE)"
+    },
+    "0xDD436a0Dce9244B36599AE7b22f0373b4e33992d": {
+      "Token Name": "TrustUSD (TRUSD)"
+    },
+    "0xaD2aa3C57570AD9811bA8Ee90316f9C73F78035A": {
+      "Token Name": "Casino Land Network (CLN)"
+    },
+    "0xe3f3869dDD41C23Eff3630F58E5bFA584C770D67": {
+      "Token Name": "Lock3r (LK3R)"
+    },
+    "0xAEA5E11E22E447fA9837738A0cd2848857748ADF": {
+      "Token Name": "SocialFinance (SOFI)"
+    },
+    "0xa5f8fc0921880cb7342368bd128eb8050442b1a1": {
+      "Token Name": "Block Array (ARY)"
+    },
+    "0xce1298ef635326d9f197963e49e1e67422761897": {
+      "Token Name": "PiSwap Token (PIS)"
+    },
+    "0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9": {
+      "Token Name": "More Gold Coin (MGC)"
+    },
+    "0xe09394f8ba642430ed448ca20f342ec7aa1ba2e1": {
+      "Token Name": "FESS (FESS)"
+    },
+    "0x355376d6471e09a4ffca8790f50da625630c5270": {
+      "Token Name": "libartysharetoken (LST)"
+    },
+    "0x47eB79217f42f92dbd741ADd1B1a6783A2c873cf": {
+      "Token Name": "Bast (bast)"
+    },
+    "0x0CC4F8735DAE4b1aB7682cb05AEb19115e693E98": {
+      "Token Name": "cowfarm.finance (COW)"
+    },
+    "0x38a94e92a19e970c144ded0b2dd47278ca11cc1f": {
+      "Token Name": "Falcon 9 (F9)"
+    },
+    "0xaB456bDb0A373BBaC6C4A76176E9f159cAcD5752": {
+      "Token Name": "SOCIETY OF GALACTIC EXPLORATION (SGE)"
+    },
+    "0xc09d3DbD8F1C5F70F5a624935dFF180AF6FB51C7": {
+      "Token Name": "Sloth Finance (Sloth)"
+    },
+    "0xa8ebb13b9895e52ab7d815ce7f63591402581624": {
+      "Token Name": "ESCX Token (ESCX)"
+    },
+    "0x1d464ac5e046e5fe280c9588edf8eb681b07008f": {
+      "Token Name": "GMB (GMB)"
+    },
+    "0x5c62da804298d5972a323c80b539b8e7517a0dde": {
+      "Token Name": "VENJOCOIN (VJC)"
+    },
+    "0x3f5be50e4651ee184109a0b1b71d344d12e8b603": {
+      "Token Name": "RFYIELD.FINANCE (RFY)"
+    },
+    "0xbc6819294c554f46bee6f5eb5260089a03e270a2": {
+      "Token Name": "DEFLA (DEFLA)"
+    },
+    "0x500d15aA5b01E7eb77e4D4C8283Df3E6c49Da754": {
+      "Token Name": "Hashthereum (HETH)"
+    },
+    "0x30ac8317dfb0ab4263cd8db1c4f10749911b126c": {
+      "Token Name": "AxeDAO (AXE)"
+    },
+    "0x1a0f2ab46ec630f9fd638029027b552afa64b94c": {
+      "Token Name": "Aston X (ATX)"
+    },
+    "0x0209ce3516587cc4a22b54c024b2ee724c117036": {
+      "Token Name": "miniCORE (miniCORE)"
+    },
+    "0x5c5413BaD5f6FdB0f4fcD1457e46eAd8e01D73d3": {
+      "Token Name": "UAHPAY (UAH)"
+    },
+    "0x244c5276ea5bb927575417156038d7381b44ab2c": {
+      "Token Name": "Bridge Finance Token (BFR)"
+    },
+    "0xF49f43c1E8b0c8aC13E63ec7921692a199029d49": {
+      "Token Name": "Coldbank (COLD)"
+    },
+    "0xfC64C0adF4a08008E3fA2bf9c03540032B1C8288": {
+      "Token Name": "g9tro Crowdfunding Platform (g9tro)"
+    },
+    "0x7d529a5b3c41126760a0fa3c1a9652d8a7a07793": {
+      "Token Name": "Narwhale (NAWA)"
+    },
+    "0x3004cf8b4e28d60f4e305df25a57cd5faf37b8d5": {
+      "Token Name": "BSYS (BSYS)"
+    },
+    "0xC8cf9b8CCFb4c53C052427E98669ff28B6f7e301": {
+      "Token Name": "SUPER MARIO (MARIO)"
+    },
+    "0x21cD6Af01383651ed10554394C0497f9dB5e5dbC": {
+      "Token Name": "CryptoPing (PING)"
+    },
+    "0xbce67604c08c4839980c32485657f63211c73e14": {
+      "Token Name": "DIPEX (DPX)"
+    },
+    "0xee98A5c3FD8c9063C5D8777758d3901a88df957b": {
+      "Token Name": "ZEB Token (ZEB)"
+    },
+    "0x2029017f38128bfefaa6c7b9cdd1b680ce8e5c03": {
+      "Token Name": "Candy (CAD)"
+    },
+    "0x006699d34AA3013605d468d2755A2Fe59A16B12B": {
+      "Token Name": "Zild Finance Coin (Zild)"
+    },
+    "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad": {
+      "Token Name": "CreedToken (CREED)"
+    },
+    "0x82b89e0F9C0695639EB88659D0c306dBC242AF96": {
+      "Token Name": "BoomBaby.io (BoomB)"
+    },
+    "0xc24b2dbd1fe3efaa503947650cb4a569e79bb6bb": {
+      "Token Name": "Fish (FISH)"
+    },
+    "0x917FD2f7378FF479419dCB56C5cbB445fBbF902A": {
+      "Token Name": "COINWAYCOIN (CAN)"
+    },
+    "0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4": {
+      "Token Name": "Sergey Save Link (SSL)"
+    },
+    "0x57b3140f522a3ef2f98c046f78e0d03075908591": {
+      "Token Name": "ePlatinum (ePLAT)"
+    },
+    "0xde544e54a330abd1ea8a0e6693d46bfe95d9a684": {
+      "Token Name": "Niftymoji (MOJI)"
+    },
+    "0xdF3A0a958F5a599Aa8f3071AA6488C22416EFB89": {
+      "Token Name": "ATTN (ATTN)"
+    },
+    "0xb0dfd28d3cf7a5897c694904ace292539242f858": {
+      "Token Name": "Lotto (LOTTO)"
+    },
+    "0x790BaF0C914898C62163A61F150637D4bd180697": {
+      "Token Name": "NIRVANA (VANA)"
+    },
+    "0x5fbdb42bb048c685c990a37f2c87fe087c586655": {
+      "Token Name": "XENON (XEN)"
+    },
+    "0xB9782532FA7062A6F73df1CE71d75c0E16046ebC": {
+      "Token Name": "YFI Paprika (YFIP)"
+    },
+    "0x93065b5c7eb63333b8e57a73012d25f687895785": {
+      "Token Name": "ColletrixToken (CIPX)"
     },
     "0xadeee1bcb63f3477c45400249e78bc4f565a59e0": {
       "Token Name": "RIFT Token (RIFT)"
     },
-    "0x38a94e92a19e970c144ded0b2dd47278ca11cc1f": {
-      "Token Name": "Falcon 9 (F9)"
+    "0x511232281BCD64d15b08C7f78825C45968caDbbf": {
+      "Token Name": "Tritecoin (TRT)"
+    },
+    "0x7206579D60e985928098Ea8fF8773C66788A9cdc": {
+      "Token Name": "$UNIMEME ($UNIMEME)"
+    },
+    "0x1FC05d480B1eF1175a31123bFDBd36BfEE256889": {
+      "Token Name": "noob.finance ($NOOB)"
+    },
+    "0x06b179e292f080871825bed5d722162fd96b4c95": {
+      "Token Name": "10x.gg (XGG)"
+    },
+    "0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16": {
+      "Token Name": "Zilla (ZLA)"
+    },
+    "0x5f8A35021F1C9BE802000Ca141d7EeeE577Df7FD": {
+      "Token Name": "Farm House Finance (FHSE)"
+    },
+    "0xe17e41ACD4caa3CeC048837bfd1918b3c4141767": {
+      "Token Name": "ACE Entertainment Token (ACE)"
+    },
+    "0xd2727e4259BBa31955FD582986334AEA4fBA8C52": {
+      "Token Name": "BLOOD (BLOOD)"
+    },
+    "0x708aA4e8AaeAaD6074dD09cc4e5C52A70452eB39": {
+      "Token Name": "Bitcoffeen (BFF)"
+    },
+    "0xeE3b9B531F4C564c70e14B7b3BB7D516f33513ff": {
+      "Token Name": "DeFi Omega (DFIO)"
+    },
+    "0x7777770f8A6632ff043c8833310e245EBa9209E6": {
+      "Token Name": "Tokens of Babel, Price is God (TOB)"
+    },
+    "0xc162e46e891Da3e7A2AC2F3dF2A305C9ae938d4f": {
+      "Token Name": "yfChain (YFC)"
+    },
+    "0xa00425d3e2d3e9ff74f3e112b4d3a7978d7d88c2": {
+      "Token Name": "GoPower Token (GPT)"
+    },
+    "0x15bCDFAd12498DE8a922E62442Ae4CC4bd33bd25": {
+      "Token Name": "Walletreum (WALT)"
+    },
+    "0x975769557510167d25BEed6E32806537173E292C": {
+      "Token Name": "Derivex (DVX)"
+    },
+    "0xc27c95350ecd634c80df89db0f10cd5c24b7b11f": {
+      "Token Name": "PixieCoin (PXC)"
+    },
+    "0xEED736b2b809550D89A941C2005dE93588c628e2": {
+      "Token Name": "ETHPlus (ETHP)"
+    },
+    "0x1Efb2286BF89F01488C6B2a22B2556C0f45e972b": {
+      "Token Name": "Moon YFI (MYFI)"
+    },
+    "0x55986C1dcbf2fA1f3402C5Df256272621624821f": {
+      "Token Name": "Bank BTC | https://bankbtc.app (BANKBTC)"
+    },
+    "0x015df42d36Bc851c7F15f80bd1D4e8dBF02aed0c": {
+      "Token Name": "connect coin (XCON)"
+    },
+    "0xfb40e79e56cc7d406707b66c4fd175e07eb2ae3c": {
+      "Token Name": "ROTTSCHILD.com (ROTTS)"
+    },
+    "0x29a5c1db7321c5c9eae57f9366ee8eef00ca11fb": {
+      "Token Name": "SHKOOBY INU (SHKOOBY)"
+    },
+    "0x36d10c6800d569bb8c4fe284a05ffe3b752f972c": {
+      "Token Name": "We Show Token (WET)"
+    },
+    "0x4D4186dBF3a098b170D6C72bad47E2C68E3Bc58e": {
+      "Token Name": "Parm Token (PARM)"
+    },
+    "0x68e0a48d3bff6633a31d1d100b70f93c3859218b": {
+      "Token Name": "Blaze DeFi (BNFI)"
+    },
+    "0x79BA92DDA26FcE15e1e9af47D5cFdFD2A093E000": {
+      "Token Name": "SERGS (SERGS)"
+    },
+    "0x52d904eff2605463c2f0b338d34abc9b7c3e3b08": {
+      "Token Name": "Bitpower (BPP)"
+    },
+    "0x5e4abe6419650ca839ce5bb7db422b881a6064bb": {
+      "Token Name": "Wi Coin (WiC)"
+    },
+    "0xc4d4ac5b05fd942382147dd853b3b856ffb646a6": {
+      "Token Name": "Dasis Bond (DAIB)"
+    },
+    "0xA2605E8679d399bb98fA8C2F0b4Ef6D04f3E5c1A": {
+      "Token Name": "YFBinance (YFBI)"
+    },
+    "0x95c9bd1f81cee7391da3eac81693e60f3292c1e0": {
+      "Token Name": "LinfinityCoin (LFC)"
+    },
+    "0xbdbb0ee6144544ec814d417b0ad41f16fc8b858e": {
+      "Token Name": "BitKAM (KAM)"
+    },
+    "0x1F9F9bC358dDC30763e81A0081B86A638E6277aB": {
+      "Token Name": "CryptoNote Index Fund Token (CNIF)"
+    },
+    "0x54b8c98268dA0055971652A95F2bfD3a9349A38c": {
+      "Token Name": "Printer.Finance (PRINT)"
+    },
+    "0x361887c1d1b73557018c47c8001711168128cf69": {
+      "Token Name": "Firdaos (FDO)"
+    },
+    "0x4eecbf6534d10957e53f4bfe1ae10df2021c1684": {
+      "Token Name": "IotaGold (IOTAG)"
+    },
+    "0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e": {
+      "Token Name": "Divert finance (DEVE)"
+    },
+    "0x3539a4f4c0dffc813b75944821e380c9209d3446": {
+      "Token Name": "GCB (GCB)"
+    },
+    "0xEAE0b10B2cc955563ff99374c2Beb726aC4407CE": {
+      "Token Name": "Cthulhu Coin (CTHU)"
+    },
+    "0xdB11F6Fc8E16c02719e9c2Eb3c4C762feE8F5C5b": {
+      "Token Name": "Nydronia (NIA)"
+    },
+    "0x2ba6b1e4424e19816382d15937739959f7da5fd8": {
+      "Token Name": "MEX (MEX)"
+    },
+    "0x5cf501e64786444e025c5b24025f98399538ea5d": {
+      "Token Name": "GalaxyPoolCion (GPO)"
+    },
+    "0x5abfd418adb35e89c68313574eb16bdffc15e607": {
+      "Token Name": "TimviToken (TMV)"
+    },
+    "0xa81B07da1A6d60a53De91bEbfac2b9367840b8FD": {
+      "Token Name": "EMJAC (MKK)"
+    },
+    "0xa2688932bAd3C10FF3354e65790FE1081E5f2bF2": {
+      "Token Name": "yearnfamily.finance (YFF)"
+    },
+    "0xE95e4440493E5b96e79D63E8Dc43AB676Dd44E4C": {
+      "Token Name": "AntiSeal (ANTISEAL)"
+    },
+    "0xe9f3cb0229eb8d0aaf03ec84883950134ed20ddc": {
+      "Token Name": "SLT (SLT)"
+    },
+    "0x5D762F76b9E91F71cc4F94391BDFe6333dB8519c": {
+      "Token Name": "IYF.finance (IYF)"
+    },
+    "0xc047C42554c6495c85108aE8ee66fA4E3B88176d": {
+      "Token Name": "Mcn Token (MCN)"
+    },
+    "0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90": {
+      "Token Name": "LOCK Token (LOCK)"
+    },
+    "0x884e3902c4d5cfa86de4ace7a96aa91ebc25c0ff": {
+      "Token Name": "Jbox (JBX)"
+    },
+    "0x72976fad0bd181dbca9d40dee2145e53de2c382e": {
+      "Token Name": "AZLOCK DAO (AZLDO)"
+    },
+    "0x168e39f96a653ce0a456560687241b0b2936e5ff": {
+      "Token Name": "2based.finance (2BASED)"
+    },
+    "0x4f56221252d117f35E2f6Ab937A3F77CAd38934D": {
+      "Token Name": "CryptoCricketClub (3Cs)"
+    },
+    "0x4AFAdB32b8fdB334cF9f20AFb476A06c1F5b111A": {
+      "Token Name": "TLS Token (TLS)"
+    },
+    "0x3521c85c3000bff57eac04489eb05bbd3193a531": {
+      "Token Name": "METAWHALE BTC (mwBTC)"
+    },
+    "0x7c9D8Fb3bDe3D9Ea6e89170618C2dC3d16695D36": {
+      "Token Name": "WhiteRockCasino (WRC)"
+    },
+    "0x93eCD2ecDFb91aB2fEe28A8779A6adfe2851cda6": {
+      "Token Name": "LoanBurst (LBurst)"
+    },
+    "0x5C406D99E04B8494dc253FCc52943Ef82bcA7D75": {
+      "Token Name": "cUSD Currency (cUSD)"
+    },
+    "0x2731d151CBDf84A8A4C6d9D0BaE74012Db51E428": {
+      "Token Name": "IFToken (IFT)"
+    },
+    "0x90D702f071d2af33032943137AD0aB4280705817": {
+      "Token Name": "yffs.finance (YFFS)"
+    },
+    "0x88665a7556e1b3c939d6661248116886845249a8": {
+      "Token Name": "LinkFlow (LF)"
+    },
+    "0xaF183350bDF8082B486CEE23fBfcCa6eA3258DAC": {
+      "Token Name": "Defi Firefly (DFF)"
+    },
+    "0xa0bb0027c28ade4ac628b7f81e7b93ec71b4e020": {
+      "Token Name": "Rug Proof Token (RPT)"
+    },
+    "0x4086692D53262b2Be0b13909D804F0491FF6Ec3e": {
+      "Token Name": "Yield Farming Known as Ash (YFKA)"
+    },
+    "0x3e3CdA3218212503883C79F6D2FeEF29E6Bbb87d": {
+      "Token Name": "GpyxToken (GPYX)"
+    },
+    "0xa5a2Af22EAc6f050227d844B108c2B2A011FD329": {
+      "Token Name": "Tunnel (TNI)"
+    },
+    "0xa918897bd10d6DeE614470C24a061b78b021B3a9": {
+      "Token Name": "UCoin (UCoin)"
+    },
+    "0xc851a9B5808c46Ee93A360F1B33F7409eeE5Df9f": {
+      "Token Name": "Nausicaa-Inu (NAUSICAA)"
+    },
+    "0xebf56b58be8339a827f9e9bed5feae3a6c63a562": {
+      "Token Name": "Pikachu Inu (PIKACHU)"
+    },
+    "0x079DE196d5e8BabcA45f7d621Fe0127f4Dc753d9": {
+      "Token Name": "Rotex (RTX)"
+    },
+    "0xe8b251822d003a2b2466ee0e38391c2db2048739": {
+      "Token Name": "rbase.finance (RBASE)"
+    },
+    "0x636484A1C41e88e3FC7C99248ca0B3c3a844aB86": {
+      "Token Name": "Gogeta Inu (GOGETA)"
+    },
+    "0x089a502032166e07ae83eb434c16790ca2fa4661": {
+      "Token Name": "Cure Farm (CURE)"
+    },
+    "0xca694eb79ef355ea0999485d211e68f39ae98493": {
+      "Token Name": "Traceability Chain Coin (TAC)"
+    },
+    "0x20B4B41DDaECD180798bd4322BA971FA1A54e512": {
+      "Token Name": "DHD Coin (DHD)"
+    },
+    "0x40E7705254494a7E61D5b7c86da50225DDc3DaAE": {
+      "Token Name": "yplutus.finance (yPLT)"
+    },
+    "0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f": {
+      "Token Name": "BlockMesh (MESH)"
+    },
+    "0xed196d746493bc855f95ce5346c0161f68db874b": {
+      "Token Name": "SHIKOKU INU (SHIK)"
+    },
+    "0x3DE7148c41e3B3233f3310E794F68d8E70Ca69AF": {
+      "Token Name": "ShibaLink (SLINK)"
+    },
+    "0x3a5051566b2241285be871f650c445a88a970edd": {
+      "Token Name": "The Humanoids (HMNDS)"
+    },
+    "0x40b92fCE37CEfA03baf7603e7913C1d34dD1a4EC": {
+      "Token Name": "YeaFinance (YEA)"
+    },
+    "0x5645A66AA7594E0b5ca69c37323f1Aa8a1BaF37c": {
+      "Token Name": "Exodia Inu (EXODIA)"
+    },
+    "0xab55bdef7057b76482914e79f037999f4ebb6bf1": {
+      "Token Name": "Healing Plus (HP)"
+    },
+    "0x47A60748de6dbd8Dce3991adc5751cE0f32279dC": {
+      "Token Name": "ClbrToken (CLBR)"
+    },
+    "0x06e04bbfa6a53c57ebfc17e1aeed8e2686640ecd": {
+      "Token Name": "BabyCatGirl (BBYCAT)"
+    },
+    "0xF989E16233ad1aD0F2aF739547eF92745341F52B": {
+      "Token Name": "Coin Fella Token (CFT)"
+    },
+    "0xba5160ba66b286f1b9b6f3a57a6abcfa440e7aa2": {
+      "Token Name": "HUB Coin (HUB)"
+    },
+    "0x288F9a192207bC59230204655b12CCd83cEb74Dc": {
+      "Token Name": "Unissou (YTG)"
+    },
+    "0x33c2DA7Fd5B125E629B3950f3c38d7f721D7B30D": {
+      "Token Name": "Seal Finance (Seal)"
+    },
+    "0x0bead9a1bcc1b84d06e3f2df67e3549fd55ab054": {
+      "Token Name": "EURxb (EURxb)"
+    },
+    "0x46760d2bf2f4dd5405646d9b2ce7b723efe74a48": {
+      "Token Name": "Penny For Bit (PFB)"
+    },
+    "0xfa4cce6d38047abfe5cd07b76e3858bf54e7f1dc": {
+      "Token Name": "CryptoHeroes (HEROES)"
+    },
+    "0xf75c5d8ed3f556ca670c06c08079609da6374a10": {
+      "Token Name": "Gladius Finance (GLAD)"
+    },
+    "0x9388f54fa978aa9e24395a8b69033304eccea4df": {
+      "Token Name": "Bitscoin (BTCX)"
+    },
+    "0x82866b4A71BA9d930Fe338C386B6A45a7133eb36": {
+      "Token Name": "QCORE.FINANCE (QCORE)"
+    },
+    "0x270371c58d9d775ed73971dd414656107384f235": {
+      "Token Name": "BTAP (BTAP)"
+    },
+    "0x6c4522f0035bed2180b40f4c5d9dbaab64b41325": {
+      "Token Name": "Passport Finance (PASS)"
+    },
+    "0x43afc9058a3DeBF37eaDf99138e449cE8a480A8a": {
+      "Token Name": "STAMP (STAMP)"
+    },
+    "0x4d75d9e37667a2d4677ec3d74bdd9049326ad8d6": {
+      "Token Name": "NFT WARS (WAR)"
+    },
+    "0x9bbc9286cdf6eefebf21df19bac71c6bdd7759d4": {
+      "Token Name": "QBEE (QBZ)"
+    },
+    "0xae8f1356ec073accdd4bf5914d37a44dfd954a0d": {
+      "Token Name": "BioToken (BIO)"
+    },
+    "0x61bc1F530AC6193D73aF1e1A6A14CB44b9C3f915": {
+      "Token Name": "Pajama.Finance (PJM)"
+    },
+    "0xE70b94C2320fB0289Db0Cac0cCBD60dd8F51ff89": {
+      "Token Name": "Rezerve (RZRV)"
+    },
+    "0x212fa406fd28663ee6110d863a18e80960300e5c": {
+      "Token Name": "Astra Network Token (ANX)"
+    },
+    "0xdb69c3f8977f78952303987e87153c1988cf65a9": {
+      "Token Name": "PUGLIFE (PUGL)"
+    },
+    "0x324af2d5353f2dd138e234b359d30d67c64b1b20": {
+      "Token Name": "Oracle System (ORC)"
+    },
+    "0x170cb9d7f4c6c42bcf0bc9c5252d10df9400c362": {
+      "Token Name": "Hancom Token (HCT)"
+    },
+    "0xb393cd041afc1aca4c380c663793fe2c7b8a0212": {
+      "Token Name": "NanTrade (NAN)"
+    },
+    "0x33c23d44679433A88B89ca38D3311A9a3D160699": {
+      "Token Name": "RainbowToken (RAINBOW)"
+    },
+    "0x1F6DEADcb526c4710Cf941872b86dcdfBbBD9211": {
+      "Token Name": "Ruletka (RTK)"
+    },
+    "0x3A1c1d1c06bE03cDDC4d3332F7C20e1B37c97CE9": {
+      "Token Name": "Vybe (VYBE)"
+    },
+    "0x59a63e3bc9bc1ce9abfd7b928d13d02d98b818d6": {
+      "Token Name": "Golddoge Sachs (GDS)"
+    },
+    "0x3479b0acf875405d7853f44142fe06470a40f6cc": {
+      "Token Name": "Value USD (vUSD)"
+    },
+    "0xc96c1609a1a45ccc667b2b7fa6508e29617f7b69": {
+      "Token Name": "2GT_token (2GT)"
+    },
+    "0x61b2d3ea9f1c6b387c985c73d40e8fbfb284e5c7": {
+      "Token Name": "RoboCalls (RC20)"
+    },
+    "0xa0afAA285Ce85974c3C881256cB7F225e3A1178a": {
+      "Token Name": "Wrapped CRES (wCRES)"
+    },
+    "0xf0b47eE3D3BDBEf94999b2B8F4b81a52fbE2E3eD": {
+      "Token Name": "TWERK (TWERK)"
+    },
+    "0x7fe4fbad1fee10d6cf8e08198608209a9275944c": {
+      "Token Name": "Infinity Token (IT)"
+    },
+    "0x78a5b382b9a83fe042a4f7eb2399d563fda931c3": {
+      "Token Name": "heizuan token (HZT)"
+    },
+    "0x256845e721C0c46d54E6afBD4FA3B52CB72353EA": {
+      "Token Name": "UniDollar (UNIUSD)"
+    },
+    "0xfbc3c8aad80b5934d134e2cce065702ff254ad7d": {
+      "Token Name": "CHAOEX (CHEX)"
+    },
+    "0x91268abA147D738Fa8665B342EF519e0C4541C07": {
+      "Token Name": "XeriumNetwork (XRU)"
+    },
+    "0x3719c13d28a5adaba97b6c343b1f51e57b6b6e7d": {
+      "Token Name": "Rapid Swap (RAPID)"
+    },
+    "0x43acEDd39Ba4B0bfcCd92897fCe617Fb90a971d8": {
+      "Token Name": "SafeBank (sBANK)"
+    },
+    "0xd51e852630debc24e9e1041a03d80a0107f8ef0c": {
+      "Token Name": "ORIUM (ORM)"
+    },
+    "0x5728e59002939074a10D0819732DcFc0bf6b5610": {
+      "Token Name": "Uniswap X (UNIX)"
+    },
+    "0xc2b58812c24020ea924c3d7c241c441605f12e75": {
+      "Token Name": "Entherfound (ETF)"
+    },
+    "0x0fdC5313333533cC0c00C22792BfF7383d3055F2": {
+      "Token Name": "YFPRO.FINANCE (YFPRO)"
+    },
+    "0xb2ed199b46630e789e8740fb83b1611acf018516": {
+      "Token Name": "GOL D INU (GINU)"
+    },
+    "0xc626c9e2247c8a0c863ad6daa97ed939e12786de": {
+      "Token Name": "Digital Wallet Coin (DWC)"
+    },
+    "0x191baFe4e3888Ec289753c7d592634e3Abe1eE14": {
+      "Token Name": "CoinSWOP (cSWOP)"
+    },
+    "0xef9c8a1b3ce9055266e1ce20b98a4c882f0e5c78": {
+      "Token Name": "ETH3S (ETH3S)"
+    },
+    "0xd6875274b000462f59e9327cbde2cef637914569": {
+      "Token Name": "QUSD (QUSD)"
+    },
+    "0x86B1FC1C0c5D120842d8c86BabADe714E28777c6": {
+      "Token Name": "devil.finance (SOUL)"
+    },
+    "0xc0A25a24CcE412E2Fb407c08E3785437FEE9Ad1d": {
+      "Token Name": "Orient (OFT)"
+    },
+    "0x181c94a45ed257baf2211d4ff7e1f49a5964134a": {
+      "Token Name": "MetaShib Token (METASHIB)"
+    },
+    "0x865bfd8232778f00cae81315bf75ef1fe6e30cdd": {
+      "Token Name": "ABLE X Token (ABLX)"
+    },
+    "0xcd64aa18ddbce84411adbfe6da49354ba5187a45": {
+      "Token Name": "Korbot (KBOT)"
+    },
+    "0x814f67fa286f7572b041d041b1d99b432c9155ee": {
+      "Token Name": "DRAGON (DRG)"
+    },
+    "0x56C64e280ef1262DA370d2c5862Bb61C6Dc3Dbb4": {
+      "Token Name": "Bigcoin (BIG)"
+    },
+    "0xD6d3608F2D770d0A8D0dA62D7AfE21EA1da86d9c": {
+      "Token Name": "AmericanHorror.Finance (AHF)"
+    },
+    "0xA866F0198208Eb07c83081d5136BE7f775c2399e": {
+      "Token Name": "Kore (KORE)"
+    },
+    "0x80bb277f4355a43cdbb86a82f9876c946476d9eb": {
+      "Token Name": "DogDefiCoin (DOGDEFI)"
+    },
+    "0x786448439d9401e0a8427aCf7Ca66A5114eb2368": {
+      "Token Name": "Dipper (Dip)"
+    },
+    "0x7d2ee0a3856cffd58fb0963c0e24bf1277a0be0e": {
+      "Token Name": "Zeno Inu (ZENO)"
+    },
+    "0x6B4b3B0B0130C9b4dDa7c6FB4602BEefBBF10672": {
+      "Token Name": "Pump Farm (PPF)"
+    },
+    "0xB24f135C954b71B75dD413b288835b5a8d4AFa74": {
+      "Token Name": "ZenFinance (ZEN)"
+    },
+    "0x5d56962db8e35197f8e50d76f1f9285a6d7d7619": {
+      "Token Name": "Davion Token (DAVP)"
+    },
+    "0x5592c5aa89492ea918d55b804e177b5ca7dccd5a": {
+      "Token Name": "Wrapped xBTC (wxBTC)"
     }
   }
 }

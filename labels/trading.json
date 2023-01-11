@@ -50,11 +50,11 @@
     "0x4574562E9310a94F9Ca962bd23168d8a06875b1A": {
       "Token Name": "TROY (TROY)"
     },
-    "0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc": {
-      "Token Name": "Tap (XTP)"
-    },
     "0x56d811088235F11C8920698a204A5010a788f4b3": {
       "Token Name": "bZx Protocol Token (BZRX)"
+    },
+    "0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc": {
+      "Token Name": "Tap (XTP)"
     },
     "0xfb7b4564402e5500db5bb6d63ae671302777c75a": {
       "Token Name": "DEXTools (DEXT)"
@@ -95,11 +95,11 @@
     "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6": {
       "Token Name": "QASH (QASH)"
     },
-    "0xf34b1db61aca1a371fe97bad2606c9f534fb9d7d": {
-      "Token Name": "Arbismart Token (RBIS)"
-    },
     "0x3330bfb7332ca23cd071631837dc289b09c33333": {
       "Token Name": "RUBIC TOKEN (RBC)"
+    },
+    "0xf34b1db61aca1a371fe97bad2606c9f534fb9d7d": {
+      "Token Name": "Arbismart Token (RBIS)"
     },
     "0x28b5e12cce51f15594b0b91d5b5adaa70f684a02": {
       "Token Name": "NapoleonX (NPX)"
@@ -197,239 +197,125 @@
     "0x0775c81a273b355e6a5b76e240bf708701f00279": {
       "Token Name": "Bulleon (BUL)"
     },
-    "0xa7fc5d2453e3f68af0cc1b78bcfee94a1b293650": {
-      "Token Name": "Spiking (SPIKE)"
-    },
-    "0xa203eb78fee91c8459c6d4ef3a899d8724ee5b35": {
-      "Token Name": "Mercury Digital Assets (MERC)"
-    },
-    "0xdbDD6F355A37b94e6C7D32fef548e98A280B8Df5": {
-      "Token Name": "UniWhales.io (UWL)"
-    },
-    "0x5e73c83c7c37b4f06ce0818413100d0fdd0e3f69": {
-      "Token Name": "Flash-Fi (FFI)"
+    "0x0aef06dcccc531e581f0440059e6ffcc206039ee": {
+      "Token Name": "Intelligent Trading Foundation (ITT)"
     },
     "0x8b4519ed0d21c10f89dad11ba2ce0641aea211c9": {
       "Token Name": "CryptoCasher (CRR)"
     },
-    "0x23935765cDf2F7548F86042Ff053D16A22C4e240": {
-      "Token Name": "Tradez (TRZ)"
-    },
-    "0xb95ad20769296873b13b0ec59eb3f1fc741c649c": {
-      "Token Name": "GR-Protection (GRB)"
-    },
-    "0x8AF17a6396c8f315f6b6DBC6AA686C85f9b3E554": {
-      "Token Name": "3X Long Tezos Token (XTZBULL)"
-    },
-    "0xb8366948b4a3f07bcbf14eb1739daa42a26b07c4": {
-      "Token Name": "VALOBIT (VBIT)"
-    },
-    "0xa9cb61189803659553b5d025dce93fb43814c917": {
-      "Token Name": "Tradelize (TDZ)"
-    },
-    "0xFAc3f6391C86004289A186Ae0198180fCB4D49Ab": {
-      "Token Name": "Alpha Impact (IMPACT)"
-    },
-    "0x043c308bb8a5ae96d0093444be7f56459f1340b1": {
-      "Token Name": "SUM (SUM)"
-    },
-    "0xac3da587eac229c9896d919abc235ca4fd7f72c1": {
-      "Token Name": "Target Coin (TGT)"
-    },
-    "0x98af2e926206f1eb5af46aeddd144727267d0487": {
-      "Token Name": "QIQ (QIQ)"
-    },
-    "0x0128E4FcCf5EF86b030b28f0a8A029A3c5397a94": {
-      "Token Name": "FlashSwap (FSP)"
-    },
-    "0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC": {
-      "Token Name": "COINBIG (CB)"
-    },
-    "0xab2a7b5876d707e0126b3a75ef7781c77c8877ee": {
-      "Token Name": "Quadency Token (QUAD)"
-    },
-    "0x842c2b97772b4528589ed243f6bda3381ef0261f": {
-      "Token Name": "DGLCOIN (DGL)"
-    },
-    "0xbc41d05287498DEc58129560De6bd1b8d4E3aC1d": {
-      "Token Name": "3X Short Tezos Token (XTZBEAR)"
-    },
-    "0xe386b139ed3715ca4b18fd52671bdcea1cdfe4b1": {
-      "Token Name": "Zeus Token (ZST)"
-    },
-    "0xaffdbbbdd400bb780dea5307b39187d1e9edc1cc": {
-      "Token Name": "ALPHANU (ANU)"
-    },
-    "0x0aef06dcccc531e581f0440059e6ffcc206039ee": {
-      "Token Name": "Intelligent Trading Foundation (ITT)"
-    },
-    "0xDaD26BCE7dCF59cd03a2455558E4Dd73e1c07B66": {
-      "Token Name": "Trade.win (TWI)"
-    },
-    "0xd8fd31e40423a4cef8e4a488793e87bb5b7d876d": {
-      "Token Name": "followswaps.com (WAPS)"
-    },
-    "0xd77BE186892dE7853fA703Fc1444d96d0098cD2e": {
-      "Token Name": "YFI SPECULATE (YFS)"
-    },
-    "0x946D9eF6f575b1bf1CA52A7A86Bc4FBf37F025Fd": {
-      "Token Name": "Traderly (TRY)"
-    },
-    "0x763F8B4fB067190e739Ed6ACB12F40f2F3890840": {
-      "Token Name": "Digex (DIGEX)"
-    },
-    "0x1ad71F4f5Eba8886B81717C4af15863b2Aaf5c75": {
-      "Token Name": "AMATACRYPTO (ASTO)"
-    },
-    "0xc481a850aead5002598b7ed355cbb3349c148072": {
-      "Token Name": "StarBlock Token (STB)"
-    },
-    "0x003ffefefbc4a6f34a62a3ca7b7937a880065bcb": {
-      "Token Name": "Robot Trading Token (RTD)"
+    "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c": {
+      "Token Name": "Zeedex (ZDEX)"
     },
     "0x825cd4201f8a2bbb1a69668eac4e5fa71283273d": {
       "Token Name": "Zort Coin (ZORT)"
     },
-    "0x1412f6Aa5ADC77C620715BB2a020AA690B85F68A": {
-      "Token Name": "MargiX (MGX)"
-    },
     "0xb24754be79281553dc1adc160ddf5cd9b74361a4": {
       "Token Name": "Rialto (XRL)"
     },
-    "0xf6cbb7b5aeb5fa2609eb104025e2230cbe3c4949": {
-      "Token Name": "Bulltrading (BLT)"
+    "0xc481a850aead5002598b7ed355cbb3349c148072": {
+      "Token Name": "StarBlock Token (STB)"
     },
-    "0xC7743bf0B300Ec041E704Cc34d4f43050942099E": {
-      "Token Name": "CAT.trade (CATX)"
+    "0xB119Ce94D098C18fe380904c24e358bd887F00BE": {
+      "Token Name": "MACH Exchange (MACH)"
     },
-    "0xd18475521245a127a933a4fcaf99e8c45a416f7e": {
-      "Token Name": "Quantfury Data Token (QDT)"
-    },
-    "0x6a4c76874e686a7d080d173987a35a9c48905583": {
-      "Token Name": "Luxurious Pro Network Token (LPNT)"
-    },
-    "0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3": {
-      "Token Name": "Dexmex (DEXM)"
-    },
-    "0x3335f16AF9008bFd32f1eE6C2Be5d4f84FA0b9da": {
-      "Token Name": "3X Long Dragon Index Token (DRGNBULL)"
-    },
-    "0x65F418a54eB932bdB40E617B156F8F8B8182618A": {
-      "Token Name": "Centurion Invest Token (CIX)"
-    },
-    "0x417ffdbc285dd2c4dc00937798ab901634137caa": {
-      "Token Name": "BlackFisk (BLFI)"
-    },
-    "0xcE593a29905951E8Fc579bC092ecA72577dA575c": {
-      "Token Name": "GROM (GR)"
-    },
-    "0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9": {
-      "Token Name": "bZx Protocol Token (BZRX)"
-    },
-    "0x97abee33cd075c58bfdd174e0885e08e8f03556f": {
-      "Token Name": "Sentiment Token (SENT)"
-    },
-    "0x16f812be7fff02caf662b85d5d58a5da6572d4df": {
-      "Token Name": "United Traders Token (UTT)"
-    },
-    "0xc0748cf90e231b8f21f75b7ad69732f19c76b751": {
-      "Token Name": "dotc.pro token (DOTC)"
-    },
-    "0x7a73839bd0e5cded853cb01aa9773f8989381065": {
-      "Token Name": "UpBots Token (UBXN)"
-    },
-    "0xc0ea83113038987d974FE667831a36E442e661E7": {
-      "Token Name": "Libfx (Libfx)"
-    },
-    "0x542ebc8dd94ebe3b2c79b13b641c1b7f3951e0cd": {
-      "Token Name": "MIMIC (MIMIC)"
-    },
-    "0x99bf0dbb066b7c8924a8387956d9e84238c71114": {
-      "Token Name": "Orientalfx Token (OFX)"
-    },
-    "0x88463f61ee2bd09bef84017bff256cd6336fcaed": {
-      "Token Name": "XTEM (XTEM)"
-    },
-    "0x832904863978b94802123106e6eb491bdf0df928": {
-      "Token Name": "OptiToken (OPTI)"
-    },
-    "0x6b3760facdeb7f798cd13c0af2e4cd9ddc085122": {
-      "Token Name": "Oviex.com Token (OVI)"
-    },
-    "0x888888888888f195e27a2e0f98d712952ab9348e": {
-      "Token Name": "IPI Shorter (IPISTR)"
-    },
-    "0xa38920C00D1a5303dB538A3Ea08da7a779e1F751": {
-      "Token Name": "3X Long TomoChain Token (TOMOBULL)"
-    },
-    "0xcFAF8EDCEA94eBAA080DC4983C3f9BE5701D6613": {
-      "Token Name": "Exponential Capital (EXPO)"
-    },
-    "0xe7687af9a94af27989ce2b774bcd867055d248db": {
-      "Token Name": "ARBITRAGE (ARBIT)"
-    },
-    "0xc35aAea6dD561A9976E1745A22F8CC5A762354BB": {
-      "Token Name": "AIVIA TOKEN (AIV)"
-    },
-    "0xf70d160102cf7a22c1e432d6928a9d625db91170": {
-      "Token Name": "KUVERIT (KUV)"
-    },
-    "0xba23485a04b897c957918fde2dabd4867838140b": {
-      "Token Name": "MARKET Protocol Token (MKT)"
-    },
-    "0x6628606c321FaF52b7230A57b26c01B19aA68e82": {
-      "Token Name": "BitHash Token (BT)"
-    },
-    "0x2b5016cea1c425f915e13727f7657025de3208fe": {
-      "Token Name": "Tokemon (TKMN)"
+    "0xa9cb61189803659553b5d025dce93fb43814c917": {
+      "Token Name": "Tradelize (TDZ)"
     },
     "0xdB33d49b5a41A97D296B7242a96ebd8AC77B3Bb8": {
       "Token Name": "CY Finance (CYF)"
     },
-    "0x89c6c856a6db3e46107163d0cda7a7ff211bd655": {
-      "Token Name": "Darico Ecosystem Coin (DEC)"
+    "0xba23485a04b897c957918fde2dabd4867838140b": {
+      "Token Name": "MARKET Protocol Token (MKT)"
     },
-    "0x9792409ae27726d337af30d701ab525372495607": {
-      "Token Name": "DigitalFinancialExch (DIFX)"
+    "0x26ce25148832c04f3d7f26f32478a9fe55197166": {
+      "Token Name": "DEXTools (DEXT)"
     },
-    "0x199D104326605295305D9C8907710D02Ef40f594": {
-      "Token Name": "YF Synergy (YFSG)"
-    },
-    "0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2": {
-      "Token Name": "Trade Butler Bot (TBB)"
-    },
-    "0xc1965d7d18f37062b18ab3d5d1fe7f69873b30dd": {
-      "Token Name": "Coinzo Token (CNZ)"
-    },
-    "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c": {
-      "Token Name": "Zeedex (ZDEX)"
-    },
-    "0x1b9743f556d65e757c4c650b4555baf354cb8bd3": {
-      "Token Name": "EthBits ETBS Token (ETBS)"
-    },
-    "0xfbf84076d95906a6ff5b75c3056007dde8348bf0": {
-      "Token Name": "GR2-Protection (GRB2)"
-    },
-    "0xf68d4d917592f3a62417ace42592f15296cc33a0": {
-      "Token Name": "COINHUB TOKEN (CHB)"
-    },
-    "0xD3c625F54dec647DB8780dBBe0E880eF21BA4329": {
-      "Token Name": "HollaEx (XHT)"
-    },
-    "0x33eef306ebbfa2c610f77533e8c15966be0ec5a1": {
-      "Token Name": "Polyx Token (PLX)"
+    "0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC": {
+      "Token Name": "COINBIG (CB)"
     },
     "0x21cD6Af01383651ed10554394C0497f9dB5e5dbC": {
       "Token Name": "CryptoPing (PING)"
     },
-    "0x37D6E7F287200C740012747d2A79295cAeD2DB35": {
-      "Token Name": "ALP Coin (ALP)"
+    "0xcE593a29905951E8Fc579bC092ecA72577dA575c": {
+      "Token Name": "GROM (GR)"
     },
-    "0x4Fb721eF3Bf99e0f2c193847afA296b9257d3C30": {
-      "Token Name": "TOK (TOK)"
+    "0xcFAF8EDCEA94eBAA080DC4983C3f9BE5701D6613": {
+      "Token Name": "Exponential Capital (EXPO)"
     },
-    "0xbbf2a949b8b0560560f249d7f0fd5ce3a5991447": {
-      "Token Name": "Betra coin (BETRA)"
+    "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
+      "Token Name": "MANDALA EXCHANGE TOKEN (MDX)"
+    },
+    "0xfbf84076d95906a6ff5b75c3056007dde8348bf0": {
+      "Token Name": "GR2-Protection (GRB2)"
+    },
+    "0xbc41d05287498DEc58129560De6bd1b8d4E3aC1d": {
+      "Token Name": "3X Short Tezos Token (XTZBEAR)"
+    },
+    "0x88463f61ee2bd09bef84017bff256cd6336fcaed": {
+      "Token Name": "XTEM (XTEM)"
+    },
+    "0xe7687af9a94af27989ce2b774bcd867055d248db": {
+      "Token Name": "ARBITRAGE (ARBIT)"
+    },
+    "0x417ffdbc285dd2c4dc00937798ab901634137caa": {
+      "Token Name": "BlackFisk (BLFI)"
+    },
+    "0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749": {
+      "Token Name": "Finswap (FNSP)"
+    },
+    "0x99bf0dbb066b7c8924a8387956d9e84238c71114": {
+      "Token Name": "Orientalfx Token (OFX)"
+    },
+    "0x832904863978b94802123106e6eb491bdf0df928": {
+      "Token Name": "OptiToken (OPTI)"
+    },
+    "0x7a73839bd0e5cded853cb01aa9773f8989381065": {
+      "Token Name": "UpBots Token (UBXN)"
+    },
+    "0x003ffefefbc4a6f34a62a3ca7b7937a880065bcb": {
+      "Token Name": "Robot Trading Token (RTD)"
+    },
+    "0xB9cB7905981198ADd8059114B3b7dc7042B52f7b": {
+      "Token Name": "Tamy Token (TMT)"
+    },
+    "0x97abee33cd075c58bfdd174e0885e08e8f03556f": {
+      "Token Name": "Sentiment Token (SENT)"
+    },
+    "0x6E98b093AaDE0B5C9D1cFe3dF5C0A6A16C40Ed18": {
+      "Token Name": "Praem (PRM)"
+    },
+    "0xd18475521245a127a933a4fcaf99e8c45a416f7e": {
+      "Token Name": "Quantfury Data Token (QDT)"
+    },
+    "0x65F418a54eB932bdB40E617B156F8F8B8182618A": {
+      "Token Name": "Centurion Invest Token (CIX)"
+    },
+    "0xe8272210954eA85DE6D2Ae739806Ab593B5d9c51": {
+      "Token Name": "Alpha5Token (A5T)"
+    },
+    "0x6628606c321FaF52b7230A57b26c01B19aA68e82": {
+      "Token Name": "BitHash Token (BT)"
+    },
+    "0x33eef306ebbfa2c610f77533e8c15966be0ec5a1": {
+      "Token Name": "Polyx Token (PLX)"
+    },
+    "0x1a37ab7420c3b9beacdd8329656061c685ffea15": {
+      "Token Name": "MBAS (MBAS)"
+    },
+    "0x1412f6Aa5ADC77C620715BB2a020AA690B85F68A": {
+      "Token Name": "MargiX (MGX)"
+    },
+    "0xf6cbb7b5aeb5fa2609eb104025e2230cbe3c4949": {
+      "Token Name": "Bulltrading (BLT)"
+    },
+    "0x199D104326605295305D9C8907710D02Ef40f594": {
+      "Token Name": "YF Synergy (YFSG)"
+    },
+    "0xf80937687c3f73493ff44acc29cfd0fbd5b139bc": {
+      "Token Name": "QAI Token (QAI)"
+    },
+    "0x3335f16AF9008bFd32f1eE6C2Be5d4f84FA0b9da": {
+      "Token Name": "3X Long Dragon Index Token (DRGNBULL)"
     },
     "0xa0b702cff45c743e3a50eb5373e12419ed8bc95a": {
       "Token Name": "ODIN Platform Token (ODN)"
@@ -437,215 +323,329 @@
     "0xfbe878ced08132bd8396988671b450793c44bc12": {
       "Token Name": "Fox Trading (FOXT)"
     },
-    "0xf6ed276a69270a895d6e419d99dcb5aaa2f3cb4a": {
-      "Token Name": "SAP Token (SAP)"
-    },
-    "0x0e192d382a36de7011f795acc4391cd302003606": {
-      "Token Name": "Futureswap Token (FST)"
-    },
-    "0xc9287623832668432099CEF2FfDEF3CeD14f4315": {
-      "Token Name": "3X Long Tether Gold Token (XAUTBULL)"
-    },
-    "0xB9cB7905981198ADd8059114B3b7dc7042B52f7b": {
-      "Token Name": "Tamy Token (TMT)"
-    },
-    "0x9a03c4d95a8e31e1e11a4319066475cd12b22dee": {
-      "Token Name": "Bithemoth (BHM)"
-    },
-    "0x5166e09628b696285e3a151e84fb977736a83575": {
-      "Token Name": "Volatility Protocol Token (VOL)"
-    },
-    "0x1a37ab7420c3b9beacdd8329656061c685ffea15": {
-      "Token Name": "MBAS (MBAS)"
-    },
-    "0x43b72464a93687dc2f14d5e49086e641d011b890": {
-      "Token Name": "4Bulls (4B)"
-    },
-    "0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f": {
-      "Token Name": "ExenToken (EXEN)"
-    },
-    "0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749": {
-      "Token Name": "Finswap (FNSP)"
-    },
-    "0xf80937687c3f73493ff44acc29cfd0fbd5b139bc": {
-      "Token Name": "QAI Token (QAI)"
-    },
-    "0xd06b25f67a17f12b41f615b34d87ecd716ff55a0": {
-      "Token Name": "3X Long Shitcoin Index Token (BULLSHIT)"
-    },
-    "0xd057b63f5e69cf1b929b356b579cba08d7688048": {
-      "Token Name": "CoW Protocol Virtual Token (vCOW)"
-    },
-    "0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba": {
-      "Token Name": "BarterTrade (BART)"
-    },
-    "0x64391a1f01c49ae731e258b451afe387f6f57df4": {
-      "Token Name": "D'Coin (DCO)"
-    },
-    "0x2457bd98caaf1e2cfcd9fa8262805ef5327ad6f7": {
-      "Token Name": "ARISTO (ARII)"
-    },
-    "0x6059f55751603ead7dc6d280ad83a7b33d837c90": {
-      "Token Name": "Hybrid Block (HYB)"
-    },
-    "0xe8272210954eA85DE6D2Ae739806Ab593B5d9c51": {
-      "Token Name": "Alpha5Token (A5T)"
-    },
-    "0x53352e7d6620cc931c0c9318166ae2a92c1a4666": {
-      "Token Name": "AIM (AIM)"
-    },
-    "0x8fb6c8a44a4e23fd1f5a936818b39083b4cdc865": {
-      "Token Name": "BitOnyx Token (BTNYX)"
-    },
-    "0xbb0a009ba1eb20c5062c790432f080f6597662af": {
-      "Token Name": "BitBot V1 (BBP)"
-    },
-    "0x10e1e953ddba597011f8bfa806ab0cc3415a622b": {
-      "Token Name": "1X Short Ethereum Token (ETHHEDGE)"
-    },
-    "0x28Da24ed20906CDE186D8B4f83412C3AE37a6269": {
-      "Token Name": "HBTC Chain (HBC)"
-    },
-    "0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d": {
-      "Token Name": "Carboneum (C8)"
-    },
-    "0x2fdf40c484b1bd6f1c214acac737fedc8b03e5a8": {
-      "Token Name": "MCS (MCS)"
+    "0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9": {
+      "Token Name": "bZx Protocol Token (BZRX)"
     },
     "0xF24B4a8ef21D7b71c28aD76e06Fa1Bae848400B3": {
       "Token Name": "Cronos Network Token (CRON)"
     },
-    "0x2567c677473d110d75a8360c35309e63b1d52429": {
-      "Token Name": "ShareX (SEXC)"
+    "0x1b9743f556d65e757c4c650b4555baf354cb8bd3": {
+      "Token Name": "EthBits ETBS Token (ETBS)"
     },
-    "0x1e19d4e538b1583613347671965a2fa848271f8a": {
-      "Token Name": "TIJARACOIN (TJX)"
-    },
-    "0x72fbc0fc1446f5accc1b083f0852a7ef70a8ec9f": {
-      "Token Name": "NovaChain (NOVA)"
-    },
-    "0xd829664cdbf3195b2ce76047a65de29e7ed0a9a8": {
-      "Token Name": "3X Long Altcoin Index Token (ALTBULL)"
-    },
-    "0x16594930D16f3970e1a4317c6016555cb2e7b7Fc": {
-      "Token Name": "TokenBot (TKB)"
-    },
-    "0x0d2bb9d68dd4451a09ec94c05e20bd395022bd8e": {
-      "Token Name": "CRYPTOBUCKS (CBUCKS)"
-    },
-    "0xf92364c2369a2633ffcd7db1b18d1fafff6bcbab": {
-      "Token Name": "Babil (BABIL)"
-    },
-    "0x8a187d5285d316bcbc9adafc08b51d70a0d8e000": {
-      "Token Name": "Smart Investment Fund Token (SIFT)"
-    },
-    "0xB119Ce94D098C18fe380904c24e358bd887F00BE": {
-      "Token Name": "MACH Exchange (MACH)"
-    },
-    "0x8d10e4b59db263ef4e7b88fcaacfc9ecb821a962": {
-      "Token Name": "Bittilo (BTLO)"
-    },
-    "0xda19f6959c47fd207746808adb04c79e3b358997": {
-      "Token Name": "Buoystocks (BSBOT)"
-    },
-    "0x9b8c184439245b7bb24a5b2ec51ec81c39589e8a": {
-      "Token Name": "KIMEX (KMX)"
-    },
-    "0x0D5E2681D2AaDC91F7DA4146740180A2190f0c79": {
-      "Token Name": "3X Long Huobi Token Token (HTBULL)"
-    },
-    "0x0263E1DcFCAAaD8fd4e840FE4B22854485a561f0": {
-      "Token Name": "Bitles Token (BTL)"
-    },
-    "0xb2e260f12406c401874ecc960893c0f74cd6afcd": {
-      "Token Name": "BitUP Token (BUT)"
-    },
-    "0x61a0ecd728189d7c8c3554688bc25a05bfe2efb3": {
-      "Token Name": "VNCOIN (VNC)"
-    },
-    "0x197e6bca6bc2f488ec760a6ce46b1399cd2954b0": {
-      "Token Name": "BitCloud Token (BPRO)"
-    },
-    "0x26ce25148832c04f3d7f26f32478a9fe55197166": {
-      "Token Name": "DEXTools (DEXT)"
-    },
-    "0xcDFf112689b75E42F783060BBCB055A935f833Bb": {
-      "Token Name": "Exchase (EXSE)"
-    },
-    "0x1e49ff77c355a3e38d6651ce8404af0e48c5395f": {
-      "Token Name": "ModulTrade Token (MTRc)"
-    },
-    "0x2449224f42ce230c5b67e1d48bdceb224b0f72d7": {
-      "Token Name": "DIVMGroup (DIVM)"
-    },
-    "0xe4707dac5f8a942f98b2181129346ef37d075a69": {
-      "Token Name": "Cryptlo (CLO)"
-    },
-    "0x9720Bcf5a92542D4e286792fc978B63a09731CF0": {
-      "Token Name": "Outside the Box Coin (OTBC)"
-    },
-    "0x947AEb02304391f8fbE5B25D7D98D649b57b1788": {
-      "Token Name": "MANDALA EXCHANGE TOKEN (MDX)"
-    },
-    "0x3afe98235d680e8d7a52e1458a59d60f45f935c0": {
-      "Token Name": "BBGO (BBG)"
-    },
-    "0x4bffd10cf632e6c37214d19fec8c343ed0a7bdc5": {
-      "Token Name": "RaptorXchange Token (RXT)"
-    },
-    "0xb9b78e6d6fe94a3a2a51484ff8dc828f8a92995d": {
-      "Token Name": "MusicY (MY)"
-    },
-    "0xeb15d8268fb67619633e61033e4ede60cd495f0b": {
-      "Token Name": "AlphaToolz Token (ALT)"
-    },
-    "0x31CbF205e26Ba63296FdBD254a6b1bE3ED28CE47": {
-      "Token Name": "3X Short Tether Gold Token (XAUTBEAR)"
-    },
-    "0x5bf844122db21ae6f787ddda9806aa7dd6489998": {
-      "Token Name": "Runex (REX)"
-    },
-    "0xcd8e8ec834c9127a18d8cd5c749a7f2a57355c9a": {
-      "Token Name": "DSS TOKEN (DSS)"
-    },
-    "0x6b1218d1a79b06a811dc54e745c51d8cdf666c1d": {
-      "Token Name": "NERA Token (NERA)"
-    },
-    "0x27c743954bce1bfaef8bcbd685527531001d88d7": {
-      "Token Name": "Blockium Token (BOK)"
-    },
-    "0x6E98b093AaDE0B5C9D1cFe3dF5C0A6A16C40Ed18": {
-      "Token Name": "Praem (PRM)"
-    },
-    "0xa44d9f50b0decb13713fc5f0df44b4eb5fb300ca": {
-      "Token Name": "BitPumps Token (BPT)"
-    },
-    "0x6267873a5a0a1647a8fbb25541605a0815e04d74": {
-      "Token Name": "GDC Coin (GDC)"
-    },
-    "0x9d1a62c2ad99019768b9126fda004a9952853f6e": {
-      "Token Name": "3X Long BNB Token (BNBBULL)"
-    },
-    "0x0A199B98fF450bBc883671382B21BDA3FA44b4Ae": {
-      "Token Name": "Game Ace Token Extended (GATe)"
-    },
-    "0x4de2573e27E648607B50e1Cfff921A33E4A34405": {
-      "Token Name": "Lendroid Support Token (LST)"
+    "0xc1965d7d18f37062b18ab3d5d1fe7f69873b30dd": {
+      "Token Name": "Coinzo Token (CNZ)"
     },
     "0x95027dab6be9769c84a67ca3ddc1446fba91f4b8": {
       "Token Name": "Phoenix (PXCC)"
     },
-    "0x8317b216D7c3F9a5B8401E4b6814D13A7BE390ec": {
-      "Token Name": "EXNCE (XNC)"
+    "0x542ebc8dd94ebe3b2c79b13b641c1b7f3951e0cd": {
+      "Token Name": "MIMIC (MIMIC)"
+    },
+    "0x28Da24ed20906CDE186D8B4f83412C3AE37a6269": {
+      "Token Name": "HBTC Chain (HBC)"
+    },
+    "0x9792409ae27726d337af30d701ab525372495607": {
+      "Token Name": "DigitalFinancialExch (DIFX)"
+    },
+    "0xf6ed276a69270a895d6e419d99dcb5aaa2f3cb4a": {
+      "Token Name": "SAP Token (SAP)"
+    },
+    "0x2457bd98caaf1e2cfcd9fa8262805ef5327ad6f7": {
+      "Token Name": "ARISTO (ARII)"
+    },
+    "0xb95ad20769296873b13b0ec59eb3f1fc741c649c": {
+      "Token Name": "GR-Protection (GRB)"
+    },
+    "0xf70d160102cf7a22c1e432d6928a9d625db91170": {
+      "Token Name": "KUVERIT (KUV)"
+    },
+    "0x888888888888f195e27a2e0f98d712952ab9348e": {
+      "Token Name": "IPI Shorter (IPISTR)"
+    },
+    "0x72fbc0fc1446f5accc1b083f0852a7ef70a8ec9f": {
+      "Token Name": "NovaChain (NOVA)"
+    },
+    "0x89c6c856a6db3e46107163d0cda7a7ff211bd655": {
+      "Token Name": "Darico Ecosystem Coin (DEC)"
+    },
+    "0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f": {
+      "Token Name": "ExenToken (EXEN)"
+    },
+    "0x0128E4FcCf5EF86b030b28f0a8A029A3c5397a94": {
+      "Token Name": "FlashSwap (FSP)"
+    },
+    "0x0263E1DcFCAAaD8fd4e840FE4B22854485a561f0": {
+      "Token Name": "Bitles Token (BTL)"
+    },
+    "0x5166e09628b696285e3a151e84fb977736a83575": {
+      "Token Name": "Volatility Protocol Token (VOL)"
+    },
+    "0x6059f55751603ead7dc6d280ad83a7b33d837c90": {
+      "Token Name": "Hybrid Block (HYB)"
+    },
+    "0xc9287623832668432099CEF2FfDEF3CeD14f4315": {
+      "Token Name": "3X Long Tether Gold Token (XAUTBULL)"
+    },
+    "0xe386b139ed3715ca4b18fd52671bdcea1cdfe4b1": {
+      "Token Name": "Zeus Token (ZST)"
+    },
+    "0xd8fd31e40423a4cef8e4a488793e87bb5b7d876d": {
+      "Token Name": "followswaps.com (WAPS)"
+    },
+    "0xD3c625F54dec647DB8780dBBe0E880eF21BA4329": {
+      "Token Name": "HollaEx (XHT)"
+    },
+    "0x37D6E7F287200C740012747d2A79295cAeD2DB35": {
+      "Token Name": "ALP Coin (ALP)"
+    },
+    "0x8fb6c8a44a4e23fd1f5a936818b39083b4cdc865": {
+      "Token Name": "BitOnyx Token (BTNYX)"
+    },
+    "0x3afe98235d680e8d7a52e1458a59d60f45f935c0": {
+      "Token Name": "BBGO (BBG)"
+    },
+    "0xf92364c2369a2633ffcd7db1b18d1fafff6bcbab": {
+      "Token Name": "Babil (BABIL)"
+    },
+    "0x197e6bca6bc2f488ec760a6ce46b1399cd2954b0": {
+      "Token Name": "BitCloud Token (BPRO)"
+    },
+    "0x1ad71F4f5Eba8886B81717C4af15863b2Aaf5c75": {
+      "Token Name": "AMATACRYPTO (ASTO)"
+    },
+    "0xbbf2a949b8b0560560f249d7f0fd5ce3a5991447": {
+      "Token Name": "Betra coin (BETRA)"
+    },
+    "0xf68d4d917592f3a62417ace42592f15296cc33a0": {
+      "Token Name": "COINHUB TOKEN (CHB)"
+    },
+    "0xeb15d8268fb67619633e61033e4ede60cd495f0b": {
+      "Token Name": "AlphaToolz Token (ALT)"
+    },
+    "0xda19f6959c47fd207746808adb04c79e3b358997": {
+      "Token Name": "Buoystocks (BSBOT)"
+    },
+    "0xe4707dac5f8a942f98b2181129346ef37d075a69": {
+      "Token Name": "Cryptlo (CLO)"
+    },
+    "0x9a03c4d95a8e31e1e11a4319066475cd12b22dee": {
+      "Token Name": "Bithemoth (BHM)"
+    },
+    "0x1e19d4e538b1583613347671965a2fa848271f8a": {
+      "Token Name": "TIJARACOIN (TJX)"
+    },
+    "0x9b8c184439245b7bb24a5b2ec51ec81c39589e8a": {
+      "Token Name": "KIMEX (KMX)"
+    },
+    "0xC7743bf0B300Ec041E704Cc34d4f43050942099E": {
+      "Token Name": "CAT.trade (CATX)"
+    },
+    "0x2fdf40c484b1bd6f1c214acac737fedc8b03e5a8": {
+      "Token Name": "MCS (MCS)"
+    },
+    "0x8a187d5285d316bcbc9adafc08b51d70a0d8e000": {
+      "Token Name": "Smart Investment Fund Token (SIFT)"
+    },
+    "0x10e1e953ddba597011f8bfa806ab0cc3415a622b": {
+      "Token Name": "1X Short Ethereum Token (ETHHEDGE)"
+    },
+    "0x64391a1f01c49ae731e258b451afe387f6f57df4": {
+      "Token Name": "D'Coin (DCO)"
+    },
+    "0x53352e7d6620cc931c0c9318166ae2a92c1a4666": {
+      "Token Name": "AIM (AIM)"
+    },
+    "0x9720Bcf5a92542D4e286792fc978B63a09731CF0": {
+      "Token Name": "Outside the Box Coin (OTBC)"
+    },
+    "0xd06b25f67a17f12b41f615b34d87ecd716ff55a0": {
+      "Token Name": "3X Long Shitcoin Index Token (BULLSHIT)"
+    },
+    "0x27c743954bce1bfaef8bcbd685527531001d88d7": {
+      "Token Name": "Blockium Token (BOK)"
+    },
+    "0xc0748cf90e231b8f21f75b7ad69732f19c76b751": {
+      "Token Name": "dotc.pro token (DOTC)"
+    },
+    "0xd057b63f5e69cf1b929b356b579cba08d7688048": {
+      "Token Name": "CoW Protocol Virtual Token (vCOW)"
+    },
+    "0xcDFf112689b75E42F783060BBCB055A935f833Bb": {
+      "Token Name": "Exchase (EXSE)"
+    },
+    "0xb9b78e6d6fe94a3a2a51484ff8dc828f8a92995d": {
+      "Token Name": "MusicY (MY)"
+    },
+    "0x5e73c83c7c37b4f06ce0818413100d0fdd0e3f69": {
+      "Token Name": "Flash-Fi (FFI)"
+    },
+    "0x2449224f42ce230c5b67e1d48bdceb224b0f72d7": {
+      "Token Name": "DIVMGroup (DIVM)"
+    },
+    "0xa38920C00D1a5303dB538A3Ea08da7a779e1F751": {
+      "Token Name": "3X Long TomoChain Token (TOMOBULL)"
+    },
+    "0x2567c677473d110d75a8360c35309e63b1d52429": {
+      "Token Name": "ShareX (SEXC)"
+    },
+    "0xb8366948b4a3f07bcbf14eb1739daa42a26b07c4": {
+      "Token Name": "VALOBIT (VBIT)"
+    },
+    "0x61a0ecd728189d7c8c3554688bc25a05bfe2efb3": {
+      "Token Name": "VNCOIN (VNC)"
+    },
+    "0x0D5E2681D2AaDC91F7DA4146740180A2190f0c79": {
+      "Token Name": "3X Long Huobi Token Token (HTBULL)"
+    },
+    "0xc35aAea6dD561A9976E1745A22F8CC5A762354BB": {
+      "Token Name": "AIVIA TOKEN (AIV)"
+    },
+    "0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d": {
+      "Token Name": "Carboneum (C8)"
+    },
+    "0x0d2bb9d68dd4451a09ec94c05e20bd395022bd8e": {
+      "Token Name": "CRYPTOBUCKS (CBUCKS)"
+    },
+    "0x98af2e926206f1eb5af46aeddd144727267d0487": {
+      "Token Name": "QIQ (QIQ)"
+    },
+    "0xd829664cdbf3195b2ce76047a65de29e7ed0a9a8": {
+      "Token Name": "3X Long Altcoin Index Token (ALTBULL)"
+    },
+    "0x0A199B98fF450bBc883671382B21BDA3FA44b4Ae": {
+      "Token Name": "Game Ace Token Extended (GATe)"
+    },
+    "0xa7fc5d2453e3f68af0cc1b78bcfee94a1b293650": {
+      "Token Name": "Spiking (SPIKE)"
+    },
+    "0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2": {
+      "Token Name": "Trade Butler Bot (TBB)"
+    },
+    "0x8d10e4b59db263ef4e7b88fcaacfc9ecb821a962": {
+      "Token Name": "Bittilo (BTLO)"
+    },
+    "0x16594930D16f3970e1a4317c6016555cb2e7b7Fc": {
+      "Token Name": "TokenBot (TKB)"
+    },
+    "0x842c2b97772b4528589ed243f6bda3381ef0261f": {
+      "Token Name": "DGLCOIN (DGL)"
+    },
+    "0xa44d9f50b0decb13713fc5f0df44b4eb5fb300ca": {
+      "Token Name": "BitPumps Token (BPT)"
+    },
+    "0x2b5016cea1c425f915e13727f7657025de3208fe": {
+      "Token Name": "Tokemon (TKMN)"
+    },
+    "0xd77BE186892dE7853fA703Fc1444d96d0098cD2e": {
+      "Token Name": "YFI SPECULATE (YFS)"
+    },
+    "0x6267873a5a0a1647a8fbb25541605a0815e04d74": {
+      "Token Name": "GDC Coin (GDC)"
     },
     "0xafbec4d65bc7b116d85107fd05d912491029bf46": {
       "Token Name": "ARBITRAGE (ARB)"
     },
+    "0x1e49ff77c355a3e38d6651ce8404af0e48c5395f": {
+      "Token Name": "ModulTrade Token (MTRc)"
+    },
+    "0x6b1218d1a79b06a811dc54e745c51d8cdf666c1d": {
+      "Token Name": "NERA Token (NERA)"
+    },
+    "0x4de2573e27E648607B50e1Cfff921A33E4A34405": {
+      "Token Name": "Lendroid Support Token (LST)"
+    },
+    "0x9d1a62c2ad99019768b9126fda004a9952853f6e": {
+      "Token Name": "3X Long BNB Token (BNBBULL)"
+    },
+    "0x4Fb721eF3Bf99e0f2c193847afA296b9257d3C30": {
+      "Token Name": "TOK (TOK)"
+    },
+    "0xb2e260f12406c401874ecc960893c0f74cd6afcd": {
+      "Token Name": "BitUP Token (BUT)"
+    },
+    "0x23935765cDf2F7548F86042Ff053D16A22C4e240": {
+      "Token Name": "Tradez (TRZ)"
+    },
+    "0x31CbF205e26Ba63296FdBD254a6b1bE3ED28CE47": {
+      "Token Name": "3X Short Tether Gold Token (XAUTBEAR)"
+    },
+    "0x043c308bb8a5ae96d0093444be7f56459f1340b1": {
+      "Token Name": "SUM (SUM)"
+    },
+    "0xaffdbbbdd400bb780dea5307b39187d1e9edc1cc": {
+      "Token Name": "ALPHANU (ANU)"
+    },
+    "0x43b72464a93687dc2f14d5e49086e641d011b890": {
+      "Token Name": "4Bulls (4B)"
+    },
+    "0x4bffd10cf632e6c37214d19fec8c343ed0a7bdc5": {
+      "Token Name": "RaptorXchange Token (RXT)"
+    },
+    "0x5bf844122db21ae6f787ddda9806aa7dd6489998": {
+      "Token Name": "Runex (REX)"
+    },
+    "0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3": {
+      "Token Name": "Dexmex (DEXM)"
+    },
+    "0xdbDD6F355A37b94e6C7D32fef548e98A280B8Df5": {
+      "Token Name": "UniWhales.io (UWL)"
+    },
+    "0xab2a7b5876d707e0126b3a75ef7781c77c8877ee": {
+      "Token Name": "Quadency Token (QUAD)"
+    },
+    "0x946D9eF6f575b1bf1CA52A7A86Bc4FBf37F025Fd": {
+      "Token Name": "Traderly (TRY)"
+    },
+    "0x0e192d382a36de7011f795acc4391cd302003606": {
+      "Token Name": "Futureswap Token (FST)"
+    },
+    "0xa203eb78fee91c8459c6d4ef3a899d8724ee5b35": {
+      "Token Name": "Mercury Digital Assets (MERC)"
+    },
+    "0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba": {
+      "Token Name": "BarterTrade (BART)"
+    },
+    "0xc0ea83113038987d974FE667831a36E442e661E7": {
+      "Token Name": "Libfx (Libfx)"
+    },
+    "0xFAc3f6391C86004289A186Ae0198180fCB4D49Ab": {
+      "Token Name": "Alpha Impact (IMPACT)"
+    },
+    "0xac3da587eac229c9896d919abc235ca4fd7f72c1": {
+      "Token Name": "Target Coin (TGT)"
+    },
+    "0x8AF17a6396c8f315f6b6DBC6AA686C85f9b3E554": {
+      "Token Name": "3X Long Tezos Token (XTZBULL)"
+    },
+    "0xcd8e8ec834c9127a18d8cd5c749a7f2a57355c9a": {
+      "Token Name": "DSS TOKEN (DSS)"
+    },
     "0x1fa3bc860bf823d792f04f662f3aa3a500a68814": {
       "Token Name": "1X Short Bitcoin Token (HEDGE)"
     },
+    "0x8317b216D7c3F9a5B8401E4b6814D13A7BE390ec": {
+      "Token Name": "EXNCE (XNC)"
+    },
     "0xB190dDCbbc4510C34CF2A834F0425a7d2b892F96": {
       "Token Name": "sERC20 Token (sERC20)"
+    },
+    "0xDaD26BCE7dCF59cd03a2455558E4Dd73e1c07B66": {
+      "Token Name": "Trade.win (TWI)"
+    },
+    "0x6a4c76874e686a7d080d173987a35a9c48905583": {
+      "Token Name": "Luxurious Pro Network Token (LPNT)"
+    },
+    "0x16f812be7fff02caf662b85d5d58a5da6572d4df": {
+      "Token Name": "United Traders Token (UTT)"
+    },
+    "0xbb0a009ba1eb20c5062c790432f080f6597662af": {
+      "Token Name": "BitBot V1 (BBP)"
+    },
+    "0x763F8B4fB067190e739Ed6ACB12F40f2F3890840": {
+      "Token Name": "Digex (DIGEX)"
+    },
+    "0x6b3760facdeb7f798cd13c0af2e4cd9ddc085122": {
+      "Token Name": "Oviex.com Token (OVI)"
     }
   }
 }

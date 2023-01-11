@@ -2,6 +2,12 @@
   "Label": "beauty",
   "Description": "Products made and sold for the purpose of enhancing one's appearance or body.",
   "Addresses": {
+    "0xbf13FF395D686Ed7C705A5411CC8E4E21Ff2Ceb2": {
+      "Token Name": "Doctors Coin (DRS)"
+    },
+    "0x60EfC66ae875aAaA01bac99a9E4528480A9D2BBc": {
+      "Token Name": "MaryJaneCoin (MJC)"
+    },
     "0x3635e381c67252405c1c0e550973155832d5e490": {
       "Token Name": "JAPAN BRAND COIN (JBC)"
     },
@@ -10,12 +16,6 @@
     },
     "0xd1e10c37a27d95d95720291b1dc6f12f74c71443": {
       "Token Name": "CosmoCoin (COSM)"
-    },
-    "0xbf13FF395D686Ed7C705A5411CC8E4E21Ff2Ceb2": {
-      "Token Name": "Doctors Coin (DRS)"
-    },
-    "0x60EfC66ae875aAaA01bac99a9E4528480A9D2BBc": {
-      "Token Name": "MaryJaneCoin (MJC)"
     }
   }
 }

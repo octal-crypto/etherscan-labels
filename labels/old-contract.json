@@ -2,48 +2,48 @@
   "Label": "old-contract",
   "Description": "Contracts/addresses which are migrating or have migrated to a new contract/address. This includes token swaps as well.",
   "Addresses": {
-    "0x172449dfb62242dfedd81650305b916f73bc0997": {
-      "Subcategory": "Others"
-    },
-    "0x31bb711de2e457066c6281f231fb473fc5c2afd3": {
-      "Subcategory": "Others"
-    },
-    "0xf3db7560e820834658b590c96234c333cd3d5e5e": {
-      "Subcategory": "Others"
-    },
     "0xce8b9fbceff263d054cbd7311cb37af8ea5df19e": {
+      "Subcategory": "Others"
+    },
+    "0xb4467e8d621105312a914f1d42f10770c0ffe3c8": {
       "Subcategory": "Others"
     },
     "0x9638189d7d55a66e6a02e3f6c1e1b2d3f32f096d": {
       "Subcategory": "Others",
       "Token Name": "KAPPUSAMA (KPSM)"
     },
-    "0xcf8048b2d336c569a3985bd93cbb91b758ded178": {
+    "0xeec53a9fba80f129565bb6ada539ede5e4792da5": {
       "Subcategory": "Others"
     },
     "0xcf20dfb8b66fcfb4a1dfcc00f45cfb3c6d852996": {
       "Subcategory": "Others",
       "Token Name": "KappiNetwork (KAPPN)"
     },
+    "0xcf8048b2d336c569a3985bd93cbb91b758ded178": {
+      "Subcategory": "Others"
+    },
+    "0x172449dfb62242dfedd81650305b916f73bc0997": {
+      "Subcategory": "Others"
+    },
     "0xbbbfd95e5b8f1f4bd0694071fb3133be5b5d1ef6": {
       "Subcategory": "Others"
     },
-    "0xb4467e8d621105312a914f1d42f10770c0ffe3c8": {
+    "0xf3db7560e820834658b590c96234c333cd3d5e5e": {
       "Subcategory": "Others"
     },
     "0x35b9ae15eeb12ea934942a36754192a9bb219742": {
       "Subcategory": "Others"
     },
+    "0x030a9cc49f53f5c0e00953fb7ab54273d46e14dd": {
+      "Subcategory": "Others",
+      "Token Name": "KAPPI DeFi token (KAPPD)"
+    },
     "0xc7cbd25da431758d42877d0bba8b504383de475e": {
       "Subcategory": "Others",
       "Token Name": "Dato Link (DATL)"
     },
-    "0xeec53a9fba80f129565bb6ada539ede5e4792da5": {
+    "0x31bb711de2e457066c6281f231fb473fc5c2afd3": {
       "Subcategory": "Others"
-    },
-    "0x030a9cc49f53f5c0e00953fb7ab54273d46e14dd": {
-      "Subcategory": "Others",
-      "Token Name": "KAPPI DeFi token (KAPPD)"
     },
     "0x59e0520c300657a8218e6c21a2a48682f9942b66": {
       "Name Tag": " TokenMaker.app: Old Contract",
@@ -5017,844 +5017,844 @@
       "Token Name": "Tracer (TCR)",
       "Subcategory": "Others"
     },
-    "0x05d412ce18f24040bb3fa45cf2c69e506586d8e8": {
-      "Token Name": "MFTU (MFTU)",
-      "Subcategory": "Others"
-    },
-    "0xdc4fdc574fb5dbe8e2953c8c2817853a71a8b5c4": {
-      "Token Name": "EQO (EQUOS Origin)",
-      "Subcategory": "Others"
-    },
-    "0x63120ccd7b415743e8753afd167f5ad4a1732c43": {
-      "Token Name": "QARK Token of QAN Platform (QARK)",
-      "Subcategory": "Others"
-    },
-    "0x77607588222e01bf892a29abab45796a2047fc7b": {
-      "Token Name": "unagii_ETH (uETH)",
-      "Subcategory": "Others"
-    },
-    "0x9403d608515f7346EC44B998984d7741Fd0D9bd4": {
-      "Token Name": "Quantbook Token (QTBK)",
-      "Subcategory": "Others"
-    },
-    "0x8752bf7ad53d25a4165b9370f2becc22dd8ae838": {
-      "Token Name": "BlockNoteX (BNOX)",
-      "Subcategory": "Others"
-    },
-    "0x6F371CA338bbddd0baF719E1D5d0797cCE20774f": {
-      "Token Name": "Ethereum Rush (ETR)",
-      "Subcategory": "Others"
-    },
-    "0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7": {
-      "Token Name": "Lendefi Token (LDFI)",
-      "Subcategory": "Others"
-    },
-    "0x2656f02bc30427Ed9d380E20CEc5E04F5a7A50FE": {
-      "Token Name": "SLOUGI (SLOUGI)",
-      "Subcategory": "Others"
-    },
-    "0x633eE3fbE5ffc05bD44Ecd8240732fF9ef9Dee1d": {
-      "Token Name": "MarketPeak (PEAK)",
-      "Subcategory": "Others"
-    },
-    "0x2Bb33dcf5409caFC6262A7dF7eDD06211522A346": {
-      "Token Name": "Novax (NVX)",
-      "Subcategory": "Others"
-    },
-    "0xE59064a8185Ed1Fca1D17999621eFedfab4425c9": {
-      "Token Name": "PrimeDAO Token (PRIME)",
-      "Subcategory": "Others"
-    },
-    "0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa": {
-      "Token Name": "PayAccept (PAY)",
-      "Subcategory": "Others"
-    },
-    "0x9cec335cf6922eeb5a563c871d1f09f2cf264230": {
-      "Token Name": "Autonio (NIOX)",
-      "Subcategory": "Others"
-    },
-    "0x82665764ea0b58157E1e5E9bab32F68c76Ec0CdF": {
-      "Token Name": "VOISE (VSM)",
-      "Subcategory": "Others"
-    },
-    "0x985dd3d42de1e256d09e1c10f112bccb8015ad41": {
-      "Token Name": "OceanToken (OCEAN)",
-      "Subcategory": "Others"
-    },
-    "0xe5f3a2fd1b5841294845963997BBd6F14CC2D822": {
-      "Token Name": "VentiSwap Token (VST)",
-      "Subcategory": "Others"
-    },
-    "0x445f51299ef3307dbd75036dd896565f5b4bf7a5": {
-      "Token Name": "V-ID Token (VIDT)",
-      "Subcategory": "Others"
-    },
-    "0x73EaCaa09d400eEcd10B87784fD29d024505DA3b": {
-      "Token Name": "1Planet Token (1PL)",
-      "Subcategory": "Others"
-    },
-    "0x23b8b512175590a76FFf32C6F06a7Ef1ce4724C7": {
-      "Token Name": "Rezerve (RZRV)",
-      "Subcategory": "Others"
-    },
-    "0x98b69ebb4ce228145463d7c08aa71fbb6791fe86": {
-      "Token Name": "Rocket Token (RKTN)",
-      "Subcategory": "Others"
-    },
-    "0x7ff7a55a7c637e3953ab25569c335e04b96c475b": {
-      "Token Name": "Kondux (KNDX)",
-      "Subcategory": "Others"
-    },
-    "0x9183316f7bec5c9bd1E85dBE37Ba674E9CEeabBE": {
-      "Token Name": "Abridge Network (ABN)",
-      "Subcategory": "Others"
-    },
-    "0x44e288b2484e5a5297cf7193bf36690ea6801f95": {
-      "Token Name": "DePlutus Token (PLUT)",
-      "Subcategory": "Others"
-    },
-    "0x8b847669B2e5dD5101736e41dA8Ec38653065aeb": {
-      "Token Name": "Huptex (HTX)",
-      "Subcategory": "Others"
-    },
-    "0xf77832a3429054f12968aa57d78a1e31f55ec853": {
-      "Token Name": "SURGED FINANCE (SURG)",
-      "Subcategory": "Others"
-    },
-    "0x5a386eb0fcbfee3f0d759e263053c09162ff102d": {
-      "Token Name": "Woonkly (Woonk)",
-      "Subcategory": "Others"
-    },
-    "0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df": {
-      "Token Name": "PAID Network (PAID)",
-      "Subcategory": "Others"
-    },
-    "0x65Ac08c55F21d4A73CA1D429a17a6872b23bFd55": {
-      "Token Name": "ALL BEST ICO.com (ALLBI)",
-      "Subcategory": "Others"
-    },
-    "0xd0513db39d87e8825389feb10bd911dc53b3a153": {
-      "Token Name": "Fintropy (FINT)",
-      "Subcategory": "Others"
-    },
-    "0xa3bcf0e6aed1851a8612f34f90947c2a0eeef28d": {
-      "Token Name": "Mintable Governance NFT (MINT)",
-      "Subcategory": "Others"
-    },
-    "0x3aF5Ba94C29a8407785f5f6d90eF5d69a8EB2436": {
-      "Token Name": "unagii_Wrapped BTC (uWBTC)",
-      "Subcategory": "Others"
-    },
-    "0xFd0Df7B58bD53D1dd4835ecD69A703b4b26F7816": {
-      "Token Name": "MziToken (MZI)",
-      "Subcategory": "Others"
-    },
-    "0x814964b1bceAf24e26296D031EaDf134a2Ca4105": {
-      "Token Name": "Newbium (NEWB)",
-      "Subcategory": "Others"
-    },
-    "0x0f67e5f815eb6665cfde792662790e02f21d43e4": {
-      "Token Name": "BlingFinance (BLING)",
-      "Subcategory": "Others"
-    },
-    "0x31d1244177BDd492cd18d889853c0aa05Ab1eA06": {
-      "Token Name": "MarketPeak (PEAK)",
-      "Subcategory": "Others"
-    },
-    "0xe2b8c4938a3103c1ab5c19a6b93d07ab6f9da2ba": {
-      "Token Name": "Convertible ACXT (cACXT)",
-      "Subcategory": "Others"
-    },
-    "0x8A2D988Fe2E8c6716cbCeF1B33Df626C692F7B98": {
-      "Token Name": "EverRise (RISE)",
-      "Subcategory": "Others"
-    },
-    "0x1Aa61c196E76805fcBe394eA00e4fFCEd24FC469": {
-      "Token Name": "yieldfarming.insure (SAFE)",
-      "Subcategory": "Others"
-    },
-    "0x0462A453c194C176C94A38F1A2AC786bAf05ab2b": {
-      "Token Name": "USDF (USDF)",
-      "Subcategory": "Others"
-    },
-    "0x96006F60B452526481a26eab55265ECdf82E7361": {
-      "Token Name": "HollaEx (HEX)",
-      "Subcategory": "Others"
-    },
-    "0xb250382d6a8b5e366236af688a22e0036c4d63a9": {
-      "Token Name": "SHIFT TOKEN (SHIFT)",
-      "Subcategory": "Others"
-    },
-    "0x072A1BA9fa10DEA38ad2F4043A8385FBBf108cb2": {
-      "Token Name": "Tater ($TATR)",
-      "Subcategory": "Others"
-    },
-    "0x7d91e637589EC3Bb54D8213a9e92Dc6E8D12da91": {
-      "Token Name": "FRIENDS WITH BENEFITS (FWB)",
-      "Subcategory": "Others"
-    },
-    "0x1cCEEd434A7a64D1D8F9Bb719fE0D29CBba9F120": {
-      "Token Name": "Arix (AR)",
-      "Subcategory": "Others"
-    },
-    "0x32879B5C0fDbc2A81597F019717b412B9d755A09": {
-      "Token Name": "ParaToken (Para)",
-      "Subcategory": "Others"
-    },
-    "0x20b1A8a9cA1c7302b7f774266C491C7b11622779": {
-      "Token Name": "ARCS (ARX)",
-      "Subcategory": "Others"
-    },
-    "0x29Ac3094E01eBD60DaB99f4746e04AE0FE013A95": {
-      "Token Name": "VENT (VENT)",
-      "Subcategory": "Others"
-    },
-    "0xc43420dbaf53b1a6c607c6a561ac60afb16b05fd": {
-      "Token Name": "SHINJIRO (SHINJIRO)",
-      "Subcategory": "Others"
-    },
-    "0xa98F029bb4e74C12FB07BBc25854E5a04F7acF4c": {
-      "Token Name": "CRYPTOBUCKS (CBUCKS)",
-      "Subcategory": "Others"
-    },
-    "0xdf6E5F56a3E862AF41Ba4833c9626318E9BBE1A2": {
-      "Token Name": "YFZ Finance (YFZ)",
-      "Subcategory": "Others"
-    },
-    "0xd732690C880170C928a22ee029f760557D49e646": {
-      "Token Name": "Enegra (EGX)",
-      "Subcategory": "Others"
-    },
-    "0xd7672f4ada6aabc4901fbcfef9adf5b40e4fce06": {
-      "Token Name": "NegaCoin (NG-C)",
-      "Subcategory": "Others"
-    },
     "0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286": {
       "Token Name": "Old Cover Protocol (COVER)",
       "Subcategory": "Others"
     },
-    "0xb4c0913f28a1d8931a49a2328d6374e0f2c2308c": {
-      "Token Name": " (NTH)",
-      "Subcategory": "Others"
-    },
-    "0xc92e74b131D7b1D46E60e07F3FaE5d8877Dd03F0": {
-      "Token Name": "Minereum (MNE)",
-      "Subcategory": "Others"
-    },
-    "0xab167E816E4d76089119900e941BEfdfA37d6b32": {
-      "Token Name": "Shibnobi (SHINJA)",
-      "Subcategory": "Others"
-    },
-    "0x3709AE438E0557976296051F431256F386De370C": {
-      "Token Name": "Yearn Finance Network (YFN)",
-      "Subcategory": "Others"
-    },
-    "0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376": {
-      "Token Name": "unagii_Dai Stablecoin (uDAI)",
-      "Subcategory": "Others"
-    },
-    "0x1bBE271d15Bb64dF0bc6CD28Df9Ff322F2eBD847": {
-      "Token Name": "tBTC (TBTC)",
-      "Subcategory": "Others"
-    },
-    "0x9AcA6aBFe63A5ae0Dc6258cefB65207eC990Aa4D": {
-      "Token Name": "DigiPulse (DGT)",
-      "Subcategory": "Others"
-    },
-    "0xa645264C5603E96c3b0B078cdab68733794B0A71": {
-      "Token Name": "Mysterium (MYST)",
-      "Subcategory": "Others"
-    },
-    "0x960b236A07cf122663c4303350609A66A7B288C0": {
-      "Token Name": "Aragon (ANT)",
-      "Subcategory": "Others"
-    },
-    "0xa858bc1b71a895ee83b92f149616f9b3f6afa0fb": {
-      "Token Name": "Kambria Token (KAT)",
-      "Subcategory": "Others"
-    },
-    "0x4b2c54b80b77580dc02a0f6734d3bad733f50900": {
-      "Token Name": "Kiba Inu (KIBA)",
-      "Subcategory": "Others"
-    },
-    "0xbd6467a31899590474ce1e84f70594c53d628e46": {
-      "Token Name": "KardiaChain Token (KAI)",
-      "Subcategory": "Others"
-    },
-    "0x0cf0ee63788a0849fe5297f3407f701e122cc023": {
-      "Token Name": "Streamr (old) (XDATA)",
-      "Subcategory": "Others"
-    },
-    "0x7d4e35a2090b3ba805ddb39b2c4b83612890df87": {
-      "Token Name": "POW NFT (POW)",
-      "Subcategory": "Others"
-    },
-    "0x08A2E41FB99A7599725190B9C970Ad3893fa33CF": {
-      "Token Name": "Spaghetti (PASTA)",
-      "Subcategory": "Others"
-    },
-    "0xc1bfccd4c29813ede019d00d2179eea838a67703": {
-      "Token Name": "Luffy (LUFFY)",
-      "Subcategory": "Others"
-    },
-    "0xD96f6687F1B86892E932d68a2D3130c41F0402f5": {
-      "Token Name": "Flowchain (FLC)",
-      "Subcategory": "Others"
-    },
-    "0x88093840AaD42d2621e1a452BF5d7076fF804D61": {
-      "Token Name": "Soft Yearn Finance (SYFI)",
-      "Subcategory": "Others"
-    },
-    "0x8aa688ab789d1848d131c65d98ceaa8875d97ef1": {
-      "Token Name": "MultiVAC (MTV)",
-      "Subcategory": "Others"
-    },
-    "0x2de72aDa48BDF7Bac276256D3F016fE058490C34": {
-      "Token Name": "FLOKI (FLOKI)",
-      "Subcategory": "Others"
-    },
-    "0x0e9776bef2b9ad81759e6d304d22d3c1b1f26087": {
-      "Token Name": "Spume (SPUME)",
-      "Subcategory": "Others"
-    },
-    "0x457cD14f384E7D103B17feEb01d2a42Ad2ecA529": {
-      "Token Name": "Synthetix Network Token (SNX)",
-      "Subcategory": "Others"
-    },
-    "0xa101e27f06a97985b925e244111b61560ecd97db": {
-      "Token Name": "BITTO (BITTO)",
-      "Subcategory": "Others"
-    },
-    "0x5Dc02Ea99285E17656b8350722694c35154DB1E8": {
-      "Token Name": "BOND (BOND)",
-      "Subcategory": "Others"
-    },
-    "0xa8006c4ca56f24d6836727d106349320db7fef82": {
-      "Token Name": "Internxt (INXT)",
-      "Subcategory": "Others"
-    },
-    "0x358D12436080a01A16f711014610F8a4c2C2d233": {
-      "Token Name": "Pundi X (PXS)",
-      "Subcategory": "Others"
-    },
-    "0xbc5991ccd8caceba01edc44c2bb9832712c29cab": {
-      "Token Name": "unagii_USD Coin (uUSDC)",
-      "Subcategory": "Others"
-    },
-    "0xa982B2e19e90b2D9F7948e9C1b65D119F1CE88D6": {
-      "Token Name": "WOM Token (WOM)",
-      "Subcategory": "Others"
-    },
-    "0xFAc3f6391C86004289A186Ae0198180fCB4D49Ab": {
-      "Token Name": "Alpha Impact (IMPACT)",
-      "Subcategory": "Others"
-    },
-    "0xcF8048b2D336c569a3985bD93CbB91B758ded178": {
-      "Token Name": "IZE Fintech Blockchain (IZE)",
-      "Subcategory": "Others"
-    },
-    "0xf62dff6d13b8ac6f7707335b4d936a2ca5e16d04": {
-      "Token Name": "Visor (VISR)",
-      "Subcategory": "Others"
-    },
-    "0x0b76544f6c413a555f309bf76260d1e02377c02a": {
-      "Token Name": "Internet Node Token (INT)",
-      "Subcategory": "Others"
-    },
-    "0xf2ef3551c1945a7218fc4ec0a75c9ecfdf012a4f": {
-      "Token Name": "CAGE (C4G3)",
-      "Subcategory": "Others"
-    },
-    "0xb68Ce1e522556c05868658767b03955e996c1F56": {
-      "Token Name": "MeconCash (MCH)",
-      "Subcategory": "Others"
-    },
-    "0xa08247a74bbc40a59d218eeda587ab187836ab66": {
-      "Token Name": "IceChain Balancer (ICEB)",
-      "Subcategory": "Others"
-    },
-    "0x41C028a4C1F461eBFC3af91619b240004ebAD216": {
-      "Token Name": "TacoToken (TACO)",
-      "Subcategory": "Others"
-    },
-    "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA": {
-      "Token Name": "Old Axie Infinity Shard (AXS)",
-      "Subcategory": "Others"
-    },
-    "0x62195CFdA73F99e1BFF4881FDCFbF5c9576d3c88": {
-      "Token Name": "lexDAO (LEX)",
-      "Subcategory": "Others"
-    },
-    "0x212DD60D4Bf0DA8372fe8116474602d429E5735F": {
-      "Token Name": "Stobox Token (STBU)",
-      "Subcategory": "Others"
-    },
-    "0x912B38134F395D1BFAb4C6F9db632C31667ACF98": {
-      "Token Name": "DeFi Bids (BIDS)",
-      "Subcategory": "Others"
-    },
-    "0x44e2ca91cea1147f1b503e669f06cd11fb0c5490": {
-      "Token Name": "CoinMetro Token (XCM)",
-      "Subcategory": "Others"
-    },
-    "0x442e735978155Ed54ab19201EC834bB519f60168": {
-      "Token Name": "Bistox Exchange Token (BSX)",
-      "Subcategory": "Others"
-    },
-    "0xd47FF7c7a40273Fd62E0ee1Ffe69EDdb6124eC6D": {
-      "Token Name": "Tako (TAKO)",
-      "Subcategory": "Others"
-    },
-    "0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170": {
-      "Token Name": "vSlice (VSL)",
-      "Subcategory": "Others"
-    },
-    "0xe0E2eF42664A3e6783E734c1E625a3aBF9B19939": {
-      "Token Name": "Vanilla Network (VANILLA)",
-      "Subcategory": "Others"
-    },
-    "0x32b87fb81674aa79214e51ae42d571136e29d385": {
-      "Token Name": "CyberFM (CYFM)",
-      "Subcategory": "Others"
-    },
-    "0x10010054c81c8c01951e6a631dd228bb02d8d1e5": {
-      "Token Name": "Hundred Finance (HND)",
-      "Subcategory": "Others"
-    },
-    "0x6ea6531b603f270d23d9edd2d8279135dc5d6773": {
-      "Token Name": "InsurChain Coin (INSUR)",
-      "Subcategory": "Others"
-    },
-    "0xA1c4d403ad39AB741626cE509eb80E3706B15d8d": {
-      "Token Name": "AWX (AWX)",
-      "Subcategory": "Others"
-    },
-    "0x096b9077f6D2925C36a696345671BD9782df3c86": {
-      "Token Name": "MetalStream Gold (MSGLD)",
-      "Subcategory": "Others"
-    },
-    "0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c": {
-      "Token Name": "Rocket Bunny (BUNNY)",
-      "Subcategory": "Others"
-    },
-    "0xe5874039ea940af0A0F304E512C48BCb8D25ACA4": {
-      "Token Name": "OTOCASH (OTO)",
-      "Subcategory": "Others"
-    },
-    "0x862Da0A691bb0b74038377295f8fF523D0493eB4": {
-      "Token Name": "MINDOL (MIN)",
-      "Subcategory": "Others"
-    },
-    "0xe4fa3c576c31696322e8d7165c5965d5a1f6a1a5": {
-      "Token Name": "GamyFi (GFX)",
-      "Subcategory": "Others"
-    },
-    "0x9a6aa7D170ECd757B6993E6EaF42190EDC7dbaF4": {
-      "Token Name": "Barter (BRTR)",
-      "Subcategory": "Others"
-    },
-    "0x2c687B93CCEF2b0a206b20B383C85488071b88D5": {
-      "Token Name": "Ethereum Pro (EPRO)",
-      "Subcategory": "Others"
-    },
-    "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55": {
-      "Token Name": "COL (COL)",
-      "Subcategory": "Others"
-    },
-    "0x7b0c06043468469967dba22d1af33d77d44056c8": {
-      "Token Name": "Morpheus.Network (MRPH)",
-      "Subcategory": "Others"
-    },
-    "0x8fB00FDeBb4E83f2C58b3bcD6732AC1B6A7b7221": {
-      "Token Name": "Orion Protocol (ORN)",
-      "Subcategory": "Others"
-    },
-    "0xba6db13aeae3607d400ddffd675aa4e88ecc9a69": {
-      "Token Name": "Sensorium (SENSO)",
-      "Subcategory": "Others"
-    },
-    "0x5af2be193a6abca9c8817001f45744777db30756": {
-      "Token Name": "Voyager (VGX)",
-      "Subcategory": "Others"
-    },
-    "0x3156c455e3ba7979fb132ad62886d78850717068": {
-      "Token Name": "ONE ARMY COIN (OAC)",
-      "Subcategory": "Others"
-    },
-    "0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d": {
-      "Token Name": "Insights Network (INSTAR)",
-      "Subcategory": "Others"
-    },
-    "0x178bf8fd04b47d2de3ef3f6b3d112106375ad584": {
-      "Token Name": "unagii_Tether USD (uUSDT)",
-      "Subcategory": "Others"
-    },
-    "0xbbc3a290c7d2755b48681c87f25f9d7f480ad42f": {
-      "Token Name": "Remittance Token (REMCO)",
-      "Subcategory": "Others"
-    },
-    "0xd321Ca7Cd7A233483b8CD5a11a89E9337e70Df84": {
-      "Token Name": "VI (VI)",
-      "Subcategory": "Others"
-    },
-    "0xB16e967ff83DE3F1e9FCeAfbc2C28c1c5c56eF91": {
-      "Token Name": "Polkadog (PDOG)",
-      "Subcategory": "Others"
-    },
-    "0x3953aff0d69e8e9f3c06b1a468783c3f4b0f6f16": {
-      "Token Name": "Shikage (SHKG)",
-      "Subcategory": "Others"
-    },
-    "0x31Bb711de2e457066c6281f231fb473FC5c2afd3": {
-      "Token Name": "Vether (VETH)",
-      "Subcategory": "Others"
-    },
-    "0x45eD02e374Aef2e4b34c04e86AD9D45891d10751": {
-      "Token Name": "Digital Fantasy Sports (DFS)",
-      "Subcategory": "Others"
-    },
-    "0x274c5236276422330060aA95cADEd86dA0a297c2": {
-      "Token Name": "Folgory Coin (FLG)",
-      "Subcategory": "Others"
-    },
-    "0xB3Cf3c70b957483E554227769037cd454D7056c8": {
-      "Token Name": "Semi Centralized Finance (SCFI)",
-      "Subcategory": "Others"
-    },
-    "0xf8a4a419c2d7140e49ef952a7e7ae1bd4a8b6b9c": {
-      "Token Name": "Lith Token (LITH)",
-      "Subcategory": "Others"
-    },
-    "0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16": {
-      "Token Name": "YAM (YAM)",
-      "Subcategory": "Others"
-    },
-    "0x90017BE7948eb595A331461e07744E4A66B6F28B": {
-      "Token Name": "AmongUs.Finance (AUF)",
-      "Subcategory": "Others"
-    },
-    "0x835A44027Ee4e92BBD8874e5EDE9e5148B069e96": {
-      "Token Name": "PROTOS (PRTS)",
-      "Subcategory": "Others"
-    },
-    "0xa5c807a62cd6774d6bf518dd2dec0ae17446ad8d": {
-      "Token Name": "SoulZ Monogatari (SLZM)",
-      "Subcategory": "Others"
-    },
-    "0xa0872ee815b8dd0f6937386fd77134720d953581": {
-      "Token Name": "EduCoinToken (EDU)",
-      "Subcategory": "Others"
-    },
-    "0x786001c9c5CA6E502dEB8a8a72480d2147891f32": {
-      "Token Name": "BetProtocolToken (BEPRO)",
-      "Subcategory": "Others"
-    },
-    "0x93b2fff814fcaeffb01406e80b4ecd89ca6a021b": {
-      "Token Name": "Grumpy Cat (GRUMPY)",
-      "Subcategory": "Others"
-    },
-    "0x5be1DDCA209772F8d7a8C58b28B397e4A496F1F9": {
-      "Token Name": "Tweebaa (TWEE)",
-      "Subcategory": "Others"
-    },
-    "0xBa630d3BA20502BA07975B15c719BEECc8e4EBB0": {
-      "Token Name": "Ethereum Pro (EPRO)",
-      "Subcategory": "Others"
-    },
-    "0x41C37A4683d6a05adB31c39D71348A8403B13Ca9": {
-      "Token Name": "Chain (CHN)",
-      "Subcategory": "Others"
-    },
-    "0xDa5bE69074AFD12354173b4350ec9117E73e92e2": {
-      "Token Name": "LogicToken (LOGIC)",
-      "Subcategory": "Others"
-    },
-    "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5": {
-      "Token Name": "Reputation (REP)",
-      "Subcategory": "Others"
-    },
-    "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B": {
-      "Token Name": "NerveNetwork (ENVT)",
-      "Subcategory": "Others"
-    },
-    "0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c": {
-      "Token Name": "Aurox Token (URUS)",
-      "Subcategory": "Others"
-    },
-    "0xde51d1599339809cafb8194189ce67d5bdca9e9e": {
-      "Token Name": "Cowrie (COWRIE)",
-      "Subcategory": "Others"
-    },
-    "0x77599d2c6db170224243e255e6669280f11f1473": {
-      "Token Name": "Opacity (OPQ)",
-      "Subcategory": "Others"
-    },
-    "0xeb9951021698b42e4399f9cbb6267aa35f82d59d": {
-      "Token Name": "Lif (LIF)",
-      "Subcategory": "Others"
-    },
-    "0xe12128d653b62f08fbed56bdeb65db729b6691c3": {
-      "Token Name": "BreezeCoin (BRZC)",
-      "Subcategory": "Others"
-    },
-    "0x0fd3822072ad001aac1c90a09d9506f097f24458": {
-      "Token Name": "NOA (NOA)",
-      "Subcategory": "Others"
-    },
-    "0x1e987DF68CC13d271e621ec82E050A1BbD62c180": {
-      "Token Name": "WAGMI (WAGMI)",
-      "Subcategory": "Others"
-    },
-    "0xe5556ab0d831454cefbb986201bf9daa0eec52a1": {
-      "Token Name": "AZBI FUNCTION FARM (AZFF)",
-      "Subcategory": "Others"
-    },
-    "0x4d67edef87a5ff910954899f4e5a0aaf107afd42": {
-      "Token Name": "BlueSparrowToken (BlueSparrow)",
-      "Subcategory": "Others"
-    },
-    "0xA76942D04cfbbb7A3f20687ac1D11D150185f38d": {
-      "Token Name": "Bitazza (BTZ)",
-      "Subcategory": "Others"
-    },
-    "0x704b5267FAE30C40Fd0A4b14D83E414B4A920afA": {
-      "Token Name": "fecore.finance (FECORE)",
-      "Subcategory": "Others"
-    },
-    "0xeb58cBC02fa1Eb966e8d27e90559A00c518E4234": {
-      "Token Name": "Verse (VERSE)",
-      "Subcategory": "Others"
-    },
-    "0xe2311ae37502105b442bbef831e9b53c5d2e9b3b": {
-      "Token Name": "Banana (BANANA)",
-      "Subcategory": "Others"
-    },
-    "0xAF4421F0D43c5c1d54380736e3f738B159417744": {
-      "Token Name": "USDG (USDG)",
-      "Subcategory": "Others"
-    },
-    "0x22Ef8B5919E9985ff1FFbA627ef7eE1e4b4b0E86": {
-      "Token Name": "Xfinance (XFI)",
-      "Subcategory": "Others"
-    },
-    "0x0cD022ddE27169b20895e0e2B2B8A33B25e63579": {
-      "Token Name": "EverRise (RISE)",
-      "Subcategory": "Others"
-    },
-    "0x9CF258c95Bd793Ab3023EccbBD2f0Dd440AD0921": {
-      "Token Name": "Flowchain (FLC)",
-      "Subcategory": "Others"
-    },
-    "0x25377ddb16c79C93B0CBf46809C8dE8765f03FCd": {
-      "Token Name": "Synthetic CBDAO (SBREE)",
-      "Subcategory": "Others"
-    },
-    "0xF4A6febD991EE19E1e7517F8E128227483343c5f": {
-      "Token Name": "RiveX Token (RVX)",
-      "Subcategory": "Others"
-    },
-    "0x041a36b015486941ce8d5f2c7ff2e88f97390640": {
-      "Token Name": "Ledgis (LED)",
-      "Subcategory": "Others"
-    },
-    "0x5c743a35E903F6c584514ec617ACEe0611Cf44f3": {
-      "Token Name": "Experty (EXY)",
-      "Subcategory": "Others"
-    },
-    "0xf9254273497Ec98565213055938Ba77C0869D2C8": {
-      "Token Name": "Zoracles (ZORA)",
-      "Subcategory": "Others"
-    },
-    "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d": {
-      "Token Name": "LTO Network Token (LTO)",
-      "Subcategory": "Others"
-    },
-    "0xC0134b5B924c2FCA106eFB33C45446c466FBe03e": {
-      "Token Name": "aleph.im (ALEPH)",
-      "Subcategory": "Others"
-    },
-    "0x82b0e50478eeafde392d45d1259ed1071b6fda81": {
-      "Token Name": "DNA (DNA)",
-      "Subcategory": "Others"
-    },
-    "0x42382f39e7c9f1add5fa5f0c6e24aa62f50be3b3": {
-      "Token Name": "ZOM (ZOM)",
-      "Subcategory": "Others"
-    },
-    "0xed30dd7e50edf3581ad970efc5d9379ce2614adb": {
-      "Token Name": "ARC Governance Token (ARCX)",
-      "Subcategory": "Others"
-    },
-    "0x4e005a760e00e17c4912a8070eec047cfecbabbb": {
-      "Token Name": "NEXT.exchange (NEXT)",
-      "Subcategory": "Others"
-    },
-    "0x180C288c2151200ad37D150308346b1BE421d32c": {
-      "Token Name": "MOVE (MOVE)",
-      "Subcategory": "Others"
-    },
-    "0x46EE7D0E5080B0FE3D16701c0dbBC6916E3C77C5": {
-      "Token Name": "COINWAYCOIN (CAN)",
-      "Subcategory": "Others"
-    },
-    "0xfa3aabe175b5fbdc714e7d52492e1c73537404eb": {
-      "Token Name": "MetaGaming Guild (MGG)",
-      "Subcategory": "Others"
-    },
-    "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
-      "Token Name": "Melon (MLN)",
-      "Subcategory": "Others"
-    },
-    "0xf150ec99e2f53672fd2fcd12b47797024f4a1902": {
-      "Token Name": "LasMeta (LASM)",
+    "0x05d412ce18f24040bb3fa45cf2c69e506586d8e8": {
+      "Token Name": "MFTU (MFTU)",
       "Subcategory": "Others"
     },
     "0x02ba9B528425f9de08F961B88A10b03Be8B8B998": {
       "Token Name": "MASQ (MASQ)",
       "Subcategory": "Others"
     },
-    "0xA59b009cd174710D9C79B5B1fE38d7347717Cf4e": {
-      "Token Name": "HolyToken (HOLY)",
+    "0x862Da0A691bb0b74038377295f8fF523D0493eB4": {
+      "Token Name": "MINDOL (MIN)",
       "Subcategory": "Others"
     },
-    "0x5a731151d6510Eb475cc7a0072200cFfC9a3bFe5": {
-      "Token Name": "KingToken ($KING)",
+    "0x2Bb33dcf5409caFC6262A7dF7eDD06211522A346": {
+      "Token Name": "Novax (NVX)",
       "Subcategory": "Others"
     },
-    "0x555d051538c7a13712f1f590fa6b4c176ca4529f": {
-      "Token Name": "iOWN Token (iOWN)",
+    "0x096b9077f6D2925C36a696345671BD9782df3c86": {
+      "Token Name": "MetalStream Gold (MSGLD)",
       "Subcategory": "Others"
     },
-    "0x1b793e49237758dbd8b752afc9eb4b329d5da016": {
-      "Token Name": "ViteToken (VITE)",
+    "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5": {
+      "Token Name": "Reputation (REP)",
       "Subcategory": "Others"
     },
-    "0xf27c8A87bCf259F8B02f62b969a8404D15054D0E": {
-      "Token Name": "among.finance (AMONG)",
+    "0x985dd3d42de1e256d09e1c10f112bccb8015ad41": {
+      "Token Name": "OceanToken (OCEAN)",
       "Subcategory": "Others"
     },
-    "0x29428639d889fa989405ee9baF3Ba088E6994eDC": {
-      "Token Name": "$BASED ($BASED)",
+    "0x46EE7D0E5080B0FE3D16701c0dbBC6916E3C77C5": {
+      "Token Name": "COINWAYCOIN (CAN)",
+      "Subcategory": "Others"
+    },
+    "0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df": {
+      "Token Name": "PAID Network (PAID)",
       "Subcategory": "Others"
     },
     "0xfb13dfc9f8f3eeddd7c9b581d0d7cf367513ff7c": {
       "Token Name": "Para (Para)",
       "Subcategory": "Others"
     },
-    "0x09df6A5ca936Be45f5Ae45C7e58C9b4602011fcd": {
-      "Token Name": "yearn.fuel (YFUEL)",
+    "0xa0872ee815b8dd0f6937386fd77134720d953581": {
+      "Token Name": "EduCoinToken (EDU)",
       "Subcategory": "Others"
     },
-    "0x3096bA3D90EBF5B5E7866Edb492cAD12E3c9e776": {
-      "Token Name": "Psyche (USD1)",
-      "Subcategory": "Others"
-    },
-    "0xc9A954C5A302C45D87CC07efb1259Fb3DaD99ffC": {
-      "Token Name": "ALL BEST ICO (ALLBI)",
-      "Subcategory": "Others"
-    },
-    "0xed64142f7d0a4d94ce0e7fe45d12f712fe360bd0": {
-      "Token Name": "CosplayToken (COT)",
-      "Subcategory": "Others"
-    },
-    "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466": {
-      "Token Name": "AION (AION)",
-      "Subcategory": "Others"
-    },
-    "0x601F16d1d60839dcA26b0895B6A23774bCA10719": {
-      "Token Name": "Mystery Ghost Token (MGT)",
-      "Subcategory": "Others"
-    },
-    "0x4B86e0295E7d32433FfA6411B82B4F4e56a581E1": {
-      "Token Name": "dogira.lol || dogira.eth.link (DOGIRA)",
-      "Subcategory": "Others"
-    },
-    "0x27af23d8db2a3fbce7d04e84f594285fb0059316": {
-      "Token Name": "https://unimex.finance/ (UMEX)",
-      "Subcategory": "Others"
-    },
-    "0x1fc52f1abade452dd4674477d4711951700b3d27": {
-      "Token Name": "NOKU (NOKU)",
-      "Subcategory": "Others"
-    },
-    "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e": {
-      "Token Name": "Ocean Token (OCEAN)",
-      "Subcategory": "Others"
-    },
-    "0xEb70bbf15Fd1c0542896A80f2aF90C8FD40a9ec5": {
-      "Token Name": "InnovativeBioresearchCoin (INNBC)",
-      "Subcategory": "Others"
-    },
-    "0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64": {
-      "Token Name": "OptionRoom Token (ROOM)",
-      "Subcategory": "Others"
-    },
-    "0xc5a9bc46a7dbe1c6de493e84a18f02e70e2c5a32": {
-      "Token Name": "WORLD CUP INU (WCI)",
-      "Subcategory": "Others"
-    },
-    "0x92ecE48522E1aCbcda4Aaa8C2fBF2Aa9FB15D624": {
-      "Token Name": "ROCKS (ROCKS)",
+    "0x8752bf7ad53d25a4165b9370f2becc22dd8ae838": {
+      "Token Name": "BlockNoteX (BNOX)",
       "Subcategory": "Others"
     },
     "0x728781E75735dc0962Df3a51d7Ef47E798A7107E": {
       "Token Name": "Wolk Protocol Token (WOLK)",
       "Subcategory": "Others"
     },
-    "0x18562c02456962d1537cD3E4c70e88C48a466418": {
-      "Token Name": "Davies (DVS)",
+    "0x23b8b512175590a76FFf32C6F06a7Ef1ce4724C7": {
+      "Token Name": "Rezerve (RZRV)",
       "Subcategory": "Others"
     },
-    "0xb37db40e16a7caae38f1e4dbd6b1e44cffe03072": {
-      "Token Name": "Silk (SILK)",
+    "0xb94c53b0e67fabac3d97173482663ef597d4174a": {
+      "Token Name": "Old Giveth Token (GTH)",
       "Subcategory": "Others"
     },
-    "0x5e3845a1d78db544613edbe43dc1ea497266d3b8": {
-      "Token Name": "LNX Protocol (LNX)",
+    "0x4b2c54b80b77580dc02a0f6734d3bad733f50900": {
+      "Token Name": "Kiba Inu (KIBA)",
       "Subcategory": "Others"
     },
-    "0x28d3E409bb9bC58F1ca6E009f8fC78A1db85e6b7": {
-      "Token Name": "Gem Exchange and Trading (GXT)",
+    "0xd732690C880170C928a22ee029f760557D49e646": {
+      "Token Name": "Enegra (EGX)",
       "Subcategory": "Others"
     },
-    "0xc463f34040ad6222C1fFB03ACEbDFAAC032202d6": {
-      "Token Name": "KiloAmple (kMPL)",
+    "0x0f67e5f815eb6665cfde792662790e02f21d43e4": {
+      "Token Name": "BlingFinance (BLING)",
       "Subcategory": "Others"
     },
-    "0xb2733Eba27537da9285e5CfB94AcCa0A3606F2d9": {
-      "Token Name": "Cardino | t.me/CardinoCasino (CINO)",
+    "0xf150ec99e2f53672fd2fcd12b47797024f4a1902": {
+      "Token Name": "LasMeta (LASM)",
+      "Subcategory": "Others"
+    },
+    "0x5c743a35E903F6c584514ec617ACEe0611Cf44f3": {
+      "Token Name": "Experty (EXY)",
+      "Subcategory": "Others"
+    },
+    "0x704b5267FAE30C40Fd0A4b14D83E414B4A920afA": {
+      "Token Name": "fecore.finance (FECORE)",
+      "Subcategory": "Others"
+    },
+    "0x9cec335cf6922eeb5a563c871d1f09f2cf264230": {
+      "Token Name": "Autonio (NIOX)",
+      "Subcategory": "Others"
+    },
+    "0xFd0Df7B58bD53D1dd4835ecD69A703b4b26F7816": {
+      "Token Name": "MziToken (MZI)",
+      "Subcategory": "Others"
+    },
+    "0x44e288b2484e5a5297cf7193bf36690ea6801f95": {
+      "Token Name": "DePlutus Token (PLUT)",
+      "Subcategory": "Others"
+    },
+    "0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376": {
+      "Token Name": "unagii_Dai Stablecoin (uDAI)",
       "Subcategory": "Others"
     },
     "0xafbf03181833ab4e8dec24d708a2a24c2baaa4a4": {
       "Token Name": "MandoX (MANDOX)",
       "Subcategory": "Others"
     },
-    "0xD6f279B7ccBCD70F8be439d25B9Df93AEb60eC55": {
-      "Token Name": "IdleWBTC v3 [Max yield] (idleWBTCYield)",
+    "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e": {
+      "Token Name": "Ocean Token (OCEAN)",
       "Subcategory": "Others"
     },
-    "0x6B583Cf4abA7Bf9d6f8A51B3F1F7C7B2ce59Bf15": {
-      "Token Name": "Seigniorage Shares (SHARE)",
+    "0x88093840AaD42d2621e1a452BF5d7076fF804D61": {
+      "Token Name": "Soft Yearn Finance (SYFI)",
       "Subcategory": "Others"
     },
-    "0xa3701a6b76995384f7e8ef0e4bfda447fb1e60d9": {
-      "Token Name": "The Amc Token (TAMC)",
+    "0xe2b8c4938a3103c1ab5c19a6b93d07ab6f9da2ba": {
+      "Token Name": "Convertible ACXT (cACXT)",
+      "Subcategory": "Others"
+    },
+    "0x814964b1bceAf24e26296D031EaDf134a2Ca4105": {
+      "Token Name": "Newbium (NEWB)",
       "Subcategory": "Others"
     },
     "0x0D395b3Ae53865A5B12364D6a227A82620328aAe": {
       "Token Name": "Okschain Token (OKS)",
       "Subcategory": "Others"
     },
+    "0x786001c9c5CA6E502dEB8a8a72480d2147891f32": {
+      "Token Name": "BetProtocolToken (BEPRO)",
+      "Subcategory": "Others"
+    },
+    "0x0462A453c194C176C94A38F1A2AC786bAf05ab2b": {
+      "Token Name": "USDF (USDF)",
+      "Subcategory": "Others"
+    },
+    "0x18562c02456962d1537cD3E4c70e88C48a466418": {
+      "Token Name": "Davies (DVS)",
+      "Subcategory": "Others"
+    },
+    "0x555d051538c7a13712f1f590fa6b4c176ca4529f": {
+      "Token Name": "iOWN Token (iOWN)",
+      "Subcategory": "Others"
+    },
+    "0xa101e27f06a97985b925e244111b61560ecd97db": {
+      "Token Name": "BITTO (BITTO)",
+      "Subcategory": "Others"
+    },
+    "0xa3bcf0e6aed1851a8612f34f90947c2a0eeef28d": {
+      "Token Name": "Mintable Governance NFT (MINT)",
+      "Subcategory": "Others"
+    },
+    "0xc5a9bc46a7dbe1c6de493e84a18f02e70e2c5a32": {
+      "Token Name": "WORLD CUP INU (WCI)",
+      "Subcategory": "Others"
+    },
+    "0x3096bA3D90EBF5B5E7866Edb492cAD12E3c9e776": {
+      "Token Name": "Psyche (USD1)",
+      "Subcategory": "Others"
+    },
+    "0x601F16d1d60839dcA26b0895B6A23774bCA10719": {
+      "Token Name": "Mystery Ghost Token (MGT)",
+      "Subcategory": "Others"
+    },
+    "0x1cCEEd434A7a64D1D8F9Bb719fE0D29CBba9F120": {
+      "Token Name": "Arix (AR)",
+      "Subcategory": "Others"
+    },
+    "0x5a386eb0fcbfee3f0d759e263053c09162ff102d": {
+      "Token Name": "Woonkly (Woonk)",
+      "Subcategory": "Others"
+    },
+    "0xFAc3f6391C86004289A186Ae0198180fCB4D49Ab": {
+      "Token Name": "Alpha Impact (IMPACT)",
+      "Subcategory": "Others"
+    },
+    "0x633eE3fbE5ffc05bD44Ecd8240732fF9ef9Dee1d": {
+      "Token Name": "MarketPeak (PEAK)",
+      "Subcategory": "Others"
+    },
+    "0x960b236A07cf122663c4303350609A66A7B288C0": {
+      "Token Name": "Aragon (ANT)",
+      "Subcategory": "Others"
+    },
+    "0xb37db40e16a7caae38f1e4dbd6b1e44cffe03072": {
+      "Token Name": "Silk (SILK)",
+      "Subcategory": "Others"
+    },
+    "0x5a731151d6510Eb475cc7a0072200cFfC9a3bFe5": {
+      "Token Name": "KingToken ($KING)",
+      "Subcategory": "Others"
+    },
+    "0xd47FF7c7a40273Fd62E0ee1Ffe69EDdb6124eC6D": {
+      "Token Name": "Tako (TAKO)",
+      "Subcategory": "Others"
+    },
+    "0xd7672f4ada6aabc4901fbcfef9adf5b40e4fce06": {
+      "Token Name": "NegaCoin (NG-C)",
+      "Subcategory": "Others"
+    },
+    "0xbc5991ccd8caceba01edc44c2bb9832712c29cab": {
+      "Token Name": "unagii_USD Coin (uUSDC)",
+      "Subcategory": "Others"
+    },
+    "0x98b69ebb4ce228145463d7c08aa71fbb6791fe86": {
+      "Token Name": "Rocket Token (RKTN)",
+      "Subcategory": "Others"
+    },
+    "0x9AcA6aBFe63A5ae0Dc6258cefB65207eC990Aa4D": {
+      "Token Name": "DigiPulse (DGT)",
+      "Subcategory": "Others"
+    },
+    "0x7d4e35a2090b3ba805ddb39b2c4b83612890df87": {
+      "Token Name": "POW NFT (POW)",
+      "Subcategory": "Others"
+    },
+    "0xa3701a6b76995384f7e8ef0e4bfda447fb1e60d9": {
+      "Token Name": "The Amc Token (TAMC)",
+      "Subcategory": "Others"
+    },
+    "0x9403d608515f7346EC44B998984d7741Fd0D9bd4": {
+      "Token Name": "Quantbook Token (QTBK)",
+      "Subcategory": "Others"
+    },
+    "0xa08247a74bbc40a59d218eeda587ab187836ab66": {
+      "Token Name": "IceChain Balancer (ICEB)",
+      "Subcategory": "Others"
+    },
+    "0xa858bc1b71a895ee83b92f149616f9b3f6afa0fb": {
+      "Token Name": "Kambria Token (KAT)",
+      "Subcategory": "Others"
+    },
+    "0xa645264C5603E96c3b0B078cdab68733794B0A71": {
+      "Token Name": "Mysterium (MYST)",
+      "Subcategory": "Others"
+    },
+    "0xAF4421F0D43c5c1d54380736e3f738B159417744": {
+      "Token Name": "USDG (USDG)",
+      "Subcategory": "Others"
+    },
+    "0x08A2E41FB99A7599725190B9C970Ad3893fa33CF": {
+      "Token Name": "Spaghetti (PASTA)",
+      "Subcategory": "Others"
+    },
+    "0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa": {
+      "Token Name": "PayAccept (PAY)",
+      "Subcategory": "Others"
+    },
+    "0x3709AE438E0557976296051F431256F386De370C": {
+      "Token Name": "Yearn Finance Network (YFN)",
+      "Subcategory": "Others"
+    },
+    "0x44e2ca91cea1147f1b503e669f06cd11fb0c5490": {
+      "Token Name": "CoinMetro Token (XCM)",
+      "Subcategory": "Others"
+    },
+    "0x0cf0ee63788a0849fe5297f3407f701e122cc023": {
+      "Token Name": "Streamr (old) (XDATA)",
+      "Subcategory": "Others"
+    },
+    "0x2de72aDa48BDF7Bac276256D3F016fE058490C34": {
+      "Token Name": "FLOKI (FLOKI)",
+      "Subcategory": "Others"
+    },
+    "0x358D12436080a01A16f711014610F8a4c2C2d233": {
+      "Token Name": "Pundi X (PXS)",
+      "Subcategory": "Others"
+    },
+    "0xb4c0913f28a1d8931a49a2328d6374e0f2c2308c": {
+      "Token Name": " (NTH)",
+      "Subcategory": "Others"
+    },
+    "0x7b0c06043468469967dba22d1af33d77d44056c8": {
+      "Token Name": "Morpheus.Network (MRPH)",
+      "Subcategory": "Others"
+    },
+    "0x31d1244177BDd492cd18d889853c0aa05Ab1eA06": {
+      "Token Name": "MarketPeak (PEAK)",
+      "Subcategory": "Others"
+    },
+    "0x32b87fb81674aa79214e51ae42d571136e29d385": {
+      "Token Name": "CyberFM (CYFM)",
+      "Subcategory": "Others"
+    },
+    "0xe5f3a2fd1b5841294845963997BBd6F14CC2D822": {
+      "Token Name": "VentiSwap Token (VST)",
+      "Subcategory": "Others"
+    },
+    "0x63120ccd7b415743e8753afd167f5ad4a1732c43": {
+      "Token Name": "QARK Token of QAN Platform (QARK)",
+      "Subcategory": "Others"
+    },
+    "0xc463f34040ad6222C1fFB03ACEbDFAAC032202d6": {
+      "Token Name": "KiloAmple (kMPL)",
+      "Subcategory": "Others"
+    },
+    "0xB3Cf3c70b957483E554227769037cd454D7056c8": {
+      "Token Name": "Semi Centralized Finance (SCFI)",
+      "Subcategory": "Others"
+    },
+    "0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c": {
+      "Token Name": "Rocket Bunny (BUNNY)",
+      "Subcategory": "Others"
+    },
+    "0x65Ac08c55F21d4A73CA1D429a17a6872b23bFd55": {
+      "Token Name": "ALL BEST ICO.com (ALLBI)",
+      "Subcategory": "Others"
+    },
+    "0x32879B5C0fDbc2A81597F019717b412B9d755A09": {
+      "Token Name": "ParaToken (Para)",
+      "Subcategory": "Others"
+    },
+    "0xf62dff6d13b8ac6f7707335b4d936a2ca5e16d04": {
+      "Token Name": "Visor (VISR)",
+      "Subcategory": "Others"
+    },
+    "0x7ff7a55a7c637e3953ab25569c335e04b96c475b": {
+      "Token Name": "Kondux (KNDX)",
+      "Subcategory": "Others"
+    },
+    "0x2656f02bc30427Ed9d380E20CEc5E04F5a7A50FE": {
+      "Token Name": "SLOUGI (SLOUGI)",
+      "Subcategory": "Others"
+    },
+    "0x912B38134F395D1BFAb4C6F9db632C31667ACF98": {
+      "Token Name": "DeFi Bids (BIDS)",
+      "Subcategory": "Others"
+    },
+    "0xa982B2e19e90b2D9F7948e9C1b65D119F1CE88D6": {
+      "Token Name": "WOM Token (WOM)",
+      "Subcategory": "Others"
+    },
+    "0xa98F029bb4e74C12FB07BBc25854E5a04F7acF4c": {
+      "Token Name": "CRYPTOBUCKS (CBUCKS)",
+      "Subcategory": "Others"
+    },
+    "0x1Aa61c196E76805fcBe394eA00e4fFCEd24FC469": {
+      "Token Name": "yieldfarming.insure (SAFE)",
+      "Subcategory": "Others"
+    },
+    "0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16": {
+      "Token Name": "YAM (YAM)",
+      "Subcategory": "Others"
+    },
+    "0x45eD02e374Aef2e4b34c04e86AD9D45891d10751": {
+      "Token Name": "Digital Fantasy Sports (DFS)",
+      "Subcategory": "Others"
+    },
+    "0x82665764ea0b58157E1e5E9bab32F68c76Ec0CdF": {
+      "Token Name": "VOISE (VSM)",
+      "Subcategory": "Others"
+    },
+    "0xF4A6febD991EE19E1e7517F8E128227483343c5f": {
+      "Token Name": "RiveX Token (RVX)",
+      "Subcategory": "Others"
+    },
+    "0x8b847669B2e5dD5101736e41dA8Ec38653065aeb": {
+      "Token Name": "Huptex (HTX)",
+      "Subcategory": "Others"
+    },
+    "0xc9A954C5A302C45D87CC07efb1259Fb3DaD99ffC": {
+      "Token Name": "ALL BEST ICO (ALLBI)",
+      "Subcategory": "Others"
+    },
+    "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA": {
+      "Token Name": "Old Axie Infinity Shard (AXS)",
+      "Subcategory": "Others"
+    },
+    "0xa8006c4ca56f24d6836727d106349320db7fef82": {
+      "Token Name": "Internxt (INXT)",
+      "Subcategory": "Others"
+    },
+    "0x835A44027Ee4e92BBD8874e5EDE9e5148B069e96": {
+      "Token Name": "PROTOS (PRTS)",
+      "Subcategory": "Others"
+    },
+    "0xe4fa3c576c31696322e8d7165c5965d5a1f6a1a5": {
+      "Token Name": "GamyFi (GFX)",
+      "Subcategory": "Others"
+    },
+    "0xb250382d6a8b5e366236af688a22e0036c4d63a9": {
+      "Token Name": "SHIFT TOKEN (SHIFT)",
+      "Subcategory": "Others"
+    },
+    "0xd0513db39d87e8825389feb10bd911dc53b3a153": {
+      "Token Name": "Fintropy (FINT)",
+      "Subcategory": "Others"
+    },
+    "0x73EaCaa09d400eEcd10B87784fD29d024505DA3b": {
+      "Token Name": "1Planet Token (1PL)",
+      "Subcategory": "Others"
+    },
+    "0xcF8048b2D336c569a3985bD93CbB91B758ded178": {
+      "Token Name": "IZE Fintech Blockchain (IZE)",
+      "Subcategory": "Others"
+    },
+    "0xA1c4d403ad39AB741626cE509eb80E3706B15d8d": {
+      "Token Name": "AWX (AWX)",
+      "Subcategory": "Others"
+    },
+    "0xe5874039ea940af0A0F304E512C48BCb8D25ACA4": {
+      "Token Name": "OTOCASH (OTO)",
+      "Subcategory": "Others"
+    },
+    "0x10010054c81c8c01951e6a631dd228bb02d8d1e5": {
+      "Token Name": "Hundred Finance (HND)",
+      "Subcategory": "Others"
+    },
+    "0xeb9951021698b42e4399f9cbb6267aa35f82d59d": {
+      "Token Name": "Lif (LIF)",
+      "Subcategory": "Others"
+    },
+    "0x0e9776bef2b9ad81759e6d304d22d3c1b1f26087": {
+      "Token Name": "Spume (SPUME)",
+      "Subcategory": "Others"
+    },
+    "0x3156c455e3ba7979fb132ad62886d78850717068": {
+      "Token Name": "ONE ARMY COIN (OAC)",
+      "Subcategory": "Others"
+    },
+    "0xc43420dbaf53b1a6c607c6a561ac60afb16b05fd": {
+      "Token Name": "SHINJIRO (SHINJIRO)",
+      "Subcategory": "Others"
+    },
+    "0xf77832a3429054f12968aa57d78a1e31f55ec853": {
+      "Token Name": "SURGED FINANCE (SURG)",
+      "Subcategory": "Others"
+    },
+    "0x1bBE271d15Bb64dF0bc6CD28Df9Ff322F2eBD847": {
+      "Token Name": "tBTC (TBTC)",
+      "Subcategory": "Others"
+    },
+    "0x25377ddb16c79C93B0CBf46809C8dE8765f03FCd": {
+      "Token Name": "Synthetic CBDAO (SBREE)",
+      "Subcategory": "Others"
+    },
+    "0x31Bb711de2e457066c6281f231fb473FC5c2afd3": {
+      "Token Name": "Vether (VETH)",
+      "Subcategory": "Others"
+    },
+    "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55": {
+      "Token Name": "COL (COL)",
+      "Subcategory": "Others"
+    },
+    "0xbd6467a31899590474ce1e84f70594c53d628e46": {
+      "Token Name": "KardiaChain Token (KAI)",
+      "Subcategory": "Others"
+    },
+    "0xA76942D04cfbbb7A3f20687ac1D11D150185f38d": {
+      "Token Name": "Bitazza (BTZ)",
+      "Subcategory": "Others"
+    },
+    "0x178bf8fd04b47d2de3ef3f6b3d112106375ad584": {
+      "Token Name": "unagii_Tether USD (uUSDT)",
+      "Subcategory": "Others"
+    },
+    "0x5af2be193a6abca9c8817001f45744777db30756": {
+      "Token Name": "Voyager (VGX)",
+      "Subcategory": "Others"
+    },
+    "0xD96f6687F1B86892E932d68a2D3130c41F0402f5": {
+      "Token Name": "Flowchain (FLC)",
+      "Subcategory": "Others"
+    },
+    "0xB16e967ff83DE3F1e9FCeAfbc2C28c1c5c56eF91": {
+      "Token Name": "Polkadog (PDOG)",
+      "Subcategory": "Others"
+    },
+    "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d": {
+      "Token Name": "LTO Network Token (LTO)",
+      "Subcategory": "Others"
+    },
+    "0x93b2fff814fcaeffb01406e80b4ecd89ca6a021b": {
+      "Token Name": "Grumpy Cat (GRUMPY)",
+      "Subcategory": "Others"
+    },
+    "0xc1bfccd4c29813ede019d00d2179eea838a67703": {
+      "Token Name": "Luffy (LUFFY)",
+      "Subcategory": "Others"
+    },
+    "0xab167E816E4d76089119900e941BEfdfA37d6b32": {
+      "Token Name": "Shibnobi (SHINJA)",
+      "Subcategory": "Others"
+    },
+    "0x7d91e637589EC3Bb54D8213a9e92Dc6E8D12da91": {
+      "Token Name": "FRIENDS WITH BENEFITS (FWB)",
+      "Subcategory": "Others"
+    },
+    "0x96006F60B452526481a26eab55265ECdf82E7361": {
+      "Token Name": "HollaEx (HEX)",
+      "Subcategory": "Others"
+    },
+    "0xba6db13aeae3607d400ddffd675aa4e88ecc9a69": {
+      "Token Name": "Sensorium (SENSO)",
+      "Subcategory": "Others"
+    },
+    "0xed30dd7e50edf3581ad970efc5d9379ce2614adb": {
+      "Token Name": "ARC Governance Token (ARCX)",
+      "Subcategory": "Others"
+    },
+    "0x212DD60D4Bf0DA8372fe8116474602d429E5735F": {
+      "Token Name": "Stobox Token (STBU)",
+      "Subcategory": "Others"
+    },
+    "0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c": {
+      "Token Name": "Aurox Token (URUS)",
+      "Subcategory": "Others"
+    },
+    "0x29Ac3094E01eBD60DaB99f4746e04AE0FE013A95": {
+      "Token Name": "VENT (VENT)",
+      "Subcategory": "Others"
+    },
+    "0x09df6A5ca936Be45f5Ae45C7e58C9b4602011fcd": {
+      "Token Name": "yearn.fuel (YFUEL)",
+      "Subcategory": "Others"
+    },
+    "0xe5556ab0d831454cefbb986201bf9daa0eec52a1": {
+      "Token Name": "AZBI FUNCTION FARM (AZFF)",
+      "Subcategory": "Others"
+    },
+    "0x41C37A4683d6a05adB31c39D71348A8403B13Ca9": {
+      "Token Name": "Chain (CHN)",
+      "Subcategory": "Others"
+    },
+    "0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170": {
+      "Token Name": "vSlice (VSL)",
+      "Subcategory": "Others"
+    },
+    "0xA59b009cd174710D9C79B5B1fE38d7347717Cf4e": {
+      "Token Name": "HolyToken (HOLY)",
+      "Subcategory": "Others"
+    },
+    "0x22Ef8B5919E9985ff1FFbA627ef7eE1e4b4b0E86": {
+      "Token Name": "Xfinance (XFI)",
+      "Subcategory": "Others"
+    },
+    "0x77599d2c6db170224243e255e6669280f11f1473": {
+      "Token Name": "Opacity (OPQ)",
+      "Subcategory": "Others"
+    },
+    "0xb68Ce1e522556c05868658767b03955e996c1F56": {
+      "Token Name": "MeconCash (MCH)",
+      "Subcategory": "Others"
+    },
+    "0x0fd3822072ad001aac1c90a09d9506f097f24458": {
+      "Token Name": "NOA (NOA)",
+      "Subcategory": "Others"
+    },
+    "0x1fc52f1abade452dd4674477d4711951700b3d27": {
+      "Token Name": "NOKU (NOKU)",
+      "Subcategory": "Others"
+    },
+    "0x9a6aa7D170ECd757B6993E6EaF42190EDC7dbaF4": {
+      "Token Name": "Barter (BRTR)",
+      "Subcategory": "Others"
+    },
+    "0xa5c807a62cd6774d6bf518dd2dec0ae17446ad8d": {
+      "Token Name": "SoulZ Monogatari (SLZM)",
+      "Subcategory": "Others"
+    },
+    "0x041a36b015486941ce8d5f2c7ff2e88f97390640": {
+      "Token Name": "Ledgis (LED)",
+      "Subcategory": "Others"
+    },
+    "0xf2ef3551c1945a7218fc4ec0a75c9ecfdf012a4f": {
+      "Token Name": "CAGE (C4G3)",
+      "Subcategory": "Others"
+    },
+    "0x0b76544f6c413a555f309bf76260d1e02377c02a": {
+      "Token Name": "Internet Node Token (INT)",
+      "Subcategory": "Others"
+    },
+    "0x8aa688ab789d1848d131c65d98ceaa8875d97ef1": {
+      "Token Name": "MultiVAC (MTV)",
+      "Subcategory": "Others"
+    },
+    "0xe12128d653b62f08fbed56bdeb65db729b6691c3": {
+      "Token Name": "BreezeCoin (BRZC)",
+      "Subcategory": "Others"
+    },
+    "0x28d3E409bb9bC58F1ca6E009f8fC78A1db85e6b7": {
+      "Token Name": "Gem Exchange and Trading (GXT)",
+      "Subcategory": "Others"
+    },
+    "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B": {
+      "Token Name": "NerveNetwork (ENVT)",
+      "Subcategory": "Others"
+    },
+    "0xeb58cBC02fa1Eb966e8d27e90559A00c518E4234": {
+      "Token Name": "Verse (VERSE)",
+      "Subcategory": "Others"
+    },
+    "0x3953aff0d69e8e9f3c06b1a468783c3f4b0f6f16": {
+      "Token Name": "Shikage (SHKG)",
+      "Subcategory": "Others"
+    },
+    "0x82b0e50478eeafde392d45d1259ed1071b6fda81": {
+      "Token Name": "DNA (DNA)",
+      "Subcategory": "Others"
+    },
+    "0x5Dc02Ea99285E17656b8350722694c35154DB1E8": {
+      "Token Name": "BOND (BOND)",
+      "Subcategory": "Others"
+    },
     "0xDF9d4674a430BDCC096A3a403128357AB36844BA": {
       "Token Name": "WadzPay (WTK)",
+      "Subcategory": "Others"
+    },
+    "0xf9254273497Ec98565213055938Ba77C0869D2C8": {
+      "Token Name": "Zoracles (ZORA)",
+      "Subcategory": "Others"
+    },
+    "0x20b1A8a9cA1c7302b7f774266C491C7b11622779": {
+      "Token Name": "ARCS (ARX)",
+      "Subcategory": "Others"
+    },
+    "0x8fB00FDeBb4E83f2C58b3bcD6732AC1B6A7b7221": {
+      "Token Name": "Orion Protocol (ORN)",
+      "Subcategory": "Others"
+    },
+    "0x5e3845a1d78db544613edbe43dc1ea497266d3b8": {
+      "Token Name": "LNX Protocol (LNX)",
+      "Subcategory": "Others"
+    },
+    "0x29428639d889fa989405ee9baF3Ba088E6994eDC": {
+      "Token Name": "$BASED ($BASED)",
+      "Subcategory": "Others"
+    },
+    "0x42382f39e7c9f1add5fa5f0c6e24aa62f50be3b3": {
+      "Token Name": "ZOM (ZOM)",
+      "Subcategory": "Others"
+    },
+    "0xd321Ca7Cd7A233483b8CD5a11a89E9337e70Df84": {
+      "Token Name": "VI (VI)",
+      "Subcategory": "Others"
+    },
+    "0xc92e74b131D7b1D46E60e07F3FaE5d8877Dd03F0": {
+      "Token Name": "Minereum (MNE)",
+      "Subcategory": "Others"
+    },
+    "0x77607588222e01bf892a29abab45796a2047fc7b": {
+      "Token Name": "unagii_ETH (uETH)",
+      "Subcategory": "Others"
+    },
+    "0x5be1DDCA209772F8d7a8C58b28B397e4A496F1F9": {
+      "Token Name": "Tweebaa (TWEE)",
+      "Subcategory": "Others"
+    },
+    "0xe2311ae37502105b442bbef831e9b53c5d2e9b3b": {
+      "Token Name": "Banana (BANANA)",
+      "Subcategory": "Others"
+    },
+    "0x4B86e0295E7d32433FfA6411B82B4F4e56a581E1": {
+      "Token Name": "dogira.lol || dogira.eth.link (DOGIRA)",
+      "Subcategory": "Others"
+    },
+    "0xbbc3a290c7d2755b48681c87f25f9d7f480ad42f": {
+      "Token Name": "Remittance Token (REMCO)",
+      "Subcategory": "Others"
+    },
+    "0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d": {
+      "Token Name": "Insights Network (INSTAR)",
+      "Subcategory": "Others"
+    },
+    "0x41C028a4C1F461eBFC3af91619b240004ebAD216": {
+      "Token Name": "TacoToken (TACO)",
+      "Subcategory": "Others"
+    },
+    "0x4e005a760e00e17c4912a8070eec047cfecbabbb": {
+      "Token Name": "NEXT.exchange (NEXT)",
+      "Subcategory": "Others"
+    },
+    "0x445f51299ef3307dbd75036dd896565f5b4bf7a5": {
+      "Token Name": "V-ID Token (VIDT)",
+      "Subcategory": "Others"
+    },
+    "0xC0134b5B924c2FCA106eFB33C45446c466FBe03e": {
+      "Token Name": "aleph.im (ALEPH)",
+      "Subcategory": "Others"
+    },
+    "0x62195CFdA73F99e1BFF4881FDCFbF5c9576d3c88": {
+      "Token Name": "lexDAO (LEX)",
+      "Subcategory": "Others"
+    },
+    "0x1b793e49237758dbd8b752afc9eb4b329d5da016": {
+      "Token Name": "ViteToken (VITE)",
+      "Subcategory": "Others"
+    },
+    "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
+      "Token Name": "Melon (MLN)",
+      "Subcategory": "Others"
+    },
+    "0x1e987DF68CC13d271e621ec82E050A1BbD62c180": {
+      "Token Name": "WAGMI (WAGMI)",
+      "Subcategory": "Others"
+    },
+    "0xE59064a8185Ed1Fca1D17999621eFedfab4425c9": {
+      "Token Name": "PrimeDAO Token (PRIME)",
+      "Subcategory": "Others"
+    },
+    "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466": {
+      "Token Name": "AION (AION)",
+      "Subcategory": "Others"
+    },
+    "0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64": {
+      "Token Name": "OptionRoom Token (ROOM)",
+      "Subcategory": "Others"
+    },
+    "0xf8a4a419c2d7140e49ef952a7e7ae1bd4a8b6b9c": {
+      "Token Name": "Lith Token (LITH)",
+      "Subcategory": "Others"
+    },
+    "0x2c687B93CCEF2b0a206b20B383C85488071b88D5": {
+      "Token Name": "Ethereum Pro (EPRO)",
+      "Subcategory": "Others"
+    },
+    "0xe0E2eF42664A3e6783E734c1E625a3aBF9B19939": {
+      "Token Name": "Vanilla Network (VANILLA)",
+      "Subcategory": "Others"
+    },
+    "0x442e735978155Ed54ab19201EC834bB519f60168": {
+      "Token Name": "Bistox Exchange Token (BSX)",
+      "Subcategory": "Others"
+    },
+    "0x9183316f7bec5c9bd1E85dBE37Ba674E9CEeabBE": {
+      "Token Name": "Abridge Network (ABN)",
+      "Subcategory": "Others"
+    },
+    "0x457cD14f384E7D103B17feEb01d2a42Ad2ecA529": {
+      "Token Name": "Synthetix Network Token (SNX)",
+      "Subcategory": "Others"
+    },
+    "0xed64142f7d0a4d94ce0e7fe45d12f712fe360bd0": {
+      "Token Name": "CosplayToken (COT)",
+      "Subcategory": "Others"
+    },
+    "0xEb70bbf15Fd1c0542896A80f2aF90C8FD40a9ec5": {
+      "Token Name": "InnovativeBioresearchCoin (INNBC)",
+      "Subcategory": "Others"
+    },
+    "0xDa5bE69074AFD12354173b4350ec9117E73e92e2": {
+      "Token Name": "LogicToken (LOGIC)",
+      "Subcategory": "Others"
+    },
+    "0x6B583Cf4abA7Bf9d6f8A51B3F1F7C7B2ce59Bf15": {
+      "Token Name": "Seigniorage Shares (SHARE)",
+      "Subcategory": "Others"
+    },
+    "0x92ecE48522E1aCbcda4Aaa8C2fBF2Aa9FB15D624": {
+      "Token Name": "ROCKS (ROCKS)",
+      "Subcategory": "Others"
+    },
+    "0x9CF258c95Bd793Ab3023EccbBD2f0Dd440AD0921": {
+      "Token Name": "Flowchain (FLC)",
+      "Subcategory": "Others"
+    },
+    "0x27af23d8db2a3fbce7d04e84f594285fb0059316": {
+      "Token Name": "https://unimex.finance/ (UMEX)",
+      "Subcategory": "Others"
+    },
+    "0xdc4fdc574fb5dbe8e2953c8c2817853a71a8b5c4": {
+      "Token Name": "EQO (EQUOS Origin)",
+      "Subcategory": "Others"
+    },
+    "0x0cD022ddE27169b20895e0e2B2B8A33B25e63579": {
+      "Token Name": "EverRise (RISE)",
+      "Subcategory": "Others"
+    },
+    "0xde51d1599339809cafb8194189ce67d5bdca9e9e": {
+      "Token Name": "Cowrie (COWRIE)",
+      "Subcategory": "Others"
+    },
+    "0x6ea6531b603f270d23d9edd2d8279135dc5d6773": {
+      "Token Name": "InsurChain Coin (INSUR)",
+      "Subcategory": "Others"
+    },
+    "0x072A1BA9fa10DEA38ad2F4043A8385FBBf108cb2": {
+      "Token Name": "Tater ($TATR)",
+      "Subcategory": "Others"
+    },
+    "0xD6f279B7ccBCD70F8be439d25B9Df93AEb60eC55": {
+      "Token Name": "IdleWBTC v3 [Max yield] (idleWBTCYield)",
+      "Subcategory": "Others"
+    },
+    "0x180C288c2151200ad37D150308346b1BE421d32c": {
+      "Token Name": "MOVE (MOVE)",
+      "Subcategory": "Others"
+    },
+    "0xb2733Eba27537da9285e5CfB94AcCa0A3606F2d9": {
+      "Token Name": "Cardino | t.me/CardinoCasino (CINO)",
+      "Subcategory": "Others"
+    },
+    "0xfa3aabe175b5fbdc714e7d52492e1c73537404eb": {
+      "Token Name": "MetaGaming Guild (MGG)",
+      "Subcategory": "Others"
+    },
+    "0x8A2D988Fe2E8c6716cbCeF1B33Df626C692F7B98": {
+      "Token Name": "EverRise (RISE)",
+      "Subcategory": "Others"
+    },
+    "0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7": {
+      "Token Name": "Lendefi Token (LDFI)",
+      "Subcategory": "Others"
+    },
+    "0x4d67edef87a5ff910954899f4e5a0aaf107afd42": {
+      "Token Name": "BlueSparrowToken (BlueSparrow)",
+      "Subcategory": "Others"
+    },
+    "0xBa630d3BA20502BA07975B15c719BEECc8e4EBB0": {
+      "Token Name": "Ethereum Pro (EPRO)",
+      "Subcategory": "Others"
+    },
+    "0x90017BE7948eb595A331461e07744E4A66B6F28B": {
+      "Token Name": "AmongUs.Finance (AUF)",
+      "Subcategory": "Others"
+    },
+    "0x274c5236276422330060aA95cADEd86dA0a297c2": {
+      "Token Name": "Folgory Coin (FLG)",
+      "Subcategory": "Others"
+    },
+    "0xdf6E5F56a3E862AF41Ba4833c9626318E9BBE1A2": {
+      "Token Name": "YFZ Finance (YFZ)",
       "Subcategory": "Others"
     },
     "0x26a79Bd709A7eF5E5F747B8d8f83326EA044d8cC": {
       "Token Name": "BankSocial (BSOCIAL)",
       "Subcategory": "Others"
     },
-    "0xb94c53b0e67fabac3d97173482663ef597d4174a": {
-      "Token Name": "Old Giveth Token (GTH)",
+    "0x6F371CA338bbddd0baF719E1D5d0797cCE20774f": {
+      "Token Name": "Ethereum Rush (ETR)",
+      "Subcategory": "Others"
+    },
+    "0x3aF5Ba94C29a8407785f5f6d90eF5d69a8EB2436": {
+      "Token Name": "unagii_Wrapped BTC (uWBTC)",
+      "Subcategory": "Others"
+    },
+    "0xf27c8A87bCf259F8B02f62b969a8404D15054D0E": {
+      "Token Name": "among.finance (AMONG)",
       "Subcategory": "Others"
     }
   }

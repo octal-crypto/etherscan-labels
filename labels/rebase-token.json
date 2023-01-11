@@ -19,9 +19,6 @@
     "0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6": {
       "Token Name": "Rebased (REB)"
     },
-    "0xe8b251822d003a2b2466ee0e38391c2db2048739": {
-      "Token Name": "rbase.finance (RBASE)"
-    },
     "0xb15ae165000c8d7b69d2a82e425e110668c73ad5": {
       "Token Name": "Linkbased (LBD)"
     },
@@ -31,8 +28,8 @@
     "0x309013d55fB0E8C17363bcC79F25d92f711A5802": {
       "Token Name": "Soft Bitcoin (SBTC)"
     },
-    "0xae00E02D29a35F5a100d64D6133dA7F57fBbfd26": {
-      "Token Name": "GATOR (GATR)"
+    "0xe8b251822d003a2b2466ee0e38391c2db2048739": {
+      "Token Name": "rbase.finance (RBASE)"
     },
     "0xd5c0216b0627134ed57a53a9ea430766ce1d9da5": {
       "Token Name": "MirrorBase Protocol (MiBASE)"
@@ -43,20 +40,23 @@
     "0xd46ba6d942050d489dbd938a2c909a5d5039a161": {
       "Token Name": "Ampleforth (AMPL)"
     },
+    "0xae00E02D29a35F5a100d64D6133dA7F57fBbfd26": {
+      "Token Name": "GATOR (GATR)"
+    },
     "0xd78afdd162b11b2334877df6869f865b784b1527": {
       "Token Name": "dmpl (DMPL)"
-    },
-    "0xbc6819294c554f46bee6f5eb5260089a03e270a2": {
-      "Token Name": "DEFLA (DEFLA)"
-    },
-    "0x4bAE380B5D762D543d426331b8437926443ae9ec": {
-      "Token Name": "XVIX (XVIX)"
     },
     "0x168e39f96a653ce0a456560687241b0b2936e5ff": {
       "Token Name": "2based.finance (2BASED)"
     },
+    "0xbc6819294c554f46bee6f5eb5260089a03e270a2": {
+      "Token Name": "DEFLA (DEFLA)"
+    },
     "0x504fa07ad26bf82455bc67653e8aadb19d25fee3": {
       "Token Name": "TEA (TEA)"
+    },
+    "0x4bAE380B5D762D543d426331b8437926443ae9ec": {
+      "Token Name": "XVIX (XVIX)"
     },
     "0x322124122DF407b0d0D902cB713B3714FB2e2E1F": {
       "Token Name": "Soft Yearn Finance (SYFI)"
@@ -64,11 +64,11 @@
     "0x3fa807B6F8d4c407e6E605368F4372d14658b38C": {
       "Token Name": "Rise Protocol (RISE)"
     },
-    "0x64fB96d0395f6bf105F35233911e3dF2C5bf4Ce8": {
-      "Token Name": "Elastic Bitcoin (XBT)"
-    },
     "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5": {
       "Token Name": "$BASED ($BASED)"
+    },
+    "0x64fB96d0395f6bf105F35233911e3dF2C5bf4Ce8": {
+      "Token Name": "Elastic Bitcoin (XBT)"
     },
     "0xd233D1f6FD11640081aBB8db125f722b5dc729dc": {
       "Token Name": "Dollars (USD)"
@@ -79,26 +79,29 @@
     "0x07150e919b4de5fd6a63de1f9384828396f25fdc": {
       "Token Name": "Base Protocol (BASE)"
     },
-    "0x3863ea7577fc91bfbaeae6a6a3e403524afcf787": {
-      "Token Name": "xETH-G (xETH-G)"
-    },
     "0x8003C49f6ebACDdC493EA47CAB45e892d1B638a1": {
       "Token Name": "Ample Gold (AMPLG)"
     },
-    "0x561695f9556AF49C2B22F71e55b7b0B6F673834f": {
-      "Token Name": "FRT - TLT.Finance (FRT)"
-    },
-    "0x07a1f40a76a5e7e42def56c23deb6b422be2f291": {
-      "Token Name": "Bas3r.finance (Bas3r)"
+    "0x3863ea7577fc91bfbaeae6a6a3e403524afcf787": {
+      "Token Name": "xETH-G (xETH-G)"
     },
     "0x3C144fC1B34fC1be809FbB2b194f460014E60113": {
       "Token Name": "Algoeuro (AEUR)"
     },
+    "0x561695f9556AF49C2B22F71e55b7b0B6F673834f": {
+      "Token Name": "FRT - TLT.Finance (FRT)"
+    },
     "0x4208D8d500B1643DcA98dD27bA6C0060BcA311c5": {
       "Token Name": "REBASE (REBASE)"
     },
+    "0x07a1f40a76a5e7e42def56c23deb6b422be2f291": {
+      "Token Name": "Bas3r.finance (Bas3r)"
+    },
     "0x9F378BD16932CE3388CC237133fd7a3eA13F0C81": {
       "Token Name": "Euros (EUR)"
+    },
+    "0x5166d4ce79b9bf7df477da110c560ce3045aa889": {
+      "Token Name": "xDEF Finance (xDEF2)"
     },
     "0x0c334506E0bcb7C17b583CB7c0ec2F5857BF9e6F": {
       "Token Name": "Public Goods (PUBG)"
@@ -106,26 +109,23 @@
     "0xca6892d6bd9ab4f640b9e91ffbded23ec97fb6f6": {
       "Token Name": "XBASE.Finance (XBASE)"
     },
-    "0x5166d4ce79b9bf7df477da110c560ce3045aa889": {
-      "Token Name": "xDEF Finance (xDEF2)"
-    },
     "0xB009F46793526fFf707BB994b8685fF08Ba34F5C": {
       "Token Name": "Seigniorage Euro-Shares (EUROSHARE)"
-    },
-    "0xc7686B849E414c9E1A77a641F003Fb7B3d310738": {
-      "Token Name": "ReSupply (RSP)"
     },
     "0x015b94ab2b0a14a96030573fbcd0f3d3d763541f": {
       "Token Name": "UZD Zunami Stable (UZD)"
     },
-    "0x3936Ad01cf109a36489d93cabdA11cF062fd3d48": {
-      "Token Name": "Coil (COIL)"
-    },
     "0x67c597624B17b16fb77959217360B7cD18284253": {
       "Token Name": "Benchmark (MARK)"
     },
+    "0xc7686B849E414c9E1A77a641F003Fb7B3d310738": {
+      "Token Name": "ReSupply (RSP)"
+    },
     "0x784561B89A160990F46DE6dB19571Ca1B5F14bCE": {
       "Token Name": "MOST (MOST)"
+    },
+    "0x3936Ad01cf109a36489d93cabdA11cF062fd3d48": {
+      "Token Name": "Coil (COIL)"
     }
   }
 }

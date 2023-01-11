@@ -2,6 +2,9 @@
   "Label": "shipping",
   "Description": "Shipping is the transport of goods for business by sea or other means.",
   "Addresses": {
+    "0xe831f96a7a1dce1aa2eb760b1e296c6a74caa9d5": {
+      "Token Name": "Nexum Coin (NEXM)"
+    },
     "0xd9964e1306dda055f5284c52048712c35ddb61fd": {
       "Token Name": "BitNautic Token (BTNT)"
     },
@@ -16,9 +19,6 @@
     },
     "0xeeac3f8da16bb0485a4a11c5128b0518dac81448": {
       "Token Name": "20-footEqvUnit (TEU)"
-    },
-    "0xe831f96a7a1dce1aa2eb760b1e296c6a74caa9d5": {
-      "Token Name": "Nexum Coin (NEXM)"
     }
   }
 }

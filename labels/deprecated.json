@@ -254,20 +254,20 @@
     "0x1f0d1927498fbd4f9e8558704ce5b658929527ec": {
       "Name Tag": "Zapper.Fi: Deprecated Polygon Bridge"
     },
-    "0x123151402076fc819B7564510989e475c9cD93CA": {
-      "Token Name": "wrapped-DGLD (wDGLD)"
-    },
-    "0x5D609C25adAafd856021F92296C66dB602A0fcE8": {
-      "Token Name": "Synth sBRL (sBRL)"
-    },
     "0x74C80bB51Da1EAc2d40074c647CbD0ab6920063f": {
       "Token Name": "Synth sINR (sINR)"
+    },
+    "0x0Bc209fB72390AF12bD6Fd775355ea0856864B31": {
+      "Token Name": "Synth sCAD (sCAD)"
     },
     "0x84965DCa28c4Eb9dE61d80f80e811eA12BE1c819": {
       "Token Name": "Synth sMKR (sMKR)"
     },
-    "0x0Bc209fB72390AF12bD6Fd775355ea0856864B31": {
-      "Token Name": "Synth sCAD (sCAD)"
+    "0x5D609C25adAafd856021F92296C66dB602A0fcE8": {
+      "Token Name": "Synth sBRL (sBRL)"
+    },
+    "0x123151402076fc819B7564510989e475c9cD93CA": {
+      "Token Name": "wrapped-DGLD (wDGLD)"
     }
   }
 }

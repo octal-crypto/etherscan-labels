@@ -1,9 +1,6 @@
 {
   "Label": "hospitality",
   "Addresses": {
-    "0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D": {
-      "Token Name": "EZYSTAYZ TOKEN (EZY)"
-    },
     "0x833850BE8858722Cfc5E5e75f2Fe6275E055d888": {
       "Token Name": "DecentraBNB (DBNB)"
     },
@@ -18,6 +15,9 @@
     },
     "0xC4e8A9D47000Ab8E59c7031e311762c68215e467": {
       "Token Name": "STARX (STARX)"
+    },
+    "0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D": {
+      "Token Name": "EZYSTAYZ TOKEN (EZY)"
     }
   }
 }

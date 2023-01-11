@@ -44,35 +44,32 @@
     "0x5967BE3D7B38CEa1f3E5f8d7dEB7860cCfa21CB2": {
       "Token Name": "Onto Swap (OSWAP)"
     },
-    "0x195832a377c09074518c1f3aaeb4bc981f79938f": {
-      "Token Name": "IDO Launchpad (IDO)"
-    },
-    "0x17c090F9a17E4e5a8cEb23bbe7E7e28E3C4Ca196": {
-      "Token Name": "BitDNS (DNS)"
+    "0xd9b89eee86b15634c70cab51baf85615a4ab91a1": {
+      "Token Name": "Locklet (LKT)"
     },
     "0x62786eeacc9246b4018e0146cb7a3efeacd9459d": {
       "Token Name": "LessToken (LESS)"
     },
+    "0x17c090F9a17E4e5a8cEb23bbe7E7e28E3C4Ca196": {
+      "Token Name": "BitDNS (DNS)"
+    },
     "0x9ccf191169a613eca433a249d3f40131178caebc": {
       "Token Name": "MicroChains Gov Token (MCG)"
-    },
-    "0xd9b89eee86b15634c70cab51baf85615a4ab91a1": {
-      "Token Name": "Locklet (LKT)"
     },
     "0xdef1fac7bf08f173d286bbbdcbeeade695129840": {
       "Token Name": "Cerby Token (CERBY)"
     },
-    "0x4129d3b7a6a2c5c997774077ac02bdafd1af1d6a": {
-      "Token Name": "Ladder Network (LAD)"
-    },
     "0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D": {
       "Token Name": "Wrapped ABBC (WABBC)"
     },
-    "0x4DFe67781D8b177f5a8536aD817BB9eB2c052F48": {
-      "Token Name": "X0swap Token (X0)"
+    "0x4129d3b7a6a2c5c997774077ac02bdafd1af1d6a": {
+      "Token Name": "Ladder Network (LAD)"
     },
     "0xadfb28426864c0ff169f5dcead2efdd09e0deec9": {
       "Token Name": "PAREX (PRX)"
+    },
+    "0x4DFe67781D8b177f5a8536aD817BB9eB2c052F48": {
+      "Token Name": "X0swap Token (X0)"
     },
     "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f": {
       "Token Name": "RAMP DEFI (RAMP)"
@@ -89,23 +86,26 @@
     "0x64875aaa68d1d5521666c67d692ee0b926b08b2f": {
       "Token Name": "CelsiusX Wrapped ADA (cxADA)"
     },
-    "0x79b4D12Fa63A8d1202b26c5Ba6d62136A4A09dDa": {
-      "Token Name": "SymVerse (SYM)"
-    },
     "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F": {
       "Token Name": "Across Protocol Token (ACX)"
+    },
+    "0x79b4D12Fa63A8d1202b26c5Ba6d62136A4A09dDa": {
+      "Token Name": "SymVerse (SYM)"
     },
     "0x12e57f85b847bade37f37cde3442f00dc33b9982": {
       "Token Name": "Love (LOVE)"
     },
-    "0x14EB60F5f270B059B0c788De0Ddc51Da86f8a06d": {
-      "Token Name": "Phantasma Energy (KCAL)"
-    },
     "0xf9e293d5d793ddc1ae4f778761e0b3e4aa7cf2dd": {
       "Token Name": "CelsiusX Wrapped DOGE (cxDOGE)"
     },
+    "0x14EB60F5f270B059B0c788De0Ddc51Da86f8a06d": {
+      "Token Name": "Phantasma Energy (KCAL)"
+    },
     "0x88c64a7d2ecc882d558dd16abc1537515a78bb7d": {
       "Token Name": "Shifted BTC (zBTC)"
+    },
+    "0x195832a377c09074518c1f3aaeb4bc981f79938f": {
+      "Token Name": "IDO Launchpad (IDO)"
     }
   }
 }

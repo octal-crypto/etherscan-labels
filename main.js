@@ -11,15 +11,14 @@ const sessionId = "";
 
 (async function main() {
 
-    // Reset data directories
-    for (const dir of ["labels", "addresses"]) {
-        fs.rmSync(dir, {recursive:true, force:true});
-        fs.mkdirSync(dir);
-    }
+    // Reset data
+    const labels = [];
+    ["labels","addresses","labels.json"].forEach(d => fs.rmSync(d, {recursive:true, force:true}));
+    ["labels","addresses"].forEach(d => fs.mkdirSync(d))
 
     // For each label
-    const labels = await retry(() => etherscan("/labelcloud"), retriableHTTP);
-    for (const label of labels.querySelectorAll(".dropdown-menu")) {
+    const cloud = await retry(() => etherscan("/labelcloud"), retriableHTTP);
+    for (const label of cloud.querySelectorAll(".dropdown-menu")) {
         const data = {};
 
         // For each of the label's links
@@ -74,9 +73,11 @@ const sessionId = "";
             }
         }
         if (data.Label) {
+            labels.push(data.Label);
             fs.writeFileSync(`labels/${data.Label}.json`, JSON.stringify(data, null, 2));
         }
     }
+    fs.writeFileSync("labels.json", JSON.stringify(labels, null, 2));
 })().catch(e => { console.error(e); process.exitCode = 1; });
 
 /** Wraps an HTTP GET request in a promise. Returns the
@@ -114,7 +115,7 @@ async function etherscan(path, timeout=120*1000) {
 
 /** Retries {retriable} errors from {func} with {delay}
   * backoff increased by {mult} and optional {jitter} */
-async function retry(func, retriable=(()=>true), delay=2000, mult=1.1, jitter=true) {
+async function retry(func, retriable=(()=>true), delay=3000, mult=1.1, jitter=true) {
     try { return await func(); }
     catch (e) {
         if (!retriable(e)) throw e;
@@ -145,5 +146,5 @@ function updateAddress(datum) {
         : JSON.parse(fs.readFileSync(file));
     const label = old.Labels[Label] ??= {};
     Object.entries(d).forEach(([k,v]) => label[k] ??= v);
-    fs.writeFileSync(file, old);
+    fs.writeFileSync(file, JSON.stringify(old, null, 2));
 }

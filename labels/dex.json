@@ -299,11 +299,11 @@
     "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42": {
       "Token Name": "MCDEX Token (MCB)"
     },
-    "0xdddddd4301a082e62e84e43f474f044423921918": {
-      "Token Name": "DeversiFi Token (DVF)"
-    },
     "0xdddd0e38d30dd29c683033fa0132f868597763ab": {
       "Token Name": "StakedDVF (xDVF)"
+    },
+    "0xdddddd4301a082e62e84e43f474f044423921918": {
+      "Token Name": "DeversiFi Token (DVF)"
     },
     "0xcafe001067cdef266afb7eb5a286dcfd277f3de5": {
       "Token Name": "ParaSwap (PSP)"
@@ -332,11 +332,11 @@
     "0x0B6F3c17e1626a7cBfA4302CE4E3c45522d23A83": {
       "Token Name": "WardenSwap (WAD)"
     },
-    "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183": {
-      "Token Name": "shroom.finance (SHROOM)"
-    },
     "0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4": {
       "Token Name": "OneSwap (ONES)"
+    },
+    "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183": {
+      "Token Name": "shroom.finance (SHROOM)"
     },
     "0x155ff1A85F440EE0A382eA949f24CE4E0b751c65": {
       "Token Name": "Behodler.io (EYE)"
@@ -374,329 +374,329 @@
     "0x286c0936c7eaf6651099ab5dab9ee5a6cb5d229d": {
       "Token Name": "Kwikswap (KWIK)"
     },
-    "0xa3b93c2c4579654de50dd2ea227a5d6b98ed44c5": {
-      "Token Name": "BitTank Token (TANK)"
-    },
-    "0xc2db4c131adaf01c15a1db654c040c8578929d55": {
-      "Token Name": "Wasabi USD (waUSD)"
-    },
-    "0xb9440022a095343b440d590fcd2d7a3794bd76c8": {
-      "Token Name": "Saturn DAO Token (SATURN)"
-    },
-    "0x147aB744f058A52e828BEE84A9C58660F2fF5Ff9": {
-      "Token Name": "Noodle (NOOD)"
-    },
-    "0x9fC689CCaDa600B6DF723D9E47D84d76664a1F23": {
-      "Token Name": "Curve.fi cDAI/cUSDC/USDT (cDAI+cUSDC+USDT)"
-    },
-    "0x7Ef5ac1FE8B6832EbAddEE1856E4A21E46843565": {
-      "Token Name": "DaoSwap (DOI)"
-    },
-    "0x1c1c14a6b5074905ce5d367b0a7e098b58ebfd47": {
-      "Token Name": "FidexToken (FEX)"
-    },
-    "0xc26d79f8dcb5bbbc52e4cf17c6fb800a9aad39a7": {
-      "Token Name": "MiqiToken (MQ)"
-    },
-    "0xfbbe9b1142c699512545f47937ee6fae0e4b0aa9": {
-      "Token Name": "EDDA (EDDA)"
-    },
-    "0xd2ba23de8a19316a638dc1e7a9adda1d74233368": {
-      "Token Name": "QuickSwap (QUICK)"
-    },
-    "0xd2057d71fe3f5b0dc1e3e7722940e1908fc72078": {
-      "Token Name": "KingToken ($KING)"
-    },
-    "0x08130635368AA28b217a4dfb68E1bF8dC525621C": {
-      "Token Name": "AfroDex (AfroX)"
-    },
-    "0x49849C98ae39Fff122806C06791Fa73784FB3675": {
-      "Token Name": "Curve.fi renBTC/wBTC (crvRenWBTC)"
-    },
-    "0x1b8568fbb47708e9e9d31ff303254f748805bf21": {
-      "Token Name": "Scarcity (SCX)"
-    },
-    "0xc0ebCb68fC449104Fd74E792fbe7153Ad242F095": {
-      "Token Name": "One Piece Coin (BELLY)"
-    },
-    "0x9dcd36e6f3dd1186d902de9241e10c2c2171a2ef": {
-      "Token Name": "PotterSwap Token (PSW)"
-    },
-    "0xff0677aa319585fecd5b06a0bae4d918422ce0e5": {
-      "Token Name": "EDT2 (EDT2)"
-    },
-    "0x60757088C7140E9e7Bc943632ee43A831f1112ac": {
-      "Token Name": "Fish Token (FISH)"
-    },
-    "0xf5ed2dc77f0d1ea7f106ecbd1850e406adc41b51": {
-      "Token Name": "The Ocean Token (OCEAN)"
-    },
-    "0x2a4A071BCe925D210797c6FB0BC7bd08a80Cb9c2": {
-      "Token Name": "Burger Token (BURGER)"
-    },
-    "0x03d1b1a56708fa298198dd5e23651a29b76a16d2": {
-      "Token Name": "1INCH Token (Vested) (v1INCH)"
-    },
-    "0x20e94867794dba030ee287f1406e100d03c84cd3": {
-      "Token Name": "DEW (DEW)"
-    },
-    "0xf217f7df49f626f83f40d7d5137d663b1ec4ee6e": {
-      "Token Name": "STRONG (STRONG)"
-    },
-    "0x39f77C98c6a3835A756fCa3b54A1d5B20D1Fbf26": {
-      "Token Name": "Specie Token (XSP)"
-    },
-    "0x777172d858dc1599914a1c4c6c9fc48c99a60990": {
-      "Token Name": "Solidly (SOLID)"
-    },
-    "0xf1f5De69C9C8D9BE8a7B01773Cc1166D4Ec6Ede2": {
-      "Token Name": "Definitex (DFX)"
-    },
-    "0x56aa2f35ad4bf936a144d193b43fcc0f27b16f5b": {
-      "Token Name": "Token Sunnyswap (SUNNY)"
-    },
-    "0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086": {
-      "Token Name": "CRYPTO BANK (CBANK)"
-    },
-    "0xD8a8843b0a5aba6B030E92B3F4d669FaD8A5BE50": {
-      "Token Name": "AfroDex Labs Token (AFDLT)"
-    },
-    "0xD905e2eaeBe188fc92179b6350807D8bd91Db0D8": {
-      "Token Name": "Curve.fi DAI/USDC/USDT/PAX (ypaxCrv)"
-    },
-    "0x5a75a093747b72a0e14056352751edf03518031d": {
-      "Token Name": "EmiSwap - EmiDao Token (ESW)"
-    },
-    "0x2f25d402829ca4085b8ea4d3bc68bf203f5a9fab": {
-      "Token Name": "Eagonswap (Eagon)"
-    },
-    "0x041fdd6637eCfD96af8804278AC12660ac2D12c0": {
-      "Token Name": "SwapDEX (SDX)"
-    },
-    "0x7866E48C74CbFB8183cd1a929cd9b95a7a5CB4F4": {
-      "Token Name": "DexKit (KIT)"
-    },
-    "0x1E02cdbbA6729B6470de81Ad4D2cCA4c514521b9": {
-      "Token Name": "Mobius Token (MOT)"
-    },
-    "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57": {
-      "Token Name": "JOYSO (JOY)"
-    },
-    "0x1712Aad2C773ee04bdC9114b32163c058321CD85": {
-      "Token Name": "LimitSwap (LIMIT)"
-    },
-    "0xCAC7a8aeC77372449412cA7C1FC945B615EAa957": {
-      "Token Name": "Yolex.io (YEX)"
-    },
-    "0x946ea588417ffa565976efda354d82c01719a2ea": {
-      "Token Name": "SWZL (SWZL)"
-    },
-    "0x020810d775fc019480cd56ecb960389d3477039d": {
-      "Token Name": "Materia (GIL)"
-    },
-    "0xde52a16c6db7914e6953e27a7df4ce6a315f8b45": {
-      "Token Name": "OUCHI Token (OUCHI)"
-    },
-    "0x24ea9c1cfd77a8db3fb707f967309cf013cc1078": {
-      "Token Name": "CAVO (CAVO)"
-    },
-    "0x6d38574be6c230272daad16fa5f291f825bd0da1": {
-      "Token Name": "Dinngo (DGO)"
-    },
-    "0x60b9c9c167ba57cc376b0faafc68df5c9882328e": {
-      "Token Name": "Plexus (PLX)"
-    },
-    "0x578301f78b7269261cea3c968f0643fb1a101e5e": {
-      "Token Name": "HolderSwap (HFS)"
-    },
-    "0xce1298ef635326d9f197963e49e1e67422761897": {
-      "Token Name": "PiSwap Token (PIS)"
-    },
-    "0xc03a652efbbacfabde37cd66c7a4ff4332f7186c": {
-      "Token Name": "XENO NFT HUB (XNO)"
-    },
-    "0xCEDDf3a74F9E5012E651428963b9083Ba5E559c4": {
-      "Token Name": "FX99 (XCIX)"
-    },
-    "0x66e5dbc7fece1d31eb60af8cfa0563ec0d1a81bd": {
-      "Token Name": "BitEye Token (BEY)"
-    },
-    "0x9f20ed5f919dc1c1695042542c13adcfc100dcab": {
-      "Token Name": "Component (CMP)"
-    },
-    "0x8c5E6FdFa54B0027E10d9438E8515b6FA6c38FcC": {
-      "Token Name": "ICETEA.Finance (ICET)"
-    },
-    "0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A": {
-      "Token Name": "Swapfolio (SWFL)"
-    },
-    "0x7bd198b9107496fd5cc3d7655af52f43a8edbc4c": {
-      "Token Name": "oneVBTC (oneVBTC)"
-    },
-    "0x96cf107e446a6e528ffd045f4eb6dff3cdb6a666": {
-      "Token Name": "3XT TOKEN (3XT)"
-    },
-    "0xdf44a80c17813789f60090638827aeb23698b122": {
-      "Token Name": "stableDEX (STDEX)"
-    },
-    "0x34748fedad669c788aabe4fb325a4587941f7b48": {
-      "Token Name": "TOSA INU (TOS)"
-    },
-    "0xbae5f2d8a1299e5c4963eaff3312399253f27ccb": {
-      "Token Name": "SOAR.FI (SOAR)"
+    "0x617A781e26419b5B0D9BF63c4ECB7f192AdB9768": {
+      "Token Name": "DEXPRO (DPRO)"
     },
     "0xcfde94e82f2224Ce9fEb65108e9327c9493BEa17": {
       "Token Name": "Unico Defi (UNICO)"
     },
-    "0xC25a3A3b969415c80451098fa907EC722572917F": {
-      "Token Name": "Curve.fi DAI/USDC/USDT/sUSD (crvPlain3andSUSD)"
-    },
-    "0x3106a0a076bedae847652f42ef07fd58589e001f": {
-      "Token Name": "Alkimi Exchange ($ADS)"
-    },
-    "0x5967BE3D7B38CEa1f3E5f8d7dEB7860cCfa21CB2": {
-      "Token Name": "Onto Swap (OSWAP)"
-    },
-    "0xb1ed41dc1fe9b723a31137afdd1201d17917fe91": {
-      "Token Name": "Alttex (ALTX)"
-    },
-    "0xA1aC1450ee86c35d1F959f2792cB8cef726Bb60d": {
-      "Token Name": "YearnSwap (YFSW)"
-    },
-    "0xe7ab45162f5979f09b0bda1cc7dfc97c270ea3d5": {
-      "Token Name": "Dobermann (DOBE)"
-    },
-    "0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac": {
-      "Token Name": "Metric.exchange (METRIC)"
-    },
-    "0x8f041a3940a5e6fb580075c3774e15fcfa0e1618": {
-      "Token Name": "oneWING (oneWING)"
-    },
-    "0xadfb28426864c0ff169f5dcead2efdd09e0deec9": {
-      "Token Name": "PAREX (PRX)"
-    },
-    "0x8d10e4b59db263ef4e7b88fcaacfc9ecb821a962": {
-      "Token Name": "Bittilo (BTLO)"
-    },
-    "0x4b21fe3dcbfba42a1e52dc2f2ad332e177f7e1b1": {
-      "Token Name": "DEC777Token (DEC)"
-    },
-    "0x380291A9A8593B39f123cF39cc1cc47463330b1F": {
-      "Token Name": "Elite Swap (ELT)"
-    },
-    "0x3b3ac5386837dc563660fb6a0937dfaa5924333b": {
-      "Token Name": "Curve.fi yDAI/yUSDC/yUSDT/yBUSD (yDAI+yUSDC+yUSDT+yBUSD)"
-    },
-    "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3": {
-      "Token Name": "Curve.fi renBTC/wBTC/sBTC (crvRenWSBTC)"
-    },
-    "0x5197FBE1a86679FF1360E27862BF88B0c5119BD8": {
-      "Token Name": "BITPIF (BPF)"
-    },
-    "0xC36442b4a4522E871399CD717aBDD847Ab11FE88": {
-      "Token Name": "Uniswap V3: Positions NFT (UNI-V3-POS)"
-    },
-    "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490": {
-      "Token Name": "Curve.fi DAI/USDC/USDT (3Crv)"
-    },
-    "0xf4065e4477e91c177ded71a7a6fb5ee07dc46bc9": {
-      "Token Name": "CEDEX (CEDEX)"
-    },
-    "0x52a56685EeFc648F01F97ecE0184DA416410B0DA": {
-      "Token Name": "ALLCOINSWAP (WAP)"
-    },
-    "0xb566e883555aebf5b1db211070b530ab00a4b18a": {
-      "Token Name": "DCTDAO (DCTD)"
-    },
-    "0x7705c572d9cc824fBA4e4EFb40F00916534396d9": {
-      "Token Name": "KimchiSwap (KSWAP)"
-    },
-    "0xdcaca05de9ade34f3fcb9ce94d1b7930093e526e": {
-      "Token Name": "Degen (DEGEN)"
-    },
-    "0xc888a0ab4831a29e6ca432babf52e353d23db3c2": {
-      "Token Name": "FastSwapToken (FAST)"
-    },
-    "0x082280b4ae1a9e552555c256124de96fab63159b": {
-      "Token Name": "Meterqubes (MEQ)"
-    },
-    "0xb0d8e79f484ec6df92bfc032735d7f9b19e361ef": {
-      "Token Name": "ZEROGAS (0GAS)"
-    },
-    "0xe17807e05289b7555d24A07A201aDAb19Bda63f8": {
-      "Token Name": "ToraSwap (TORA)"
-    },
-    "0x6f4d597f17e723f2474002d34ae7284291520f3a": {
-      "Token Name": "Boxswap (BOXI)"
-    },
-    "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56": {
-      "Token Name": "Balancer 80 BAL 20 WETH (B-80BAL-20WETH)"
-    },
-    "0x845838df265dcd2c412a1dc9e959c7d08537f8a2": {
-      "Token Name": "Curve.fi cDAI/cUSDC (cDAI+cUSDC)"
-    },
-    "0x18Cc17a1EeD37C02A77B0B96b7890C7730E2a2CF": {
-      "Token Name": "oneLINK (oneLINK)"
-    },
-    "0x61f532EF937E809567d69531Ae533595402Bb4A8": {
-      "Token Name": "pumpgastoken (PUMP)"
-    },
-    "0x9ae559ac062de221eb5198d90c27e45e85fcaab2": {
-      "Token Name": "Herdius (HER)"
-    },
-    "0x73627974adea82397bcf7fac5848207cce88938d": {
-      "Token Name": "Resardis Token (RSD)"
-    },
-    "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa": {
-      "Token Name": "PolkastarterToken (POLS)"
-    },
-    "0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea": {
-      "Token Name": "IDEX Membership (IDXM)"
-    },
-    "0xa960d2ba7000d58773e7fa5754dec3bb40a069d5": {
-      "Token Name": "One DEX (ODEX)"
-    },
-    "0xB96AfAD41789B4225D1283F9bC25F9E2C9fe40Ee": {
-      "Token Name": "KungfuSwap (KUNGFU)"
-    },
-    "0x896e145568624a498c5a909187363ae947631503": {
-      "Token Name": "Wasabi (WASABI)"
-    },
-    "0x3155ba85d5f96b2d030a4966af206230e46849cb": {
-      "Token Name": "THORChain ETH.RUNE (RUNE)"
-    },
-    "0x283669123bd83da2536bb534e20512101c18e5d8": {
-      "Token Name": "Bitpayer Token (BPT)"
-    },
-    "0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8": {
-      "Token Name": "Curve.fi yDAI/yUSDC/yUSDT/yTUSD (yDAI+yUSDC+yUSDT+yTUSD)"
-    },
-    "0xc88f47067db2e25851317a2fdae73a22c0777c37": {
-      "Token Name": "oneBTC (oneBTC)"
-    },
-    "0x7afA2BbC06Dad88487b5171EA2bcDF938A6b7Ff9": {
-      "Token Name": "TramsToken (TRAMS)"
-    },
-    "0x546aaa98627797c04c48ac716db36314285b4b5a": {
-      "Token Name": "X0swap Token (X0)"
-    },
-    "0x617A781e26419b5B0D9BF63c4ECB7f192AdB9768": {
-      "Token Name": "DEXPRO (DPRO)"
-    },
-    "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53": {
-      "Token Name": "TIME (TIME)"
-    },
-    "0xb6d7b693ccfd1359d84ce389d7c40f590eba1ff0": {
-      "Token Name": "Holder Finance (HFI)"
-    },
-    "0x1d32916cfa6534d261ad53e2498ab95505bd2510": {
-      "Token Name": "YouSwap (YOU)"
+    "0x147aB744f058A52e828BEE84A9C58660F2fF5Ff9": {
+      "Token Name": "Noodle (NOOD)"
     },
     "0x579353231F3540B218239774422962C64a3693e7": {
       "Token Name": "Bitcratic Revenue (BCTR)"
     },
+    "0xb9440022a095343b440d590fcd2d7a3794bd76c8": {
+      "Token Name": "Saturn DAO Token (SATURN)"
+    },
+    "0x96cf107e446a6e528ffd045f4eb6dff3cdb6a666": {
+      "Token Name": "3XT TOKEN (3XT)"
+    },
+    "0x49849C98ae39Fff122806C06791Fa73784FB3675": {
+      "Token Name": "Curve.fi renBTC/wBTC (crvRenWBTC)"
+    },
+    "0x020810d775fc019480cd56ecb960389d3477039d": {
+      "Token Name": "Materia (GIL)"
+    },
+    "0x1c1c14a6b5074905ce5d367b0a7e098b58ebfd47": {
+      "Token Name": "FidexToken (FEX)"
+    },
+    "0x73627974adea82397bcf7fac5848207cce88938d": {
+      "Token Name": "Resardis Token (RSD)"
+    },
+    "0x578301f78b7269261cea3c968f0643fb1a101e5e": {
+      "Token Name": "HolderSwap (HFS)"
+    },
+    "0xA1aC1450ee86c35d1F959f2792cB8cef726Bb60d": {
+      "Token Name": "YearnSwap (YFSW)"
+    },
+    "0xff0677aa319585fecd5b06a0bae4d918422ce0e5": {
+      "Token Name": "EDT2 (EDT2)"
+    },
+    "0x380291A9A8593B39f123cF39cc1cc47463330b1F": {
+      "Token Name": "Elite Swap (ELT)"
+    },
+    "0xadfb28426864c0ff169f5dcead2efdd09e0deec9": {
+      "Token Name": "PAREX (PRX)"
+    },
+    "0x08130635368AA28b217a4dfb68E1bF8dC525621C": {
+      "Token Name": "AfroDex (AfroX)"
+    },
+    "0xf5ed2dc77f0d1ea7f106ecbd1850e406adc41b51": {
+      "Token Name": "The Ocean Token (OCEAN)"
+    },
+    "0x546aaa98627797c04c48ac716db36314285b4b5a": {
+      "Token Name": "X0swap Token (X0)"
+    },
+    "0xD905e2eaeBe188fc92179b6350807D8bd91Db0D8": {
+      "Token Name": "Curve.fi DAI/USDC/USDT/PAX (ypaxCrv)"
+    },
+    "0x7bd198b9107496fd5cc3d7655af52f43a8edbc4c": {
+      "Token Name": "oneVBTC (oneVBTC)"
+    },
+    "0x5197FBE1a86679FF1360E27862BF88B0c5119BD8": {
+      "Token Name": "BITPIF (BPF)"
+    },
+    "0x20e94867794dba030ee287f1406e100d03c84cd3": {
+      "Token Name": "DEW (DEW)"
+    },
+    "0x1d32916cfa6534d261ad53e2498ab95505bd2510": {
+      "Token Name": "YouSwap (YOU)"
+    },
+    "0xf1f5De69C9C8D9BE8a7B01773Cc1166D4Ec6Ede2": {
+      "Token Name": "Definitex (DFX)"
+    },
+    "0xbae5f2d8a1299e5c4963eaff3312399253f27ccb": {
+      "Token Name": "SOAR.FI (SOAR)"
+    },
+    "0x52a56685EeFc648F01F97ecE0184DA416410B0DA": {
+      "Token Name": "ALLCOINSWAP (WAP)"
+    },
+    "0xdcaca05de9ade34f3fcb9ce94d1b7930093e526e": {
+      "Token Name": "Degen (DEGEN)"
+    },
+    "0xD8a8843b0a5aba6B030E92B3F4d669FaD8A5BE50": {
+      "Token Name": "AfroDex Labs Token (AFDLT)"
+    },
+    "0xc888a0ab4831a29e6ca432babf52e353d23db3c2": {
+      "Token Name": "FastSwapToken (FAST)"
+    },
+    "0x777172d858dc1599914a1c4c6c9fc48c99a60990": {
+      "Token Name": "Solidly (SOLID)"
+    },
+    "0x60757088C7140E9e7Bc943632ee43A831f1112ac": {
+      "Token Name": "Fish Token (FISH)"
+    },
+    "0x8f041a3940a5e6fb580075c3774e15fcfa0e1618": {
+      "Token Name": "oneWING (oneWING)"
+    },
+    "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57": {
+      "Token Name": "JOYSO (JOY)"
+    },
+    "0x946ea588417ffa565976efda354d82c01719a2ea": {
+      "Token Name": "SWZL (SWZL)"
+    },
+    "0x6d38574be6c230272daad16fa5f291f825bd0da1": {
+      "Token Name": "Dinngo (DGO)"
+    },
+    "0xCAC7a8aeC77372449412cA7C1FC945B615EAa957": {
+      "Token Name": "Yolex.io (YEX)"
+    },
+    "0x60b9c9c167ba57cc376b0faafc68df5c9882328e": {
+      "Token Name": "Plexus (PLX)"
+    },
+    "0x3155ba85d5f96b2d030a4966af206230e46849cb": {
+      "Token Name": "THORChain ETH.RUNE (RUNE)"
+    },
+    "0x39f77C98c6a3835A756fCa3b54A1d5B20D1Fbf26": {
+      "Token Name": "Specie Token (XSP)"
+    },
+    "0x18Cc17a1EeD37C02A77B0B96b7890C7730E2a2CF": {
+      "Token Name": "oneLINK (oneLINK)"
+    },
+    "0x7afA2BbC06Dad88487b5171EA2bcDF938A6b7Ff9": {
+      "Token Name": "TramsToken (TRAMS)"
+    },
+    "0x66e5dbc7fece1d31eb60af8cfa0563ec0d1a81bd": {
+      "Token Name": "BitEye Token (BEY)"
+    },
+    "0x03d1b1a56708fa298198dd5e23651a29b76a16d2": {
+      "Token Name": "1INCH Token (Vested) (v1INCH)"
+    },
+    "0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A": {
+      "Token Name": "Swapfolio (SWFL)"
+    },
+    "0x6f4d597f17e723f2474002d34ae7284291520f3a": {
+      "Token Name": "Boxswap (BOXI)"
+    },
+    "0xb6d7b693ccfd1359d84ce389d7c40f590eba1ff0": {
+      "Token Name": "Holder Finance (HFI)"
+    },
+    "0xCEDDf3a74F9E5012E651428963b9083Ba5E559c4": {
+      "Token Name": "FX99 (XCIX)"
+    },
+    "0xdf44a80c17813789f60090638827aeb23698b122": {
+      "Token Name": "stableDEX (STDEX)"
+    },
+    "0x8c5E6FdFa54B0027E10d9438E8515b6FA6c38FcC": {
+      "Token Name": "ICETEA.Finance (ICET)"
+    },
+    "0xC25a3A3b969415c80451098fa907EC722572917F": {
+      "Token Name": "Curve.fi DAI/USDC/USDT/sUSD (crvPlain3andSUSD)"
+    },
+    "0x34748fedad669c788aabe4fb325a4587941f7b48": {
+      "Token Name": "TOSA INU (TOS)"
+    },
+    "0x4b21fe3dcbfba42a1e52dc2f2ad332e177f7e1b1": {
+      "Token Name": "DEC777Token (DEC)"
+    },
+    "0xc88f47067db2e25851317a2fdae73a22c0777c37": {
+      "Token Name": "oneBTC (oneBTC)"
+    },
+    "0xc26d79f8dcb5bbbc52e4cf17c6fb800a9aad39a7": {
+      "Token Name": "MiqiToken (MQ)"
+    },
+    "0xb1ed41dc1fe9b723a31137afdd1201d17917fe91": {
+      "Token Name": "Alttex (ALTX)"
+    },
+    "0x1E02cdbbA6729B6470de81Ad4D2cCA4c514521b9": {
+      "Token Name": "Mobius Token (MOT)"
+    },
+    "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3": {
+      "Token Name": "Curve.fi renBTC/wBTC/sBTC (crvRenWSBTC)"
+    },
+    "0x896e145568624a498c5a909187363ae947631503": {
+      "Token Name": "Wasabi (WASABI)"
+    },
+    "0x7Ef5ac1FE8B6832EbAddEE1856E4A21E46843565": {
+      "Token Name": "DaoSwap (DOI)"
+    },
+    "0xc0ebCb68fC449104Fd74E792fbe7153Ad242F095": {
+      "Token Name": "One Piece Coin (BELLY)"
+    },
+    "0x5967BE3D7B38CEa1f3E5f8d7dEB7860cCfa21CB2": {
+      "Token Name": "Onto Swap (OSWAP)"
+    },
+    "0x8d10e4b59db263ef4e7b88fcaacfc9ecb821a962": {
+      "Token Name": "Bittilo (BTLO)"
+    },
+    "0x9dcd36e6f3dd1186d902de9241e10c2c2171a2ef": {
+      "Token Name": "PotterSwap Token (PSW)"
+    },
+    "0xd2ba23de8a19316a638dc1e7a9adda1d74233368": {
+      "Token Name": "QuickSwap (QUICK)"
+    },
+    "0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac": {
+      "Token Name": "Metric.exchange (METRIC)"
+    },
+    "0x3b3ac5386837dc563660fb6a0937dfaa5924333b": {
+      "Token Name": "Curve.fi yDAI/yUSDC/yUSDT/yBUSD (yDAI+yUSDC+yUSDT+yBUSD)"
+    },
+    "0xd2057d71fe3f5b0dc1e3e7722940e1908fc72078": {
+      "Token Name": "KingToken ($KING)"
+    },
+    "0xe17807e05289b7555d24A07A201aDAb19Bda63f8": {
+      "Token Name": "ToraSwap (TORA)"
+    },
+    "0xf217f7df49f626f83f40d7d5137d663b1ec4ee6e": {
+      "Token Name": "STRONG (STRONG)"
+    },
+    "0xf4065e4477e91c177ded71a7a6fb5ee07dc46bc9": {
+      "Token Name": "CEDEX (CEDEX)"
+    },
+    "0xc03a652efbbacfabde37cd66c7a4ff4332f7186c": {
+      "Token Name": "XENO NFT HUB (XNO)"
+    },
+    "0x845838df265dcd2c412a1dc9e959c7d08537f8a2": {
+      "Token Name": "Curve.fi cDAI/cUSDC (cDAI+cUSDC)"
+    },
+    "0xc2db4c131adaf01c15a1db654c040c8578929d55": {
+      "Token Name": "Wasabi USD (waUSD)"
+    },
+    "0x2a4A071BCe925D210797c6FB0BC7bd08a80Cb9c2": {
+      "Token Name": "Burger Token (BURGER)"
+    },
+    "0x9f20ed5f919dc1c1695042542c13adcfc100dcab": {
+      "Token Name": "Component (CMP)"
+    },
+    "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490": {
+      "Token Name": "Curve.fi DAI/USDC/USDT (3Crv)"
+    },
+    "0x082280b4ae1a9e552555c256124de96fab63159b": {
+      "Token Name": "Meterqubes (MEQ)"
+    },
+    "0x041fdd6637eCfD96af8804278AC12660ac2D12c0": {
+      "Token Name": "SwapDEX (SDX)"
+    },
+    "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56": {
+      "Token Name": "Balancer 80 BAL 20 WETH (B-80BAL-20WETH)"
+    },
+    "0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086": {
+      "Token Name": "CRYPTO BANK (CBANK)"
+    },
+    "0x7705c572d9cc824fBA4e4EFb40F00916534396d9": {
+      "Token Name": "KimchiSwap (KSWAP)"
+    },
+    "0xb0d8e79f484ec6df92bfc032735d7f9b19e361ef": {
+      "Token Name": "ZEROGAS (0GAS)"
+    },
+    "0x2f25d402829ca4085b8ea4d3bc68bf203f5a9fab": {
+      "Token Name": "Eagonswap (Eagon)"
+    },
+    "0xB96AfAD41789B4225D1283F9bC25F9E2C9fe40Ee": {
+      "Token Name": "KungfuSwap (KUNGFU)"
+    },
+    "0x1b8568fbb47708e9e9d31ff303254f748805bf21": {
+      "Token Name": "Scarcity (SCX)"
+    },
+    "0x1712Aad2C773ee04bdC9114b32163c058321CD85": {
+      "Token Name": "LimitSwap (LIMIT)"
+    },
+    "0x9ae559ac062de221eb5198d90c27e45e85fcaab2": {
+      "Token Name": "Herdius (HER)"
+    },
+    "0x3106a0a076bedae847652f42ef07fd58589e001f": {
+      "Token Name": "Alkimi Exchange ($ADS)"
+    },
+    "0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8": {
+      "Token Name": "Curve.fi yDAI/yUSDC/yUSDT/yTUSD (yDAI+yUSDC+yUSDT+yTUSD)"
+    },
+    "0xfbbe9b1142c699512545f47937ee6fae0e4b0aa9": {
+      "Token Name": "EDDA (EDDA)"
+    },
+    "0x7866E48C74CbFB8183cd1a929cd9b95a7a5CB4F4": {
+      "Token Name": "DexKit (KIT)"
+    },
+    "0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea": {
+      "Token Name": "IDEX Membership (IDXM)"
+    },
+    "0xe7ab45162f5979f09b0bda1cc7dfc97c270ea3d5": {
+      "Token Name": "Dobermann (DOBE)"
+    },
+    "0x61f532EF937E809567d69531Ae533595402Bb4A8": {
+      "Token Name": "pumpgastoken (PUMP)"
+    },
+    "0xa960d2ba7000d58773e7fa5754dec3bb40a069d5": {
+      "Token Name": "One DEX (ODEX)"
+    },
+    "0xce1298ef635326d9f197963e49e1e67422761897": {
+      "Token Name": "PiSwap Token (PIS)"
+    },
+    "0xde52a16c6db7914e6953e27a7df4ce6a315f8b45": {
+      "Token Name": "OUCHI Token (OUCHI)"
+    },
+    "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa": {
+      "Token Name": "PolkastarterToken (POLS)"
+    },
+    "0x283669123bd83da2536bb534e20512101c18e5d8": {
+      "Token Name": "Bitpayer Token (BPT)"
+    },
+    "0x24ea9c1cfd77a8db3fb707f967309cf013cc1078": {
+      "Token Name": "CAVO (CAVO)"
+    },
+    "0x5a75a093747b72a0e14056352751edf03518031d": {
+      "Token Name": "EmiSwap - EmiDao Token (ESW)"
+    },
+    "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53": {
+      "Token Name": "TIME (TIME)"
+    },
+    "0xC36442b4a4522E871399CD717aBDD847Ab11FE88": {
+      "Token Name": "Uniswap V3: Positions NFT (UNI-V3-POS)"
+    },
+    "0x9fC689CCaDa600B6DF723D9E47D84d76664a1F23": {
+      "Token Name": "Curve.fi cDAI/cUSDC/USDT (cDAI+cUSDC+USDT)"
+    },
+    "0x56aa2f35ad4bf936a144d193b43fcc0f27b16f5b": {
+      "Token Name": "Token Sunnyswap (SUNNY)"
+    },
     "0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d": {
       "Token Name": "MICROMINES (MICRO)"
+    },
+    "0xb566e883555aebf5b1db211070b530ab00a4b18a": {
+      "Token Name": "DCTDAO (DCTD)"
+    },
+    "0xa3b93c2c4579654de50dd2ea227a5d6b98ed44c5": {
+      "Token Name": "BitTank Token (TANK)"
     }
   }
 }

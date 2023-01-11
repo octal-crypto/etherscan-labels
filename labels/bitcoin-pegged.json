@@ -17,12 +17,6 @@
     "0x8064d9Ae6cDf087b1bcd5BDf3531bD5d8C537a68": {
       "Token Name": "BoringDAO BTC (oBTC)"
     },
-    "0x51600B0CfF6Bbf79E7767158C41FD15e968Ec404": {
-      "Token Name": "ANY Bitcoin (anyBTC)"
-    },
-    "0x3212b29E33587A00FB1C83346f5dBFA69A458923": {
-      "Token Name": "The Tokenized Bitcoin (imBTC)"
-    },
     "0xe1406825186D63980fd6e2eC61888f7B91C4bAe4": {
       "Token Name": "Strudel BTC (VBTC)"
     },
@@ -37,6 +31,12 @@
     },
     "0x62199b909fb8b8cf870f97bef2ce6783493c4908": {
       "Token Name": "pTokens BTC (pBTC)"
+    },
+    "0x51600B0CfF6Bbf79E7767158C41FD15e968Ec404": {
+      "Token Name": "ANY Bitcoin (anyBTC)"
+    },
+    "0x3212b29E33587A00FB1C83346f5dBFA69A458923": {
+      "Token Name": "The Tokenized Bitcoin (imBTC)"
     }
   }
 }

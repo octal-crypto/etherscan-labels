@@ -26,23 +26,14 @@
     "0x1c7BBADc81E18F7177A95eb1593e5f5f35861B10": {
       "Token Name": "Auric Network (AUSCM)"
     },
-    "0x919d3a363776b1ceec9352610c82dfaf80edc32d": {
-      "Token Name": "GoldFund (GFUN)"
-    },
-    "0x528732d7ff76a31bd419f1d57d549d7643c02db2": {
-      "Token Name": "GoldDigitStandart (GLDS)"
-    },
-    "0x0557Df767419296474C3f551Bb0A0ED4c2DD3380": {
-      "Token Name": "Universal Gold (UPXAU)"
-    },
-    "0xdD553C35E1dD65EC04abe9B4107C2630B6f10563": {
-      "Token Name": "MetalStream Gold (MSGLD)"
+    "0x8d308d8a6d9613d6644e00e128fe968ccac041f6": {
+      "Token Name": "Orocrypt (OROC)"
     },
     "0x1545e4bcfbd574fd2974b173dad7cd4c5b4c7a58": {
       "Token Name": "Dua Empat Karat (DEK)"
     },
-    "0xeAb43193CF0623073Ca89DB9B712796356FA7414": {
-      "Token Name": "GOLDX (GOLDX)"
+    "0x696acc2de564b48682d71d0847b3632f87c9a402": {
+      "Token Name": "AurusGOLD (AWG)"
     },
     "0xaa2636dd8535ef02926d818670c44a07d707014e": {
       "Token Name": "PonteGold (GOLDP)"
@@ -56,14 +47,17 @@
     "0x130914E1B240a7F4c5D460B7d3a2Fd3846b576fa": {
       "Token Name": "Aureus Nummus Gold (ANG)"
     },
+    "0x919d3a363776b1ceec9352610c82dfaf80edc32d": {
+      "Token Name": "GoldFund (GFUN)"
+    },
     "0xF3DA4C6cB0E9e800428B9cA0F8342ac3B9eEAb21": {
       "Token Name": "GNEISS Gold Coin (GAU)"
     },
     "0x0d16450d347c12c086d6c94c76c5aaac35ea07e0": {
       "Token Name": "Gold Storage (GOLD)"
     },
-    "0xc23f4bd4667b32040ab34e8f797b7490c20b9547": {
-      "Token Name": "Bavala Gold Token (BGT)"
+    "0xeAb43193CF0623073Ca89DB9B712796356FA7414": {
+      "Token Name": "GOLDX (GOLDX)"
     },
     "0x6d57b2e05f26c26b549231c866bdd39779e4a488": {
       "Token Name": "VNX Gold (VNXAU)"
@@ -71,53 +65,59 @@
     "0x6885be47eaaacfb80e6858b8ff00ebe2389b5d56": {
       "Token Name": "Digold Token (DGT)"
     },
-    "0xf1dd65acebf57d31eabc61ec9f2d2829e7d986d0": {
-      "Token Name": "Canamex Gold (CXGLD)"
-    },
     "0x4ad7a056191f4c9519facd6d75fa94ca26003ace": {
       "Token Name": "GoldPesa Option (GPO)"
     },
     "0xa72e909fa123b3d0ed1f8b4607440ff1f2c87030": {
       "Token Name": "DinarCoin (DNC)"
     },
-    "0xd668dAb892F1B702a6B9EE01342508B14d4E62C5": {
-      "Token Name": "AnthemGold (AGLD)"
-    },
-    "0x9b3e946e1a8ea0112b147af4e6e020752f2446bc": {
-      "Token Name": "Puregold Token (PGT)"
+    "0xc23f4bd4667b32040ab34e8f797b7490c20b9547": {
+      "Token Name": "Bavala Gold Token (BGT)"
     },
     "0x61561529350276B2D44227a078b248d52c67b1dC": {
       "Token Name": "ALTIN LIRA (XAL)"
     },
+    "0xf1dd65acebf57d31eabc61ec9f2d2829e7d986d0": {
+      "Token Name": "Canamex Gold (CXGLD)"
+    },
     "0x71F9bD46f802F901FB5494f656583F9DEa9da869": {
       "Token Name": "SpaceGold (SGOLD)"
-    },
-    "0x739d2fccf04889965b6f4eb7830f5b7270fab2c1": {
-      "Token Name": "Orocrypt Gold Token (OCG)"
-    },
-    "0xc949fc82a15964fb5b97e5cf8f9ffed139086821": {
-      "Token Name": "PGPAY (PGPAY)"
-    },
-    "0x355c665e101b9da58704a8fddb5feef210ef20c0": {
-      "Token Name": "dForce (GOLDx)"
-    },
-    "0x10086399dd8c1e3de736724af52587a2044c9fa2": {
-      "Token Name": "The Midas Touch Gold (TMTG)"
     },
     "0x1de6cB5b085ac84bd247b8176c781E913166Aa6b": {
       "Token Name": "BrillianceX (BRILX)"
     },
-    "0x696acc2de564b48682d71d0847b3632f87c9a402": {
-      "Token Name": "AurusGOLD (AWG)"
+    "0x9b3e946e1a8ea0112b147af4e6e020752f2446bc": {
+      "Token Name": "Puregold Token (PGT)"
+    },
+    "0x355c665e101b9da58704a8fddb5feef210ef20c0": {
+      "Token Name": "dForce (GOLDx)"
+    },
+    "0xd668dAb892F1B702a6B9EE01342508B14d4E62C5": {
+      "Token Name": "AnthemGold (AGLD)"
+    },
+    "0x739d2fccf04889965b6f4eb7830f5b7270fab2c1": {
+      "Token Name": "Orocrypt Gold Token (OCG)"
     },
     "0xbd434a09191d401da3283a5545bb3515d033b8c4": {
       "Token Name": "GIX Coin (GIX)"
     },
-    "0x8d308d8a6d9613d6644e00e128fe968ccac041f6": {
-      "Token Name": "Orocrypt (OROC)"
-    },
     "0x171f9cfc136f2b2aaa148fcc6b660a2029bab048": {
       "Token Name": "Gold Standard (AUS)"
+    },
+    "0x10086399dd8c1e3de736724af52587a2044c9fa2": {
+      "Token Name": "The Midas Touch Gold (TMTG)"
+    },
+    "0x528732d7ff76a31bd419f1d57d549d7643c02db2": {
+      "Token Name": "GoldDigitStandart (GLDS)"
+    },
+    "0xc949fc82a15964fb5b97e5cf8f9ffed139086821": {
+      "Token Name": "PGPAY (PGPAY)"
+    },
+    "0x0557Df767419296474C3f551Bb0A0ED4c2DD3380": {
+      "Token Name": "Universal Gold (UPXAU)"
+    },
+    "0xdD553C35E1dD65EC04abe9B4107C2630B6f10563": {
+      "Token Name": "MetalStream Gold (MSGLD)"
     }
   }
 }
