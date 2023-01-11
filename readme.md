@@ -2,7 +2,7 @@
 
 ## https://octal.art/etherscan-labels
 
-This project scrapes address labels from Etherscan, since Etherscan doesn't expose an API for them.
+This project scrapes address labels from Etherscan, since Etherscan doesn't expose a label API.
 
 The data can be downloaded for offline use, and is hosted for online queries:
 
