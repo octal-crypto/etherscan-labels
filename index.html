@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Etherscan Label API</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            body {
+                background-color: black;
+                color: white;
+                font-family: monospace;
+                text-align: center;
+                font-size: 15px;
+            }
+            a {
+                color: white;
+                text-decoration: underline;
+                word-break: break-all;
+            }
+            a:hover { font-weight: bold; }
+            h1 { font-size:25px }
+            .title {font-size: 19px }
+        </style>
+    </head>
+    <body>
+        <h1>Etherscan Label API</h1>
+        (Since Etherscan doesn't expose one)
+        <br><br><br><br>
+        <div class="title">List all labels:</div>
+        <a href="https://octal.art/etherscan-labels/labels.json">octal.art/etherscan-labels/labels.json</a>
+        <br><br><br>
+        <div class="title">Label -> addresses:</div>
+        <a href="https://octal.art/etherscan-labels/labels/aave.json">octal.art/etherscan-labels/labels/aave.json</a>
+        <br><br><br>
+        <div class="title">Address -> labels:</div>
+        <a href="https://octal.art/etherscan-labels/addresses/0xffc97d72e13e01096502cb8eb52dee56f74dad7b.json">octal.art/etherscan-labels/addresses/0xffc97d72e13e01096502cb8eb52dee56f74dad7b.json</a>
+        <br><br><br><br><br>
+        <div class="title">Label schema:</div>
+        {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        &nbsp;&nbsp;"Label": "",&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        &nbsp;&nbsp;"Description": "",&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        &nbsp;&nbsp;"Addresses": {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;"": {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Name Tag": "",&nbsp;&nbsp;&nbsp;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Subcategory": "",<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Token Name": ""&nbsp;&nbsp;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;},&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+            &nbsp;&nbsp;}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        }&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        <br><br><br>
+        <div class="title">Address schema:</div>
+        {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        &nbsp;&nbsp;"Address": "",&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        &nbsp;&nbsp;"Labels": {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;"": {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Name Tag": "",&nbsp;&nbsp;&nbsp;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Description": "",<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Subcategory": "",<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Token Name": ""&nbsp;&nbsp;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+            &nbsp;&nbsp;}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        }&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        <br><br><br>
+        <div class="title">Github:</div>
+        <a id="github" href="https://github.com/octal-crypto/etherscan-labels">github.com/octal-crypto/etherscan-labels</a>
+        <br><br><br><br>
+    </body>
+</html>
