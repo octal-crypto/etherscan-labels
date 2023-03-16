@@ -122,7 +122,7 @@ async function retry(func, retriable=(()=>true), delay=3000, mult=1.1, jitter=tr
         const ms = Math.round(delay * (jitter ? 2*Math.random() : 1));
         console.warn("Retrying in %dms: %O", ms, e);
         await new Promise(r => setTimeout(r, ms));
-        return retry(func, retriable, delay*mult, mult);
+        return retry(func, retriable, delay*mult, mult, jitter);
     }
 }
 
